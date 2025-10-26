@@ -1547,6 +1547,7 @@ JOY乔氏台球,https://live.iill.top/douyin/JOYqiaoshi
 如梦围棋,https://live.iill.top/douyin/HHH666wydzy
 睿睿围棋,https://live.iill.top/douyin/77067345920
 奕城围棋,https://live.iill.top/douyin/yyds.h
+剑邑象棋,https://live.iill.top/douyin/882503902
 中国围棋协会,https://live.iill.top/douyin/yshine2012
 疯子鬼象棋王,https://live.iill.top/douyin/dawa520666
 棋帝象棋,https://live.iill.top/douyin/28973681163
@@ -1562,6 +1563,7 @@ JOY乔氏台球,https://live.iill.top/douyin/JOYqiaoshi
 完美体育,https://live.iill.top/douyin/kaigepingpan
 星空体育,https://live.iill.top/douyin/93920831353
 乒乓球比赛,https://live.iill.top/douyin/aipingpang6635
+央视网体育,https://live.iill.top/douyin/275322094757
 铁锤体育,https://live.iill.top/douyin/66125728977
 虹球体育,https://live.iill.top/douyin/36009234685
 罗汉体育,https://live.iill.top/douyin/yinyuehui810901
@@ -1587,12 +1589,13 @@ JOY乔氏台球,https://live.iill.top/douyin/JOYqiaoshi
 红色警戒游戏2,https://live.iill.top/douyin/y000000713
 红色警戒游戏3,https://live.iill.top/douyin/1997229407
 红色警戒游戏4,https://live.iill.top/douyin/40298643941
+红色警戒游戏5,https://live.iill.top/douyin/71869125451
 奥特曼格斗游戏1,https://live.iill.top/douyin/27233768868
 奥特曼格斗游戏2,https://live.iill.top/douyin/73237298880
 奥特曼格斗游戏3,https://live.iill.top/douyin/82239410010
 奥特曼格斗游戏4,https://live.iill.top/douyin/HAO1431028883
 KPL王者荣耀职业联赛,https://live.iill.top/douyin/aiai333933
-王者荣耀,https://live.iill.top/douyin/582378.
+王者荣耀,https://live.iill.top/douyin/329929629664#https://live.iill.top/douyin/32459251817
 四川省电子竞技运动,https://live.iill.top/douyin/SichuanE.sports
 决胜巅峰全球电竞,https://live.iill.top/douyin/29461725004
 EWC电竞世界杯,https://live.iill.top/douyin/Esports_WorldCup
