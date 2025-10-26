@@ -985,7 +985,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 无心法师2,https://www.goodiptv.club/huya/30080233#http://cfss.cc/cdn/hy/30080233.flv
 花千骨,https://www.goodiptv.club/huya/26355839#http://cfss.cc/cdn/hy/26355839.flv
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#http://cfss.cc/cdn/hy/30080146.flv
-西游记,https://www.goodiptv.club/huya/26355861#http://cfss.cc/cdn/hy/26355861.flv
+西游记,http://cfss.cc/cdn/hy/26355861.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
 星汉灿烂,https://www.goodiptv.club/huya/11336591#http://cfss.cc/cdn/hy/11336591.flv
