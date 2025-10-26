@@ -1537,7 +1537,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 火影手游6,https://live.iill.top/douyin/384269361070
 火影手游7,https://live.iill.top/douyin/95245259671
 天使之翼,https://live.iill.top/douyin/833863563743
-王者荣耀官方,https://live.iill.top/douyin/82485729980
 王者荣耀1,https://live.iill.top/douyin/483293679187
 王者荣耀2,https://live.iill.top/douyin/24833187177
 王者荣耀3,https://live.iill.top/douyin/948468566211
