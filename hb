@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-10-26,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -727,6 +727,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 ❤️虎牙影院,#genre#
+亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#http://cfss.cc/cdn/hy/136154.flv
 甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#http://cfss.cc/cdn/hy/30080159.flv
 有点意思的直播间,https://www.goodiptv.club/huya/20985824#http://cfss.cc/cdn/hy/20985824.flv
 最篮球的直播间,https://www.goodiptv.club/huya/29982651#http://cfss.cc/cdn/hy/29982651.flv
@@ -823,6 +824,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#http://cfss.cc/cdn/hy
 薛教授的直播间,https://www.goodiptv.club/huya/11342385#http://cfss.cc/cdn/hy/11342385.flv
 飙车的老司机直播间,https://www.goodiptv.club/huya/11352894#http://cfss.cc/cdn/hy/11352894.flv
 大导演斯皮尔伯格经典,https://www.goodiptv.club/huya/21267475#http://cfss.cc/cdn/hy/21267475.flv
+白发,https://www.goodiptv.club/huya/20985837#http://cfss.cc/cdn/hy/20985837.flv
 大秦帝国,https://www.goodiptv.club/huya/11602077#http://cfss.cc/cdn/hy/11602077.flv#https://www.goodiptv.club/huya/20985829#http://cfss.cc/cdn/hy/20985829.flv
 大明宫词,https://www.goodiptv.club/huya/21059598#http://cfss.cc/cdn/hy/21059598.flv
 动作电影,https://www.goodiptv.club/huya/11602041#http://cfss.cc/cdn/hy/11602041.flv
@@ -866,7 +868,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 画皮,https://www.goodiptv.club/huya/20985826#http://cfss.cc/cdn/hy/20985826.flv
 西部影坛,https://www.goodiptv.club/huya/30311497#http://cfss.cc/cdn/hy/30311497.flv
 怪兽打架x异形世界,https://www.goodiptv.club/huya/21059577#http://cfss.cc/cdn/hy/21059577.flv
-會唱歌的小野貓的直播间,https://www.goodiptv.club/huya/11352871#http://cfss.cc/cdn/hy/11352871.flv
+会唱歌的小野猫的直播间,https://www.goodiptv.club/huya/11352871#http://cfss.cc/cdn/hy/11352871.flv
 大场面战争片,https://www.goodiptv.club/huya/21059574#http://cfss.cc/cdn/hy/21059574.flv
 枪战电影,https://www.goodiptv.club/huya/21059579#http://cfss.cc/cdn/hy/21059579.flv
 古装武侠电影,https://www.goodiptv.club/huya/26355770#http://cfss.cc/cdn/hy/26355770.flv
@@ -881,7 +883,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 港澳枪战动作片,https://www.goodiptv.club/huya/25646817#http://cfss.cc/cdn/hy/25646817.flv
 动作大片放映厅,https://www.goodiptv.club/huya/10871113#http://cfss.cc/cdn/hy/10871113.flv
 杀手系列电影,https://www.goodiptv.club/huya/23728689#http://cfss.cc/cdn/hy/23728689.flv
-高分公路电影,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
+高速公路电影,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 致命女人联盟,https://www.goodiptv.club/huya/30080157#http://cfss.cc/cdn/hy/30080157.flv
 年代剧,https://www.goodiptv.club/huya/20969095#http://cfss.cc/cdn/hy/20969095.flv
 邵氏金牌监制蔡澜作品集,https://www.goodiptv.club/huya/24314160#http://cfss.cc/cdn/hy/24314160.flv
@@ -895,7 +897,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 狗狗影视,https://www.goodiptv.club/huya/30585838#http://cfss.cc/cdn/hy/30585838.flv
 虎牙院线,https://www.goodiptv.club/huya/16020022#http://cfss.cc/cdn/hy/16020022.flv
 小虎牙影视厅,https://www.goodiptv.club/huya/30413280#http://cfss.cc/cdn/hy/30413280.flv
-校园版《黑暗荣耀》,https://www.goodiptv.club/huya/23352563#http://cfss.cc/cdn/hy/23352563.flv
+校园版《黑暗荣耀》，https://www.goodiptv.club/huya/23352563#http://cfss.cc/cdn/hy/23352563.flv
 锤子动画,https://www.goodiptv.club/huya/30649359#http://cfss.cc/cdn/hy/30649359.flv
 陈翔六点半,https://www.goodiptv.club/huya/11274154#http://cfss.cc/cdn/hy/11274154.flv
 卧底之神无间道经典不断,https://www.goodiptv.club/huya/30585957#http://cfss.cc/cdn/hy/30585957.flv
@@ -939,7 +941,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 有翡,https://www.goodiptv.club/huya/29982668#http://cfss.cc/cdn/hy/29982668.flv
 国产奇幻剧,https://www.goodiptv.club/huya/11601982#http://cfss.cc/cdn/hy/11601982.flv
 国产科幻,https://www.goodiptv.club/huya/20985801#http://cfss.cc/cdn/hy/20985801.flv
-国产 喜剧 搞笑 电影,ttps://live.iill.top/huya/30511625#http://cfss.cc/cdn/hy/30511625.flv
+国产喜剧搞笑电影，ttps://live.iill.top/huya/30511625#http://cfss.cc/cdn/hy/30511625.flv
+曾少年，ttps://live.iill.top/huya/20985815#http://cfss.cc/cdn/hy/20985815.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/hy/29982671.flv
 87版红楼梦,https://www.goodiptv.club/huya/30080221#http://cfss.cc/cdn/hy/30080221.flv
 大宋提刑官,https://www.goodiptv.club/huya/30080167#http://cfss.cc/cdn/hy/30080167.flv
