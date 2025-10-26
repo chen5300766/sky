@@ -941,8 +941,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 有翡,https://www.goodiptv.club/huya/29982668#http://cfss.cc/cdn/hy/29982668.flv
 国产奇幻剧,https://www.goodiptv.club/huya/11601982#http://cfss.cc/cdn/hy/11601982.flv
 国产科幻,https://www.goodiptv.club/huya/20985801#http://cfss.cc/cdn/hy/20985801.flv
-国产喜剧搞笑电影，ttps://live.iill.top/huya/30511625#http://cfss.cc/cdn/hy/30511625.flv
-曾少年，ttps://live.iill.top/huya/20985815#http://cfss.cc/cdn/hy/20985815.flv
+国产喜剧搞笑电影,https://www.goodiptv.club/huya/30511625#http://cfss.cc/cdn/hy/30511625.flv
+曾少年,https://www.goodiptv.club/huya/20985815#http://cfss.cc/cdn/hy/20985815.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/hy/29982671.flv
 87版红楼梦,https://www.goodiptv.club/huya/30080221#http://cfss.cc/cdn/hy/30080221.flv
 大宋提刑官,https://www.goodiptv.club/huya/30080167#http://cfss.cc/cdn/hy/30080167.flv
@@ -985,7 +985,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 无心法师2,https://www.goodiptv.club/huya/30080233#http://cfss.cc/cdn/hy/30080233.flv
 花千骨,https://www.goodiptv.club/huya/26355839#http://cfss.cc/cdn/hy/26355839.flv
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#http://cfss.cc/cdn/hy/30080146.flv
-西游记,http://cfss.cc/cdn/hy/26355861.flv
+西游记,https://www.goodiptv.club/huya/26355861#http://cfss.cc/cdn/hy/26355861.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
 星汉灿烂,https://www.goodiptv.club/huya/11336591#http://cfss.cc/cdn/hy/11336591.flv
