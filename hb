@@ -1512,7 +1512,7 @@ JJ斗地主,https://lunbo.freetv.top/yy/1355501191#https://lunbo.freetv.top/yy/1
 
 ❤️抖音影院,#genre#
 JJ斗地主,https://live.iill.top/douyin/685317364746
-武汉欢乐谷,https://live.iill.top/douyin/685317364746
+武汉欢乐谷,https://live.iill.top/douyin/808453283617
 彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
 星小目围棋,https://live.iill.top/douyin/68104051211
 草根围棋,https://live.iill.top/douyin/157223718969
