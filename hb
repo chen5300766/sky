@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-26,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-10-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -30,7 +30,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
-
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 
 📡港澳台,#genre#
@@ -1511,8 +1511,10 @@ JJ斗地主,https://lunbo.freetv.top/yy/1355501191#https://lunbo.freetv.top/yy/1
 
 
 ❤️抖音影院,#genre#
-JJ斗地主,https://live.iill.top/douyin/685317364746
+JJ斗地主1,https://live.iill.top/douyin/685317364746
+JJ斗地主2,https://live.iill.top/douyin/152064106062
 武汉欢乐谷,https://live.iill.top/douyin/808453283617
+电影频道央影传媒,https://live.iill.top/douyin/208823316033
 彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
 星小目围棋,https://live.iill.top/douyin/68104051211
 草根围棋,https://live.iill.top/douyin/157223718969
@@ -1523,6 +1525,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 象棋大师党斐,https://live.iill.top/douyin/839389806623
 不二象棋,https://live.iill.top/douyin/538578814625
 白雪~中国象棋,https://live.iill.top/douyin/980822437011
+象棋棋帝,https://live.iill.top/douyin/392675307646
+熙耀灿体育,https://live.iill.top/douyin/439563615760
 央视网体育,https://live.iill.top/douyin/275322094757
 七星体育,https://live.iill.top/douyin/732456558098
 康旭体育,https://live.iill.top/douyin/290734591289
@@ -1545,10 +1549,12 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 红警游戏3,https://live.iill.top/douyin/61393143746
 红警游戏4,https://live.iill.top/douyin/849217239257
 红警游戏5,https://live.iill.top/douyin/8606989180
+红警游戏6,https://live.iill.top/douyin/248783169107
 交通事故程律师讲解,https://live.iill.top/douyin/416321692380
 小萌逛北京,https://live.iill.top/douyin/85728340456zfzaS
 湖北交投楚天高速,https://live.iill.top/douyin/689634548087
 热干面乐队,https://live.iill.top/douyin/500864881720
+抖音热歌电台,https://live.iill.top/douyin/671962613675
 
 
 
