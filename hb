@@ -1476,6 +1476,7 @@ JJ斗地主,https://lunbo.freetv.top/yy/1355501191#https://lunbo.freetv.top/yy/1
 名侦探柯南,https://www.goodiptv.club/bilibili/1861787455#https://www.goodiptv.club/bilibili/1948970250#https://www.goodiptv.club/bilibili/1750972256#https://www.goodiptv.club/bilibili/1884965652#https://www.goodiptv.club/bilibili/1883941437
 虹猫蓝兔系列,https://www.goodiptv.club/bilibili/31913902
 数码宝贝,https://www.goodiptv.club/bilibili/32385235
+小芯剧场,https://www.goodiptv.club/bilibili/1776261061
 蜡笔小新,https://www.goodiptv.club/bilibili/1949980580#https://www.goodiptv.club/bilibili/27958117#https://www.goodiptv.club/bilibili/24337962#https://www.goodiptv.club/bilibili/1830099205
 少儿频道（日间）,https://www.goodiptv.club/bilibili/5572613
 搞笑一家人,https://www.goodiptv.club/bilibili/27505427
