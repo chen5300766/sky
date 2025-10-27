@@ -1,4 +1,4 @@
-🐼公告,#genre#
+ 🐼公告, #类型#
 温馨提醒,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
@@ -1529,6 +1529,7 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 象棋棋帝,https://live.iill.top/douyin/392675307646
 熙耀灿体育,https://live.iill.top/douyin/439563615760
 央视网体育,https://live.iill.top/douyin/275322094757
+雷速体育,https://live.iill.top/douyin/208330584029
 七星体育,https://live.iill.top/douyin/732456558098
 康旭体育,https://live.iill.top/douyin/290734591289
 云星体育,https://live.iill.top/douyin/464114369315
