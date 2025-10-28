@@ -1316,7 +1316,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 亮剑,https://yylunbo.ottiptv.cc/yy/1356043643
 特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#https://yylunbo.ottiptv.cc/yy/1508456184
 闯关东,http://cfss.cc/cdn/yy/1354689861.flv#https://yylunbo.ottiptv.cc/yy/1354689861
-父母爱情,1382768483#http://cfss.cc/cdn/yy/1382768483.flv#https://yylunbo.ottiptv.cc/yy/1382768483
+父母爱情,http://cfss.cc/cdn/yy/1382768483.flv#https://yylunbo.ottiptv.cc/yy/1382768483
 大染坊,http://cfss.cc/cdn/yy/1353215589.flv#https://yylunbo.ottiptv.cc/yy/1353215589
 珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#https://yylunbo.ottiptv.cc/yy/1354936234
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://yylunbo.ottiptv.cc/yy/1382735547
