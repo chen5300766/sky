@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-10-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -1527,6 +1527,7 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 不二象棋,https://live.iill.top/douyin/538578814625
 白雪~中国象棋,https://live.iill.top/douyin/980822437011
 象棋棋帝,https://live.iill.top/douyin/392675307646
+象棋比赛天天看,https://live.iill.top/douyin/718875101864
 熙耀灿体育,https://live.iill.top/douyin/439563615760
 央视网体育,https://live.iill.top/douyin/275322094757
 雷速体育,https://live.iill.top/douyin/208330584029
@@ -1534,7 +1535,6 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 康旭体育,https://live.iill.top/douyin/290734591289
 云星体育,https://live.iill.top/douyin/464114369315
 骏仁鸿体育,https://live.iill.top/douyin/661429023796
-天使之翼游戏,https://live.iill.top/douyin/378274379741
 火影手游1,https://live.iill.top/douyin/905562644497
 火影手游2,https://live.iill.top/douyin/485068417645
 火影手游3,https://live.iill.top/douyin/592592880111
@@ -1542,8 +1542,10 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 火影手游5,https://live.iill.top/douyin/366883864683
 火影手游6,https://live.iill.top/douyin/384269361070
 火影手游7,https://live.iill.top/douyin/95245259671
-天使之翼1,https://live.iill.top/douyin/833863563743
-天使之翼2,https://live.iill.top/douyin/378274379741
+火影手游8,https://live.iill.top/douyin/688408945456
+天使之翼游戏1,https://live.iill.top/douyin/833863563743
+天使之翼游戏2,https://live.iill.top/douyin/378274379741
+天使之翼游戏3,https://live.iill.top/douyin/592292493010
 三国杀1,https://live.iill.top/douyin/881693080479
 三国杀2,https://live.iill.top/douyin/707617620067
 三国杀3,https://live.iill.top/douyin/680396730113
