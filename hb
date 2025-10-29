@@ -55,15 +55,6 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 
 
 
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8#https://cdn3.132.us.kg/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8#https://cdn3.132.us.kg/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8#https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8#https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8#https://cdn3.132.us.kg/live/lhox/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8#https://cdn3.132.us.kg/live/lhxj/stream.m3u8
-
-
-
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
@@ -1568,13 +1559,12 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 红警游戏4,https://live.iill.top/douyin/849217239257
 红警游戏5,https://live.iill.top/douyin/8606989180
 红警游戏6,https://live.iill.top/douyin/248783169107
-FIFA实况足球,https://live.iill.top/douyin/815932477#https://live.iill.top/douyin/70467275764
-交通事故律师余逸飞讲解,https://live.iill.top/douyin/80282153370#https://live.iill.top/douyin/2214935309
 交通事故程律师讲解,https://live.iill.top/douyin/416321692380
 小萌逛北京,https://live.iill.top/douyin/237146238939
 湖北交投楚天高速,https://live.iill.top/douyin/689634548087
 热干面乐队,https://live.iill.top/douyin/500864881720
 抖音热歌电台,https://live.iill.top/douyin/671962613675
+抖音美好奇妙夜,https://live.iill.top/douyin/926375850872
 
 
 
