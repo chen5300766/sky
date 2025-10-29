@@ -1569,7 +1569,7 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 FIFA实况足球,https://live.iill.top/douyin/815932477#https://live.iill.top/douyin/70467275764
 交通事故律师余逸飞讲解,https://live.iill.top/douyin/80282153370#https://live.iill.top/douyin/2214935309
 交通事故程律师讲解,https://live.iill.top/douyin/416321692380
-小萌逛北京,https://live.iill.top/douyin/85728340456zfzaS
+小萌逛北京,https://live.iill.top/douyin/237146238939
 湖北交投楚天高速,https://live.iill.top/douyin/689634548087
 热干面乐队,https://live.iill.top/douyin/500864881720
 抖音热歌电台,https://live.iill.top/douyin/671962613675
