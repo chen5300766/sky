@@ -1552,11 +1552,12 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 天使之翼游戏1,https://live.iill.top/douyin/833863563743
 天使之翼游戏2,https://live.iill.top/douyin/378274379741
 天使之翼游戏3,https://live.iill.top/douyin/592292493010
-三国杀1,https://live.iill.top/douyin/881693080479
-三国杀2,https://live.iill.top/douyin/707617620067
-三国杀3,https://live.iill.top/douyin/680396730113
-三国杀4,https://live.iill.top/douyin/727310431858
-三国杀5,https://live.iill.top/douyin/417940568122
+三国杀游戏1,https://live.iill.top/douyin/881693080479
+三国杀游戏2,https://live.iill.top/douyin/707617620067
+三国杀游戏3,https://live.iill.top/douyin/680396730113
+三国杀游戏4,https://live.iill.top/douyin/727310431858
+三国杀游戏5,https://live.iill.top/douyin/417940568122
+三国杀游戏6,https://live.iill.top/douyin/309387620378
 王者荣耀1,https://live.iill.top/douyin/483293679187
 王者荣耀2,https://live.iill.top/douyin/24833187177
 王者荣耀3,https://live.iill.top/douyin/948468566211
