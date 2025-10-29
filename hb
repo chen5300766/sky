@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-10-29,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -1531,6 +1531,7 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 熙耀灿体育,https://live.iill.top/douyin/439563615760
 央视网体育,https://live.iill.top/douyin/275322094757
 雷速体育,https://live.iill.top/douyin/208330584029
+铁锤体育,https://live.iill.top/douyin/251293574258
 七星体育,https://live.iill.top/douyin/732456558098
 康旭体育,https://live.iill.top/douyin/290734591289
 云星体育,https://live.iill.top/douyin/464114369315
