@@ -1341,6 +1341,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 超炫科幻大片,http://cfss.cc/cdn/yy/1382736840.flv#https://yylunbo.ottiptv.cc/yy/1382736840
 科幻片1,https://yylunbo.ottiptv.cc/yy/1382745114
 科幻片2,https://yylunbo.ottiptv.cc/yy/1354930897
+九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#https://yylunbo.ottiptv.cc/yy/1354936116
 笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://yylunbo.ottiptv.cc/yy/1382851576
 我爱我家,http://cfss.cc/cdn/yy/1382851580.flv#https://yylunbo.ottiptv.cc/yy/1382851580
 血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#https://yylunbo.ottiptv.cc/yy/1354936136
@@ -1350,7 +1351,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://yylunbo.ottiptv.cc/yy/1382736917
 高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#https://yylunbo.ottiptv.cc/yy/1382851586
 举起手来,https://yylunbo.ottiptv.cc/yy/1382736877
-案发现场,https://yylunbo.ottiptv.cc/yy/22089862
+案发现场,https://yylunbo.ottiptv.cc/yy/22089862#http://cfss.cc/cdn/yy/22089862
 小欢喜,https://yylunbo.ottiptv.cc/yy/1382737888
 炊事班的故事第一部,https://yylunbo.ottiptv.cc/yy/1382749901
 炊事班的故事第二部,https://yylunbo.ottiptv.cc/yy/1382736885
@@ -1422,7 +1423,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 白鹿原,http://cfss.cc/cdn/yy/1354931488.flv#https://yylunbo.ottiptv.cc/yy/1354931488
 江湖情缘,http://cfss.cc/cdn/yy/1354936238.flv#https://yylunbo.ottiptv.cc/yy/1354936238
 霹雳火,http://cfss.cc/cdn/yy/1382736895.flv#https://yylunbo.ottiptv.cc/yy/1382736895
-妈祖,http://cfss.cc/cdn/yy/22089862.flv#https://yylunbo.ottiptv.cc/yy/22089862
 仙剑奇侠传,https://yylunbo.ottiptv.cc/yy/1382749903
 蜀山传：剑仙传奇,https://yylunbo.ottiptv.cc/yy/1382736825
 隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://yylunbo.ottiptv.cc/yy/1355102749
