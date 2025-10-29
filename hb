@@ -11,7 +11,12 @@
 📡4K测试,#genre#
 苏州-4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
+深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
+深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
+北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
+湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
+江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
 
 
 
