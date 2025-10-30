@@ -1538,6 +1538,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 康旭体育,https://live.iill.top/douyin/290734591289
 云星体育,https://live.iill.top/douyin/464114369315
 骏仁鸿体育,https://live.iill.top/douyin/661429023796
+篮球直播,https://live.iill.top/douyin/227582120565
 火影手游1,https://live.iill.top/douyin/905562644497
 火影手游2,https://live.iill.top/douyin/485068417645
 火影手游3,https://live.iill.top/douyin/592592880111
