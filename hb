@@ -1516,6 +1516,7 @@ JJ斗地主2,https://live.iill.top/douyin/152064106062
 武汉欢乐谷,https://live.iill.top/douyin/808453283617
 电影频道央影传媒,https://live.iill.top/douyin/208823316033
 彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
+小U围棋,https://live.iill.top/douyin/700789210803
 星小目围棋,https://live.iill.top/douyin/68104051211
 草根围棋,https://live.iill.top/douyin/157223718969
 心若无尘围棋,https://live.iill.top/douyin/487386449289
