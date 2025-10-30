@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-29,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-10-30,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -214,6 +214,11 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 
 中央新影中学生,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=zxs
+
+
+中央新影发现之旅,http://e1.woc.iiiya.cn:28888/rtp/239.61.3.74:9962
+中央新影中学生,http://e1.woc.iiiya.cn:28888/rtp/239.61.3.73:9956
+
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
