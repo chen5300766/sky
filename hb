@@ -165,10 +165,6 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 
-CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
-
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-
 CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
 
 CCTV16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
@@ -409,19 +405,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
 
 
-
-五星体育,http://www.kaniptv.cn/aa/shkdf.php?id=1605
-
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 五星体育,https://cdn3.163189.xyz/163189/wxty
 
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-
-五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
-
-五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-
 
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
