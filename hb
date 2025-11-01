@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-10-30,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -169,6 +169,7 @@ CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
 
 CCTV16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
 
+CCTYV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -278,6 +279,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=dwqws
 
+大湾区卫视,http://121.37.185.74:18180/TV00000000000000000028@HHZT
 
 
 海峡卫视,http://115.190.105.236/fjtv.php?id=3
