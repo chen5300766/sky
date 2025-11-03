@@ -1520,6 +1520,7 @@ JJ斗地主,https://yylunbo.ottiptv.cc/yy/1355501191#https://yylunbo.ottiptv.cc/
 JJ斗地主1,https://live.iill.top/douyin/685317364746
 JJ斗地主2,https://live.iill.top/douyin/333514188765
 武汉欢乐谷,https://live.iill.top/douyin/808453283617
+中央数字电视,https://live.iill.top/douyin/482342971427
 电影频道央影传媒,https://live.iill.top/douyin/208823316033
 1905电影网,https://live.iill.top/douyin/642694139716
 彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
