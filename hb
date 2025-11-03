@@ -719,6 +719,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 小时候看过的动画片,https://www.goodiptv.club/huya/20985773#http://cfss.cc/cdn/hy/20985773.flv
 童年的回忆,https://www.goodiptv.club/huya/20969112#http://cfss.cc/cdn/hy/20969112.flv
 大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#http://cfss.cc/cdn/hy/20969114.flv
+钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#http://cfss.cc/cdn/hy/20985859.flv
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
 
 
@@ -955,6 +956,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 一代名相吕不韦,https://www.goodiptv.club/huya/11352953#http://cfss.cc/cdn/hy/11352953.flv
 三国演义,https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/hy/11602081.flv
 妈祖,https://www.goodiptv.club/huya/29982633#http://cfss.cc/cdn/hy/29982633.flv
+聊斋新编,https://www.goodiptv.club/huya/20969121#http://cfss.cc/cdn/hy/20969121.flv
 一起来看流星雨,https://www.goodiptv.club/huya/20985814#http://cfss.cc/cdn/hy/20985814.flv
 阳光的快乐生活,https://www.goodiptv.club/huya/11602085#http://cfss.cc/cdn/hy/11602085.flv
 与凤行,https://www.goodiptv.club/huya/26355866#http://cfss.cc/cdn/hy/26355866.flv
