@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -481,6 +481,14 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 
+经典电影,http://iptv.nanomi.cn:4000/udp/239.93.0.57:9024
+华语影院,http://iptv.nanomi.cn:4000/udp/239.93.0.138:5140
+星光院线,http://iptv.nanomi.cn:4000/udp/239.93.0.139:5140
+全球大片,http://iptv.nanomi.cn:4000/udp/239.93.0.105:5140
+谍战剧场,http://iptv.nanomi.cn:4000/udp/239.93.0.95:5140
+
+
+
 经典电影,http://home.yixi.pro:10043/udp/239.93.0.57:9024
 华语影院,http://home.yixi.pro:10043/udp/239.93.0.138:5140
 星光院线,http://home.yixi.pro:10043/udp/239.93.0.139:5140
@@ -549,6 +557,11 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 少儿动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.199:9000
 
+
+
+宝宝动画,http://iptv.nanomi.cn:4000/udp/239.93.0.147:5140
+少儿动画,http://iptv.nanomi.cn:4000/udp/239.93.0.193:9000
+青春动漫,http://iptv.nanomi.cn:4000/udp/239.93.0.146:5140
 
 
 
