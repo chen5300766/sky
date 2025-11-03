@@ -412,10 +412,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 
 
+24小时亚洲杯,http://106.53.99.30/tv/migu.php?id=24hyzb 
+CBA经典,http://106.53.99.30/tv/migu.php?id=cbajd 
+欧洲足球风云,http://106.53.99.30/tv/migu.php?id=ozzqfy 
+
+
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 
