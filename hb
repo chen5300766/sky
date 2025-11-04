@@ -1557,6 +1557,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 天使之翼游戏1,https://live.iill.top/douyin/833863563743
 天使之翼游戏2,https://live.iill.top/douyin/378274379741
 天使之翼游戏3,https://live.iill.top/douyin/592292493010
+天使之翼游戏4,https://live.iill.top/douyin/106269746347
 三国杀游戏1,https://live.iill.top/douyin/881693080479
 三国杀游戏2,https://live.iill.top/douyin/707617620067
 三国杀游戏3,https://live.iill.top/douyin/680396730113
