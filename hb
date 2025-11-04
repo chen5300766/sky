@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-4,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -1402,6 +1402,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 憨豆先生-经典喜剧,http://cfss.cc/cdn/yy/1354936239.flv#https://yylunbo.ottiptv.cc/yy/1354936239
 憨豆先生,https://yylunbo.ottiptv.cc/yy/1354930189
 陈翔六点半之拳王妈妈,https://yylunbo.ottiptv.cc/yy/1382851602
+学生兵,https://yylunbo.ottiptv.cc/yy/1354658003#http://cfss.cc/cdn/yy/1354658003.flv
+老酒馆,https://yylunbo.ottiptv.cc/yy/1382736872#http://cfss.cc/cdn/yy/1382736872.flv
 寻秦记-穿越剧,http://cfss.cc/cdn/yy/1382851591.flv#https://yylunbo.ottiptv.cc/yy/1382851591
 李连杰功夫片,http://cfss.cc/cdn/yy/74613175.flv#https://yylunbo.ottiptv.cc/yy/74613175
 国外动作大片,http://cfss.cc/cdn/yy/1382735540.flv#https://yylunbo.ottiptv.cc/yy/1382735540
