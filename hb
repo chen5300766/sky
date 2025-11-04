@@ -1304,6 +1304,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#https://yylunbo.ottiptv.cc/yy/1382781415
 康熙王朝,https://yylunbo.ottiptv.cc/yy/1382851583
 倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://yylunbo.ottiptv.cc/yy/1414846486  
+倚天屠龙记--苏有朋版,https://yylunbo.ottiptv.cc/yy/1507704566
 神雕侠侣--古天乐,https://yylunbo.ottiptv.cc/yy/1354926637
 西游记--张卫健,https://yylunbo.ottiptv.cc/yy/1354936155
 寻秦记,https://yylunbo.ottiptv.cc/yy/1382749900
