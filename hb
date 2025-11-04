@@ -1527,7 +1527,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 1905电影网,https://live.iill.top/douyin/642694139716
 彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
 小U围棋,https://live.iill.top/douyin/700789210803
-星小目围棋,https://live.iill.top/douyin/68104051211
+星小目围棋,https://live.iill.top/douyin/929059476330
 草根围棋,https://live.iill.top/douyin/157223718969
 心若无尘围棋,https://live.iill.top/douyin/487386449289
 王座围棋,https://live.iill.top/douyin/195425976790
