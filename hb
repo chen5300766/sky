@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-4,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -190,6 +190,10 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://jf.aisio.cn:8266/rtp/239.253.93.251:6429#http://jf.aisio.cn:8266/rtp/239.253.92.22:6073
 CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439
+
+
+CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
+CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.sjwyp.com:4022/rtp/239.254.200.94:6228
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -417,6 +421,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
+
+天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 
