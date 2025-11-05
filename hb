@@ -1299,7 +1299,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 
 ❤️歪歪影院,#genre#
 康熙微服私访记,http://cfss.cc/cdn/yy/1355635293.flv#https://live.188766.xyz/yy/1355635293
-康熙微服私访记\影视剧,http://cfss.cc/cdn/yy/1382702247.flv#https://live.188766.xyz/yy/1382702247
+康熙微服私访记\影视剧,https://yylunbo.ottiptv.cc/yy/1382702247#https://live.188766.xyz/yy/1382702247
 康熙微服私访记三,http://cfss.cc/cdn/yy/1356373644.flv#https://live.188766.xyz/yy/1356373644
 鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#https://live.188766.xyz/yy/1460463356
 鹿鼎记--陈小春,https://live.188766.xyz/yy/1382704650
