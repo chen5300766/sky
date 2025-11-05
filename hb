@@ -1310,6 +1310,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://yylunbo.ottiptv.cc/yy/1414846486  
 倚天屠龙记--苏有朋版,https://yylunbo.ottiptv.cc/yy/1507704566
 神雕侠侣--古天乐,https://yylunbo.ottiptv.cc/yy/1354926637
+83射雕英雄传,https://yylunbo.ottiptv.cc/yy/1354210357#https://live.188766.xyz/yy/1354210357
 西游记--张卫健,https://yylunbo.ottiptv.cc/yy/1354936155
 寻秦记,https://yylunbo.ottiptv.cc/yy/1382749900
 深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://yylunbo.ottiptv.cc/yy/1382736906
