@@ -71,6 +71,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -79,6 +80,8 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
