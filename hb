@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 
@@ -1419,6 +1419,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 儿童大冒险--丛林历险记,https://live.188766.xyz/yy/1382736897
 萌萌爱追剧,https://live.188766.xyz/yy/1382745093
 高分喜剧,https://live.188766.xyz/yy/1354936157
+经典电影重温,https://yylunbo.ottiptv.cc/yy/1382793140#https://live.188766.xyz/yy/1382793140
 动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.188766.xyz/yy/1382736809
 狄仁杰系列,http://cfss.cc/cdn/yy/1354932438.flv#https://live.188766.xyz/yy/1354932438
 经典武侠电影,https://live.188766.xyz/yy/1382749944
