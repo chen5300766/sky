@@ -282,6 +282,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 海峡卫视,http://115.190.105.236/fjtv.php?id=3
 
+海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -414,6 +415,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
 体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
+
+
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
