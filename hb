@@ -48,13 +48,6 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
 
-
-凤凰资讯,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhzx
-凤凰中文,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhzw
-凤凰香港,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhhk
-
-
-
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
