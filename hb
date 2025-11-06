@@ -174,6 +174,9 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 
+
+CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
+
 CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
 
 CCTV16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
@@ -416,6 +419,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://106.53.99.30/tv/hot.php?id=wxty
 劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
 
+
+五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
 
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 
