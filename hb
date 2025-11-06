@@ -49,6 +49,8 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
 
 
 📡港澳台,#genre#
