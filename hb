@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-7,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1801,6 +1801,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 超炫科幻大片,http://cfss.cc/cdn/yy/1382736840.flv#https://live.188766.xyz/yy/1382736840
 科幻片1,https://live.188766.xyz/yy/1382745114
 科幻片2,https://live.188766.xyz/yy/1354930897
+复仇者联盟全季,https://yylunbo.ottiptv.cc/yy/1354936167#https://live.188766.xyz/yy/1354936167
 九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#https://live.188766.xyz/yy/1354936116
 笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://live.188766.xyz/yy/1382851576
 我爱我家,http://cfss.cc/cdn/yy/1382851580.flv#https://live.188766.xyz/yy/1382851580
