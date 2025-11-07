@@ -1865,6 +1865,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 憨豆先生,https://live.188766.xyz/yy/1354930189
 陈翔六点半之拳王妈妈,https://live.188766.xyz/yy/1382851602
 学生兵,https://live.188766.xyz/yy/1354658003#http://cfss.cc/cdn/yy/1354658003.flv
+武林外传,https://yylunbo.ottiptv.cc/yy/21092633#https://live.188766.xyz/yy/21092633
+好先生,https://yylunbo.ottiptv.cc/yy/79382500#https://live.188766.xyz/yy/79382500
+法证先锋,https://yylunbo.ottiptv.cc/yy/1354930939#https://live.188766.xyz/yy/1354930939
 老酒馆,https://live.188766.xyz/yy/1382736872#http://cfss.cc/cdn/yy/1382736872.flv
 寻秦记-穿越剧,http://cfss.cc/cdn/yy/1382851591.flv#https://live.188766.xyz/yy/1382851591
 李连杰功夫片,http://cfss.cc/cdn/yy/74613175.flv#https://live.188766.xyz/yy/74613175
@@ -2074,6 +2077,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 林正英14,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
 林正英15,https://live.188766.xyz/yy/1462895099
 林正英16,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
+经典鬼片3000部,https://yylunbo.ottiptv.cc/yy/29460894#https://live.188766.xyz/yy/29460894
 恐怖电影 林正英 僵尸 鬼片 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635#http://zzy789.xyz/douyu1.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/hy/11601960.flv
 古墓系列,https://www.goodiptv.club/huya/11352913#http://cfss.cc/cdn/hy/11352913.flv
