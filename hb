@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-7,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1076,44 +1076,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 百事通10,http://111.48.34.138/000000001000PLTV/88888888/224/3221230069/1.m3u8
 
 
-
-📡咪视界,#genre#
-咪视界1,https://zby.130519.xyz/PLTV/11/224/3221225636/1.m3u8
-咪视界2,https://zby.130519.xyz/PLTV/11/224/3221225638/1.m3u8
-咪视界3,https://zby.130519.xyz/PLTV/11/224/3221225639/1.m3u8
-咪视界4,https://zby.130519.xyz/PLTV/11/224/3221225640/1.m3u8
-咪视界5,https://zby.130519.xyz/PLTV/11/224/3221225641/1.m3u8
-咪视界6,https://zby.130519.xyz/PLTV/11/224/3221225643/1.m3u8
-咪视界7,https://zby.130519.xyz/PLTV/11/224/3221225644/1.m3u8
-咪视界8,https://zby.130519.xyz/PLTV/11/224/3221225646/1.m3u8
-咪视界9,https://zby.130519.xyz/PLTV/11/224/3221225657/1.m3u8
-咪视界10,https://zby.130519.xyz/PLTV/11/224/3221225674/1.m3u8
-咪视界11,https://zby.130519.xyz/PLTV/11/224/3221225676/1.m3u8
-咪视界12,https://zby.130519.xyz/PLTV/11/224/3221225679/1.m3u8
-咪视界13,https://zby.130519.xyz/PLTV/11/224/3221225678/1.m3u8
-咪视界14,https://zby.130519.xyz/PLTV/11/224/3221225681/1.m3u8
-咪视界15,https://zby.130519.xyz/PLTV/11/224/3221225680/1.m3u8
-咪视界16,https://zby.130519.xyz/PLTV/11/224/3221225683/1.m3u8
-咪视界17,https://zby.130519.xyz/PLTV/11/224/3221225682/1.m3u8
-咪视界18,https://zby.130519.xyz/PLTV/11/224/3221225684/1.m3u8
-咪视界19,https://zby.130519.xyz/PLTV/11/224/3221225685/1.m3u8
-咪视界20,https://zby.130519.xyz/PLTV/11/224/3221225686/1.m3u8
-咪视界21,https://zby.130519.xyz/PLTV/11/224/3221225688/1.m3u8
-咪视界22,https://zby.130519.xyz/PLTV/11/224/3221225689/1.m3u8
-咪视界23,https://zby.130519.xyz/PLTV/11/224/3221225690/1.m3u8
-咪视界24,https://zby.130519.xyz/PLTV/11/224/3221225692/1.m3u8
-咪视界25,https://zby.130519.xyz/PLTV/11/224/3221225693/1.m3u8
-咪视界26,https://zby.130519.xyz/PLTV/11/224/3221225694/1.m3u8
-咪视界27,https://zby.130519.xyz/PLTV/11/224/3221225695/1.m3u8
-咪视界28,https://zby.130519.xyz/PLTV/11/224/3221225697/1.m3u8
-咪视界29,https://zby.130519.xyz/PLTV/11/224/3221225696/1.m3u8
-咪视界30,https://zby.130519.xyz/PLTV/11/224/3221225699/1.m3u8
-咪视界31,https://zby.130519.xyz/PLTV/11/224/3221226125/1.m3u8
-咪视界32,https://zby.130519.xyz/PLTV/11/224/3221226080/1.m3u8
-咪视界33,https://zby.130519.xyz/PLTV/11/224/3221225637/1.m3u8
-
-
-
 ❤️动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#http://cfss.cc/cdn/hy/11352974.flv
 火影疾风传1,https://live.188766.xyz/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
@@ -2051,6 +2013,11 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 云星体育,https://live.iill.top/douyin/464114369315
 骏仁鸿体育,https://live.iill.top/douyin/661429023796
 篮球直播,https://live.iill.top/douyin/227582120565
+JJ象棋1,https://live.iill.top/douyin/684219410470
+JJ象棋2,https://live.iill.top/douyin/726291845185
+JJ象棋3,https://live.iill.top/douyin/723244410816
+JJ象棋4,https://live.iill.top/douyin/904741590821
+JJ象棋5,https://live.iill.top/douyin/116886541659
 火影手游1,https://live.iill.top/douyin/905562644497
 火影手游2,https://live.iill.top/douyin/485068417645
 火影手游3,https://live.iill.top/douyin/592592880111
