@@ -2050,6 +2050,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 康旭体育,https://live.iill.top/douyin/290734591289
 云星体育,https://live.iill.top/douyin/464114369315
 骏仁鸿体育,https://live.iill.top/douyin/661429023796
+梦之体育,https://live.iill.top/douyin/193774533462
 篮球直播,https://live.iill.top/douyin/227582120565
 JJ象棋1,https://live.iill.top/douyin/684219410470
 JJ象棋2,https://live.iill.top/douyin/726291845185
@@ -2084,6 +2085,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 红警游戏4,https://live.iill.top/douyin/849217239257
 红警游戏5,https://live.iill.top/douyin/8606989180
 红警游戏6,https://live.iill.top/douyin/248783169107
+英雄联盟官方赛事,https://live.iill.top/douyin/913226472246
 逻辑与谎言狼人杀,https://live.iill.top/douyin/581239137637
 交通事故程律师讲解,https://live.iill.top/douyin/416321692380
 小萌逛北京,https://live.iill.top/douyin/237146238939
