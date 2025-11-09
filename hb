@@ -1187,6 +1187,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 童年的回忆,https://www.goodiptv.club/huya/20969112#http://cfss.cc/cdn/hy/20969112.flv
 大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#http://cfss.cc/cdn/hy/20969114.flv
 钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#http://cfss.cc/cdn/hy/20985859.flv
+无敌叶宁,https://www.goodiptv.club/huya/11352954#http://cfss.cc/cdn/hy/11352954.flv
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
 
 
@@ -1554,6 +1555,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 新白娘子传奇,https://www.goodiptv.club/huya/26355768#http://cfss.cc/cdn/hy/26355768.flv
 流星蝴蝶剑,https://www.goodiptv.club/huya/11342420#http://cfss.cc/cdn/hy/11342420.flv#https://www.goodiptv.club/huya/26355789#http://cfss.cc/cdn/hy/26355789.flv
 香蜜沉沉烬如霜,https://www.goodiptv.club/huya/30080182#http://cfss.cc/cdn/hy/30080182.flv
+红高粱,https://www.goodiptv.club/huya/20969131#http://cfss.cc/cdn/hy/20969131.flv
 乔家的儿女,https://www.goodiptv.club/huya/29982622#http://cfss.cc/cdn/hy/29982622.flv
 小鱼儿与花无缺,https://www.goodiptv.club/huya/29465867#http://cfss.cc/cdn/hy/29465867.flv
 超级交通站,https://www.goodiptv.club/huya/11342433#http://cfss.cc/cdn/hy/11342433.flv
