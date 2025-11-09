@@ -1189,7 +1189,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#http://cfss.cc/cdn/hy/20985859.flv
 无敌叶宁,https://www.goodiptv.club/huya/11352954#http://cfss.cc/cdn/hy/11352954.flv
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
-
+假面骑士,https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/hy/20985813.flv
 
 
 
