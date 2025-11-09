@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-9,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -36,7 +36,6 @@
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-ITV Deportes,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 档干教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
@@ -50,6 +49,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+探索,http://iptv.huuc.edu.cn/hls/discovery.m3u8
 
 
 
@@ -869,6 +869,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
 体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
+掼蛋精英赛,http://106.53.99.30/tv/hot.php?id=dds
+
+掼蛋精英赛,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=gdjy
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -895,11 +898,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 
 
-1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905a#http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
+凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
 新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
@@ -925,7 +930,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 新片放映厅,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=xpfy
 经典香港电影,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=xgdy
 抗战经典影片,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=kzjd
-掼蛋精英赛,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=gdjy
 红色轮播,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=hslb
 
 
