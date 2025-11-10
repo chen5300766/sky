@@ -1779,7 +1779,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 特种兵之利刃出鞘-1,http://cfss.cc/cdn/yy/1382773686.flv#https://live.188766.xyz/yy/1382773686
 特种兵之利刃出鞘-2,http://cfss.cc/cdn/yy/1454835388.flv#https://live.188766.xyz/yy/1454835388
 聊斋志异,http://cfss.cc/cdn/yy/1382736975.flv#https://live.188766.xyz/yy/1382736975
-悬疑武侠电影—九门,http://cfss.cc/cdn/yy/1382828768.flv#https://live.188766.xyz/yy/1382736832
+悬疑武侠电影—九门,http://cfss.cc/cdn/yy/1382828768.flv
+楼奴,https://live.188766.xyz/yy/1382736832
 欢天喜地七仙女,http://cfss.cc/cdn/yy/1382735553.flv#https://live.188766.xyz/yy/1382735553
 战胜心魔-当怪物来了,http://cfss.cc/cdn/yy/1382749910.flv#https://live.188766.xyz/yy/1382749910
 超燃警匪片,http://cfss.cc/cdn/yy/1382735576.flv#https://live.188766.xyz/yy/1382735576
