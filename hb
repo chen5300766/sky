@@ -1761,7 +1761,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 
 ❤️歪歪影院,#genre#
 康熙微服私访记,http://cfss.cc/cdn/yy/1355635293.flv#https://live.188766.xyz/yy/1355635293
-康熙微服私访记\影视剧,https://yylunbo.ottiptv.cc/yy/1382702247#https://live.188766.xyz/yy/1382702247
 康熙微服私访记三,http://cfss.cc/cdn/yy/1356373644.flv#https://live.188766.xyz/yy/1356373644
 鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#https://live.188766.xyz/yy/1460463356
 鹿鼎记--陈小春,https://live.188766.xyz/yy/1382704650
@@ -1834,8 +1833,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.188766.xyz/yy/1354931631
 新水浒传,https://live.188766.xyz/yy/1353873252
 新三国,https://live.188766.xyz/yy/1382851415#https://live.188766.xyz/yy/1461396681#https://live.188766.xyz/yy/1382851459
-三国演义94版,https://live.188766.xyz/yy/1354936241
-三国演义94版,https://live.188766.xyz/yy/1354930932
+94版三国演义,https://live.188766.xyz/yy/1354936241
+94版三国演义,https://live.188766.xyz/yy/1354930932
+98版水浒传,https://yylunbo.ottiptv.cc/yy/1382702247#https://live.188766.xyz/yy/1382702247
 新白娘子传奇,https://live.188766.xyz/yy/1508902755
 龙凤店传奇,https://live.188766.xyz/yy/1414853673
 大汉贤后卫子夫,https://live.188766.xyz/yy/1382735569
