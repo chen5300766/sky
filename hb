@@ -974,11 +974,11 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 
-经典电影,http://iptv.nanomi.cn:4000/udp/239.93.0.57:9024
-华语影院,http://iptv.nanomi.cn:4000/udp/239.93.0.138:5140
-星光院线,http://iptv.nanomi.cn:4000/udp/239.93.0.139:5140
-全球大片,http://iptv.nanomi.cn:4000/udp/239.93.0.105:5140
-谍战剧场,http://iptv.nanomi.cn:4000/udp/239.93.0.95:5140
+经典电影,http://yuzhe.ltd:5555/udp/239.93.0.57:9024
+华语影院,http://yuzhe.ltd:5555/udp/239.93.0.138:5140
+星光院线,http://yuzhe.ltd:5555/udp/239.93.0.139:5140
+全球大片,http://yuzhe.ltd:5555/udp/239.93.0.105:5140
+谍战剧场,http://yuzhe.ltd:5555/udp/239.93.0.95:5140
 
 
 
