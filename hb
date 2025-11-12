@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -152,6 +152,445 @@ RTHK-31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
 RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
 VIUTV粤,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 VIUTV英,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+
+
+
+📡台湾省,#genre#
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+无线新闻,https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
+TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+ViuTV,https://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
+ViuTV 6,https://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
+RTHK 31,https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
+RTHK 32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+HOY TV,https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+台视 HD,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+中视 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
+华视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+公视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立都会台,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+东森财经新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+东森戏剧台,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森洋片台,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+东森幼幼台,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
+TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+TVBS 新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+民视 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+八大综合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+八大戏剧台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
+纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+纬来精彩,https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+爱尔达综合台,https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+爱尔达影剧台,https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+爱尔达体育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+龙华偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+龙华经典,https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+靖天国际,https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
+靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+大愛電視,https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+大愛二台,https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+EYE 旅游台,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+EYE 戏剧台,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+TLC旅遊生活,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+博斯运动一台,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+博斯运动二台,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+博斯高球一台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+博斯高球二台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+博斯无限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+好莱坞电影,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+天映经典,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+Movies Now HD,https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
+Star Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+Natgeo_HD,https://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
+NatGeo_Wild HD,https://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
+Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
+Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+CI,https://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
+Asia Travel,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Discovery HD,https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
+亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+亚洲TLC,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+Fashion TV,https://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
+History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+Animal Planet (Eng),https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+ABC News,https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
+东森财经新闻,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+CBS HD,https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
+CBSN HD,https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
+France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+DW (Deutsch),https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
+CGTN,https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+CNN backup,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+BBC World News,https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
+Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+Baby TV Eng,https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
+CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+Momo TV,https://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
+Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+Baby TV,https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+MiaoMi,https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
+靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+东森幼幼,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+Astro Premier League 1,https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
+Astro EPL 1 backup,https://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
+Astro Premier League 2,https://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
+Astro Grandstand,https://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
+Astro Football,https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+Astro Sports Plus,https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+Astro Badminton 1,https://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
+Astro Badminton 2,https://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
+Astro W-Sports,https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
+Supersports 1,https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+Supersports 2,https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+Supersports 3,https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+Supersports 4,https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
+WWE,https://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
+Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+Astro Cricket,https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+Astro Golf,https://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
+Tnt Sports 1,https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+TNT Sports 2,https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+TNT Sports 3,https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+TNT Sports 4,https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
+Sony Ten 1,https://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
+Sony Ten 2,https://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
+Sony Ten 3,https://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
+SPOTV 1 HD,https://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
+SPO TV 2,https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+Skysports Cricket,https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+Skysports EPL,https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+Skysports Main Event,https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+Skysports News,https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+Skysports Mix,https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+Rugby Pass TV,https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
+RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+Astro Beinsports 1,https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+Astro Beinsports 2,https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+Astro Beinsports 3,https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+Channel 5,https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+Channel 8,https://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+Suria,https://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
+Channel U,https://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
+Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
+CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+CNA backup,https://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
+MeWatch Ch 5,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
+MeWatch Ch 8,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
+MeWatch Ch U,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
+MeWatch Suria,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
+MeWatch Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
+MeWatch CNA,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
+TV1,https://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
+TV1 backup,https://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
+TV2,https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
+TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
+TV3 SD,https://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
+NTV7,https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+TV8,https://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
+TV9,https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+Ria,https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
+Ria-3,https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
+Al-Hijrah,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
+Al-Hijrah backup,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
+Awani,https://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
+Bernama,https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+Prima,https://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
+Prima backup,https://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
+Prima backup 2,https://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
+Ceria,https://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
+Astro MTV,https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
+Mecca Live HD,https://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
+Madinah HD,https://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
+Oasis,https://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
+HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+Siar,https://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
+Citra,https://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
+Citra backup,https://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
+Sensasi,https://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
+Aura,https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+Rania,https://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
+KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+Boo,https://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
+Awesome TV,https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
+Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+Sony HD,https://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
+TvN,https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
+AEC,https://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+华丽台 HD （Wah Lai Toi）,https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+欢喜台 HD （Hua Hee Tai）,https://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+Astro QJ,https://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+TVB Jade,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+TVB Asia,https://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
+TVB Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
+TVB Classic,https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+AOD,https://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+TVB 星河台 Xing He,https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+爱奇艺 iQiyi,https://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
+Animal Planet (Eng),https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+CNN backup,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+Celestial Classic,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+Goshop,https://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
+Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+Astro LOL,https://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
+Astro Rusi,https://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
+WION,https://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
+RTM Asean,https://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
+TVRI National,https://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
+RCTI,https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+Kompass TV,https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+Berita Satu,https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+Indosiar HD,https://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
+AnTV,https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
+MNC TV,https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
+Trans 7,https://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
+Transtv,https://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
+JTV,https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+Metro TV,https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+SCTV,https://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
+Tvone,https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+TVMU,https://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
+GTV,https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
+RTV,https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+Jak TV,https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
+iNews TV,https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
+Daai TV,https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
+Net TV,https://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
+Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+EWTN,https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+AlQuran AlKareem,https://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
+Tawaf TV,https://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
+Vision Prime,https://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
+Muslim TV,https://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
+Music TV,https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
+Lifestyle&Fashion,https://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
+Entertain,https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+Sun TV HD,https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
+Star Vijay,https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+Colors Tamil,https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
+Sun Music,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+Astro Sunlife,https://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
+Astro Vaanavil,https://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
+Zee Tamil,https://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
+Zee Business,https://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
+News 18 Tamil,https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
+Adithya,https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
+Makkal TV,https://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
+Zee Action,https://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
+Astro KTV,https://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
+Zee TV HD,https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
+Zee Cinema HD,https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
+Color HD,https://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
+Starplus HD,https://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
+Picture HD,https://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
+Zee News,https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
+Asianet,https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+Asianet News,https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
+Discovery World Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
+History Tamil,https://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
+NatGeo Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
+Natgeo Wild Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
+Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+Discovery Kids Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+Discovery Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
+Sony Yay Tamil,https://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
+Sun TV India,https://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
+Starmaa HD,https://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
+Starmaa Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
+Bollyone,https://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
+Astro Sunmusic,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+Vijay Super,https://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
+Vellithirai,https://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
+Channel 3 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
+Channel 5 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
+Channel 7 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
+MCOT HD Thailand-1,https://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
+PPTV Thailand1,https://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
+Thai Thai,https://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
+Amarin,https://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
+Ch 8,https://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
+GmmOne,https://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
+Mono,https://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
+Thairath,https://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
+tpbs,https://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
+Workpoint,https://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
+Gmm Channel,https://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
+Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
+Tnn24,https://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
+Nbt,https://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
+New,https://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
+TPTV,https://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
+BBC 1,https://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
+BBC 2,https://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
+CBBC,https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+More4,https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+Freesports,https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
+Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+Pick TV,https://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
+itv 1,https://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
+itv 2,https://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
+Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+Channel 4,https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+DW (Deutsch),https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+
+
 
 
 📡央视电视台,#genre#
@@ -442,7 +881,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 
-
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -533,7 +971,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 星光院线,http://pve.cdbackup.cn:8888/udp/239.93.0.139:5140
 全球大片,http://pve.cdbackup.cn:8888/udp/239.93.0.105:5140
 谍战剧场,http://pve.cdbackup.cn:8888/udp/239.93.0.95:5140
-
 
 
 ❤️精彩影视生活锦集,#genre#
@@ -1078,8 +1515,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 古天乐系列,https://www.goodiptv.club/huya/29982675#http://cfss.cc/cdn/hy/29982675.flv
 葛优系列,https://www.goodiptv.club/huya/29982661#http://cfss.cc/cdn/hy/29982661.flv
 敢死队,https://www.goodiptv.club/huya/23864973#http://cfss.cc/cdn/hy/23864973.flv
-小鬼当家系列,https://www.goodiptv.club/huya/20985772#http://cfss.cc/cdn/hy/20985772.flv
-憨豆喜剧,https://www.goodiptv.club/huya/20969133#http://cfss.cc/cdn/hy/20969133.flv
 一起同过窗,https://www.goodiptv.club/huya/30080228#http://cfss.cc/cdn/hy/30080228.flv
 猎罪图鉴,https://www.goodiptv.club/huya/11601962#http://cfss.cc/cdn/hy/11601962.flv
 漫长的季节,https://www.goodiptv.club/huya/11342393#http://cfss.cc/cdn/hy/11342393.flv
