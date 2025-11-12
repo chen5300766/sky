@@ -877,6 +877,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
+天元围棋,http://iptv.666230.xyz/iptv/jsyd.php/G_TIANYUANWQ
+
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
@@ -971,6 +973,15 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 谍战剧场,http://pve.cdbackup.cn:8888/udp/239.93.0.95:5140
 
 
+
+经典电影,http://iptv.nanomi.cn:4000/udp/239.93.0.57:9024
+华语影院,http://iptv.nanomi.cn:4000/udp/239.93.0.138:5140
+星光院线,http://iptv.nanomi.cn:4000/udp/239.93.0.139:5140
+全球大片,http://iptv.nanomi.cn:4000/udp/239.93.0.105:5140
+谍战剧场,http://iptv.nanomi.cn:4000/udp/239.93.0.95:5140
+
+
+
 ❤️精彩影视生活锦集,#genre#
 家庭剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
@@ -1041,6 +1052,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 宝宝动画,http://pve.cdbackup.cn:8888/udp/239.93.0.147:5140
 少儿动画,http://pve.cdbackup.cn:8888/udp/239.93.0.193:9000
 青春动漫,http://pve.cdbackup.cn:8888/udp/239.93.0.146:5140
+
+
+
+宝宝动画,http://yuzhe.ltd:5555/udp/239.93.0.147:5140
+少儿动画,http://yuzhe.ltd:5555/udp/239.93.0.193:9000
+青春动漫,http://yuzhe.ltd:5555/udp/239.93.0.146:5140
 
 
 
