@@ -938,10 +938,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+
+4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
 淘剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.95:8001
 淘电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.250:8001
 淘娱乐,http://hpcigg.icancloud.top:31415/rtp/239.3.1.100:8001
 淘Baby,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
+星影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.94:4120
 城市剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.67:4120
 军旅剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.68:4120
 古装剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.69:4120
@@ -1083,6 +1086,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 新视觉,http://ygbh.site/php/bfgd.php?id=249
+
+中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 
 
 📡百视通,#genre#
