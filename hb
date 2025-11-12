@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1190,6 +1190,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 无敌叶宁,https://www.goodiptv.club/huya/11352954#http://cfss.cc/cdn/hy/11352954.flv
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
 假面骑士,https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/hy/20985813.flv
+反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/hy/20969113.flv
+游戏王,https://www.goodiptv.club/huya/20969126#http://cfss.cc/cdn/hy/20969126.flv
 
 
 
