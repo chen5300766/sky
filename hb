@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -173,10 +173,6 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 
-CCTV16,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV16-CQ
-CCTV16 4K,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV16-4K
-
-
 
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
@@ -205,11 +201,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://jf.aisio.cn:8266/rtp/239.253.93.251:6429#http://jf.aisio.cn:8266/rtp/239.253.92.22:6073
 CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439
-
-
-CCTV风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
-CCTV文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTVWENHUA-CQ
-
 
 
 CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
@@ -451,7 +442,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 
-天元围棋,http://iptv.666230.xyz/iptv/jsyd.php/G_TIANYUANWQ
 
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 
@@ -543,11 +533,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 星光院线,http://pve.cdbackup.cn:8888/udp/239.93.0.139:5140
 全球大片,http://pve.cdbackup.cn:8888/udp/239.93.0.105:5140
 谍战剧场,http://pve.cdbackup.cn:8888/udp/239.93.0.95:5140
-
-
-第一院线,http://iptv.666230.xyz/iptv/jsyd.php/GITVJS-2
-影视剧场,http://iptv.666230.xyz/iptv/jsyd.php/GITVJS-1
-高分电影,http://iptv.666230.xyz/iptv/jsyd.php/GITVJS-14
 
 
 
@@ -642,9 +627,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 家庭理财,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=jtlc
 中国天气,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgqx
-
-
-美食美味,http://iptv.666230.xyz/iptv/jsyd.php/GITVJS-17
 
 
 
