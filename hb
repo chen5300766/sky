@@ -1182,6 +1182,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 动画片,http://huanqiuzhibo.cn/manifest/douyu.php?id=12626455#http://zzy789.xyz/douyu1.php?id=12626455
 吞噬星空,https://www.goodiptv.club/huya/23902242#http://cfss.cc/cdn/hy/23902242.flv
 游戏王,https://www.goodiptv.club/huya/20985856#http://cfss.cc/cdn/hy/20985856.flv
+游戏王,https://www.goodiptv.club/huya/20969126#http://cfss.cc/cdn/hy/20969126.flv
 齐神,https://www.goodiptv.club/huya/20985831#http://cfss.cc/cdn/hy/20985831.flv
 小时候看过的动画片,https://www.goodiptv.club/huya/20985773#http://cfss.cc/cdn/hy/20985773.flv
 童年的回忆,https://www.goodiptv.club/huya/20969112#http://cfss.cc/cdn/hy/20969112.flv
@@ -1191,7 +1192,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
 假面骑士,https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/hy/20985813.flv
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/hy/20969113.flv
-游戏王,https://www.goodiptv.club/huya/20969126#http://cfss.cc/cdn/hy/20969126.flv
 
 
 
