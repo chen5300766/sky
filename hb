@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-13,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -612,6 +612,8 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 
+CCTV16,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16_4000
+CCTV16,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16-4K_8000
 
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
@@ -621,8 +623,8 @@ CCTV16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
 
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 
-CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
+CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
 
 
@@ -665,6 +667,11 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影中学生,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=zxs
 中央新影老故事,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=lgs
 中央新影发现之旅,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=fxzl
+
+
+中央新影老故事,http://iptv.666230.xyz/iptv/sxg.php/lgs_2000
+中央新影中学生,http://iptv.666230.xyz/iptv/sxg.php/zxs_4000
+中央新影发现之旅,http://iptv.666230.xyz/iptv/sxg.php/fxzl_2000
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -938,6 +945,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+峨嵋电影,http://iptv.666230.xyz/iptv/sxg.php/emdygqH265_4000
+峨眉电影4K,http://iptv.666230.xyz/iptv/sxg.php/emdy4k_8000
+
+
 
 4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
 淘剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.95:8001
@@ -1082,6 +1093,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 家庭理财,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=jtlc
 中国天气,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgqx
+
+
+中国天气,http://iptv.666230.xyz/iptv/sxg.php/zgqx_4000
+
 
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
