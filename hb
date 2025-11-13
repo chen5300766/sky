@@ -885,13 +885,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://iptv.666230.xyz/iptv/jsyd.php/G_TIANYUANWQ
+天元围棋,http://iptv.666230.xyz/iptv/sxg.php/tywq_2000
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
-
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
-
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
 
@@ -926,9 +925,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
+重温经典,http://iptv.666230.xyz/iptv/sxg.php/CWJD_4000
 
 重温经典,http://8.138.7.223/tv/cwjd.php
-
 
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
@@ -1090,17 +1089,17 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-
 家庭理财,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=jtlc
 中国天气,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgqx
 
 
 中国天气,http://iptv.666230.xyz/iptv/sxg.php/zgqx_4000
+新视觉,http://iptv.666230.xyz/iptv/sxg.php/ycxsjH265_4000
 
 
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-
 新视觉,http://ygbh.site/php/bfgd.php?id=249
+
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 
