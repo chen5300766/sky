@@ -613,7 +613,7 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 
 CCTV16,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16_4000
-CCTV16,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16-4K_8000
+CCTV16-4K,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16-4K_8000
 
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
@@ -669,8 +669,8 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影发现之旅,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=fxzl
 
 
-中央新影老故事,http://iptv.666230.xyz/iptv/sxg.php/lgs_2000
 中央新影中学生,http://iptv.666230.xyz/iptv/sxg.php/zxs_4000
+中央新影老故事,http://iptv.666230.xyz/iptv/sxg.php/lgs_2000
 中央新影发现之旅,http://iptv.666230.xyz/iptv/sxg.php/fxzl_2000
 
 
