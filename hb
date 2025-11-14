@@ -1389,7 +1389,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 港澳枪战动作片,https://www.goodiptv.club/huya/25646817#http://cfss.cc/cdn/hy/25646817.flv
 动作大片放映厅,https://www.goodiptv.club/huya/10871113#http://cfss.cc/cdn/hy/10871113.flv
 杀手系列电影,https://www.goodiptv.club/huya/23728689#http://cfss.cc/cdn/hy/23728689.flv
-高速公路电影,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
+高分公路电影,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 致命女人联盟,https://www.goodiptv.club/huya/30080157#http://cfss.cc/cdn/hy/30080157.flv
 年代剧,https://www.goodiptv.club/huya/20969095#http://cfss.cc/cdn/hy/20969095.flv
 邵氏金牌监制蔡澜作品集,https://www.goodiptv.club/huya/24314160#http://cfss.cc/cdn/hy/24314160.flv
