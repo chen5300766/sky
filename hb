@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-13,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-14,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -2075,7 +2075,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 火影手游4,https://live.iill.top/douyin/934108571935
 火影手游5,https://live.iill.top/douyin/366883864683
 火影手游6,https://live.iill.top/douyin/384269361070
-火影手游7,https://live.iill.top/douyin/95245259671
+火影手游7,https://live.iill.top/douyin/716154169507
 火影手游8,https://live.iill.top/douyin/688408945456
 天使之翼游戏1,https://live.iill.top/douyin/833863563743
 天使之翼游戏2,https://live.iill.top/douyin/378274379741
@@ -2088,15 +2088,15 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 三国杀游戏5,https://live.iill.top/douyin/417940568122
 三国杀游戏6,https://live.iill.top/douyin/309387620378
 王者荣耀1,https://live.iill.top/douyin/483293679187
-王者荣耀2,https://live.iill.top/douyin/24833187177
+王者荣耀2,https://live.iill.top/douyin/304453703668
 王者荣耀3,https://live.iill.top/douyin/948468566211
 王者荣耀4,https://live.iill.top/douyin/308624546643
 王者荣耀5,https://live.iill.top/douyin/938820475824
 红警游戏1,https://live.iill.top/douyin/650011006629
 红警游戏2,https://live.iill.top/douyin/205873667518
-红警游戏3,https://live.iill.top/douyin/61393143746
+红警游戏3,https://live.iill.top/douyin/642311142678
 红警游戏4,https://live.iill.top/douyin/849217239257
-红警游戏5,https://live.iill.top/douyin/8606989180
+红警游戏5,https://live.iill.top/douyin/665005990014
 红警游戏6,https://live.iill.top/douyin/248783169107
 英雄联盟,https://live.iill.top/douyin/858402080872
 英雄联盟官方赛事,https://live.iill.top/douyin/913226472246
