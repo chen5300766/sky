@@ -956,7 +956,7 @@ IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
 IPTV淘剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.95:8001
 IPTV淘电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.250:8001
 IPTV淘娱乐,http://hpcigg.icancloud.top:31415/rtp/239.3.1.100:8001
-IPTV淘Baby,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
+IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 IPTV4K超清,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
