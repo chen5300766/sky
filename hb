@@ -615,14 +615,10 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 CCTV16,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
 CCTV16,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
 
-CCTV16,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16_4000
-CCTV16-4K,http://iptv.666230.xyz/iptv/sxg.php/CCTV-16-4K_8000
-
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
 CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
 
-CCTV16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
 
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 
@@ -665,16 +661,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影中学生,http://106.53.99.30/tv/hot.php?id=zxs
 中央新影老故事,http://106.53.99.30/tv/hot.php?id=lgs
 中央新影发现之旅,http://106.53.99.30/tv/hot.php?id=fxzl
-
-
-中央新影中学生,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=zxs
-中央新影老故事,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=lgs
-中央新影发现之旅,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=fxzl
-
-
-中央新影中学生,http://iptv.666230.xyz/iptv/sxg.php/zxs_4000
-中央新影老故事,http://iptv.666230.xyz/iptv/sxg.php/lgs_2000
-中央新影发现之旅,http://iptv.666230.xyz/iptv/sxg.php/fxzl_2000
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -738,8 +724,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
-
-大湾区卫视,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=dwqws
 
 大湾区卫视,http://121.37.185.74:18180/TV00000000000000000028@HHZT
 
@@ -881,14 +865,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
 掼蛋精英赛,http://106.53.99.30/tv/hot.php?id=dds
 
-掼蛋精英赛,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=gdjy
-
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
-
-天元围棋,http://iptv.666230.xyz/iptv/jsyd.php/G_TIANYUANWQ
-天元围棋,http://iptv.666230.xyz/iptv/sxg.php/tywq_2000
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
@@ -928,28 +907,14 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
-重温经典,http://iptv.666230.xyz/iptv/sxg.php/CWJD_4000
-
 重温经典,http://8.138.7.223/tv/cwjd.php
 
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
-高清大片,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=gqdp
-新片放映厅,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=xpfy
-经典香港电影,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=xgdy
-抗战经典影片,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=kzjd
-红色轮播,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=hslb
-
-
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-
-
-峨嵋电影,http://iptv.666230.xyz/iptv/sxg.php/emdygqH265_4000
-峨眉电影4K,http://iptv.666230.xyz/iptv/sxg.php/emdy4k_8000
-
 
 
 IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
@@ -1114,9 +1079,6 @@ NewTV金牌综艺,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888
 经典动画大集合,http://106.53.99.30/tv/hot.php?id=dhdjh
 
 
-经典动画大集合,http://iptv.666230.xyz/公众号睡眼迷离的猫/migu.php?id=jddh
-
-
 动画1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
@@ -1168,20 +1130,11 @@ NewTV金牌综艺,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-家庭理财,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=jtlc
-中国天气,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgqx
-
-
-中国天气,http://iptv.666230.xyz/iptv/sxg.php/zgqx_4000
-新视觉,http://iptv.666230.xyz/iptv/sxg.php/ycxsjH265_4000
-
-
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
-
 
 中国交通,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
 
