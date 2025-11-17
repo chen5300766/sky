@@ -18,18 +18,15 @@
 江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
 
 
-北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
-北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
-湖南卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
-东方卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
-四川卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
-山东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
-广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
-广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
-江苏卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
-浙江卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
-深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?IAS
-深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+东方卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
+北京卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
+浙江卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
+广东卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
+湖南卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
+山东卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
+深圳卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
+江苏卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
+四川卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 
 
 
@@ -662,6 +659,9 @@ CCTV4美洲,http://111.48.34.138/000000001000PLTV/88888888/224/3221230585/1.m3u8
 CCTV4欧洲,http://111.48.34.138/000000001000PLTV/88888888/224/3221230530/1.m3u8
 CETV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229790/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230523/1.m3u8
 CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230389/1.m3u8
+
+CETV3,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
+
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-中学生,http://111.48.34.138/000000001000PLTV/88888888/224/3221230602/1.m3u8
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
