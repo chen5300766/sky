@@ -1156,6 +1156,10 @@ NewTV金牌综艺,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
+
+新视觉,http://58.144.249.3:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
+
+
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 
 
