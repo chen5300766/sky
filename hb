@@ -1,14 +1,10 @@
-http://124.232.162.25:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-
-
-
 🐼公告,#genre#
 温馨提醒,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -153,6 +149,23 @@ RTHK-31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
 RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
 VIUTV粤,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 VIUTV英,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+
+
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
 
 
 
@@ -1276,6 +1289,46 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 百视通8,http://111.48.34.138/000000001000PLTV/88888888/224/3221230056/1.m3u8
 百视通9,http://111.48.34.138/000000001000PLTV/88888888/224/3221230058/1.m3u8
 百事通10,http://111.48.34.138/000000001000PLTV/88888888/224/3221230069/1.m3u8
+
+
+
+📡咪咕视频,#genre#
+咪咕4K,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+咪咕全民热练,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226885/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
+咪咕视频,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226896/1.m3u8
+
 
 
 
