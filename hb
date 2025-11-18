@@ -960,7 +960,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 峨眉电影4K,http://58.144.249.3:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 
 
-峨眉电影,http://112.192.192.102:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://home.yixi.pro:10043/udp/239.93.1.54:5140
+峨眉电影,http://iptv.nanomi.cn:4000/udp/239.93.1.54:5140
+峨眉电影,http://pve.cdbackup.cn:8888/udp/239.93.1.54:5140
+峨眉电影,http://yuzhe.ltd:5555/udp/239.93.1.54:5140
 
 
 IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
