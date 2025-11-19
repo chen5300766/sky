@@ -18,17 +18,6 @@
 江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
 
 
-东方卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
-北京卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
-浙江卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-广东卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
-湖南卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
-山东卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
-深圳卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
-江苏卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
-四川卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
-
-
 
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -238,9 +227,6 @@ CCTV4美洲,http://111.48.34.138/000000001000PLTV/88888888/224/3221230585/1.m3u8
 CCTV4欧洲,http://111.48.34.138/000000001000PLTV/88888888/224/3221230530/1.m3u8
 CETV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229790/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230523/1.m3u8
 CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230389/1.m3u8
-
-CETV3,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
-
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-中学生,http://111.48.34.138/000000001000PLTV/88888888/224/3221230602/1.m3u8
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
@@ -634,93 +620,6 @@ NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88
 NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
 NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
-
-
-
-❤️GITV,#genre#
-KTV热歌,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-69/GITV-JS-69.m3u8
-与凤行,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-3/GITV-JS-3.m3u8
-中国功夫,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-60/GITV-JS-60.m3u8
-乡村爱情,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-24/GITV-JS-24.m3u8
-乡村爱情17,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-74/GITV-JS-74.m3u8
-书籍解读,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-20/GITV-JS-20.m3u8
-亮剑,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-70/GITV-JS-70.m3u8
-亲爱的小孩,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-47/GITV-JS-47.m3u8
-人世间,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-42/GITV-JS-42.m3u8
-优选直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-26/GITV-26.m3u8
-体坛同期声,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-35/GITV-JS-35.m3u8
-保利大剧院,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-NJ/G_MZB-NJ.m3u8
-健康生活,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-67/GITV-JS-67.m3u8
-儿童天地,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-31/GITV-JS-31.m3u8
-军事之旅,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-29/GITV-JS-29.m3u8
-军事评论,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-62/GITV-JS-62.m3u8
-军旅剧场,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-53/GITV-JS-53.m3u8
-农业致富,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-63/GITV-JS-63.m3u8
-冰雪竞技场,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-45/GITV-JS-45.m3u8
-动作大电影,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-52/GITV-JS-52.m3u8
-动漫星空,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-25/GITV-JS-25.m3u8
-动物世界,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-19/GITV-JS-19.m3u8
-北极阁慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-NT/G_MZB-NT.m3u8
-南来北往,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-39/GITV-JS-39.m3u8
-古装剧场,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-51/GITV-JS-51.m3u8
-哈尔滨一九四四,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-28/GITV-JS-28.m3u8
-哦我的鬼神大人,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-48/GITV-JS-48.m3u8
-地方戏曲,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-GG-3/GITV-GG-3.m3u8
-地方戏曲,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-71/GITV-JS-71.m3u8
-墨雨云间,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-75/GITV-JS-75.m3u8
-大江大河,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-43/GITV-JS-43.m3u8
-太阳的后裔,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-49/GITV-JS-49.m3u8
-完美的她,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-27/GITV-JS-27.m3u8
-家庭剧场,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-54/GITV-JS-54.m3u8
-小猪佩奇,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-12/GITV-JS-12.m3u8
-居家优选,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_JUJIAYX/G_JUJIAYX.m3u8
-居家健身,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-4/GITV-JS-4.m3u8
-山海情,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-44/GITV-JS-44.m3u8
-山花烂漫时,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-3/GITV-JS-3.m3u8
-幸福到万家,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-33/GITV-JS-33.m3u8
-广场舞,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-22/GITV-JS-22.m3u8
-影视剧场,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
-影视综金曲MV,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-15/GITV-JS-15.m3u8
-德凯奥特曼,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-9/GITV-JS-9.m3u8
-怀旧MTV,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-37/GITV-JS-37.m3u8
-惊悚悬疑,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-55/GITV-JS-55.m3u8
-戏曲音乐,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-23/GITV-JS-23.m3u8
-我的后半生,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-72/GITV-JS-72.m3u8
-抖音热歌,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-6/GITV-JS-6.m3u8
-新白娘子传奇,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-7/GITV-JS-7.m3u8
-新街口慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-ZJ/G_MZB-ZJ.m3u8
-无间,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/GITV-JS-76.m3u8
-来自星星的你,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-47/GITV-JS-47.m3u8
-楚乔传,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-26/GITV-JS-26.m3u8
-流行音乐,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-5/GITV-JS-5.m3u8
-潮妈辣婆,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-66/GITV-JS-66.m3u8
-热播精选,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-56/GITV-JS-56.m3u8
-热门综艺,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-16/GITV-JS-16.m3u8
-熊出没,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-10/GITV-JS-10.m3u8
-爱情喜剧,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-58/GITV-JS-58.m3u8
-牛首山慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-TZ/G_MZB-TZ.m3u8
-狂飙,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-41/GITV-JS-41.m3u8
-狗剩快跑,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-40/GITV-JS-40.m3u8
-玫瑰的故事,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-68/GITV-JS-68.m3u8
-科幻世界,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-30/GITV-JS-30.m3u8
-第一院线,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
-精品体育,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-65/GITV-JS-65.m3u8
-精品大剧,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-59/GITV-JS-59.m3u8
-精品纪录,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-64/GITV-JS-64.m3u8
-精品综合,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-57/GITV-JS-57.m3u8
-纪录片,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-32/GITV-JS-32.m3u8
-美食美味,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
-臻享推荐,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-36/GITV-JS-36.m3u8
-臻享推荐,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-HA/G_MZB-HA.m3u8
-请回答1988,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-50/GITV-JS-50.m3u8
-超级飞侠,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-11/GITV-JS-11.m3u8
-邪恶与疯狂,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-46/GITV-JS-46.m3u8
-金牌综艺,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-61/GITV-JS-61.m3u8
-长江大桥慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-38/GITV-JS-38.m3u8
-长江大桥慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-1/G_MZB-1.m3u8
-难哄,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-73/GITV-JS-73.m3u8
-音乐台慢直播,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_MZB-YZ/G_MZB-YZ.m3u8
-高分电影,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
 
 
 
