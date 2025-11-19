@@ -1441,6 +1441,7 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 游戏电影,https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/hy/20985870.flv
 假面骑士,https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/hy/20985813.flv
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/hy/20969113.flv
+葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#http://cfss.cc/cdn/hy/20985834.flv
 
 
 
