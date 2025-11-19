@@ -18,15 +18,15 @@
 江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
 
 
-东方卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
-北京卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
-浙江卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-广东卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
-湖南卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
-山东卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
-深圳卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
-江苏卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
-四川卫视-4K,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
+东方卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
+北京卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
+浙江卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
+广东卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
+湖南卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
+山东卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
+深圳卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
+江苏卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
+四川卫视-4K,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 
 
 
@@ -169,443 +169,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 
 
 
-📡台湾省,#genre#
-翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
-翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
-明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
-无线新闻,https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
-TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
-ViuTV,https://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
-ViuTV 6,https://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
-RTHK 31,https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
-RTHK 32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
-HOY TV,https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
-凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
-凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
-凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
-台视 HD,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
-台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
-台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
-中视 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
-中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
-中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
-华视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
-公视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
-公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
-三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
-三立都会台,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
-三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
-三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
-东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
-东森财经新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
-东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
-东森戏剧台,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
-东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
-东森洋片台,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
-东森幼幼台,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
-东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
-TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
-TVBS 新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
-TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
-民视 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
-民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
-民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
-中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
-中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
-中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
-中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
-寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
-寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
-八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
-八大综合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
-八大戏剧台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
-八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
-纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
-纬来精彩,https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
-纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
-纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
-纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
-纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
-爱尔达综合台,https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
-爱尔达影剧台,https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
-爱尔达体育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
-爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
-爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
-非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
-年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
-龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
-龙华偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
-龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
-龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
-龙华经典,https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
-靖天国际,https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
-靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
-大愛電視,https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
-大愛二台,https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
-EYE 旅游台,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
-EYE 戏剧台,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
-亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
-美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
-TLC旅遊生活,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
-亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
-Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
-卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
-龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
-美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
-華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
-博斯运动一台,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
-博斯运动二台,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
-博斯高球一台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
-博斯高球二台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
-博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
-博斯无限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
-好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
-AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
-HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
-HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
-CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
-好莱坞电影,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
-东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
-东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
-龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
-龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
-龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
-美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
-卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
-天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
-天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
-天映经典,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
-Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
-Movies Now HD,https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
-Star Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
-Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
-Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
-HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
-HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
-HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
-HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
-Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
-Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
-SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
-Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
-Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
-One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
-tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
-Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
-Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
-Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
-Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
-Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
-Natgeo_HD,https://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
-NatGeo_Wild HD,https://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
-Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
-Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
-CI,https://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
-Asia Travel,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
-Discovery HD,https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
-亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
-美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
-亚洲TLC,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
-NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
-Fashion TV,https://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
-History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
-BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
-BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
-MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
-NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
-Animal Planet (Eng),https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
-TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
-Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
-HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
-亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
-Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
-ABC News,https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
-东森财经新闻,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
-CBS HD,https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
-CBSN HD,https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
-France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
-DW (Deutsch),https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
-NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
-Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
-CGTN,https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
-CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
-CNN backup,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
-CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
-BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
-BBC World News,https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
-Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
-Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
-Baby TV Eng,https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
-CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
-Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
-Momo TV,https://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
-Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
-Baby TV,https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
-MiaoMi,https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
-靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
-东森幼幼,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
-Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
-Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
-Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
-Astro Premier League 1,https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
-Astro EPL 1 backup,https://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
-Astro Premier League 2,https://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
-Astro Grandstand,https://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
-Astro Football,https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
-Astro Sports Plus,https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
-Astro Badminton 1,https://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
-Astro Badminton 2,https://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
-Astro W-Sports,https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
-Supersports 1,https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
-Supersports 2,https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
-Supersports 3,https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
-Supersports 4,https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
-WWE,https://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
-Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
-NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
-Astro Cricket,https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
-Astro Golf,https://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
-Tnt Sports 1,https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
-TNT Sports 2,https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
-TNT Sports 3,https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
-TNT Sports 4,https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
-Sony Ten 1,https://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
-Sony Ten 2,https://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
-Sony Ten 3,https://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
-SPOTV 1 HD,https://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
-SPO TV 2,https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
-Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
-Skysports Cricket,https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
-Skysports EPL,https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
-Skysports Main Event,https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
-Skysports News,https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
-Skysports Mix,https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
-爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
-爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
-Rugby Pass TV,https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
-RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
-Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
-Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
-BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
-BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
-Astro Beinsports 1,https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
-Astro Beinsports 2,https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
-Astro Beinsports 3,https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
-Channel 5,https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
-Channel 8,https://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
-Suria,https://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
-Channel U,https://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
-Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
-CNA backup,https://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
-MeWatch Ch 5,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
-MeWatch Ch 8,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
-MeWatch Ch U,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
-MeWatch Suria,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
-MeWatch Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
-MeWatch CNA,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
-TV1,https://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
-TV1 backup,https://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
-TV2,https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
-TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
-TV3 SD,https://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
-NTV7,https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
-TV8,https://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
-TV9,https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
-Ria,https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
-Ria-3,https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
-Al-Hijrah,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
-Al-Hijrah backup,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
-Awani,https://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
-Bernama,https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
-Prima,https://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
-Prima backup,https://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
-Prima backup 2,https://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
-Ceria,https://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
-Astro MTV,https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
-Mecca Live HD,https://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
-Madinah HD,https://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
-Oasis,https://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
-HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
-HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
-HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
-NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
-Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
-Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
-Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
-Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
-Siar,https://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
-Citra,https://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
-Citra backup,https://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
-Sensasi,https://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
-Aura,https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
-Rania,https://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
-KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
-Boo,https://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
-Awesome TV,https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
-Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
-Sony HD,https://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
-TvN,https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
-AEC,https://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
-华丽台 HD （Wah Lai Toi）,https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
-欢喜台 HD （Hua Hee Tai）,https://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
-Astro QJ,https://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
-TVB Jade,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
-TVB Asia,https://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
-TVB Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
-TVB Classic,https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
-AOD,https://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
-One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
-TVB 星河台 Xing He,https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
-爱奇艺 iQiyi,https://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
-Animal Planet (Eng),https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
-tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
-CNN backup,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
-Celestial Classic,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
-CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
-TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
-BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
-Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
-HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
-Goshop,https://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
-Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
-Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
-Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
-Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
-AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
-Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
-Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
-Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
-Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
-RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
-Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
-Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
-BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
-BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
-Astro LOL,https://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
-Astro Rusi,https://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
-WION,https://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
-RTM Asean,https://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
-TVRI National,https://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
-RCTI,https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
-Kompass TV,https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
-Berita Satu,https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
-Indosiar HD,https://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
-AnTV,https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
-MNC TV,https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
-Trans 7,https://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
-Transtv,https://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
-JTV,https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
-Metro TV,https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
-Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
-SCTV,https://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
-Tvone,https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
-TVMU,https://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
-GTV,https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
-RTV,https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
-Jak TV,https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
-iNews TV,https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
-Daai TV,https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
-Net TV,https://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
-Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
-EWTN,https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
-AlQuran AlKareem,https://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
-Tawaf TV,https://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
-Vision Prime,https://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
-Muslim TV,https://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
-Music TV,https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
-Lifestyle&Fashion,https://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
-Entertain,https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
-Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
-Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
-SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
-Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
-Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
-Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
-One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
-tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
-Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
-Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
-Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
-Sun TV HD,https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
-Star Vijay,https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
-Colors Tamil,https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
-Sun Music,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
-Astro Sunlife,https://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
-Astro Vaanavil,https://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
-Zee Tamil,https://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
-Zee Business,https://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
-News 18 Tamil,https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
-Adithya,https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
-Makkal TV,https://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
-Zee Action,https://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
-Astro KTV,https://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
-Zee TV HD,https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
-Zee Cinema HD,https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
-Color HD,https://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
-Starplus HD,https://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
-Picture HD,https://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
-Zee News,https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
-Asianet,https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
-Asianet News,https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
-Discovery World Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
-History Tamil,https://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
-NatGeo Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
-Natgeo Wild Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
-Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
-Discovery Kids Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
-Discovery Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
-Sony Yay Tamil,https://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
-Sun TV India,https://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
-Starmaa HD,https://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
-Starmaa Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
-Bollyone,https://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
-Astro Sunmusic,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
-Vijay Super,https://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
-Vellithirai,https://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
-Channel 3 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
-Channel 5 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
-Channel 7 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
-MCOT HD Thailand-1,https://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
-PPTV Thailand1,https://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
-Thai Thai,https://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
-Amarin,https://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
-Ch 8,https://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
-GmmOne,https://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
-Mono,https://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
-Thairath,https://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
-tpbs,https://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
-Workpoint,https://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
-Gmm Channel,https://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
-Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
-Tnn24,https://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
-Nbt,https://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
-New,https://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
-TPTV,https://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
-BBC 1,https://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
-BBC 2,https://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
-CBBC,https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
-More4,https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
-Freesports,https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
-Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
-Pick TV,https://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
-itv 1,https://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
-itv 2,https://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
-Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
-Channel 4,https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
-NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
-CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
-History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
-Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
-France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
-DW (Deutsch),https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
-BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
-BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
-
-
-
 📡央视电视台,#genre#
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229660/1.m3u8
 CCTV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221229893/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230359/1.m3u8
@@ -625,8 +188,8 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 
-CCTV16,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
-CCTV16,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
+CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
+CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
 
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
@@ -676,7 +239,7 @@ CCTV4欧洲,http://111.48.34.138/000000001000PLTV/88888888/224/3221230530/1.m3u8
 CETV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229790/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230523/1.m3u8
 CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230389/1.m3u8
 
-CETV3,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
+CETV3,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
 
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-中学生,http://111.48.34.138/000000001000PLTV/88888888/224/3221230602/1.m3u8
@@ -690,7 +253,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 
-中央新影-发现之旅,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
+中央新影-发现之旅,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
 
 
 
@@ -900,7 +463,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
-天元围棋,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
+天元围棋,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 
@@ -945,7 +508,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 重温经典,http://8.138.7.223/tv/cwjd.php
 
-重温经典,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+重温经典,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 
 
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -956,8 +519,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-峨眉电影4K,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
-峨眉电影,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
+峨眉电影4K,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
+峨眉电影,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
 
 
 IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
@@ -967,13 +530,13 @@ IPTV淘娱乐,http://hpcigg.icancloud.top:31415/rtp/239.3.1.100:8001
 IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
-IPTV4K超清,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-IPTV淘BABY,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-IPTV淘剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-IPTV淘娱乐,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-IPTV淘电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-IPTV萌宠TV,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-黑莓电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+IPTV4K超清,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+IPTV淘BABY,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+IPTV淘剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+IPTV淘娱乐,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+IPTV淘电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+IPTV萌宠TV,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+黑莓电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
 
 
 星影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.94:4120
@@ -1018,138 +581,138 @@ IPTV萌宠TV,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/2
 
 
 📡NewTV,#genre#
-NewTV中国功夫,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
-NewTV中国功夫,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
-NewTV军事评论,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-NewTV军事评论,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
-NewTV军旅剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-NewTV军旅剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8
-NewTV农业致富,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-NewTV农业致富,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
-NewTV动作电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
-NewTV动作电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
-NewTV古装剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-NewTV古装剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
-NewTV家庭剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-NewTV家庭剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-NewTV怡伴健康,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
-NewTV怡伴健康,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
-NewTV惊悚悬疑,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8
-NewTV惊悚悬疑,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8
-NewTV明星大片,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
-NewTV明星大片,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8
-NewTV欢乐剧场,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-NewTV武搏世界,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
-NewTV武搏世界,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8
-NewTV潮妈辣婆,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
-NewTV潮妈辣婆,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
-NewTV炫舞未来,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8
-NewTV炫舞未来,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-NewTV爱情喜剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-NewTV爱情喜剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8
-NewTV精品体育,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-NewTV精品体育,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
-NewTV精品大剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-NewTV精品大剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8
-NewTV精品纪录,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
-NewTV精品纪录,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
-NewTV精品萌宠,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8
-NewTV超级体育,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-NewTV超级体育,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/1.m3u8
-NewTV超级体育,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
-NewTV超级电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-NewTV超级电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8
-NewTV超级电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
-NewTV超级电影,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
-NewTV超级电视剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
-NewTV超级电视剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-NewTV超级电视剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
-NewTV超级电视剧,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8
-NewTV超级综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-NewTV超级综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8
-NewTV超级综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
-NewTV超级综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
-NewTV金牌综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
-NewTV金牌综艺,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
+NewTV中国功夫,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+NewTV中国功夫,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
+NewTV军事评论,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+NewTV军事评论,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
+NewTV军旅剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+NewTV军旅剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8
+NewTV农业致富,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+NewTV农业致富,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
+NewTV动作电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+NewTV动作电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
+NewTV古装剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+NewTV古装剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
+NewTV家庭剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+NewTV家庭剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+NewTV怡伴健康,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+NewTV怡伴健康,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+NewTV惊悚悬疑,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8
+NewTV惊悚悬疑,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8
+NewTV明星大片,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
+NewTV明星大片,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8
+NewTV欢乐剧场,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+NewTV武搏世界,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+NewTV武搏世界,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8
+NewTV潮妈辣婆,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+NewTV潮妈辣婆,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
+NewTV炫舞未来,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8
+NewTV炫舞未来,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+NewTV爱情喜剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+NewTV爱情喜剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8
+NewTV精品体育,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+NewTV精品体育,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+NewTV精品大剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+NewTV精品大剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8
+NewTV精品纪录,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
+NewTV精品纪录,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
+NewTV精品萌宠,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8
+NewTV超级体育,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+NewTV超级体育,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/1.m3u8
+NewTV超级体育,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
+NewTV超级电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+NewTV超级电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8
+NewTV超级电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+NewTV超级电影,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
+NewTV超级电视剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+NewTV超级电视剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+NewTV超级电视剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+NewTV超级电视剧,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8
+NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8
+NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+NewTV超级综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
+NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
+NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
 
 
 
 ❤️GITV,#genre#
-GITV1,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
-GITV2,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
-GITV3,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-3/GITV-JS-3.m3u8
-GITV4,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-4/GITV-JS-4.m3u8
-GITV5,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-5/GITV-JS-5.m3u8
-GITV6,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-6/GITV-JS-6.m3u8
-GITV7,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-7/GITV-JS-7.m3u8
-GITV8,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-9/GITV-JS-9.m3u8
-GITV9,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-10/GITV-JS-10.m3u8
-GITV10,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-11/GITV-JS-11.m3u8
-GITV11,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-12/GITV-JS-12.m3u8
-GITV12,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-13/GITV-JS-13.m3u8
-GITV13,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
-GITV14,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-15/GITV-JS-15.m3u8
-GITV15,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-16/GITV-JS-16.m3u8
-GITV16,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
-GITV17,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-18/GITV-JS-18.m3u8
-GITV18,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-19/GITV-JS-19.m3u8
-GITV19,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-20/GITV-JS-20.m3u8
-GITV20,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-21/GITV-JS-21.m3u8
-GITV21,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-22/GITV-JS-22.m3u8
-GITV22,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-23/GITV-JS-23.m3u8
-GITV23,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-24/GITV-JS-24.m3u8
-GITV24,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-25/GITV-JS-25.m3u8
-GITV25,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-26/GITV-JS-26.m3u8
-GITV26,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-27/GITV-JS-27.m3u8
-GITV27,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-28/GITV-JS-28.m3u8
-GITV28,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-29/GITV-JS-29.m3u8
-GITV29,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-30/GITV-JS-30.m3u8
-GITV30,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-31/GITV-JS-31.m3u8
-GITV31,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-32/GITV-JS-32.m3u8
-GITV32,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-33/GITV-JS-33.m3u8
-GITV33,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-34/GITV-JS-34.m3u8
-GITV34,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-35/GITV-JS-35.m3u8
-GITV35,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-36/GITV-JS-36.m3u8
-GITV36,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-37/GITV-JS-37.m3u8
-GITV37,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-38/GITV-JS-38.m3u8
-GITV38,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-39/GITV-JS-39.m3u8
-GITV39,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-40/GITV-JS-40.m3u8
-GITV40,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-41/GITV-JS-41.m3u8
-GITV41,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-42/GITV-JS-42.m3u8
-GITV42,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-43/GITV-JS-43.m3u8
-GITV43,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-44/GITV-JS-44.m3u8
-GITV44,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-45/GITV-JS-45.m3u8
-GITV45,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-46/GITV-JS-46.m3u8
-GITV46,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-47/GITV-JS-47.m3u8
-GITV47,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-48/GITV-JS-48.m3u8
-GITV48,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-49/GITV-JS-49.m3u8
-GITV49,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-50/GITV-JS-50.m3u8
-GITV50,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-51/GITV-JS-51.m3u8
-GITV51,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-52/GITV-JS-52.m3u8
-GITV52,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-53/GITV-JS-53.m3u8
-GITV53,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-54/GITV-JS-54.m3u8
-GITV54,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-55/GITV-JS-55.m3u8
-GITV55,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-56/GITV-JS-56.m3u8
-GITV56,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-57/GITV-JS-57.m3u8
-GITV57,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-58/GITV-JS-58.m3u8
-GITV58,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-59/GITV-JS-59.m3u8
-GITV59,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-60/GITV-JS-60.m3u8
-GITV60,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-61/GITV-JS-61.m3u8
-GITV61,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-62/GITV-JS-62.m3u8
-GITV62,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-63/GITV-JS-63.m3u8
-GITV63,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-64/GITV-JS-64.m3u8
-GITV64,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-65/GITV-JS-65.m3u8
-GITV65,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-66/GITV-JS-66.m3u8
-GITV66,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-67/GITV-JS-67.m3u8
-GITV67,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-68/GITV-JS-68.m3u8
-GITV68,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-69/GITV-JS-69.m3u8
-GITV69,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-70/GITV-JS-70.m3u8
-GITV70,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-71/GITV-JS-71.m3u8
-GITV71,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-72/GITV-JS-72.m3u8
-GITV72,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-73/GITV-JS-73.m3u8
-GITV73,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-74/GITV-JS-74.m3u8
-GITV74,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-75/GITV-JS-75.m3u8
-GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/GITV-JS-76.m3u8
+GITV1,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
+GITV2,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
+GITV3,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-3/GITV-JS-3.m3u8
+GITV4,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-4/GITV-JS-4.m3u8
+GITV5,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-5/GITV-JS-5.m3u8
+GITV6,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-6/GITV-JS-6.m3u8
+GITV7,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-7/GITV-JS-7.m3u8
+GITV8,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-9/GITV-JS-9.m3u8
+GITV9,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-10/GITV-JS-10.m3u8
+GITV10,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-11/GITV-JS-11.m3u8
+GITV11,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-12/GITV-JS-12.m3u8
+GITV12,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-13/GITV-JS-13.m3u8
+GITV13,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
+GITV14,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-15/GITV-JS-15.m3u8
+GITV15,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-16/GITV-JS-16.m3u8
+GITV16,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
+GITV17,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-18/GITV-JS-18.m3u8
+GITV18,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-19/GITV-JS-19.m3u8
+GITV19,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-20/GITV-JS-20.m3u8
+GITV20,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-21/GITV-JS-21.m3u8
+GITV21,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-22/GITV-JS-22.m3u8
+GITV22,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-23/GITV-JS-23.m3u8
+GITV23,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-24/GITV-JS-24.m3u8
+GITV24,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-25/GITV-JS-25.m3u8
+GITV25,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-26/GITV-JS-26.m3u8
+GITV26,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-27/GITV-JS-27.m3u8
+GITV27,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-28/GITV-JS-28.m3u8
+GITV28,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-29/GITV-JS-29.m3u8
+GITV29,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-30/GITV-JS-30.m3u8
+GITV30,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-31/GITV-JS-31.m3u8
+GITV31,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-32/GITV-JS-32.m3u8
+GITV32,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-33/GITV-JS-33.m3u8
+GITV33,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-34/GITV-JS-34.m3u8
+GITV34,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-35/GITV-JS-35.m3u8
+GITV35,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-36/GITV-JS-36.m3u8
+GITV36,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-37/GITV-JS-37.m3u8
+GITV37,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-38/GITV-JS-38.m3u8
+GITV38,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-39/GITV-JS-39.m3u8
+GITV39,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-40/GITV-JS-40.m3u8
+GITV40,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-41/GITV-JS-41.m3u8
+GITV41,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-42/GITV-JS-42.m3u8
+GITV42,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-43/GITV-JS-43.m3u8
+GITV43,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-44/GITV-JS-44.m3u8
+GITV44,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-45/GITV-JS-45.m3u8
+GITV45,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-46/GITV-JS-46.m3u8
+GITV46,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-47/GITV-JS-47.m3u8
+GITV47,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-48/GITV-JS-48.m3u8
+GITV48,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-49/GITV-JS-49.m3u8
+GITV49,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-50/GITV-JS-50.m3u8
+GITV50,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-51/GITV-JS-51.m3u8
+GITV51,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-52/GITV-JS-52.m3u8
+GITV52,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-53/GITV-JS-53.m3u8
+GITV53,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-54/GITV-JS-54.m3u8
+GITV54,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-55/GITV-JS-55.m3u8
+GITV55,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-56/GITV-JS-56.m3u8
+GITV56,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-57/GITV-JS-57.m3u8
+GITV57,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-58/GITV-JS-58.m3u8
+GITV58,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-59/GITV-JS-59.m3u8
+GITV59,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-60/GITV-JS-60.m3u8
+GITV60,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-61/GITV-JS-61.m3u8
+GITV61,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-62/GITV-JS-62.m3u8
+GITV62,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-63/GITV-JS-63.m3u8
+GITV63,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-64/GITV-JS-64.m3u8
+GITV64,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-65/GITV-JS-65.m3u8
+GITV65,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-66/GITV-JS-66.m3u8
+GITV66,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-67/GITV-JS-67.m3u8
+GITV67,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-68/GITV-JS-68.m3u8
+GITV68,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-69/GITV-JS-69.m3u8
+GITV69,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-70/GITV-JS-70.m3u8
+GITV70,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-71/GITV-JS-71.m3u8
+GITV71,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-72/GITV-JS-72.m3u8
+GITV72,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-73/GITV-JS-73.m3u8
+GITV73,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-74/GITV-JS-74.m3u8
+GITV74,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-75/GITV-JS-75.m3u8
+GITV75,http://223.113.152.141:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/GITV-JS-76.m3u8
 
 
 
@@ -1192,10 +755,10 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-哒啵电竞,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
-哒啵赛事,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
-哒啵赛事,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8
-哒啵赛事,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+哒啵电竞,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
+哒啵赛事,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
+哒啵赛事,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8
+哒啵赛事,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
 
 
 经典动画大集合,http://106.53.99.30/tv/hot.php?id=dhdjh
@@ -1233,7 +796,7 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 青春动漫,http://yuzhe.ltd:5555/udp/239.93.0.146:5140
 
 
-黑莓动画,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+黑莓动画,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 
 
 
@@ -1253,7 +816,7 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 
 
 
-新视觉,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
+新视觉,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -1266,12 +829,12 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 
 
-中国交通,http://58.215.92.51:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
+中国交通,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
-中国天气,http://58.215.92.51:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
+中国天气,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 
 
 
@@ -1290,41 +853,41 @@ GITV75,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/
 
 
 📡咪咕视频,#genre#
-咪咕4K,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
-咪咕全民热练,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
-咪咕视频1,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
-咪咕视频2,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
-咪咕视频3,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
-咪咕视频4,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
-咪咕视频5,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
-咪咕视频6,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-咪咕视频7,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
-咪咕视频8,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
-咪咕视频9,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
-咪咕视频10,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
-咪咕视频11,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-咪咕视频12,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
-咪咕视频13,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-咪咕视频14,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
-咪咕视频15,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-咪咕视频16,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
-咪咕视频17,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-咪咕视频18,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
-咪咕视频19,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
-咪咕视频20,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
-咪咕视频21,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
-咪咕视频22,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
-咪咕视频23,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
-咪咕视频24,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
-咪咕视频25,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
-咪咕视频26,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
-咪咕视频27,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
-咪咕视频28,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
-咪咕视频29,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
-咪咕视频30,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
-咪咕视频31,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226885/1.m3u8
-咪咕视频32,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
-咪咕视频33,http://218.92.140.47:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226896/1.m3u8
+咪咕4K,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+咪咕全民热练,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
+咪咕视频1,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
+咪咕视频2,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+咪咕视频3,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+咪咕视频4,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+咪咕视频5,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+咪咕视频6,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+咪咕视频7,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+咪咕视频8,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
+咪咕视频9,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
+咪咕视频10,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
+咪咕视频11,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+咪咕视频12,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
+咪咕视频13,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+咪咕视频14,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
+咪咕视频15,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+咪咕视频16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
+咪咕视频17,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+咪咕视频18,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+咪咕视频19,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+咪咕视频20,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
+咪咕视频21,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+咪咕视频22,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+咪咕视频23,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+咪咕视频24,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
+咪咕视频25,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
+咪咕视频26,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+咪咕视频27,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
+咪咕视频28,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
+咪咕视频29,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
+咪咕视频30,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
+咪咕视频31,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226885/1.m3u8
+咪咕视频32,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
+咪咕视频33,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226896/1.m3u8
 
 
 
