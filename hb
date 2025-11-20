@@ -169,10 +169,9 @@ CCTV13,http://111.48.34.138/000000001000PLTV/88888888/224/3221230493/1.m3u8
 CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230446/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
-CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+CCTV16,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
-
 
 
 📡央视精选,#genre#
@@ -436,10 +435,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-
-
-峨眉电影4K,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
-峨眉电影,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
 
 
 IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
