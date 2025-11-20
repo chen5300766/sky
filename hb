@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-20,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -411,6 +411,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 房县新闻综合合,http://p2hs.vzan.com/844270/495391109072307857/live.m3u8
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+黄陂新闻,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 
 
 
