@@ -619,9 +619,6 @@ NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88
 哒啵赛事,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
 
 
-经典动画大集合,http://106.53.99.30/tv/hot.php?id=dhdjh
-
-
 动画1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
