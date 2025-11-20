@@ -172,7 +172,10 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
 CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
+
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+
+CCTV16,http://120.48.175.163:8888/ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -295,6 +298,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+
+海峡卫视,http://120.48.175.163:8888/ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/.m3u8
 
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
