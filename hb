@@ -172,9 +172,6 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
 CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
-
-CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
-
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
@@ -304,12 +301,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
 
 
-
-凤凰中文,http://106.53.99.30/tv/hot.php?id=fhzw
-凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
-凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
-
-
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
@@ -419,11 +410,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-
-五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 劲爆体育,http://101.73.66.9:2380/c3.cdn.hunancatv.com/live/jbty.m3u8
+劲爆体育,http://223.113.152.141:2380/c3.cdn.hunancatv.com/live/jbty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
@@ -453,7 +443,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
@@ -686,23 +675,16 @@ NewTV金牌综艺,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88
 
 
 新视觉,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
-
-
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-
-
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
-
-
 中国交通,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-
 中国天气,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 
 
