@@ -10,13 +10,6 @@
 📡4K测试,#genre#
 苏州-4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
-深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
-北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
-湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
-江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
-
 
 
 📡稳定源,#genre#
@@ -182,11 +175,7 @@ CCTV16,http://223.113.152.141:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/
 
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 
-CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
-
-
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
-
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -431,35 +420,18 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 
-五星体育,http://106.53.99.30/tv/hot.php?id=wxty
-劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
-
-
 五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
-
 五星体育,https://other.ottiptv.cc/wxty.m3u8
-
 五星体育,https://cdn3.163189.xyz/163189/wxty
-
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-
-
-赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
-体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
-掼蛋精英赛,http://106.53.99.30/tv/hot.php?id=dds
-
-
+劲爆体育,http://101.73.66.9:2380/c3.cdn.hunancatv.com/live/jbty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
+
 天元围棋,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
-
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
-
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
-
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
-
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
@@ -485,21 +457,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
-高清大片,http://106.53.99.30/tv/hot.php?id=gqdp
-军事迷必看大片,http://106.53.99.30/tv/hot.php?id=jsm
-红色轮播台,http://106.53.99.30/tv/hot.php?id=hslb
-金色剧场,http://106.53.99.30/tv/hot.php?id=jsjc
-重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
-
-
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
-重温经典,http://8.138.7.223/tv/cwjd.php
-
 重温经典,http://223.113.152.141:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-
-
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
