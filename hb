@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-20,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-21,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -171,6 +171,7 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 CCTV16,http://[2409:8087:1e02:20::1a]/000000001000/5000000008000023253/index.m3u8
 CCTV16,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
+CCTV16,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -406,7 +407,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
-
+天元围棋,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
@@ -414,7 +415,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
-
+劲爆体育,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8
 
 
 📡电视影院,#genre#
@@ -650,7 +651,7 @@ NewTV金牌综艺,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 
 
 新视觉,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
-
+新视觉,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
@@ -661,6 +662,7 @@ NewTV金牌综艺,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 
 
 中国天气,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
+中国天气,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
 
