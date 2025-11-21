@@ -499,6 +499,8 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 谍战剧场,http://yuzhe.ltd:5555/udp/239.93.0.95:5140
 
 
+黑莓电影,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+
 
 📡NewTV,#genre#
 NewTV中国功夫,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
