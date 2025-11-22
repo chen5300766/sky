@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-21,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -282,7 +282,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
 
 
-大湾区卫视,http://121.37.185.74:18180/TV00000000000000000028@HHZT
+大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
