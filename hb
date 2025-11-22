@@ -12,6 +12,30 @@
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 
+深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
+深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
+北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
+湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
+江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
+
+
+
+北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
+北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+湖南卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
+东方卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
+四川卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
+山东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
+广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
+广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
+江苏卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
+浙江卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
+深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?IAS
+深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+
+
+
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -216,8 +240,8 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
+中央新影-发现之旅,http://106.53.99.30/tv/hot.php?id=fxzl
 中央新影-发现之旅,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
-
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://jf.aisio.cn:8266/rtp/239.253.94.30:6629
 
@@ -283,6 +307,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
+大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
@@ -294,6 +319,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
+
+凤凰中文,http://106.53.99.30/tv/hot.php?id=fhzw
+凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
+凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 
 
 
@@ -405,6 +434,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
+赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
+体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
+
 
 天元围棋,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 天元围棋,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
@@ -416,6 +448,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
 劲爆体育,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8
+劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
 
 
 📡电视影院,#genre#
@@ -438,7 +471,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-
+重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
@@ -446,6 +479,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
+
+经典香港电影,http://106.53.99.30/tv/hot.php?id=xgdy
+军事迷必看大片,http://106.53.99.30/tv/hot.php?id=jsm
+新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
+红色轮播台,http://106.53.99.30/tv/hot.php?id=hslb
+高清大片,http://106.53.99.30/tv/hot.php?id=gqdp
 
 
 峨眉电影4K,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
