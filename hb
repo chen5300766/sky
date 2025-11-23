@@ -318,10 +318,16 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
 
 
+大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627
 大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
 大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
 
+
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+
+
+海峡卫视,https://live.chinacert.cftest5.cn/mg/?id=849119120
+农林卫视,https://live.chinacert.cftest5.cn/mg/?id=956904896
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
@@ -493,11 +499,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-经典香港电影,http://106.53.99.30/tv/hot.php?id=xgdy
-军事迷必看大片,http://106.53.99.30/tv/hot.php?id=jsm
-新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
-红色轮播台,http://106.53.99.30/tv/hot.php?id=hslb
-高清大片,http://106.53.99.30/tv/hot.php?id=gqdp
+经典香港电影,https://live.chinacert.cftest5.cn/mg/?id=625703337
+抗战经典影片,https://live.chinacert.cftest5.cn/mg/?id=617432318
+新片放映厅,https://live.chinacert.cftest5.cn/mg/?id=619495952
+高清大片,https://live.chinacert.cftest5.cn/mg/?id=629943678
 
 
 峨眉电影4K,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
@@ -655,6 +660,9 @@ NewTV金牌综艺,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 哒啵赛事,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
 哒啵赛事,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8
 哒啵赛事,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+
+
+经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
 
 
 动画1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
