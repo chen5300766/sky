@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-23,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -920,7 +920,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#http://cfss.cc/cdn/hy
 薛教授的直播间,https://www.goodiptv.club/huya/11342385#http://cfss.cc/cdn/hy/11342385.flv
 飙车的老司机直播间,https://www.goodiptv.club/huya/11352894#http://cfss.cc/cdn/hy/11352894.flv
 大导演斯皮尔伯格经典,https://www.goodiptv.club/huya/21267475#http://cfss.cc/cdn/hy/21267475.flv
-白发,https://www.goodiptv.club/huya/20985837#http://cfss.cc/cdn/hy/20985837.flv
+白发王妃,https://www.goodiptv.club/huya/20985837#http://cfss.cc/cdn/hy/20985837.flv
 大秦帝国,https://www.goodiptv.club/huya/11602077#http://cfss.cc/cdn/hy/11602077.flv#https://www.goodiptv.club/huya/20985829#http://cfss.cc/cdn/hy/20985829.flv
 大明宫词,https://www.goodiptv.club/huya/21059598#http://cfss.cc/cdn/hy/21059598.flv
 动作电影,https://www.goodiptv.club/huya/11602041#http://cfss.cc/cdn/hy/11602041.flv
@@ -1052,6 +1052,9 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
 一代名相吕不韦,https://www.goodiptv.club/huya/11352953#http://cfss.cc/cdn/hy/11352953.flv
 三国演义,https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/hy/11602081.flv
+黑暗之源,https://www.goodiptv.club/huya/10875560#http://cfss.cc/cdn/hy/10875560.flv
+梦回大唐,https://www.goodiptv.club/huya/20432237#http://cfss.cc/cdn/hy/20432237.flv
+舞乐传奇,https://www.goodiptv.club/huya/27564478#http://cfss.cc/cdn/hy/27564478.flv
 妈祖,https://www.goodiptv.club/huya/29982633#http://cfss.cc/cdn/hy/29982633.flv
 聊斋新编,https://www.goodiptv.club/huya/20969121#http://cfss.cc/cdn/hy/20969121.flv
 一起来看流星雨,https://www.goodiptv.club/huya/20985814#http://cfss.cc/cdn/hy/20985814.flv
