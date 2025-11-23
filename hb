@@ -14,6 +14,8 @@
 
 深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
 浙江卫视-4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+
 深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
 北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
