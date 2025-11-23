@@ -13,8 +13,23 @@
 
 
 深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
+
 浙江卫视-4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+山东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
+湖南卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
+江苏卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
+四川卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
+北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
+深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+北京卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+深圳卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+浙江卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
+广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
+广东卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
+东方卫视-4K,http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
+
 
 深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
 北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
