@@ -10,6 +10,8 @@
 📡4K测试,#genre#
 苏州-4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北-4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
 
