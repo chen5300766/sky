@@ -257,7 +257,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
-中央新影-发现之旅,http://106.53.99.30/tv/hot.php?id=fxzl
 中央新影-发现之旅,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://jf.aisio.cn:8266/rtp/239.253.94.30:6629
@@ -324,6 +323,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627
+海峡卫视,https://live.chinacert.cftest5.cn/mg/?id=849119120
+农林卫视,https://live.chinacert.cftest5.cn/mg/?id=956904896
+
+
 大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.0.9:5146
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
@@ -332,9 +335,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
 
-海峡卫视,https://live.chinacert.cftest5.cn/mg/?id=849119120
-农林卫视,https://live.chinacert.cftest5.cn/mg/?id=956904896
-
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
 
@@ -342,11 +342,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-
-
-凤凰中文,http://106.53.99.30/tv/hot.php?id=fhzw
-凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
-凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 
 
 
@@ -458,10 +453,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
-赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
-体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
-
-
 天元围棋,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 天元围棋,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
@@ -470,9 +461,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
+
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
 劲爆体育,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8
-劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
 
 
 📡电视影院,#genre#
@@ -495,7 +486,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://221.178.98.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
