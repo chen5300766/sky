@@ -245,6 +245,10 @@ CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&pl
 CCTV文化精品,http://221.7.49.226:50085/tsfile/live/0017_11.m3u8?key=txiptv&playlive=1&authid=0
 
 
+CCTV文化精品,http://113.195.6.105:85/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://113.195.6.105:85/tsfile/live/1171_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
@@ -627,7 +631,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-
+中国天气,http://113.195.6.105:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
