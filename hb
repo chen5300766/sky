@@ -522,6 +522,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 古装剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.69:4120
 热播剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.194:9020
 经典电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.195:9024
+爱上4K,http://hpcigg.icancloud.top:31415/rtp/239.3.1.236:2000
 
 
 
