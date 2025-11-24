@@ -325,7 +325,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627
 大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
-大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
+大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.0.9:5146
+大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
