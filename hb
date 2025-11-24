@@ -211,8 +211,6 @@ CCTV14,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http
 CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 CCTV16,http://[2409:8087:1e02:20::1a]/000000001000/5000000008000023253/index.m3u8
-CCTV16,http://221.178.98.29:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
-CCTV16,http://116.169.72.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -497,6 +495,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 峨眉电影4K,http://111.6.175.82:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 峨嵋电影,http://111.6.175.82:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
+
+
+峨眉电影,http://175.153.234.148:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
