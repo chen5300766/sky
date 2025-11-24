@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-23,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -13,13 +13,16 @@
 河北-4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 
-深圳卫视-4K,https://cdn3.163189.xyz/163189/szws4k
 
-深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
-北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
-湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
-江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
+深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
+广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
+广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
+湖南卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.56:5146
+江苏卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.57:5146
+浙江卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.58:5146
+东方卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.59:5146
+四川卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.60:5146
+山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
 
 
 
