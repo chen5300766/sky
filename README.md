@@ -27,7 +27,7 @@ YY轮播：https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top
 
 https://bbs.livecodes.vip
 
-电视源搜索引擎：
+直播源搜索引擎：
 
 https://tonkiang.us/
 
