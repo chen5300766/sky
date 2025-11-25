@@ -16,6 +16,10 @@
 
 直播源2：https://gcore.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 
+本人使用的直播源：https://gh-proxy.org/https:/raw.githubusercontent.com/chen5300766/sky/refs/heads/main/hb
+
+
+
 
 YY轮播：https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top 
 
