@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-25,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -452,6 +452,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://[2409:8087:1e02:20::1a]/000000001000/5000000010000017540/index.m3u8
+五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
