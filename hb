@@ -971,6 +971,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 红色影片,https://www.goodiptv.club/huya/11602076#http://cfss.cc/cdn/hy/11602076.flv
 军民联合抗日，承受战争苦难,https://www.goodiptv.club/huya/11352910#http://cfss.cc/cdn/hy/11352910.flv
 神探夏洛克,https://www.goodiptv.club/huya/26355792#http://cfss.cc/cdn/hy/26355792.flv
+案发现场,https://www.goodiptv.club/huya/20432231#http://cfss.cc/cdn/hy/20432231.flv
+十三宗命案,https://www.goodiptv.club/huya/21028268#http://cfss.cc/cdn/hy/21028268.flv
 还珠格格3,https://www.goodiptv.club/huya/30080241#http://cfss.cc/cdn/hy/30080241.flv
 麻雀,https://www.goodiptv.club/huya/30307160#http://cfss.cc/cdn/hy/30307160.flv
 爱情公寓,https://www.goodiptv.club/huya/11336726#http://cfss.cc/cdn/hy/11336726.flv
