@@ -33,6 +33,10 @@ https://tonkiang.us/
 
 http://live-search.cniptv.top/zbss/index.html
 
+IPTV神器Pro
+
+https://iptv.cqshushu.com/index.php
+
 全球优质 IPTV 直播源:
 
 https://iptv.hacks.tools/
