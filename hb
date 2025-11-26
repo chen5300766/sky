@@ -15,18 +15,6 @@
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 
-深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
-湖南卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.56:5146
-江苏卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.57:5146
-浙江卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.58:5146
-东方卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.59:5146
-四川卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.60:5146
-山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
-
-
-
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -166,35 +154,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 
 
 
-翡翠台,https://live.catvod.com/iptv.php?id=mvdh8twi
-明珠台,https://live.catvod.com/iptv.php?id=w41aezew
-TVB Plus,https://live.catvod.com/iptv.php?id=vtjuqlzv
-无线新闻,https://live.catvod.com/iptv.php?id=mga8anno
-VIUTV,https://live.catvod.com/iptv.php?id=d3w2007p
-HOY TV,https://live.catvod.com/iptv.php?id=ykwsq73m
-HOY TV,https://live.catvod.com/iptv.php?id=ayjxepny
-凤凰中文,https://live.catvod.com/iptv.php?id=0gqeeil9
-凤凰资讯,https://live.catvod.com/iptv.php?id=511avvym
-凤凰香港,https://live.catvod.com/iptv.php?id=7zvtcwbb
-亚洲武侠,https://live.catvod.com/iptv.php?id=8iih5seb
-TVB星河,https://live.catvod.com/iptv.php?id=40b6n244
-重温经典,https://live.catvod.com/iptv.php?id=wmzo2sgt
-RTHK31,https://live.catvod.com/iptv.php?id=dlpkr7ew
-RTHK32,https://live.catvod.com/iptv.php?id=ysmlct81
-无线新闻台,https://live.catvod.com/iptv.php?id=70c41isn
-NOW新闻台,https://live.catvod.com/iptv.php?id=9vum1dbn
-翡翠台4K,https://live.catvod.com/iptv.php?id=hcwwqp8y
-五星体育,https://live.catvod.com/iptv.php?id=hwrc685o
-龙华电影,https://live.catvod.com/iptv.php?id=1y6eab83
-龙华经典,https://live.catvod.com/iptv.php?id=xpqt533o
-龙华卡通,https://live.catvod.com/iptv.php?id=e1tep4h6
-龙华偶像,https://live.catvod.com/iptv.php?id=ao31dwp7
-龙华日韩,https://live.catvod.com/iptv.php?id=iddlkjb5
-龙华戏剧,https://live.catvod.com/iptv.php?id=9hzi8uef
-龙华洋片,https://live.catvod.com/iptv.php?id=v92kb352
-
-
-
 📡央视电视台,#genre#
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229660/1.m3u8
 CCTV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221229893/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230359/1.m3u8
@@ -242,14 +201,6 @@ CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.s
 
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
-
-
-CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://221.7.49.226:50085/tsfile/live/0017_11.m3u8?key=txiptv&playlive=1&authid=0
-
-
-CCTV文化精品,http://113.195.6.105:85/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云剧场,http://113.195.6.105:85/tsfile/live/1171_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -467,8 +418,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
-劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8
-
 
 
 📡电视影院,#genre#
@@ -639,9 +588,6 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-
-新视觉,http://14.21.90.68:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://59.32.97.75:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
