@@ -203,6 +203,9 @@ CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
 
+CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://221.7.49.226:50085/tsfile/live/0017_11.m3u8?key=txiptv&playlive=1&authid=0
+
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
@@ -588,6 +591,8 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
+
+新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
