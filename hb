@@ -467,8 +467,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
-劲爆体育,http://124.231.212.192:9999/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://124.231.212.168:9999/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8
 
 
@@ -526,6 +524,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 星影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.94:4120
 城市剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.67:4120
 军旅剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.68:4120
+武侠剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.90:4120
 古装剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.69:4120
 热播剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.194:9020
 经典电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.195:9024
