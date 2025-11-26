@@ -16,6 +16,11 @@
 
 直播源2：https://gcore.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 
+港台1：https://tmxk.pp.ua/smart-cn.m3u
+
+港台2：https://tmxk.pp.ua/4gtv-cn.m3u
+
+
 
 YY轮播：https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top 
 
