@@ -165,33 +165,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 澳视澳门,http://r.jdshipin.com/n2YZI
 
 
-翡翠台,https://live.catvod.com/iptv.php?id=mvdh8twi
-明珠台,https://live.catvod.com/iptv.php?id=w41aezew
-TVB Plus,https://live.catvod.com/iptv.php?id=vtjuqlzv
-无线新闻,https://live.catvod.com/iptv.php?id=mga8anno
-VIUTV,https://live.catvod.com/iptv.php?id=d3w2007p
-HOY TV,https://live.catvod.com/iptv.php?id=ykwsq73m
-HOY TV,https://live.catvod.com/iptv.php?id=ayjxepny
-凤凰中文,https://live.catvod.com/iptv.php?id=0gqeeil9
-凤凰资讯,https://live.catvod.com/iptv.php?id=511avvym
-凤凰香港,https://live.catvod.com/iptv.php?id=7zvtcwbb
-亚洲武侠,https://live.catvod.com/iptv.php?id=8iih5seb
-TVB星河,https://live.catvod.com/iptv.php?id=40b6n244
-重温经典,https://live.catvod.com/iptv.php?id=wmzo2sgt
-RTHK31,https://live.catvod.com/iptv.php?id=dlpkr7ew
-RTHK32,https://live.catvod.com/iptv.php?id=ysmlct81
-无线新闻台,https://live.catvod.com/iptv.php?id=70c41isn
-NOW新闻台,https://live.catvod.com/iptv.php?id=9vum1dbn
-翡翠台4K,https://live.catvod.com/iptv.php?id=hcwwqp8y
-五星体育,https://live.catvod.com/iptv.php?id=hwrc685o
-龙华电影,https://live.catvod.com/iptv.php?id=1y6eab83
-龙华经典,https://live.catvod.com/iptv.php?id=xpqt533o
-龙华卡通,https://live.catvod.com/iptv.php?id=e1tep4h6
-龙华偶像,https://live.catvod.com/iptv.php?id=ao31dwp7
-龙华日韩,https://live.catvod.com/iptv.php?id=iddlkjb5
-龙华戏剧,https://live.catvod.com/iptv.php?id=9hzi8uef
-龙华洋片,https://live.catvod.com/iptv.php?id=v92kb352
-
 
 📡央视电视台,#genre#
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229660/1.m3u8
