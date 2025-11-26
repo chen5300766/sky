@@ -470,7 +470,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
-峨眉电影,http://175.153.234.148:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
