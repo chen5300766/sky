@@ -560,6 +560,66 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 
+黑莓电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+
+
+
+📡NewTV,#genre#
+NewTV中国功夫,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+NewTV中国功夫,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
+NewTV军事评论,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+NewTV军事评论,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
+NewTV军旅剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+NewTV军旅剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8
+NewTV农业致富,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+NewTV农业致富,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
+NewTV动作电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+NewTV动作电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
+NewTV古装剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+NewTV古装剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
+NewTV家庭剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+NewTV家庭剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+NewTV怡伴健康,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+NewTV怡伴健康,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+NewTV惊悚悬疑,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8
+NewTV惊悚悬疑,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8
+NewTV明星大片,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
+NewTV明星大片,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8
+NewTV欢乐剧场,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+NewTV武搏世界,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+NewTV武搏世界,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8
+NewTV潮妈辣婆,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+NewTV潮妈辣婆,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
+NewTV炫舞未来,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8
+NewTV炫舞未来,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+NewTV爱情喜剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+NewTV爱情喜剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8
+NewTV精品体育,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+NewTV精品体育,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+NewTV精品大剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+NewTV精品大剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8
+NewTV精品纪录,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
+NewTV精品纪录,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
+NewTV精品萌宠,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8
+NewTV超级体育,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+NewTV超级体育,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/1.m3u8
+NewTV超级体育,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
+NewTV超级电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+NewTV超级电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8
+NewTV超级电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+NewTV超级电影,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
+NewTV超级电视剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+NewTV超级电视剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+NewTV超级电视剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+NewTV超级电视剧,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8
+NewTV超级综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+NewTV超级综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8
+NewTV超级综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+NewTV超级综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
+NewTV金牌综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
+NewTV金牌综艺,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
+
+
 
 
 ❤️精彩影视生活锦集,#genre#
@@ -628,6 +688,9 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 宝宝动画,http://yuzhe.ltd:5555/udp/239.93.0.147:5140
 少儿动画,http://yuzhe.ltd:5555/udp/239.93.0.193:9000
 青春动漫,http://yuzhe.ltd:5555/udp/239.93.0.146:5140
+
+
+黑莓动画,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 
 
 📡数字电视,#genre#
