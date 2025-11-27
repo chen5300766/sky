@@ -26,6 +26,17 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
 
 
+湖南卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
+浙江卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
+江苏卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
+东方卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.37:11376
+山东卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.38:11382
+四川卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.39:11388
+北京卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.22:11286
+广东卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.27:11316
+深圳卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.28:11322
+CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
+
 
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
