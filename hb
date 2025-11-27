@@ -219,11 +219,15 @@ CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439#http://jf.aisio
 CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
 CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.sjwyp.com:4022/rtp/239.254.200.94:6228
 
-
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
+
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV文化精品,http://139.214.176.163:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://139.214.176.163:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
