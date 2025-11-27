@@ -102,8 +102,6 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 
-
-
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -214,9 +212,7 @@ CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.s
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
-
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://221.7.49.226:50085/tsfile/live/0017_11.m3u8?key=txiptv&playlive=1&authid=0
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
