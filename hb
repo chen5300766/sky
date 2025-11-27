@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-26,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -161,6 +161,17 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
+
+
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+无线功夫,https://cdn6.101.qzz.io/163189/yzwx
+翡翠台4K,https://cdn6.101.qzz.io/163189/fct4k
+翡翠台,https://cdn6.101.qzz.io/163189/fct
+TVBplus,https://cdn6.101.qzz.io/163189/tvbp
+HOY 77,https://cdn6.101.qzz.io/163189/hoy
 
 
 
