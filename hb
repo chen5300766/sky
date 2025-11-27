@@ -128,6 +128,22 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+中天新闻,http://php.jdshipin.com:8880/smt.php?id=ctinews
+华视 CTS,http://php.jdshipin.com:8880/smt.php?id=ctshd_twn
+Mecca Live,http://php.jdshipin.com:8880/smt.php?id=quran_mido
+民视,http://php.jdshipin.com:8880/smt.php?id=ftvhd_taiwan
+中天娱乐,http://php.jdshipin.com:8880/smt.php?id=ctient
+TVB Asia,http://php.jdshipin.com:8880/smt.php?id=Tvbasia
+TVBS,http://php.jdshipin.com:8880/smt.php?id=tvbs
+龙祥电影,http://php.jdshipin.com:8880/smt.php?id=lungxiangtime_twn
+纬来电影,http://php.jdshipin.com:8880/smt.php?id=videolandmovie
+纬来日本,http://php.jdshipin.com:8880/smt.php?id=videolandjapan
+纬来体育,http://php.jdshipin.com:8880/smt.php?id=videolandsport
+ELta体育壹,http://php.jdshipin.com:8880/smt.php?id=eltasport1_twn
+东森综合,http://php.jdshipin.com:8880/smt.php?id=ettvzhonghe
+东森超视,http://php.jdshipin.com:8880/smt.php?id=ettvsuper
+东森电影,http://php.jdshipin.com:8880/smt.php?id=ettvmovie
+
 
 
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
