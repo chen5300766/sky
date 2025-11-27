@@ -1583,6 +1583,9 @@ YY象棋,http://cfss.cc/cdn/yy/72940885.flv#https://live.188766.xyz/yy/72940885
 JJ象棋,http://cfss.cc/cdn/yy/1382735030.flv#https://live.188766.xyz/yy/1382735030
 象棋-棋行天下,https://live.188766.xyz/yy/1355709463
 JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/1354650274
+天天象棋官方,http://cfss.cc/cdn/yy/1354650216.flv#https://live.188766.xyz/yy/1354650216
+短剧大集合,http://cfss.cc/cdn/yy/1414815109.flv#https://live.188766.xyz/yy/1414815109
+短剧连连看,http://cfss.cc/cdn/yy/1414864184.flv#https://live.188766.xyz/yy/1414864184
 本山选谁上,http://cfss.cc/cdn/yy/1382749878.flv#https://live.188766.xyz/yy/1382749878
 本山快乐营,http://cfss.cc/cdn/yy/1382736718.flv#https://live.188766.xyz/yy/1382736718
 赵本山搞笑小品,http://cfss.cc/cdn/yy/1355923243.flv#https://live.188766.xyz/yy/1355923243
