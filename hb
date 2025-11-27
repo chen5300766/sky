@@ -385,7 +385,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 武汉新闻综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.145:10506
 武汉电视剧,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.146:10512
 武汉科技生活,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.251:11148
-武汉经济,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.35:9850
 武汉文体,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.147:10518
 武汉教育,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.60:9994
 蔡甸综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.245:11112
