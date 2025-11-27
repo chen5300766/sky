@@ -102,6 +102,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 
+
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -121,9 +122,6 @@ Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
-翡翠华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
