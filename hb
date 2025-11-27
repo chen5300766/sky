@@ -11,8 +11,20 @@
 苏州-4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北-4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
+浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+
+深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
+广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
+广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
+湖南卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.56:5146
+江苏卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.57:5146
+浙江卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.58:5146
+东方卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.59:5146
+四川卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.60:5146
+山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
+
 
 
 📡稳定源,#genre#
