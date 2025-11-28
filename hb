@@ -1169,7 +1169,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 穆桂英挂帅,https://www.goodiptv.club/huya/30080248#http://cfss.cc/cdn/hy/30080248.flv
 新九品芝麻官,https://www.goodiptv.club/huya/29465891#http://cfss.cc/cdn/hy/29465891.flv
 活佛济公1-3,https://www.goodiptv.club/huya/26355765#http://cfss.cc/cdn/hy/26355765.flv
-刁蛮公主,https://www.goodiptv.club/huya/29465879#http://cfss.cc/cdn/hy/29465879.flv
+刁蛮公主,http://cfss.cc/cdn/hy/29465879.flv
 绝代双骄,https://www.goodiptv.club/huya/29982627#http://cfss.cc/cdn/hy/29982627.flv
 芈月传,https://www.goodiptv.club/huya/26355775#http://cfss.cc/cdn/hy/26355775.flv
 新水浒传,https://www.goodiptv.club/huya/11342384#http://cfss.cc/cdn/hy/11342384.flv
