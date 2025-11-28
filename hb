@@ -15,6 +15,17 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
+深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
+湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
+江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
+浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
+东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
+四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
+山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
+
+
 深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
 广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
 广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
