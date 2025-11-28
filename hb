@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-29,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -672,7 +672,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 
 
-中国气象,http://110.72.84.241:8181/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://110.72.84.241:8181/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://113.195.6.105:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 
