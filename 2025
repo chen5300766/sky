@@ -6,7 +6,6 @@
 2025-11-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
-
 📽4K测试频道,#genre#
 苏州-4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州-4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -57,12 +56,10 @@ CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 五家渠综合频道,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 
 
-
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
 
-
-1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905a#http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 
@@ -86,9 +83,6 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-
-
-
 
 
 
@@ -142,15 +136,13 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
-
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-
-
 
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
@@ -260,8 +252,6 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 中天新闻台,http://bxtv.3a.ink/api.php?id=ztxw
   
 
-
-
 翡翠台,https://live.catvod.com/iptv.php?id=mvdh8twi
 明珠台,https://live.catvod.com/iptv.php?id=w41aezew
 TVB Plus,https://live.catvod.com/iptv.php?id=vtjuqlzv
@@ -288,8 +278,6 @@ NOW新闻台,https://live.catvod.com/iptv.php?id=9vum1dbn
 龙华日韩,https://live.catvod.com/iptv.php?id=iddlkjb5
 龙华戏剧,https://live.catvod.com/iptv.php?id=9hzi8uef
 龙华洋片,https://live.catvod.com/iptv.php?id=v92kb352
-
-
 
 
 📡教育网,#genre#
@@ -822,7 +810,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 百视通8,http://111.48.34.138/000000001000PLTV/88888888/224/3221230056/1.m3u8
 百视通9,http://111.48.34.138/000000001000PLTV/88888888/224/3221230058/1.m3u8
 百事通10,http://111.48.34.138/000000001000PLTV/88888888/224/3221230069/1.m3u8
-
 
 
 📡湖北移动省内2,#genre#
@@ -1823,6 +1810,34 @@ BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 海峡卫视,http://e1.woc.iiiya.cn:28888/rtp/239.61.2.151:8894
 福建教育,http://e1.woc.iiiya.cn:28888/rtp/239.61.2.173:9026
 
+
+
+📡精彩影视生活锦集,#genre#
+家庭剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+经典老剧,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+抗战剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+谍战剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
+爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+都市生活,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+传奇剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+中国通史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+第三调解室,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+健康大问诊,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+智勇闯关,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+金牌调解,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+健康养生,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
+养生堂,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
 
 
 ❤️动画世界,#genre#
