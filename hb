@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -295,7 +295,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
-中央新影-发现之旅,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/fxzl_2000.m3u8
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://jf.aisio.cn:8266/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://e1.woc.iiiya.cn:28888/rtp/239.61.3.74:9962
@@ -360,10 +359,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 山东教育卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221230459/1.m3u8
 凤凰资讯,http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
 
-
-大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627
-海峡卫视,https://live.chinacert.cftest5.cn/mg/?id=849119120
-农林卫视,https://live.chinacert.cftest5.cn/mg/?id=956904896
 
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
@@ -503,7 +498,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
-天元围棋,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/tywq_2000.m3u8
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
@@ -533,12 +527,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-峨嵋电影,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/emdygqH265_4000.m3u8
-峨眉电影4K,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
 
-
-
-重温经典,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CWJD_4000.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -554,12 +543,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-
-
-经典香港电影,https://live.chinacert.cftest5.cn/mg/?id=625703337
-抗战经典影片,https://live.chinacert.cftest5.cn/mg/?id=617432318
-新片放映厅,https://live.chinacert.cftest5.cn/mg/?id=619495952
-高清大片,https://live.chinacert.cftest5.cn/mg/?id=629943678
 
 
 
@@ -645,9 +628,6 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
-
-
 动画1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
@@ -689,8 +669,6 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-
-新视觉,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/ycxsjH265_4000.m3u8
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
@@ -699,8 +677,6 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 
 
-
-中国天气,http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/zgqx_4000.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://113.195.6.105:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 
