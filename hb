@@ -49,6 +49,18 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 
 
+湖南卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
+浙江卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
+江苏卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
+东方卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
+山东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
+四川卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
+北京卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
+广东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
+深圳卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
+CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
+
+
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -82,10 +94,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
-
 生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-
-
 
 
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -376,8 +385,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
 
 
-农林卫视,http://27.223.118.139:85/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://27.223.187.94:85/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
@@ -405,6 +414,16 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 蔡甸综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.245:11112
 阳新综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.34:9844
 房县综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.192:10794
+
+
+武汉新闻综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.145:10506
+武汉电视剧,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.146:10512
+武汉科技生活,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.251:11148
+武汉文体,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.147:10518
+武汉教育,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.60:9994
+蔡甸综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.245:11112
+阳新综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.34:9844
+房县综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.192:10794
 
 
 
