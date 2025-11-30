@@ -697,10 +697,9 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 求索科学,http://ygbh.site/php/bfgd.php?id=286
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 求索动物,http://ygbh.site/php/bfgd.php?id=287
 求索生活,http://ygbh.site/php/bfgd.php?id=288
-
+世界地理,http://ygbh.site/php/bfgd.php?id=177
 
 
 📡百视通,#genre#
