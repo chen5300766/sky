@@ -296,19 +296,15 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://jf.aisio.cn:8266/rtp/239.253.93.251:6429#http://jf.aisio.cn:8266/rtp/239.253.92.22:6073
 CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439#http://jf.aisio.cn:8266/rtp/239.253.92.25:6104
 
-
 CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
 CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.sjwyp.com:4022/rtp/239.254.200.94:6228
 
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
+CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
+CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
 
-CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
-
-
-CCTV文化精品,http://139.214.176.163:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云剧场,http://139.214.176.163:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -547,6 +543,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
+天元围棋,http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
@@ -702,6 +699,11 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://113.195.6.105:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+中华特产,http://www.tszhgjj.cn:7000/rtp/239.253.93.242:6420
+中华特产,http://jf.aisio.cn:8266/rtp/239.253.93.242:6420
+
 
 
 📡百视通,#genre#
