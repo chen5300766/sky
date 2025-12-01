@@ -1415,7 +1415,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 鹿鼎记--周星驰,https://live.188766.xyz/yy/1354658049
 铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#https://live.188766.xyz/yy/1382781415
 康熙王朝,https://live.188766.xyz/yy/1382851583
-倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.188766.xyz/yy/1414846486  
 倚天屠龙记--苏有朋版,https://live.188766.xyz/yy/1507704566
 神雕侠侣粤语--古天乐,https://live.188766.xyz/yy/1354926637
 神雕侠侣--古天乐,https://live.188766.xyz/yy/1351762426
@@ -1480,8 +1479,10 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 速度与激情全集,https://live.188766.xyz/yy/1382749892
 速度与激情全集,https://live.188766.xyz/yy/1382736911
 封神：祸商,https://live.188766.xyz/yy/1354932407
+倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.188766.xyz/yy/1414846486  
 少年包青天,https://live.188766.xyz/yy/1356043677
 少年包青天第三部,https://live.188766.xyz/yy/1382736814
+少年包青天第三部,https://live.188766.xyz/yy/1382851540
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.188766.xyz/yy/1354931631
 新水浒传,https://live.188766.xyz/yy/1353873252
 新三国,https://live.188766.xyz/yy/1382851415#https://live.188766.xyz/yy/1461396681#https://live.188766.xyz/yy/1382851459
