@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-29,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-11-31,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -244,6 +244,12 @@ ViuTV,http://r.jdshipin.com/vSJvl
 翡翠台,https://cdn6.101.qzz.io/163189/fct
 TVBplus,https://cdn6.101.qzz.io/163189/tvbp
 HOY 77,https://cdn6.101.qzz.io/163189/hoy
+
+
+
+八度空间,http://cdn6.163189.xyz/163189/8tv
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+CH5,http://cdn6.163189.xyz/163189/ch5
 
 
 
