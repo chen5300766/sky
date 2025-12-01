@@ -3,7 +3,7 @@
 此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-11-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📽4K测试频道,#genre#
@@ -36,6 +36,12 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.28:11322
 CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 
+
+深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
+北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
+湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
+江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
 
 
 📽稳定源,#genre#
@@ -336,6 +342,119 @@ CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
 探索,http://iptv.huuc.edu.cn/hls/discovery.m3u8
 
+
+
+
+📡全网通,#genre#
+CCTV1,http://106.53.99.30/tv/hot.php?id=cctv1
+CCTV2,http://106.53.99.30/tv/hot.php?id=cctv2
+CCTV3,http://106.53.99.30/tv/hot.php?id=cctv3
+CCTV4,http://106.53.99.30/tv/hot.php?id=cctv4
+CCTV5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV5+,http://106.53.99.30/tv/hot.php?id=cctv5p
+CCTV6,http://106.53.99.30/tv/hot.php?id=cctv6
+CCTV7,http://106.53.99.30/tv/hot.php?id=cctv7
+CCTV8,http://106.53.99.30/tv/hot.php?id=cctv8
+CCTV9,http://106.53.99.30/tv/hot.php?id=cctv9
+CCTV10,http://106.53.99.30/tv/hot.php?id=cctv10
+CCTV11,http://106.53.99.30/tv/hot.php?id=cctv11
+CCTV12,http://106.53.99.30/tv/hot.php?id=cctv12
+CCTV13,http://106.53.99.30/tv/hot.php?id=cctv13
+CCTV14,http://106.53.99.30/tv/hot.php?id=cctv14
+CCTV15,http://106.53.99.30/tv/hot.php?id=cctv15
+CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
+CCTV17,http://106.53.99.30/tv/hot.php?id=cctv17
+CCTV4美洲,http://106.53.99.30/tv/hot.php?id=cctv4m
+CCTV4欧洲,http://106.53.99.30/tv/hot.php?id=cctv4o
+CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
+CHC动作电影,http://106.53.99.30/tv/hot.php?id=dzdy
+CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
+CCTV发现之旅,http://106.53.99.30/tv/hot.php?id=fxzl
+CCTV中学生,http://106.53.99.30/tv/hot.php?id=zxs
+CCTV老故事,http://106.53.99.30/tv/hot.php?id=lgs
+CETV1,http://106.53.99.30/tv/hot.php?id=cetv1
+CETV2,http://106.53.99.30/tv/hot.php?id=cetv2
+CETV4,http://106.53.99.30/tv/hot.php?id=cetv4
+湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
+北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
+浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
+广东卫视,http://106.53.99.30/tv/hot.php?id=gdws
+江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
+东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
+陕西卫视,http://106.53.99.30/tv/hot.php?id=sxws
+江西卫视,http://106.53.99.30/tv/hot.php?id=jxws
+湖北卫视,http://106.53.99.30/tv/hot.php?id=hubws
+吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
+青海卫视,http://106.53.99.30/tv/hot.php?id=qhws
+河南卫视,http://106.53.99.30/tv/hot.php?id=hnws
+东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
+大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
+海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
+黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
+吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
+内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
+甘肃卫视,http://106.53.99.30/tv/hot.php?id=gsws
+河北卫视,http://106.53.99.30/tv/hot.php?id=hbws
+山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
+山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
+深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
+云南卫视,http://106.53.99.30/tv/hot.php?id=ynws
+贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
+四川卫视,http://106.53.99.30/tv/hot.php?id=scws
+新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
+西藏卫视,http://106.53.99.30/tv/hot.php?id=xzws
+重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
+上海五星体育,http://106.53.99.30/tv/hot.php?id=wxty
+广东影视,http://106.53.99.30/tv/hot.php?id=gdys
+上海新闻综合,http://106.53.99.30/tv/hot.php?id=shxw
+上海东方影视,http://106.53.99.30/tv/hot.php?id=shys
+上海第一财经,http://106.53.99.30/tv/hot.php?id=dycj
+都市频道,http://106.53.99.30/tv/hot.php?id=shds
+东方财经,http://106.53.99.30/tv/hot.php?id=dfcj
+生活时尚,http://106.53.99.30/tv/hot.php?id=shss
+金色学堂,http://106.53.99.30/tv/hot.php?id=jsxt
+上海教育,http://106.53.99.30/tv/hot.php?id=shjy
+游戏风云,http://106.53.99.30/tv/hot.php?id=yxfy
+乐游,http://106.53.99.30/tv/hot.php?id=ly
+法治天地,http://106.53.99.30/tv/hot.php?id=fztd
+劲爆体育,http://106.53.99.30/tv/hot.php?id=jbty
+魅力足球,http://106.53.99.30/tv/hot.php?id=mlzq
+广东体育,http://106.53.99.30/tv/hot.php?id=gdty
+经典香港电影,http://106.53.99.30/tv/hot.php?id=xgdy
+军事迷必看大片,http://106.53.99.30/tv/hot.php?id=jsm
+新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
+红色轮播台,http://106.53.99.30/tv/hot.php?id=hslb
+金色剧场,http://106.53.99.30/tv/hot.php?id=jsjc
+掼蛋精英赛,http://106.53.99.30/tv/hot.php?id=dds
+咪咕24小时体育台,http://106.53.99.30/tv/hot.php?id=mgty
+优漫卡通,http://106.53.99.30/tv/hot.php?id=jjkt
+嘉佳卡通,http://106.53.99.30/tv/hot.php?id=jjkt
+BRTV文艺,http://106.53.99.30/tv/hot.php?id=bjwy
+BRTV纪实科教,http://106.53.99.30/tv/hot.php?id=bjjs
+BRTV影视,http://106.53.99.30/tv/hot.php?id=bjys
+BRTV财经,http://106.53.99.30/tv/hot.php?id=bjcj
+BRTV体育休闲,http://106.53.99.30/tv/hot.php?id=bjty
+BRTV生活,http://106.53.99.30/tv/hot.php?id=bjsh
+BRTV新闻,http://106.53.99.30/tv/hot.php?id=bjxw
+卡酷少儿,http://106.53.99.30/tv/hot.php?id=bjkk
+掼蛋精英赛,http://106.53.99.30/tv/hot.php?id=dds
+高清大片,http://106.53.99.30/tv/hot.php?id=gqdp
+红色轮播台,http://106.53.99.30/tv/hot.php?id=hslb
+经典动画大集合,http://106.53.99.30/tv/hot.php?id=dhdjh
+经典深圳旁边电影,http://106.53.99.30/tv/hot.php?id=xgdy
+军事迷必看大片,http://106.53.99.30/tv/hot.php?id=jsm
+赛事最经典,http://106.53.99.30/tv/hot.php?id=sszjd
+体坛名栏汇,http://106.53.99.30/tv/hot.php?id=ttmlh
+乡村振兴,http://106.53.99.30/tv/hot.php?id=xczx
+幸福中国年,http://106.53.99.30/tv/hot.php?id=xfzgn
+新片放映厅,http://106.53.99.30/tv/hot.php?id=xpdy
+周杰伦现场,http://106.53.99.30/tv/hot.php?id=zjlxc
+最强综艺趴,http://106.53.99.30/tv/hot.php?id=zqzyp
+金色剧场,http://106.53.99.30/tv/hot.php?id=jsjc
+凤凰中文,http://106.53.99.30/tv/hot.php?id=fhzw
+凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
+凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 
 
 
@@ -1811,7 +1930,6 @@ BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 福建教育,http://e1.woc.iiiya.cn:28888/rtp/239.61.2.173:9026
 
 
-
 ❤️动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#http://cfss.cc/cdn/hy/11352974.flv
 火影疾风传1,https://live.188766.xyz/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
@@ -2507,7 +2625,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 鹿鼎记--周星驰,https://live.188766.xyz/yy/1354658049
 铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#https://live.188766.xyz/yy/1382781415
 康熙王朝,https://live.188766.xyz/yy/1382851583
-倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.188766.xyz/yy/1414846486  
 倚天屠龙记--苏有朋版,https://live.188766.xyz/yy/1507704566
 神雕侠侣粤语--古天乐,https://live.188766.xyz/yy/1354926637
 神雕侠侣--古天乐,https://live.188766.xyz/yy/1351762426
@@ -2569,9 +2686,13 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 武林客栈,https://live.188766.xyz/yy/1382773728
 娘亲舅大,https://live.188766.xyz/yy/1354932360
 陈情令,https://live.188766.xyz/yy/1382745121
-速度与激情全集,https://live.188766.xyz/yy/1382749892#https://live.188766.xyz/yy/1382749892
+速度与激情全集,https://live.188766.xyz/yy/1382749892
+速度与激情全集,https://live.188766.xyz/yy/1382736911
+封神：祸商,https://live.188766.xyz/yy/1354932407
+倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.188766.xyz/yy/1414846486  
 少年包青天,https://live.188766.xyz/yy/1356043677
 少年包青天第三部,https://live.188766.xyz/yy/1382736814
+少年包青天第三部,https://live.188766.xyz/yy/1382851540
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.188766.xyz/yy/1354931631
 新水浒传,https://live.188766.xyz/yy/1353873252
 新三国,https://live.188766.xyz/yy/1382851415#https://live.188766.xyz/yy/1461396681#https://live.188766.xyz/yy/1382851459
@@ -2699,6 +2820,8 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 贾玲春晚小品,https://live.188766.xyz/yy/1382736720
 24小时好剧不停,http://cfss.cc/cdn/yy/56109958.flv#https://live.188766.xyz/yy/56109958
 荒野求生实录,http://cfss.cc/cdn/yy/1355244170.flv#https://live.188766.xyz/yy/1355244170
+王者荣耀,http://cfss.cc/cdn/yy/78678200.flv#https://live.188766.xyz/yy/78678200
+
 
 
 
