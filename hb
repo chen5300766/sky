@@ -1605,6 +1605,8 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 贾玲春晚小品,https://live.188766.xyz/yy/1382736720
 24小时好剧不停,http://cfss.cc/cdn/yy/56109958.flv#https://live.188766.xyz/yy/56109958
 荒野求生实录,http://cfss.cc/cdn/yy/1355244170.flv#https://live.188766.xyz/yy/1355244170
+王者荣耀,http://cfss.cc/cdn/yy/78678200.flv#https://live.188766.xyz/yy/78678200
+
 
 
 
