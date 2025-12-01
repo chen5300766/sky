@@ -262,6 +262,20 @@ HOY 77,https://cdn6.101.qzz.io/163189/hoy
 CH5,http://cdn6.163189.xyz/163189/ch5
 
 
+TVB Plus,https://live.catvod.com/iptv.php?id=0iwhnrjg
+HOY TV,https://live.catvod.com/iptv.php?id=5bud57xp
+HOY TV,https://live.catvod.com/iptv.php?id=edjbde4k
+亚洲武侠,https://live.catvod.com/iptv.php?id=y66gfjlq
+重温经典,https://live.catvod.com/iptv.php?id=8lull020
+RTHK31,https://live.catvod.com/iptv.php?id=oplzcxgo
+翡翠台4K,https://live.catvod.com/iptv.php?id=14twrbp6
+龙华经典,https://live.catvod.com/iptv.php?id=j5lr6u81
+龙华卡通,https://live.catvod.com/iptv.php?id=68gix8l2
+龙华偶像,https://live.catvod.com/iptv.php?id=g4g22eig
+龙华日韩,https://live.catvod.com/iptv.php?id=eimvk9bl
+龙华洋片,https://live.catvod.com/iptv.php?id=d4zbki3g
+
+
 
 📡央视电视台,#genre#
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229660/1.m3u8
