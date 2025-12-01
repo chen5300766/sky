@@ -13,6 +13,8 @@
 河北-4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
 
 
 广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
