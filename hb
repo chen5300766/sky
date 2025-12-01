@@ -1477,7 +1477,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 武林客栈,https://live.188766.xyz/yy/1382773728
 娘亲舅大,https://live.188766.xyz/yy/1354932360
 陈情令,https://live.188766.xyz/yy/1382745121
-速度与激情全集,https://live.188766.xyz/yy/1382749892#https://live.188766.xyz/yy/1382749892
+速度与激情全集,https://live.188766.xyz/yy/1382749892
+速度与激情全集,https://live.188766.xyz/yy/1382736911
+封神：祸商,https://live.188766.xyz/yy/1354932407
 少年包青天,https://live.188766.xyz/yy/1356043677
 少年包青天第三部,https://live.188766.xyz/yy/1382736814
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.188766.xyz/yy/1354931631
