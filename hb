@@ -417,6 +417,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.27:5140
+农林卫视,http://27.223.165.212:85/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 
