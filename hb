@@ -16,7 +16,6 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-
 广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
 广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
 深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
@@ -674,7 +673,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 少儿动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.199:9000
-少儿动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.80:4120
+少儿动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.199:9000
 
 
 宝宝动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.80:4120
@@ -682,7 +681,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 早教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.79:4120
-早教,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.80:4120
+早教,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.79:4120
 
 
 
