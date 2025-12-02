@@ -291,7 +291,7 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 CCTV16,http://[2409:8087:1e02:20::1a]/000000001000/5000000008000023253/index.m3u8
 CCTV16,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
-CCTV16,http://drive.mxmy.net:8888/rtp/239.3.1.184:8001
+CCTV16,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.184:8001
 
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
@@ -322,7 +322,6 @@ CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
 
 风云剧场,http://sh.lnott.top:880/dx94.m3u8
-
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -619,22 +618,21 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 
-IPTV4K超清,http://drive.mxmy.net:8888/rtp/239.3.1.249:8001
-IPTV淘剧场,http://drive.mxmy.net:8888/rtp/239.3.1.95:8001
-IPTV淘电影,http://drive.mxmy.net:8888/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://drive.mxmy.net:8888/rtp/239.3.1.100:8001
-IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
-星影,http://drive.mxmy.net:8888/rtp/239.3.1.94:4120
-城市剧场,http://drive.mxmy.net:8888/rtp/239.3.1.67:4120
-军旅剧场,http://drive.mxmy.net:8888/rtp/239.3.1.68:4120
-武侠剧场,http://drive.mxmy.net:8888/rtp/239.3.1.90:4120
-古装剧场,http://drive.mxmy.net:8888/rtp/239.3.1.69:4120
-热播剧场,http://drive.mxmy.net:8888/rtp/239.3.1.194:9020
-经典电影,http://drive.mxmy.net:8888/rtp/239.3.1.195:9024
-爱上4K,http://drive.mxmy.net:8888/rtp/239.3.1.236:2000
+IPTV4K超清,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.249:8001
+IPTV淘剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.95:8001
+IPTV淘电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.100:8001
+IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
+星影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.94:4120
+城市剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.67:4120
+军旅剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.68:4120
+武侠剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.90:4120
+古装剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.69:4120
+热播剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.194:9020
+经典电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.195:9024
+爱上4K,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.236:2000
 
 
-经典电影,http://home.yixi.pro:10043/udp/239.93.0.57:9024
 华语影院,http://home.yixi.pro:10043/udp/239.93.0.138:5140
 星光院线,http://home.yixi.pro:10043/udp/239.93.0.139:5140
 全球大片,http://home.yixi.pro:10043/udp/239.93.0.105:5140
@@ -642,15 +640,12 @@ IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
 
 
 
-经典电影,http://pve.cdbackup.cn:8888/udp/239.93.0.57:9024
 华语影院,http://pve.cdbackup.cn:8888/udp/239.93.0.138:5140
 星光院线,http://pve.cdbackup.cn:8888/udp/239.93.0.139:5140
 全球大片,http://pve.cdbackup.cn:8888/udp/239.93.0.105:5140
 谍战剧场,http://pve.cdbackup.cn:8888/udp/239.93.0.95:5140
 
 
-
-经典电影,http://yuzhe.ltd:5555/udp/239.93.0.57:9024
 华语影院,http://yuzhe.ltd:5555/udp/239.93.0.138:5140
 星光院线,http://yuzhe.ltd:5555/udp/239.93.0.139:5140
 全球大片,http://yuzhe.ltd:5555/udp/239.93.0.105:5140
@@ -679,18 +674,16 @@ IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
 
 
 少儿动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.199:9000
+少儿动画,http://quan2018.mycloudnas.com:9000/239.3.1.199:9000
 
 
-宝宝动画,http://home.yixi.pro:10043/udp/239.93.0.147:5140
-少儿动画,http://home.yixi.pro:10043/udp/239.93.0.193:9000
+宝宝动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.80:4120
+宝宝动画,http://quan2018.mycloudnas.com:9000/239.3.1.80:4120
 
 
-宝宝动画,http://pve.cdbackup.cn:8888/udp/239.93.0.147:5140
-少儿动画,http://pve.cdbackup.cn:8888/udp/239.93.0.193:9000
+早教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.79:4120
+早教,http://quan2018.mycloudnas.com:9000/239.3.1.79:4120
 
-
-宝宝动画,http://yuzhe.ltd:5555/udp/239.93.0.147:5140
-少儿动画,http://yuzhe.ltd:5555/udp/239.93.0.193:9000
 
 
 📡数字电视,#genre#
@@ -715,7 +708,16 @@ IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+好学生,http://hpcigg.icancloud.top:31415/rtp/239.3.1.81:4120
+鉴赏,http://hpcigg.icancloud.top:31415/rtp/239.3.1.82:4120
+墨宝,http://hpcigg.icancloud.top:31415/rtp/239.3.1.83:4120
+
+
+中国交通,http://quan2018.mycloudnas.com:9000/udp/239.3.1.188:8001
+好学生,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.81:4120
+鉴赏,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.82:4120
+墨宝,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.83:4120
+
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
