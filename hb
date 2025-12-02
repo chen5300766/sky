@@ -406,10 +406,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
 
 
-农林卫视,http://218.56.123.244:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-农林卫视,http://27.223.187.94:85/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
-
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
@@ -724,10 +721,6 @@ IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://113.195.6.105:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-中华特产,http://www.tszhgjj.cn:7000/rtp/239.253.93.242:6420
-中华特产,http://jf.aisio.cn:8266/rtp/239.253.93.242:6420
 
 
 中华特产,http://sh.lnott.top:880/dx83.m3u8
