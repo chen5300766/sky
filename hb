@@ -292,10 +292,9 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 CCTV16,http://[2409:8087:1e02:20::1a]/000000001000/5000000008000023253/index.m3u8
 CCTV16,http://drive.mxmy.net:8888/rtp/239.3.1.184:8001
 CCTV16,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
-
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
 
 CCTV17,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
-
 
 
 📡央视精选,#genre#
@@ -321,6 +320,8 @@ CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
 CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
+
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
 
 
 
