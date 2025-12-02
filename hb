@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -644,9 +644,6 @@ IPTV淘剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.95:8001
 IPTV淘电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.250:8001
 IPTV淘娱乐,http://hpcigg.icancloud.top:31415/rtp/239.3.1.100:8001
 IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
-
-
-
 星影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.94:4120
 城市剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.67:4120
 军旅剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.68:4120
@@ -656,6 +653,21 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 经典电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.195:9024
 爱上4K,http://hpcigg.icancloud.top:31415/rtp/239.3.1.236:2000
 
+
+
+IPTV4K超清,http://drive.mxmy.net:8888/rtp/239.3.1.249:8001
+IPTV淘剧场,http://drive.mxmy.net:8888/rtp/239.3.1.95:8001
+IPTV淘电影,http://drive.mxmy.net:8888/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://drive.mxmy.net:8888/rtp/239.3.1.100:8001
+IPTV淘BABY,http://drive.mxmy.net:8888/rtp/239.3.1.238:8001
+星影,http://drive.mxmy.net:8888/rtp/239.3.1.94:4120
+城市剧场,http://drive.mxmy.net:8888/rtp/239.3.1.67:4120
+军旅剧场,http://drive.mxmy.net:8888/rtp/239.3.1.68:4120
+武侠剧场,http://drive.mxmy.net:8888/rtp/239.3.1.90:4120
+古装剧场,http://drive.mxmy.net:8888/rtp/239.3.1.69:4120
+热播剧场,http://drive.mxmy.net:8888/rtp/239.3.1.194:9020
+经典电影,http://drive.mxmy.net:8888/rtp/239.3.1.195:9024
+爱上4K,http://drive.mxmy.net:8888/rtp/239.3.1.236:2000
 
 
 经典电影,http://home.yixi.pro:10043/udp/239.93.0.57:9024
@@ -749,6 +761,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
