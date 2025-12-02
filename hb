@@ -290,7 +290,7 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 
 CCTV16,http://[2409:8087:1e02:20::1a]/000000001000/5000000008000023253/index.m3u8
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV16,http://drive.mxmy.net:8888/rtp/239.3.1.184:8001
 CCTV16,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
 
 
@@ -549,7 +549,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://[2409:8087:1e02:20::1a]/000000001000/5000000010000017540/index.m3u8
-五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -583,7 +582,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
-
 
 
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
