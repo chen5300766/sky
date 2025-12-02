@@ -1174,6 +1174,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 西游记,http://cfss.cc/cdn/hy/26355861.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
+豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#http://cfss.cc/cdn/hy/20432223.flv
 星汉灿烂,https://www.goodiptv.club/huya/11336591#http://cfss.cc/cdn/hy/11336591.flv
 传奇皇帝朱元璋,https://www.goodiptv.club/huya/29982665#http://cfss.cc/cdn/hy/29982665.flv
 水浒传,https://www.goodiptv.club/huya/26355860#http://cfss.cc/cdn/hy/26355860.flv
@@ -1181,7 +1182,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 征服,https://www.goodiptv.club/huya/30311494#http://cfss.cc/cdn/hy/30311494.flv
 扫黑风暴,https://www.goodiptv.club/huya/11342404#http://cfss.cc/cdn/hy/11342404.flv
 摩天大楼,https://www.goodiptv.club/huya/651536#http://cfss.cc/cdn/hy/651536.flv
-豆瓣 9.3 分神剧,https://www.goodiptv.club/huya/20432223#http://cfss.cc/cdn/hy/20432223.flv
 新洛神,https://www.goodiptv.club/huya/21241770#http://cfss.cc/cdn/hy/21241770.flv
 港剧,https://www.goodiptv.club/huya/23734256#http://cfss.cc/cdn/hy/23734256.flv
 影视剧,https://www.goodiptv.club/huya/30158546#http://cfss.cc/cdn/hy/30158546.flv
