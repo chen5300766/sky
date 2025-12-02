@@ -63,13 +63,6 @@ CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 
 
-深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
-北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
-湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
-江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
-
-
 
 📡稳定源,#genre#
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -750,6 +743,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://183.7.19.178:9999/tsfile/live/1057_1.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
 
