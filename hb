@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -266,6 +266,8 @@ RTHK31,https://live.catvod.com/iptv.php?id=oplzcxgo
 龙华日韩,https://live.catvod.com/iptv.php?id=eimvk9bl
 龙华洋片,https://live.catvod.com/iptv.php?id=d4zbki3g
 
+
+卫视电影台-印度,https://tzh911.qzz.io/play-smt.php?id=starmaamovies_raj
 
 
 📡央视电视台,#genre#
