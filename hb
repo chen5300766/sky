@@ -702,7 +702,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://119.125.134.223:9999/tsfile/live/1057_1.m3u8
 新视觉,http://14.21.90.68:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://ygbh.site/php/bfgd.php?id=249
