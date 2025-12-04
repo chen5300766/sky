@@ -424,17 +424,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
 
-📡webview,#genre#
-湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
-湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
-湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
-湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
-湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
-湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
-湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
-
-
-
 
 📡湖北省,#genre#
 武汉新闻综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.145:10506
