@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -322,6 +322,8 @@ CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
+CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
+
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
