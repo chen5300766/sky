@@ -16,6 +16,17 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
+东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
+浙江卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.28:4336
+江苏卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.78.37:4088
+广东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.25:4312
+四川卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.51:4520
+湖南卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.38:4416
+深圳卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.26:4320
+山东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.29:4344
+北京卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.24:4304
+
+
 广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
 广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
 深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
@@ -315,6 +326,9 @@ CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439#http://jf.aisio
 CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
 CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.sjwyp.com:4022/rtp/239.254.200.94:6228
 
+CCTV文化精品,http://yun.igeizhe.com:2000/rtp/238.1.79.54:4568
+CCTV风云剧场,http://yun.igeizhe.com:2000/rtp/238.1.79.62:4632
+
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
@@ -323,7 +337,6 @@ CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
-
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
