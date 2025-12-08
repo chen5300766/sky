@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -670,79 +670,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-
-
-
-
-📡NewTV,#genre#
-NewTV爱情喜剧,http://[2409:8087:1e01:23::10]:8112/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=m
-NewTV超级电视剧,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000008139/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=m
-NewTV超级电视剧,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000024993/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=m
-NewTV超级电视剧_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=m
-NewTV超级电影,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000012884/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=m
-NewTV超级电影_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=m
-NewTV超级电影,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000002120/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=m
-NewTV超级体育,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000009204/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=m
-NewTV超级体育_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=m
-NewTV超级体育,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000007755/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=m
-NewTV超级综艺,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000025771/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=m
-NewTV超级综艺,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=m
-NewTV潮妈辣婆,http://[2409:8087:1e01:23::10]:8112/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=m
-NewTV东北热剧,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=m
-NewTV动作电影,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=m
-NewTV古装剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=m
-NewTV欢乐剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=m
-NewTV家庭剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=m
-NewTV金牌综艺,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=m
-NewTV惊悚悬疑,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=m
-NewTV精品大剧,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=m
-NewTV精品记录,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=m
-NewTV精品萌宠,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=m
-NewTV精品体育,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=m
-NewTV精品综合,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=m
-NewTV军旅剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=m
-NewTV军事评论,http://[2409:8087:1e01:23::10]:8112/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=m
-NewTV魅力潇湘,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=m
-NewTV魅力潇湘,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000266014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=m
-NewTV农业致富,http://[2409:8087:1e01:23::10]:8112/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=m
-NewTV热播精选,http://[2409:8087:1e01:23::10]:8112/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=m
-NewTV武博世界,http://[2409:8087:1e01:23::10]:8112/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=m
-NewTV炫舞未来,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=m
-NewTV怡伴健康,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=m
-NewTV中国功夫,http://[2409:8087:1e01:23::10]:8112/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=m
-
-📡HITO,#genre#
-爱谍战,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=m
-爱动漫,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=m
-爱科幻,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=m
-爱科学,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000160630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=m
-爱浪漫,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=m
-爱历史,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000150630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=m
-爱旅行,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000250630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=m
-爱奇谈,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000270630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=m
-爱赛车,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=m
-爱体育,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=m
-爱玩具,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000220630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=m
-爱喜剧,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000010630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=m
-爱悬疑,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=m
-爱幼教,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=m
-爱院线,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=m
-
-
-📡BesTV,#genre#
-百变课,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=m
-宝宝动画,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288002/1.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=m
-电竞天堂,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288003/1.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=m
-谍战剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288004/1.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=m
-华语影院,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288005/1.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=m
-健康养生,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288006/1.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=m
-看天下精选,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288007/1.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=m
-青春动漫,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288008/1.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=m
-全球大片,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288009/1.m3u8?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=m
-热门剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288010/1.m3u8?channel-id=bestzb&Contentid=5000000011000288010&livemode=1&stbId=m
-热门综艺,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288011/1.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=m
-戏曲精选,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288012/1.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=m
-星光影院,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288013/1.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=m
 
 
 
