@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-9,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -318,6 +318,10 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,http://xiaoya.passall.us:7088/rtp/239.253.93.251:6429#http://xiaoya.passall.us:7088/rtp/239.253.93.175:6439
+CCTV风云剧场,http://xiaoya.passall.us:7088/rtp/239.253.92.22:6073#http://xiaoya.passall.us:7088/rtp/239.253.92.25:6104
+
+
 CCTV风云剧场,http://jf.aisio.cn:8266/rtp/239.253.93.251:6429#http://jf.aisio.cn:8266/rtp/239.253.92.22:6073
 CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439#http://jf.aisio.cn:8266/rtp/239.253.92.25:6104
 
@@ -350,7 +354,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://jf.aisio.cn:8266/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://e1.woc.iiiya.cn:28888/rtp/239.61.3.74:9962
+中央新影-发现之旅,http://xiaoya.passall.us:7088/rtp/239.253.94.30:6629
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -568,6 +572,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
+天元围棋,http://xiaoya.passall.us:7088/rtp/239.253.93.211:6389
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
@@ -577,6 +582,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
+
 
 
 📡电视影院,#genre#
