@@ -1114,6 +1114,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 舞乐传奇,https://www.goodiptv.club/huya/27564478#http://cfss.cc/cdn/hy/27564478.flv
 妈祖,https://www.goodiptv.club/huya/29982633#http://cfss.cc/cdn/hy/29982633.flv
 聊斋新编,https://www.goodiptv.club/huya/20969121#http://cfss.cc/cdn/hy/20969121.flv
+白蛇传,https://www.goodiptv.club/huya/21241798#http://cfss.cc/cdn/hy/21241798.flv
 一起来看流星雨,https://www.goodiptv.club/huya/20985814#http://cfss.cc/cdn/hy/20985814.flv
 阳光的快乐生活,https://www.goodiptv.club/huya/11602085#http://cfss.cc/cdn/hy/11602085.flv
 与凤行,https://www.goodiptv.club/huya/26355866#http://cfss.cc/cdn/hy/26355866.flv
