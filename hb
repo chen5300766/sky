@@ -1751,11 +1751,11 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 三国杀游戏4,https://live.iill.top/douyin/727310431858
 三国杀游戏5,https://live.iill.top/douyin/417940568122
 三国杀游戏6,https://live.iill.top/douyin/309387620378
-王者荣耀1,https://live.iill.top/douyin/483293679187
-王者荣耀2,https://live.iill.top/douyin/304453703668
-王者荣耀3,https://live.iill.top/douyin/948468566211
-王者荣耀4,https://live.iill.top/douyin/308624546643
-王者荣耀5,https://live.iill.top/douyin/938820475824
+王者荣耀1,https://live.iill.top/douyin/680120628677
+王者荣耀2,https://live.iill.top/douyin/759018766444
+王者荣耀3,https://live.iill.top/douyin/770344167056
+王者荣耀4,https://live.iill.top/douyin/317416923097
+王者荣耀5,https://live.iill.top/douyin/502877246398
 红警游戏1,https://live.iill.top/douyin/650011006629
 红警游戏2,https://live.iill.top/douyin/205873667518
 红警游戏3,https://live.iill.top/douyin/642311142678
