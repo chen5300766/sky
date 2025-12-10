@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -14,6 +14,18 @@
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
+深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
+湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
+江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
+浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
+东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
+四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
+山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
+
 
 
 东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
@@ -245,6 +257,11 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
+HOY TV,http://r.jdshipin.com/sFw4S
+澳视卫星,http://r.jdshipin.com/QFhCq
+
+
+
 
 
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
@@ -414,14 +431,19 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 大湾区卫视,http://121.9.14.195:50085/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://120.197.2.134:9003/hls/45/index.m3u8
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
+
+
+大湾区卫视,http://denghao.net:4022/udp/239.77.1.12:5146
+大湾区卫视,http://denghao.net:4022/udp/239.77.0.9:5146
+大湾区卫视,http://denghao.net:4022/udp/239.77.0.215:5146
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+海峡卫视,http://r.jdshipin.com/WtYt3
 
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -566,6 +588,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://r.jdshipin.com/LiYdg
 
 
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
