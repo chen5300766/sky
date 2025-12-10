@@ -1757,6 +1757,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 王者荣耀3,https://live.iill.top/douyin/770344167056
 王者荣耀4,https://live.iill.top/douyin/317416923097
 王者荣耀5,https://live.iill.top/douyin/502877246398
+王者荣耀6,https://live.iill.top/douyin/526843978131
 红警游戏1,https://live.iill.top/douyin/650011006629
 红警游戏2,https://live.iill.top/douyin/205873667518
 红警游戏3,https://live.iill.top/douyin/642311142678
