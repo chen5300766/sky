@@ -583,11 +583,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
 天元围棋,http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
-天元围棋,http://ygbh.site/php/bfgd.php?id=633
-天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
+劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
 
 
 📡电视影院,#genre#
@@ -610,12 +609,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://113.26.251.182:8009/hls/59/index.m3u8
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
-重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
+
 
 
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
@@ -728,8 +727,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://14.21.90.68:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-新视觉,http://ygbh.site/php/bfgd.php?id=249
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
