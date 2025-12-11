@@ -1333,19 +1333,19 @@ CETV2,http://www.dsk.cc/php/bfgd.php?id=cetv2
 
 
 📡北京市,#genre#
-BRTV新闻,http://hpcigg.icancloud.top:31415/rtp/239.3.1.159:8000
-BRTV影视,http://hpcigg.icancloud.top:31415/rtp/239.3.1.158:8000
-BRTV文艺,http://hpcigg.icancloud.top:31415/rtp/239.3.1.242:8000
-BRTV财经,http://hpcigg.icancloud.top:31415/rtp/239.3.1.116:8000
-BRTV生活,http://hpcigg.icancloud.top:31415/rtp/239.3.1.117:8000
-BRTV青年,http://hpcigg.icancloud.top:31415/rtp/239.3.1.118:8000
-BRTV纪实科教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.115:8000
-BRTV卡酷少儿,http://hpcigg.icancloud.top:31415/rtp/239.3.1.189:8000
-BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
-BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.120:8000
-BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.121:8000
-BRTV体育休闲,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
-BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
+北京新闻,http://hpcigg.icancloud.top:31415/rtp/239.3.1.159:8000
+北京影视,http://hpcigg.icancloud.top:31415/rtp/239.3.1.158:8000
+北京文艺,http://hpcigg.icancloud.top:31415/rtp/239.3.1.242:8000
+北京财经,http://hpcigg.icancloud.top:31415/rtp/239.3.1.116:8000
+北京生活,http://hpcigg.icancloud.top:31415/rtp/239.3.1.117:8000
+北京青年,http://hpcigg.icancloud.top:31415/rtp/239.3.1.118:8000
+北京纪实科教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.115:8000
+北京卡酷少儿,http://hpcigg.icancloud.top:31415/rtp/239.3.1.189:8000
+北京冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
+北京冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.120:8000
+北京冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.121:8000
+北京体育休闲,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
+北京国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 
 
 
@@ -1360,16 +1360,6 @@ BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 上海五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 上海都市频道,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 上海魔都眼,http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
-
-
-
-上海东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8?
-上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
-上海第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8?
-上海五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
-上海东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
-上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
-上海金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8?
 
 
 
@@ -1969,6 +1959,17 @@ BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 儋州新闻综合,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 儋州新闻综合,https://tv.sohu.blog/d/gdy.php?id=dztv
 
+
+📡西藏自治区,#genre#
+西藏卫视,http://tv.sohu.blog/d/xztv.php?id=0
+西藏卫视,https://yangshipin.cn/tv/home?pid=600190403
+西藏藏语卫视,http://tv.sohu.blog/d/xztv.php?id=1
+西藏影视文化,http://tv.sohu.blog/d/xztv.php?id=2
+拉萨综合,https://file.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
+拉萨文旅,https://file.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
+拉萨藏语综合,https://file.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
+日喀则汉语综合,https://consolestream.rkzrm.cn:20323/4.m3u8
+日喀则藏语综合,https://consolestream.rkzrm.cn:20323/8.m3u8
 
 
 📡山东省,#genre#
@@ -2891,8 +2892,9 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 贾玲春晚小品,https://live.188766.xyz/yy/1382736720
 24小时好剧不停,http://cfss.cc/cdn/yy/56109958.flv#https://live.188766.xyz/yy/56109958
 荒野求生实录,http://cfss.cc/cdn/yy/1355244170.flv#https://live.188766.xyz/yy/1355244170
-王者荣耀,http://cfss.cc/cdn/yy/78678200.flv#https://live.188766.xyz/yy/78678200
-
+王者荣耀1,http://cfss.cc/cdn/yy/78678200.flv#https://live.188766.xyz/yy/78678200
+王者荣耀2,http://cfss.cc/cdn/yy/1450827522.flv#https://live.188766.xyz/yy/1450827522
+王者荣耀3,http://cfss.cc/cdn/yy/1355082782.flv#https://live.188766.xyz/yy/1355082782
 
 
 
@@ -2991,11 +2993,12 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 三国杀游戏4,https://live.iill.top/douyin/727310431858
 三国杀游戏5,https://live.iill.top/douyin/417940568122
 三国杀游戏6,https://live.iill.top/douyin/309387620378
-王者荣耀1,https://live.iill.top/douyin/483293679187
-王者荣耀2,https://live.iill.top/douyin/304453703668
-王者荣耀3,https://live.iill.top/douyin/948468566211
-王者荣耀4,https://live.iill.top/douyin/308624546643
-王者荣耀5,https://live.iill.top/douyin/938820475824
+王者荣耀1,https://live.iill.top/douyin/680120628677
+王者荣耀2,https://live.iill.top/douyin/759018766444
+王者荣耀3,https://live.iill.top/douyin/770344167056
+王者荣耀4,https://live.iill.top/douyin/317416923097
+王者荣耀5,https://live.iill.top/douyin/502877246398
+王者荣耀6,https://live.iill.top/douyin/526843978131
 红警游戏1,https://live.iill.top/douyin/650011006629
 红警游戏2,https://live.iill.top/douyin/205873667518
 红警游戏3,https://live.iill.top/douyin/642311142678
