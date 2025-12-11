@@ -3,7 +3,7 @@
 此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-9,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📽4K测试频道,#genre#
@@ -12,6 +12,41 @@
 河北-4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
+深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
+湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
+江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
+浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
+东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
+四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
+山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
+
+
+
+东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
+浙江卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.28:4336
+江苏卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.78.37:4088
+广东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.25:4312
+四川卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.51:4520
+湖南卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.38:4416
+深圳卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.26:4320
+山东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.29:4344
+北京卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.24:4304
+
+
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
+广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
+深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
+湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
+江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
+浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
+东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
+四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
+山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
 
 
 深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
@@ -37,11 +72,16 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 
 
-深圳卫视-4K,http://106.53.99.30/tv/api.php?id=szws4k
-北京卫视-4K,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视-4K,http://106.53.99.30/tv/api.php?id=dfws4k
-湖南卫视-4K,http://106.53.99.30/tv/api.php?id=hnws4k
-江苏卫视-4K,http://106.53.99.30/tv/api.php?id=jsws4k
+湖南卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
+浙江卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
+江苏卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
+东方卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
+山东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
+四川卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
+北京卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
+广东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
+深圳卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
+CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 
 
 📽稳定源,#genre#
@@ -256,7 +296,42 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 中天新闻台,http://bxtv.3a.ink/api.php?id=ztxw
-  
+
+
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+HOY TV,http://r.jdshipin.com/sFw4S
+澳视卫星,http://r.jdshipin.com/QFhCq
+
+
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+无线功夫,https://cdn6.101.qzz.io/163189/yzwx
+翡翠台4K,https://cdn6.101.qzz.io/163189/fct4k
+翡翠台,https://cdn6.101.qzz.io/163189/fct
+TVBplus,https://cdn6.101.qzz.io/163189/tvbp
+HOY 77,https://cdn6.101.qzz.io/163189/hoy
+
+
+八度空间,http://cdn6.163189.xyz/163189/8tv
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+CH5,http://cdn6.163189.xyz/163189/ch5
+
 
 翡翠台,https://live.catvod.com/iptv.php?id=mvdh8twi
 明珠台,https://live.catvod.com/iptv.php?id=w41aezew
@@ -1273,18 +1348,18 @@ CETV2,http://www.dsk.cc/php/bfgd.php?id=cetv2
 
 
 📡北京市,#genre#
-BRTV新闻[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.159:8000
-BRTV影视[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.158:8000
-BRTV文艺[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.242:8000
-BRTV财经[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.116:8000
-BRTV生活[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.117:8000
-BRTV青年[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.118:8000
-BRTV纪实科教[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.115:8000
-BRTV卡酷少儿[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.189:8000
-BRTV冬奥纪实[高清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
-BRTV冬奥纪实[超清HDR],http://hpcigg.icancloud.top:31415/rtp/239.3.1.120:8000
-BRTV冬奥纪实[超清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.121:8000
-BRTV体育休闲[超清],http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
+BRTV新闻,http://hpcigg.icancloud.top:31415/rtp/239.3.1.159:8000
+BRTV影视,http://hpcigg.icancloud.top:31415/rtp/239.3.1.158:8000
+BRTV文艺,http://hpcigg.icancloud.top:31415/rtp/239.3.1.242:8000
+BRTV财经,http://hpcigg.icancloud.top:31415/rtp/239.3.1.116:8000
+BRTV生活,http://hpcigg.icancloud.top:31415/rtp/239.3.1.117:8000
+BRTV青年,http://hpcigg.icancloud.top:31415/rtp/239.3.1.118:8000
+BRTV纪实科教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.115:8000
+BRTV卡酷少儿,http://hpcigg.icancloud.top:31415/rtp/239.3.1.189:8000
+BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
+BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.120:8000
+BRTV冬奥纪实,http://hpcigg.icancloud.top:31415/rtp/239.3.1.121:8000
+BRTV体育休闲,http://hpcigg.icancloud.top:31415/rtp/239.3.1.243:8000
 BTV国际频道,http://hpcigg.icancloud.top:31415/rtp/239.3.1.235:8000
 
 
