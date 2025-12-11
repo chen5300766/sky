@@ -435,8 +435,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://denghao.net:4022/udp/239.77.1.12:5146
-大湾区卫视,http://denghao.net:4022/udp/239.77.0.9:5146
 大湾区卫视,http://denghao.net:4022/udp/239.77.0.215:5146
+深圳卫视,http://denghao.net:4022/udp/239.77.0.9:5146
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
