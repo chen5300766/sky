@@ -16,18 +16,6 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
-深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
-湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
-江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
-浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
-东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
-四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
-山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
-
-
-
 东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
 浙江卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.28:4336
 江苏卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.78.37:4088
