@@ -1797,6 +1797,9 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 红警游戏4,https://live.iill.top/douyin/849217239257
 红警游戏5,https://live.iill.top/douyin/665005990014
 红警游戏6,https://live.iill.top/douyin/248783169107
+黑神话悟空游戏1,https://live.iill.top/douyin/131600101322
+黑神话悟空游戏2,https://live.iill.top/douyin/657110444077
+黑神话悟空游戏3,https://live.iill.top/douyin/874321459385
 英雄联盟,https://live.iill.top/douyin/858402080872
 英雄联盟官方赛事,https://live.iill.top/douyin/913226472246
 逻辑与谎言狼人杀,https://live.iill.top/douyin/581239137637
