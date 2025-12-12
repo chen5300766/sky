@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -281,6 +281,26 @@ RTHK31,https://live.catvod.com/iptv.php?id=oplzcxgo
 龙华偶像,https://live.catvod.com/iptv.php?id=g4g22eig
 龙华日韩,https://live.catvod.com/iptv.php?id=eimvk9bl
 龙华洋片,https://live.catvod.com/iptv.php?id=d4zbki3g
+
+
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+邵氏电影,http://iptv.4666888.xyz/iptv2A.php?id=39
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=49
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+TVB新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 
 
 卫视电影台-印度,https://tzh911.qzz.io/play-smt.php?id=starmaamovies_raj
