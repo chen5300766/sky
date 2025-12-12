@@ -447,13 +447,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-大湾区卫视,http://121.9.14.195:50085/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
-
-
-大湾区卫视,http://denghao.net:4022/udp/239.77.1.12:5146
-大湾区卫视,http://denghao.net:4022/udp/239.77.0.215:5146
-深圳卫视,http://denghao.net:4022/udp/239.77.0.9:5146
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
