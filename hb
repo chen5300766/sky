@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-14,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -896,10 +896,11 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 假面骑士,https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/hy/20985813.flv
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/hy/20969113.flv
 葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#http://cfss.cc/cdn/hy/20985834.flv
-
+神奇宝贝,https://www.goodiptv.club/huya/21241784#http://cfss.cc/cdn/hy/21241784.flv
 
 
 ❤️虎牙影院,#genre#
+大神级现场的直播间,https://www.goodiptv.club/huya/21241817#http://cfss.cc/cdn/hy/21241817.flv
 亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#http://cfss.cc/cdn/hy/136154.flv
 甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#http://cfss.cc/cdn/hy/30080159.flv
 有点意思的直播间,https://www.goodiptv.club/huya/20985824#http://cfss.cc/cdn/hy/20985824.flv
