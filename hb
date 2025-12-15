@@ -630,9 +630,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-中国电影,http://183.162.120.241:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -1545,6 +1542,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 炊事班的故事第三部,https://live.188766.xyz/yy/1382736716
 武林客栈,https://live.188766.xyz/yy/1382773728
 娘亲舅大,https://live.188766.xyz/yy/1354932360
+情满四合院,https://live.188766.xyz/yy/1382851524#https://live.188766.xyz/yy/1382736848#https://live.188766.xyz/yy/1382745089#https://live.188766.xyz/yy/1382735541
 陈情令,https://live.188766.xyz/yy/1382745121
 速度与激情全集,https://live.188766.xyz/yy/1382749892
 速度与激情全集,https://live.188766.xyz/yy/1382736911
