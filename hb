@@ -625,7 +625,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-中国电影	http://183.162.120.241:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影,http://183.162.120.241:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
