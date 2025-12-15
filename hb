@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-14,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-15,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -299,8 +299,6 @@ TVB新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 
-
-卫视电影台-印度,https://tzh911.qzz.io/play-smt.php?id=starmaamovies_raj
 
 
 📡央视电视台,#genre#
@@ -627,8 +625,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://113.26.251.182:8009/hls/59/index.m3u8
+中国电影	http://183.162.120.241:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
