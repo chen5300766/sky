@@ -1,6 +1,6 @@
 🐼公告,#genre#
-温馨提醒,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+温馨提醒,https://codeberg.org/chen5500/sky/raw/branch/master/mp4/%E9%BB%84%E9%B9%A4%E6%A5%BC.mp4
+此电视源,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
