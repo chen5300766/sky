@@ -1,9 +1,9 @@
 🐼公告,#genre#
 温馨提醒,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-此电视源,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+此电视源,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+湖北武汉,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 2025-12-16,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
