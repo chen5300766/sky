@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-2025-12-15,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-16,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1290,6 +1290,8 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 脱口秀,https://www.goodiptv.club/huya/11352875#http://cfss.cc/cdn/hy/11352875.flv
 王牌综艺,https://www.goodiptv.club/huya/29982625#http://cfss.cc/cdn/hy/29982625.flv
 欢乐喜剧人第七季,https://www.goodiptv.club/huya/30080194#http://cfss.cc/cdn/hy/30080194.flv
+中国通史,http://cfss.cc/cdn/hy/20985822.flv
+宝藏,https://www.goodiptv.club/huya/20985854#http://cfss.cc/cdn/hy/20985854.flv
 重温春晚爆笑经典小品,https://www.goodiptv.club/huya/11602068#http://cfss.cc/cdn/hy/11602068.flv
 英雄联盟赛事,https://www.goodiptv.club/huya/660000#http://cfss.cc/cdn/hy/660000.flv
 永劫无间赛事,https://www.goodiptv.club/huya/660115#http://cfss.cc/cdn/hy/660115.flv
