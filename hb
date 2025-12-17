@@ -1382,6 +1382,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 烟雨抚风直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=11649079#http://zzy789.xyz/douyu1.php?id=11649079
 【60帧原画】真的打不服,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876#http://zzy789.xyz/douyu1.php?id=323876
 小毅喜剧剧场--家有儿女1-4,http://huanqiuzhibo.cn/manifest/douyu.php?id=11851549#http://zzy789.xyz/douyu1.php?id=11851549
+【奇光】终极系列,http://huanqiuzhibo.cn/manifest/douyu.php?id=11849873#http://zzy789.xyz/douyu1.php?id=11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741#http://zzy789.xyz/douyu1.php?id=1226741
 小猪忧版剧院,http://huanqiuzhibo.cn/manifest/douyu.php?id=10297898#http://zzy789.xyz/douyu1.php?id=10297898
 看看老电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=585642#http://zzy789.xyz/douyu1.php?id=585642
@@ -1851,14 +1852,13 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 林正英6,https://www.goodiptv.club/huya/396734#http://cfss.cc/cdn/hy/396734.flv
 林正英7,http://huanqiuzhibo.cn/manifest/douyu.php?id=12176174#http://zzy789.xyz/douyu1.php?id=12176174
 林正英8,https://www.goodiptv.club/huya/25256065#http://cfss.cc/cdn/hy/25256065.flv
-林正英9,http://huanqiuzhibo.cn/manifest/douyu.php?id=11849873#http://zzy789.xyz/douyu1.php?id=11849873
-林正英10,http://cfss.cc/cdn/yy/1382780025.flv#https://live.188766.xyz/yy/1382780025
-林正英11,http://cfss.cc/cdn/yy/1455891197.flv#https://live.188766.xyz/yy/1455891197
-林正英12,https://www.goodiptv.club/huya/30830295#http://cfss.cc/cdn/hy/30830295.flv
-林正英13,https://www.goodiptv.club/huya/30695684#http://cfss.cc/cdn/hy/30695684.flv
-林正英14,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
-林正英15,https://live.188766.xyz/yy/1462895099
-林正英16,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
+林正英9,http://cfss.cc/cdn/yy/1382780025.flv#https://live.188766.xyz/yy/1382780025
+林正英10,http://cfss.cc/cdn/yy/1455891197.flv#https://live.188766.xyz/yy/1455891197
+林正英11,https://www.goodiptv.club/huya/30830295#http://cfss.cc/cdn/hy/30830295.flv
+林正英12,https://www.goodiptv.club/huya/30695684#http://cfss.cc/cdn/hy/30695684.flv
+林正英13,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
+林正英14,https://live.188766.xyz/yy/1462895099
+林正英15,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
 经典鬼片3000部,https://live.188766.xyz/yy/29460894
 恐怖电影 林正英 僵尸 鬼片 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635#http://zzy789.xyz/douyu1.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/hy/11601960.flv
