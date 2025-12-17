@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-16,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -14,6 +14,27 @@
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.65:5146
+广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.66:5146
+深圳卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.67:5146
+湖南卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.56:5146
+江苏卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.57:5146
+浙江卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.58:5146
+东方卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.59:5146
+四川卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.60:5146
+山东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.61:5146
+
+
+湖南卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.72:4056
+江苏卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.73:4056
+浙江卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.75:4056
+东方卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.76:4056
+山东卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.78:4056
+四川卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.80:4056
+广东卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.252:4056
+深圳卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.254:4056
 
 
 东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
@@ -761,6 +782,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 
 
 中华特产,http://sh.lnott.top:880/dx83.m3u8
