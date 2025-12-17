@@ -377,9 +377,6 @@ CCTV风云剧场,http://yun.igeizhe.com:2000/rtp/238.1.79.62:4632
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
-CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
-CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
-
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
 
@@ -625,7 +622,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
-天元围棋,http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
