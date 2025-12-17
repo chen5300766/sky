@@ -1557,7 +1557,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://live.188766.xyz/yy/1382851576
 我爱我家,http://cfss.cc/cdn/yy/1382851580.flv#https://live.188766.xyz/yy/1382851580
 血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#https://live.188766.xyz/yy/1354936136
-黄飞鸿,http://cfss.cc/cdn/yy/1382736841.flv#https://live.188766.xyz/yy/1382736841
 不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.188766.xyz/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.188766.xyz/yy/1382736816
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.188766.xyz/yy/1382736917
@@ -1571,6 +1570,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 武林客栈,https://live.188766.xyz/yy/1382773728
 娘亲舅大,https://live.188766.xyz/yy/1354932360
 情满四合院,https://live.188766.xyz/yy/1382851524#https://live.188766.xyz/yy/1382736848#https://live.188766.xyz/yy/1382745089#https://live.188766.xyz/yy/1382735541
+北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#https://live.188766.xyz/yy/1382744423
 陈情令,https://live.188766.xyz/yy/1382745121
 速度与激情全集,https://live.188766.xyz/yy/1382749892
 速度与激情全集,https://live.188766.xyz/yy/1382736911
@@ -1672,9 +1672,11 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 金庸剧场,https://live.188766.xyz/yy/1356043609
 真心英雄-无畏前行,https://live.188766.xyz/yy/1354889042
 洪金宝福星系列,https://live.188766.xyz/yy/1354924839
-成龙系列,https://live.188766.xyz/yy/1354888751
+成龙系列1,https://live.188766.xyz/yy/1354888751
+成龙系列2,http://cfss.cc/cdn/yy/1382736841.flv#https://live.188766.xyz/yy/1382736841
 达叔系列,https://live.188766.xyz/yy/1354888728
 甄子丹系列,https://live.188766.xyz/yy/1382736890
+洪金宝系列,https://live.188766.xyz/yy/1354888743
 精武英雄-李连杰,https://live.188766.xyz/yy/1382736873
 叶问全集,https://live.188766.xyz/yy/1382828771
 东海龙棺,https://live.188766.xyz/yy/1354930968
