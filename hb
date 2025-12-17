@@ -1372,6 +1372,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 橙記-弹幕看剧间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169#http://zzy789.xyz/douyu1.php?id=4549169
 铁甲影院--庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132#http://zzy789.xyz/douyu1.php?id=1274132
 庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810#http://zzy789.xyz/douyu1.php?id=7812810
+庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=329876#http://zzy789.xyz/douyu1.php?id=329876
 经典老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=12015111#http://zzy789.xyz/douyu1.php?id=12015111
 老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=8543072#http://zzy789.xyz/douyu1.php?id=8543072
 岁月经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=11756388#http://zzy789.xyz/douyu1.php?id=11756388
@@ -1450,7 +1451,6 @@ dx雾黎直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=10935839#http://z
 任志飞直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=12501387#http://zzy789.xyz/douyu1.php?id=12501387
 士兵突击,http://huanqiuzhibo.cn/manifest/douyu.php?id=10348728#http://zzy789.xyz/douyu1.php?id=10348728
 4K超高清影视剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=12632716#http://zzy789.xyz/douyu1.php?id=12632716
-庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=329876#http://zzy789.xyz/douyu1.php?id=329876
 林正英【久久】下饭电视剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=8371123#http://zzy789.xyz/douyu1.php?id=8371123
 kk6506直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4579455#http://zzy789.xyz/douyu1.php?id=4579455
 肖胜350的直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=7338853#http://zzy789.xyz/douyu1.php?id=7338853
