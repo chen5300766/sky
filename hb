@@ -1531,8 +1531,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#https://live.188766.xyz/yy/1508456184
 闯关东,http://cfss.cc/cdn/yy/1354689861.flv#https://live.188766.xyz/yy/1354689861
 父母爱情,http://cfss.cc/cdn/yy/1382768483.flv#https://live.188766.xyz/yy/1382768483
-父母爱情,https://live.188766.xyz/yy/1382851594#https://live.188766.xyz/yy/1382851594
-父母爱情,https://live.188766.xyz/yy/1354926650#https://live.188766.xyz/yy/1354926650
+父母爱情,https://live.188766.xyz/yy/1382851594
+父母爱情,https://live.188766.xyz/yy/1354926650
 大染坊,http://cfss.cc/cdn/yy/1353215589.flv#https://live.188766.xyz/yy/1353215589
 珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#https://live.188766.xyz/yy/1354936234
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://live.188766.xyz/yy/1382735547
