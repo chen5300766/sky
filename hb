@@ -1371,6 +1371,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 贝贝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460#http://zzy789.xyz/douyu1.php?id=431460
 橙記-弹幕看剧间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169#http://zzy789.xyz/douyu1.php?id=4549169
 铁甲影院--庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132#http://zzy789.xyz/douyu1.php?id=1274132
+庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810#http://zzy789.xyz/douyu1.php?id=7812810
 经典老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=12015111#http://zzy789.xyz/douyu1.php?id=12015111
 老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=8543072#http://zzy789.xyz/douyu1.php?id=8543072
 岁月经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=11756388#http://zzy789.xyz/douyu1.php?id=11756388
@@ -1382,6 +1383,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 烟雨抚风直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=11649079#http://zzy789.xyz/douyu1.php?id=11649079
 【60帧原画】真的打不服,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876#http://zzy789.xyz/douyu1.php?id=323876
 小毅喜剧剧场--家有儿女1-4,http://huanqiuzhibo.cn/manifest/douyu.php?id=11851549#http://zzy789.xyz/douyu1.php?id=11851549
+小毅喜剧剧场--快乐星球1-3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1446150#http://zzy789.xyz/douyu1.php?id=1446150
 【奇光】终极系列,http://huanqiuzhibo.cn/manifest/douyu.php?id=11849873#http://zzy789.xyz/douyu1.php?id=11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741#http://zzy789.xyz/douyu1.php?id=1226741
 小猪忧版剧院,http://huanqiuzhibo.cn/manifest/douyu.php?id=10297898#http://zzy789.xyz/douyu1.php?id=10297898
@@ -1885,7 +1887,8 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 关于我和鬼变成家人的那件事,https://live.188766.xyz/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv
 老烟斗鬼故事,http://huanqiuzhibo.cn/manifest/douyu.php?id=2337939#http://zzy789.xyz/douyu1.php?id=2337939
 活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#http://cfss.cc/cdn/hy/30080183.flv
-我和僵尸有个约会,https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/hy/21059571.flv
+我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/hy/21059571.flv
+我和僵尸有个约会2,http://huanqiuzhibo.cn/manifest/douyu.php?id=8637229#http://zzy789.xyz/douyu1.php?id=8637229
 惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#https://live.188766.xyz/yy/1355052097
 鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#http://cfss.cc/cdn/hy/23728674.flv
 海外经典恐怖片,https://www.goodiptv.club/huya/20985852#http://cfss.cc/cdn/hy/20985852.flv
