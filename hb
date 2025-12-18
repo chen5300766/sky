@@ -27,49 +27,6 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 山东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.61:5146
 
 
-湖南卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.72:4056
-江苏卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.73:4056
-浙江卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.75:4056
-东方卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.76:4056
-山东卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.78:4056
-四川卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.80:4056
-广东卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.252:4056
-深圳卫视-4K,http://score.9498345.xyz:16618/udp/239.81.0.254:4056
-
-
-东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
-浙江卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.28:4336
-江苏卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.78.37:4088
-广东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.25:4312
-四川卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.51:4520
-湖南卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.38:4416
-深圳卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.26:4320
-山东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.29:4344
-北京卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.24:4304
-
-
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
-深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
-湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
-江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
-浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
-东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
-四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
-山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
-
-
-深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
-湖南卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.56:5146
-江苏卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.57:5146
-浙江卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.58:5146
-东方卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.59:5146
-四川卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.60:5146
-山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
-
-
 湖南卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
 浙江卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
 江苏卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
@@ -453,7 +410,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-大湾区卫视,http://www.bigyan.cn:8225/udp/239.77.1.12:5146
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
@@ -681,26 +637,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 热播剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.194:9020
 经典电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.195:9024
 爱上4K,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.236:2000
-
-
-华语影院,http://home.yixi.pro:10043/udp/239.93.0.138:5140
-星光院线,http://home.yixi.pro:10043/udp/239.93.0.139:5140
-全球大片,http://home.yixi.pro:10043/udp/239.93.0.105:5140
-谍战剧场,http://home.yixi.pro:10043/udp/239.93.0.95:5140
-
-
-
-华语影院,http://pve.cdbackup.cn:8888/udp/239.93.0.138:5140
-星光院线,http://pve.cdbackup.cn:8888/udp/239.93.0.139:5140
-全球大片,http://pve.cdbackup.cn:8888/udp/239.93.0.105:5140
-谍战剧场,http://pve.cdbackup.cn:8888/udp/239.93.0.95:5140
-
-
-华语影院,http://yuzhe.ltd:5555/udp/239.93.0.138:5140
-星光院线,http://yuzhe.ltd:5555/udp/239.93.0.139:5140
-全球大片,http://yuzhe.ltd:5555/udp/239.93.0.105:5140
-谍战剧场,http://yuzhe.ltd:5555/udp/239.93.0.95:5140
-
 
 
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
