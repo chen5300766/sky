@@ -362,20 +362,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073#http://www.qfly9236.cn:8888/rtp/239.253.93.251:6429
-CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.93.175:6439#http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
+CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
+CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
 
-CCTV风云剧场,http://jf.aisio.cn:8266/rtp/239.253.93.251:6429#http://jf.aisio.cn:8266/rtp/239.253.92.22:6073
-CCTV文化精品,http://jf.aisio.cn:8266/rtp/239.253.93.175:6439#http://jf.aisio.cn:8266/rtp/239.253.92.25:6104
-
-CCTV文化精品,http://www.sjwyp.com:4022/rtp/239.254.201.229:7260
-CCTV风云剧场,http://www.sjwyp.com:4022/rtp/239.254.201.219:7257#http://www.sjwyp.com:4022/rtp/239.254.200.94:6228
-
-CCTV文化精品,http://yun.igeizhe.com:2000/rtp/238.1.79.54:4568
-CCTV风云剧场,http://yun.igeizhe.com:2000/rtp/238.1.79.62:4632
-
-CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
-CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
