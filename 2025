@@ -3,7 +3,7 @@
 此电视源,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-15,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📽4K测试频道,#genre#
@@ -15,37 +15,15 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-东方卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.39:4428
-浙江卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.28:4336
-江苏卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.78.37:4088
-广东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.25:4312
-四川卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.51:4520
-湖南卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.38:4416
-深圳卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.26:4320
-山东卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.29:4344
-北京卫视-4K,http://yun.igeizhe.com:2000/rtp/238.1.79.24:4304
-
-
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.65:5146
-广东卫视-4K,http://denghao.net:4022/udp/239.77.0.66:5146
-深圳卫视-4K,http://denghao.net:4022/udp/239.77.0.67:5146
-湖南卫视-4K,http://denghao.net:4022/udp/239.77.0.56:5146
-江苏卫视-4K,http://denghao.net:4022/udp/239.77.0.57:5146
-浙江卫视-4K,http://denghao.net:4022/udp/239.77.0.58:5146
-东方卫视-4K,http://denghao.net:4022/udp/239.77.0.59:5146
-四川卫视-4K,http://denghao.net:4022/udp/239.77.0.60:5146
-山东卫视-4K,http://denghao.net:4022/udp/239.77.0.61:5146
-
-
-深圳卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.67:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.65:5146
-广东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.66:5146
-湖南卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.56:5146
-江苏卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.57:5146
-浙江卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.58:5146
-东方卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.59:5146
-四川卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.60:5146
-山东卫视-4K,http://www.bigyan.cn:8225/udp/239.77.0.61:5146
+广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.65:5146
+广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.66:5146
+深圳卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.67:5146
+湖南卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.56:5146
+江苏卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.57:5146
+浙江卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.58:5146
+东方卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.59:5146
+四川卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.60:5146
+山东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.61:5146
 
 
 湖南卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
@@ -1076,6 +1054,72 @@ CHC影迷电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230483/1.
 百事通10,http://111.48.246.74/000000001000PLTV/88888888/224/3221230069/1.m3u8
 
 
+📡湖北移动3,#genre#
+CCTV1,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
+CCTV2,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
+CCTV3,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
+CCTV4,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
+CCTV5,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
+CCTV5+,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
+CCTV6,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000392
+CCTV7,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000358
+CCTV8,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000393
+CCTV9,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000359
+CCTV10,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000360
+CCTV11,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000583
+CCTV12,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000361
+CCTV13,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000514
+CCTV14,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362
+CCTV15,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
+CCTV16,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
+CCTV16-4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
+CCTV17,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
+世界地理,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
+第一剧场,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
+动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
+影迷电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
+湖北卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
+湖南卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000174
+安徽卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000325
+江苏卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000177
+辽宁卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000326
+北京卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000173
+东南卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000346
+广东卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000197
+河北卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000447
+河南卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000463
+吉林卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000528
+山东卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000324
+上海卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000198
+天津卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000323
+浙江卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000195
+湖北电视台,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
+湖北公共新闻,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
+湖北教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
+湖北经视,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
+湖北影视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518
+武汉教育,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369
+武汉科技生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
+武汉文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000431
+武汉新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429
+武汉电视剧,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430
+荆州垄上,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000378
+荆州垄上,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600
+荆州新闻,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000311
+十堰经济旅游,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000399
+十堰新闻,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000400
+孝感生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000552
+孝感新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000551
+秭归融媒,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000473
+汉川新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000529
+襄阳公共,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000452
+襄阳经济生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000451
+襄阳综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000450
+孝昌新闻党建,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000437
+应城新闻党建,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000524
+茶频道,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425
+
+
 
 
 📡北方广电,#genre#
@@ -1879,7 +1923,6 @@ CETV2,http://www.dsk.cc/php/bfgd.php?id=cetv2
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 
-
 ❤️动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#http://cfss.cc/cdn/hy/11352974.flv
 火影疾风传1,https://live.188766.xyz/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
@@ -1899,7 +1942,7 @@ CETV2,http://www.dsk.cc/php/bfgd.php?id=cetv2
 虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#http://cfss.cc/cdn/hy/30080148.flv
 斗鱼名侦探柯南,http://huanqiuzhibo.cn/manifest/douyu.php?id=5172389#http://zzy789.xyz/douyu1.php?id=5172389
 名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#http://cfss.cc/cdn/hy/30080236.flv
-猫和老鼠,https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/hy/11352879.flv
+汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/hy/11352879.flv
 龍組队长天昊直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=1487654#http://zzy789.xyz/douyu1.php?id=1487654
 骑士不让播了，先随便播下吧,http://huanqiuzhibo.cn/manifest/douyu.php?id=1218414#http://zzy789.xyz/douyu1.php?id=1218414
 茶啊二中,https://www.goodiptv.club/huya/11213191#http://cfss.cc/cdn/hy/11213191.flv#http://zzy789.xyz/douyu1.php?id=2925610#http://huanqiuzhibo.cn/manifest/douyu.php?id=2925610
@@ -2388,6 +2431,8 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 脱口秀,https://www.goodiptv.club/huya/11352875#http://cfss.cc/cdn/hy/11352875.flv
 王牌综艺,https://www.goodiptv.club/huya/29982625#http://cfss.cc/cdn/hy/29982625.flv
 欢乐喜剧人第七季,https://www.goodiptv.club/huya/30080194#http://cfss.cc/cdn/hy/30080194.flv
+中国通史,http://cfss.cc/cdn/hy/20985822.flv
+宝藏,https://www.goodiptv.club/huya/20985854#http://cfss.cc/cdn/hy/20985854.flv
 重温春晚爆笑经典小品,https://www.goodiptv.club/huya/11602068#http://cfss.cc/cdn/hy/11602068.flv
 英雄联盟赛事,https://www.goodiptv.club/huya/660000#http://cfss.cc/cdn/hy/660000.flv
 永劫无间赛事,https://www.goodiptv.club/huya/660115#http://cfss.cc/cdn/hy/660115.flv
@@ -2445,6 +2490,8 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 贝贝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460#http://zzy789.xyz/douyu1.php?id=431460
 橙記-弹幕看剧间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169#http://zzy789.xyz/douyu1.php?id=4549169
 铁甲影院--庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132#http://zzy789.xyz/douyu1.php?id=1274132
+庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810#http://zzy789.xyz/douyu1.php?id=7812810
+庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=329876#http://zzy789.xyz/douyu1.php?id=329876
 经典老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=12015111#http://zzy789.xyz/douyu1.php?id=12015111
 老剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=8543072#http://zzy789.xyz/douyu1.php?id=8543072
 岁月经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=11756388#http://zzy789.xyz/douyu1.php?id=11756388
@@ -2455,7 +2502,9 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 傲娇的超级赛亚人直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4373285#http://zzy789.xyz/douyu1.php?id=4373285
 烟雨抚风直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=11649079#http://zzy789.xyz/douyu1.php?id=11649079
 【60帧原画】真的打不服,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876#http://zzy789.xyz/douyu1.php?id=323876
-小毅喜剧剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=11851549#http://zzy789.xyz/douyu1.php?id=11851549
+小毅喜剧剧场--家有儿女1-4,http://huanqiuzhibo.cn/manifest/douyu.php?id=11851549#http://zzy789.xyz/douyu1.php?id=11851549
+小毅喜剧剧场--快乐星球1-3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1446150#http://zzy789.xyz/douyu1.php?id=1446150
+【奇光】终极系列,http://huanqiuzhibo.cn/manifest/douyu.php?id=11849873#http://zzy789.xyz/douyu1.php?id=11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741#http://zzy789.xyz/douyu1.php?id=1226741
 小猪忧版剧院,http://huanqiuzhibo.cn/manifest/douyu.php?id=10297898#http://zzy789.xyz/douyu1.php?id=10297898
 看看老电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=585642#http://zzy789.xyz/douyu1.php?id=585642
@@ -2521,7 +2570,6 @@ dx雾黎直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=10935839#http://z
 任志飞直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=12501387#http://zzy789.xyz/douyu1.php?id=12501387
 士兵突击,http://huanqiuzhibo.cn/manifest/douyu.php?id=10348728#http://zzy789.xyz/douyu1.php?id=10348728
 4K超高清影视剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=12632716#http://zzy789.xyz/douyu1.php?id=12632716
-庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=329876#http://zzy789.xyz/douyu1.php?id=329876
 林正英【久久】下饭电视剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=8371123#http://zzy789.xyz/douyu1.php?id=8371123
 kk6506直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=4579455#http://zzy789.xyz/douyu1.php?id=4579455
 肖胜350的直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=7338853#http://zzy789.xyz/douyu1.php?id=7338853
@@ -2601,8 +2649,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#https://live.188766.xyz/yy/1508456184
 闯关东,http://cfss.cc/cdn/yy/1354689861.flv#https://live.188766.xyz/yy/1354689861
 父母爱情,http://cfss.cc/cdn/yy/1382768483.flv#https://live.188766.xyz/yy/1382768483
-父母爱情,https://live.188766.xyz/yy/1382851594#https://live.188766.xyz/yy/1382851594
-父母爱情,https://live.188766.xyz/yy/1354926650#https://live.188766.xyz/yy/1354926650
+父母爱情,https://live.188766.xyz/yy/1382851594
+父母爱情,https://live.188766.xyz/yy/1354926650
 大染坊,http://cfss.cc/cdn/yy/1353215589.flv#https://live.188766.xyz/yy/1353215589
 珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#https://live.188766.xyz/yy/1354936234
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://live.188766.xyz/yy/1382735547
@@ -2627,7 +2675,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://live.188766.xyz/yy/1382851576
 我爱我家,http://cfss.cc/cdn/yy/1382851580.flv#https://live.188766.xyz/yy/1382851580
 血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#https://live.188766.xyz/yy/1354936136
-黄飞鸿,http://cfss.cc/cdn/yy/1382736841.flv#https://live.188766.xyz/yy/1382736841
 不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.188766.xyz/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.188766.xyz/yy/1382736816
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.188766.xyz/yy/1382736917
@@ -2640,6 +2687,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 炊事班的故事第三部,https://live.188766.xyz/yy/1382736716
 武林客栈,https://live.188766.xyz/yy/1382773728
 娘亲舅大,https://live.188766.xyz/yy/1354932360
+情满四合院,https://live.188766.xyz/yy/1382851524#https://live.188766.xyz/yy/1382736848#https://live.188766.xyz/yy/1382745089#https://live.188766.xyz/yy/1382735541
+北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#https://live.188766.xyz/yy/1382744423
 陈情令,https://live.188766.xyz/yy/1382745121
 速度与激情全集,https://live.188766.xyz/yy/1382749892
 速度与激情全集,https://live.188766.xyz/yy/1382736911
@@ -2741,9 +2790,11 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 金庸剧场,https://live.188766.xyz/yy/1356043609
 真心英雄-无畏前行,https://live.188766.xyz/yy/1354889042
 洪金宝福星系列,https://live.188766.xyz/yy/1354924839
-成龙系列,https://live.188766.xyz/yy/1354888751
+成龙系列1,https://live.188766.xyz/yy/1354888751
+成龙系列2,http://cfss.cc/cdn/yy/1382736841.flv#https://live.188766.xyz/yy/1382736841
 达叔系列,https://live.188766.xyz/yy/1354888728
 甄子丹系列,https://live.188766.xyz/yy/1382736890
+洪金宝系列,https://live.188766.xyz/yy/1354888743
 精武英雄-李连杰,https://live.188766.xyz/yy/1382736873
 叶问全集,https://live.188766.xyz/yy/1382828771
 东海龙棺,https://live.188766.xyz/yy/1354930968
@@ -2783,6 +2834,7 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 
 ❤️哔哩哔哩影院,#genre#
 名侦探柯南,https://www.goodiptv.club/bilibili/1861787455#https://www.goodiptv.club/bilibili/1948970250#https://www.goodiptv.club/bilibili/1750972256#https://www.goodiptv.club/bilibili/1884965652#https://www.goodiptv.club/bilibili/1883941437
+汤姆与杰瑞,https://www.goodiptv.club/bilibili/5442624
 虹猫蓝兔系列,https://www.goodiptv.club/bilibili/31913902
 数码宝贝,https://www.goodiptv.club/bilibili/32385235
 小芯剧场,https://www.goodiptv.club/bilibili/1776261061
@@ -2922,14 +2974,13 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 林正英6,https://www.goodiptv.club/huya/396734#http://cfss.cc/cdn/hy/396734.flv
 林正英7,http://huanqiuzhibo.cn/manifest/douyu.php?id=12176174#http://zzy789.xyz/douyu1.php?id=12176174
 林正英8,https://www.goodiptv.club/huya/25256065#http://cfss.cc/cdn/hy/25256065.flv
-林正英9,http://huanqiuzhibo.cn/manifest/douyu.php?id=11849873#http://zzy789.xyz/douyu1.php?id=11849873
-林正英10,http://cfss.cc/cdn/yy/1382780025.flv#https://live.188766.xyz/yy/1382780025
-林正英11,http://cfss.cc/cdn/yy/1455891197.flv#https://live.188766.xyz/yy/1455891197
-林正英12,https://www.goodiptv.club/huya/30830295#http://cfss.cc/cdn/hy/30830295.flv
-林正英13,https://www.goodiptv.club/huya/30695684#http://cfss.cc/cdn/hy/30695684.flv
-林正英14,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
-林正英15,https://live.188766.xyz/yy/1462895099
-林正英16,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
+林正英9,http://cfss.cc/cdn/yy/1382780025.flv#https://live.188766.xyz/yy/1382780025
+林正英10,http://cfss.cc/cdn/yy/1455891197.flv#https://live.188766.xyz/yy/1455891197
+林正英11,https://www.goodiptv.club/huya/30830295#http://cfss.cc/cdn/hy/30830295.flv
+林正英12,https://www.goodiptv.club/huya/30695684#http://cfss.cc/cdn/hy/30695684.flv
+林正英13,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
+林正英14,https://live.188766.xyz/yy/1462895099
+林正英15,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
 经典鬼片3000部,https://live.188766.xyz/yy/29460894
 恐怖电影 林正英 僵尸 鬼片 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635#http://zzy789.xyz/douyu1.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/hy/11601960.flv
@@ -2956,7 +3007,8 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 关于我和鬼变成家人的那件事,https://live.188766.xyz/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv
 老烟斗鬼故事,http://huanqiuzhibo.cn/manifest/douyu.php?id=2337939#http://zzy789.xyz/douyu1.php?id=2337939
 活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#http://cfss.cc/cdn/hy/30080183.flv
-我和僵尸有个约会,https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/hy/21059571.flv
+我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/hy/21059571.flv
+我和僵尸有个约会2,http://huanqiuzhibo.cn/manifest/douyu.php?id=8637229#http://zzy789.xyz/douyu1.php?id=8637229
 惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#https://live.188766.xyz/yy/1355052097
 鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#http://cfss.cc/cdn/hy/23728674.flv
 海外经典恐怖片,https://www.goodiptv.club/huya/20985852#http://cfss.cc/cdn/hy/20985852.flv
