@@ -321,6 +321,8 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
 CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
 
+CCTV风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073#http://www.qfly9236.cn:8888/rtp/239.253.93.251:6429
+CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.93.175:6439#http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
