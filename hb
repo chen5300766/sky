@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -823,7 +823,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#http://cfss.cc/cdn/hy/30080148.flv
 斗鱼名侦探柯南,http://huanqiuzhibo.cn/manifest/douyu.php?id=5172389#http://zzy789.xyz/douyu1.php?id=5172389
 名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#http://cfss.cc/cdn/hy/30080236.flv
-猫和老鼠,https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/hy/11352879.flv
+汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/hy/11352879.flv
 龍組队长天昊直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=1487654#http://zzy789.xyz/douyu1.php?id=1487654
 骑士不让播了，先随便播下吧,http://huanqiuzhibo.cn/manifest/douyu.php?id=1218414#http://zzy789.xyz/douyu1.php?id=1218414
 茶啊二中,https://www.goodiptv.club/huya/11213191#http://cfss.cc/cdn/hy/11213191.flv#http://zzy789.xyz/douyu1.php?id=2925610#http://huanqiuzhibo.cn/manifest/douyu.php?id=2925610
@@ -1715,6 +1715,7 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 
 ❤️哔哩哔哩影院,#genre#
 名侦探柯南,https://www.goodiptv.club/bilibili/1861787455#https://www.goodiptv.club/bilibili/1948970250#https://www.goodiptv.club/bilibili/1750972256#https://www.goodiptv.club/bilibili/1884965652#https://www.goodiptv.club/bilibili/1883941437
+汤姆与杰瑞,https://www.goodiptv.club/bilibili/5442624
 虹猫蓝兔系列,https://www.goodiptv.club/bilibili/31913902
 数码宝贝,https://www.goodiptv.club/bilibili/32385235
 小芯剧场,https://www.goodiptv.club/bilibili/1776261061
