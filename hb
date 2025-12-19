@@ -589,12 +589,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.qfly9236.cn:8888/rtp/239.253.93.211:6389
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
 天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
-天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
+
 
 
 劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-劲爆体育,http://183.7.147.195:8081/hls/68/index.m3u8
+劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡电视影院,#genre#
@@ -719,7 +718,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 新视觉,http://14.21.90.68:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://59.32.97.101:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
@@ -736,6 +735,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
+中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中华特产,http://sh.lnott.top:880/dx83.m3u8
