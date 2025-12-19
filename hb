@@ -1722,6 +1722,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 王座围棋,https://live.iill.top/douyin/195425976790
 悠悠围棋,https://live.iill.top/douyin/786576873442
 天龙围棋,https://live.iill.top/douyin/73311988970
+秦弈围棋俱乐部,https://live.iill.top/douyin/520034088394
 象棋大师党斐,https://live.iill.top/douyin/839389806623
 不二象棋,https://live.iill.top/douyin/538578814625
 白雪~中国象棋,https://live.iill.top/douyin/980822437011
