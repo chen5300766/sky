@@ -868,6 +868,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/hy/20969113.flv
 葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#http://cfss.cc/cdn/hy/20985834.flv
 神奇宝贝,https://www.goodiptv.club/huya/21241784#http://cfss.cc/cdn/hy/21241784.flv
+无上神帝,https://www.goodiptv.club/huya/11352892#http://cfss.cc/cdn/hy/11352892.flv
 
 
 ❤️虎牙影院,#genre#
@@ -1010,6 +1011,11 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 纳尼亚传奇 博物馆奇妙夜系列,https://www.goodiptv.club/huya/30080188#http://cfss.cc/cdn/hy/30080188.flv
 欧美科幻片,https://www.goodiptv.club/huya/30080156#http://cfss.cc/cdn/hy/30080156.flv
 经典悬疑犯罪美剧,https://www.goodiptv.club/huya/20985825#http://cfss.cc/cdn/hy/20985825.flv
+热血军营女孩诞生记,https://www.goodiptv.club/huya/21241844#http://cfss.cc/cdn/hy/21241844.flv
+霹雳MIT,https://www.goodiptv.club/huya/11352905#http://cfss.cc/cdn/hy/11352905.flv 
+经典国产剧,https://www.goodiptv.club/huya/21241786#http://cfss.cc/cdn/hy/21241786.flv 
+希望的田野,https://www.goodiptv.club/huya/21241831#http://cfss.cc/cdn/hy/21241831.flv
+刑侦犯罪心理--超感警探,https://www.goodiptv.club/huya/21241841#http://cfss.cc/cdn/hy/21241841.flv
 画皮,https://www.goodiptv.club/huya/20985826#http://cfss.cc/cdn/hy/20985826.flv
 西部影坛,https://www.goodiptv.club/huya/30311497#http://cfss.cc/cdn/hy/30311497.flv
 怪兽打架x异形世界,https://www.goodiptv.club/huya/21059577#http://cfss.cc/cdn/hy/21059577.flv
