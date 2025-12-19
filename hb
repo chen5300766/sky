@@ -733,9 +733,9 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 墨宝,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.83:4120
 
 
-
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
+中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
 
 
 中华特产,http://sh.lnott.top:880/dx83.m3u8
