@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -719,6 +719,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://14.21.90.68:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://59.32.97.101:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
