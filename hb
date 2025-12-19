@@ -1678,6 +1678,9 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 小芯剧场,https://www.goodiptv.club/bilibili/1776261061
 蜡笔小新,https://www.goodiptv.club/bilibili/1949980580#https://www.goodiptv.club/bilibili/27958117#https://www.goodiptv.club/bilibili/24337962#https://www.goodiptv.club/bilibili/1830099205#https://www.goodiptv.club/bilibili/30150311
 加菲猫/成龙/海绵宝宝/猫和老鼠/憨豆轮播,https://www.goodiptv.club/bilibili/27553975
+杰克奥特曼,https://www.goodiptv.club/bilibili/765452
+奥特曼,https://www.goodiptv.club/bilibili/5240517
+海绵宝宝,https://www.goodiptv.club/bilibili/14495324
 少儿频道（日间）,https://www.goodiptv.club/bilibili/5572613
 搞笑一家人,https://www.goodiptv.club/bilibili/27505427
 康熙微服私访记,https://www.goodiptv.club/bilibili/25860180
