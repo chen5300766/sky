@@ -4,7 +4,7 @@
 湖北武汉,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-20,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1575,7 +1575,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#https://live.188766.xyz/yy/1354806550
 铁道游击队,http://cfss.cc/cdn/yy/1453955779.flv#https://live.188766.xyz/yy/1453955779
 憨豆先生-经典喜剧,http://cfss.cc/cdn/yy/1354936239.flv#https://live.188766.xyz/yy/1354936239
-憨豆先生,https://live.188766.xyz/yy/1354930189
+天蓬元帅,https://live.188766.xyz/yy/1354930189
 陈翔六点半之拳王妈妈,https://live.188766.xyz/yy/1382851602
 学生兵,https://live.188766.xyz/yy/1354658003#http://cfss.cc/cdn/yy/1354658003.flv
 武林外传,https://live.188766.xyz/yy/21092633#https://live.188766.xyz/yy/21092633
