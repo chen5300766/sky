@@ -1458,8 +1458,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 
 
 ❤️歪歪影院,#genre#
-康熙微服私访记,http://cfss.cc/cdn/yy/1355635293.flv#https://live.188766.xyz/yy/1355635293
-康熙微服私访记三,http://cfss.cc/cdn/yy/1356373644.flv#https://live.188766.xyz/yy/1356373644
+康熙微服私访记1,http://cfss.cc/cdn/yy/1355635293.flv#https://live.188766.xyz/yy/1355635293
+康熙微服私访记3,https://live.188766.xyz/yy/1352811698
+康熙微服私访记3,http://cfss.cc/cdn/yy/1356373644.flv#https://live.188766.xyz/yy/1356373644
 鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#https://live.188766.xyz/yy/1460463356
 鹿鼎记--陈小春,https://live.188766.xyz/yy/1382704650
 鹿鼎记--陈小春,https://live.188766.xyz/yy/28265277
@@ -1470,6 +1471,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 神雕侠侣粤语--古天乐,https://live.188766.xyz/yy/1354926637
 神雕侠侣--古天乐,https://live.188766.xyz/yy/1351762426
 83版射雕英雄传,https://live.188766.xyz/yy/1354210357
+天龙八部--黄日华,https://live.188766.xyz/yy/1351814644
 西游记--张卫健,https://live.188766.xyz/yy/1354936155
 寻秦记,https://live.188766.xyz/yy/1382749900
 深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://live.188766.xyz/yy/1382736906
@@ -1501,6 +1503,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 神探狄仁杰第一部,https://live.188766.xyz/yy/1382851575#https://live.188766.xyz/yy/1354930934
 神探狄仁杰第二部,https://live.188766.xyz/yy/1382851146#https://live.188766.xyz/yy/1382736907#https://live.188766.xyz/yy/1382736907
 神探狄仁杰1-5部,http://cfss.cc/cdn/yy/1382705592.flv#https://live.188766.xyz/yy/1382705592
+燕双鹰,https://live.188766.xyz/yy/1352227153
 蚁人,https://live.188766.xyz/yy/1382736913
 哈利波特全集,https://live.188766.xyz/yy/1382745105
 终结者,http://cfss.cc/cdn/yy/1382736851.flv#https://live.188766.xyz/yy/1382736851
@@ -1541,6 +1544,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 94版三国演义,https://live.188766.xyz/yy/1354936241
 94版三国演义,https://live.188766.xyz/yy/1354930932
 98版水浒传,https://live.188766.xyz/yy/1382702247#https://live.188766.xyz/yy/1382702247
+98版水浒传,https://live.188766.xyz/yy/1353852605
+济公,https://live.188766.xyz/yy/1355265814
 新白娘子传奇,https://live.188766.xyz/yy/1508902755
 龙凤店传奇,https://live.188766.xyz/yy/1414853673
 大汉贤后卫子夫,https://live.188766.xyz/yy/1382735569
@@ -1823,6 +1828,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 林正英13,https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/hy/30439645.flv
 林正英14,https://live.188766.xyz/yy/1462895099
 林正英15,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
+林正英16,https://live.188766.xyz/yy/1351505899
 经典鬼片3000部,https://live.188766.xyz/yy/29460894
 恐怖电影 林正英 僵尸 鬼片 经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635#http://zzy789.xyz/douyu1.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/hy/11601960.flv
