@@ -1144,6 +1144,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 花千骨,https://www.goodiptv.club/huya/26355839#http://cfss.cc/cdn/hy/26355839.flv
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#http://cfss.cc/cdn/hy/30080146.flv
 西游记,http://cfss.cc/cdn/hy/26355861.flv
+西游记续集,https://www.goodiptv.club/huya/20985836#http://cfss.cc/cdn/hy/20985836.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
 豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#http://cfss.cc/cdn/hy/20432223.flv
@@ -1442,6 +1443,7 @@ LR1245直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=12534632#http://zzy
 宋小宝经典小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9817729#http://zzy789.xyz/douyu1.php?id=9817729
 贾玲经典小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=10419541#http://zzy789.xyz/douyu1.php?id=10419541
 欢乐小饭米粒儿,http://huanqiuzhibo.cn/manifest/douyu.php?id=9403690#http://zzy789.xyz/douyu1.php?id=9403690
+经典小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9067836#http://zzy789.xyz/douyu1.php?id=9067836
 许君聪经典小品的直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=10419558#http://zzy789.xyz/douyu1.php?id=10419558
 搞笑天堂岛,http://huanqiuzhibo.cn/manifest/douyu.php?id=6916081#http://zzy789.xyz/douyu1.php?id=6916081
 多多看车--交通事故,http://huanqiuzhibo.cn/manifest/douyu.php?id=4921957#http://zzy789.xyz/douyu1.php?id=4921957
@@ -1454,6 +1456,7 @@ LR1245直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=12534632#http://zzy
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xyz/douyu1.php?id=488743
 拳皇97,http://huanqiuzhibo.cn/manifest/douyu.php?id=8387733#http://zzy789.xyz/douyu1.php?id=8387733
 阿七点歌台,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217#http://zzy789.xyz/douyu1.php?id=3186217
+音乐MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925#http://zzy789.xyz/douyu1.php?id=3870925
 
 
 
