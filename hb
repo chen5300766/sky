@@ -52,8 +52,6 @@ CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 
 
 📡稳定源,#genre#
-公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 档干教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
@@ -453,8 +451,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 房县综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.192:10794
 
 
-
-
 湖北公共新闻,http://111.48.34.138/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230441/1.m3u8
 湖北经视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229804/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230388/1.m3u8
 湖北综合,http://111.48.34.138/000000001000PLTV/88888888/224/3221229806/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230439/1.m3u8
@@ -594,6 +590,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
 
 
+公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
 📡电视影院,#genre#
 CHC动作电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230434/1.m3u8
 CHC家庭影院,http://111.48.34.138/000000001000PLTV/88888888/224/3221230481/1.m3u8
@@ -603,6 +603,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+
+
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
 
 1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
@@ -675,6 +678,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
