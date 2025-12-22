@@ -1054,7 +1054,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 狗狗影视,https://www.goodiptv.club/huya/30585838#http://cfss.cc/cdn/hy/30585838.flv
 虎牙院线,https://www.goodiptv.club/huya/16020022#http://cfss.cc/cdn/hy/16020022.flv
 小虎牙影视厅,https://www.goodiptv.club/huya/30413280#http://cfss.cc/cdn/hy/30413280.flv
-校园版《黑暗荣耀》，https://www.goodiptv.club/huya/23352563#http://cfss.cc/cdn/hy/23352563.flv
+校园版《黑暗荣耀》,https://www.goodiptv.club/huya/23352563#http://cfss.cc/cdn/hy/23352563.flv
 锤子动画,https://www.goodiptv.club/huya/30649359#http://cfss.cc/cdn/hy/30649359.flv
 陈翔六点半,https://www.goodiptv.club/huya/11274154#http://cfss.cc/cdn/hy/11274154.flv
 卧底之神无间道经典不断,https://www.goodiptv.club/huya/30585957#http://cfss.cc/cdn/hy/30585957.flv
@@ -1106,6 +1106,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 87版红楼梦,https://www.goodiptv.club/huya/30080221#http://cfss.cc/cdn/hy/30080221.flv
 大宋提刑官,https://www.goodiptv.club/huya/30080167#http://cfss.cc/cdn/hy/30080167.flv
 圆月弯刀---古天乐,https://www.goodiptv.club/huya/23652238#http://cfss.cc/cdn/hy/23652238.flv
+神隐,https://www.goodiptv.club/huya/21241837#http://cfss.cc/cdn/hy/21241837.flv
 陆贞传奇,https://www.goodiptv.club/huya/29982670#http://cfss.cc/cdn/hy/29982670.flv
 封神英雄,https://www.goodiptv.club/huya/26355865#http://cfss.cc/cdn/hy/26355865.flv
 洗冤录,https://www.goodiptv.club/huya/29465851#http://cfss.cc/cdn/hy/29465851.flv
