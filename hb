@@ -4,7 +4,7 @@
 湖北省内,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-20,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -588,6 +588,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://183.7.147.30:8081/hls/68/index.m3u8
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -720,6 +721,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://59.32.97.184:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
