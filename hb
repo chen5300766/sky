@@ -297,7 +297,6 @@ SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 
