@@ -668,7 +668,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 
 
-IPTV影院,http://score.9498345.xyz:16618/udp/239.81.0.100:4056
 IPTV影院,http://www.96335.top:4566/udp/239.81.0.100:4056
 
 
