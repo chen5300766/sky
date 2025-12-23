@@ -4,7 +4,7 @@
 湖北省内,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-23,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1715,7 +1715,7 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 还珠格格/少年包青天,https://www.goodiptv.club/bilibili/6823190
 少年包青天第一部/神探狄仁杰,https://www.goodiptv.club/bilibili/1896525489
 少年包青天1-3,https://www.goodiptv.club/bilibili/27554961
-少年包青天第一部,https://www.goodiptv.club/bilibili/27424609#https://www.goodiptv.club/bilibili/27391420
+少年包青天第一部,https://www.goodiptv.club/bilibili/14705490#https://www.goodiptv.club/bilibili/27391420
 细思极恐的直播间,https://www.goodiptv.club/bilibili/27719619
 超多短剧,https://www.goodiptv.club/bilibili/31486610
 仙剑奇侠传1+3,https://www.goodiptv.club/bilibili/15030833
