@@ -258,7 +258,6 @@ RTHK31,https://live.catvod.com/iptv.php?id=oplzcxgo
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
-東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -269,11 +268,37 @@ ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 TVB新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
+TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+博斯運動1,http://iptv.4666888.xyz/iptv2A.php?id=6
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+東森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 
 📡央视电视台,#genre#
@@ -529,7 +554,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大悟综合,https://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-31c2fe6941d7d718cec2dccab6e42412
 汉川新闻综合,http://play-hsbj.vzan.com/357534/505886811862583019/live.m3u8
 孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-948b2cf2777e352d9f83660c9b79aa3f
-应城综合,http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-683be43745bd3709006be7b43135de61
+应城综合,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-683be43745bd3709006be7b43135de61
 荆州新闻综合,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2bb0015980b1b3742cea1d78f13eb6ca
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-7dff02969ff316d795ac73c86747fd05
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
