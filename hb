@@ -4,7 +4,7 @@
 湖北省内,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-23,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -668,8 +668,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 
 
-IPTV影院,http://www.96335.top:4566/udp/239.81.0.100:4056
-
 
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
@@ -740,7 +738,6 @@ IPTV影院,http://www.96335.top:4566/udp/239.81.0.100:4056
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 
 
 中华特产,http://sh.lnott.top:880/dx83.m3u8
