@@ -1757,7 +1757,8 @@ JJ斗地主2,https://live.iill.top/douyin/348640675261
 骏仁鸿体育,https://live.iill.top/douyin/661429023796
 梦之体育,https://live.iill.top/douyin/193774533462
 篮球直播,https://live.iill.top/douyin/227582120565
-乒乓球比赛,https://live.iill.top/douyin/827201204680
+乒乓球比赛1,https://live.iill.top/douyin/827201204680
+乒乓球比赛2,https://live.iill.top/douyin/696457178335
 JJ象棋1,https://live.iill.top/douyin/684219410470
 JJ象棋2,https://live.iill.top/douyin/726291845185
 JJ象棋3,https://live.iill.top/douyin/723244410816
