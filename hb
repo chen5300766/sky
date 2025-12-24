@@ -1725,7 +1725,7 @@ JJ斗地主,https://live.188766.xyz/yy/1355501191#https://live.188766.xyz/yy/135
 
 ❤️抖音影院,#genre#
 JJ斗地主1,https://live.iill.top/douyin/685317364746
-JJ斗地主2,https://live.iill.top/douyin/333514188765
+JJ斗地主2,https://live.iill.top/douyin/348640675261
 武汉欢乐谷,https://live.iill.top/douyin/808453283617
 中央数字电视,https://live.iill.top/douyin/482342971427
 电影频道央影传媒,https://live.iill.top/douyin/208823316033
@@ -1739,6 +1739,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 悠悠围棋,https://live.iill.top/douyin/786576873442
 天龙围棋,https://live.iill.top/douyin/73311988970
 秦弈围棋俱乐部,https://live.iill.top/douyin/520034088394
+彭荃懒猫围棋,https://live.iill.top/douyin/986350625094
 象棋大师党斐,https://live.iill.top/douyin/839389806623
 不二象棋,https://live.iill.top/douyin/538578814625
 白雪~中国象棋,https://live.iill.top/douyin/980822437011
