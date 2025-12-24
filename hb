@@ -561,7 +561,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-23ad1b5ada69ec0d4796d8227f737ca6
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
 黄石新闻综合,http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
-黄石都市,https://44721-live.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3032.m3u8?auth_key=1766648599-0-0-3442c02580536855619457b406c30647&extra_key=m7oIqyVV0ixeBZSNL63PJn5vTvmsX4G0ycv6KPAqC5ZuevKhqOCqlu5wWA9tGxzOCS7TJEYZUBK-IIDheGXofEYv9es7YH9UDiefSysINM0lERFqwYONRHCC7fIRQaKm9p3hxOu9v2FbEawRRQ9L_Rb3Rb3wq5Gw4-tdejX2knw
 
 
 云梦综合,http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E6%A2%A6%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
