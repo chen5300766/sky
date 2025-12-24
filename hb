@@ -1,9 +1,6 @@
 🐼公告,#genre#
-温馨提醒,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
-此电视源,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
-湖北省内,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-自家观看,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+温馨提醒,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
+更新时间,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 2025-12-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
