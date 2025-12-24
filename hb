@@ -1745,6 +1745,7 @@ JJ斗地主2,https://live.iill.top/douyin/333514188765
 象棋-河南省冠杨湛辉,https://live.iill.top/douyin/264157135182
 象棋棋帝,https://live.iill.top/douyin/392675307646
 象棋比赛天天看,https://live.iill.top/douyin/718875101864
+天天象棋,https://live.iill.top/douyin/162120419867
 熙耀灿体育,https://live.iill.top/douyin/439563615760
 央视网体育,https://live.iill.top/douyin/275322094757
 雷速体育,https://live.iill.top/douyin/208330584029
