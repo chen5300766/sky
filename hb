@@ -2,7 +2,7 @@
 温馨提醒,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2025-12-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-25,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -745,6 +745,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://119.125.134.175:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
