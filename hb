@@ -4,7 +4,7 @@
 湖北省内,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 自家观看,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 更新时间,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2025-12-23,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-24,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
