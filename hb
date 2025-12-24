@@ -241,6 +241,17 @@ HOY 77,https://cdn6.101.qzz.io/163189/hoy
 CH5,http://cdn6.163189.xyz/163189/ch5
 
 
+中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+
+
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+
+
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+
+
 TVB Plus,https://live.catvod.com/iptv.php?id=0iwhnrjg
 HOY TV,https://live.catvod.com/iptv.php?id=5bud57xp
 HOY TV,https://live.catvod.com/iptv.php?id=edjbde4k
