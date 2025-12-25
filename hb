@@ -1842,6 +1842,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 英雄联盟,https://live.iill.top/douyin/858402080872
 英雄联盟官方赛事,https://live.iill.top/douyin/913226472246
 逻辑与谎言狼人杀,https://live.iill.top/douyin/581239137637
+交通事故律师余逸飞讲解,https://tv1288.xyz/douyin.php?type=rid&rid=80282153370
 交通事故程律师讲解,https://live.iill.top/douyin/416321692380
 小萌逛北京,https://live.iill.top/douyin/237146238939
 北京浏览小黑,https://live.iill.top/douyin/946685745960
