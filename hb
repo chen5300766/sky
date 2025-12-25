@@ -1,5 +1,5 @@
 🐼温馨提示,#genre#
-免费使用,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
+免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 2025-12-25,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
