@@ -365,6 +365,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
 CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
 
+CCTV风云剧场,http://yun.igeizhe.com:2000/rtp/238.1.79.62:4632
+CCTV文化精品,http://yun.igeizhe.com:2000/rtp/238.1.79.54:4568
+
 CCTV风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073#http://www.qfly9236.cn:8888/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.93.175:6439#http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 
@@ -608,7 +611,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天元围棋,http://www.qfly9236.cn:8888/rtp/239.253.93.211:6389
 天元围棋,http://jf.aisio.cn:8266/rtp/239.253.93.211:6389
-天元围棋,http://www.sjwyp.com:4022/rtp/239.254.201.156:6270
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
@@ -770,7 +772,6 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
-中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
 
