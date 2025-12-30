@@ -363,6 +363,8 @@ CCTV15,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http
 
 CCTV16,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
 CCTV16,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.184:8001
+CCTV16,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
+
 
 CCTV16-4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
 CCTV16-4K,rtsp://111.48.34.237:1554/170000004112/99180001000000050000000000000432
@@ -710,7 +712,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-
+影视,http://hpcigg.icancloud.top:31415/rtp/239.3.1.88:4120
 IPTV4K超清,http://hpcigg.icancloud.top:31415/rtp/239.3.1.249:8001
 IPTV淘剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.95:8001
 IPTV淘电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.250:8001
@@ -726,7 +728,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 爱上4K,http://hpcigg.icancloud.top:31415/rtp/239.3.1.236:2000
 
 
-
+影视,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.88:4120
 IPTV4K超清,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.249:8001
 IPTV淘剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.95:8001
 IPTV淘电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.250:8001
@@ -740,6 +742,23 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 热播剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.194:9020
 经典电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.195:9024
 爱上4K,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.236:2000
+
+
+影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
+IPTV4K超清,http://home.zgnc.fun:8822/rtp/239.3.1.249:8001
+IPTV淘剧场,http://home.zgnc.fun:8822/rtp/239.3.1.95:8001
+IPTV淘电影,http://home.zgnc.fun:8822/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://home.zgnc.fun:8822/rtp/239.3.1.100:8001
+IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
+星影,http://home.zgnc.fun:8822/rtp/239.3.1.94:4120
+城市剧场,http://home.zgnc.fun:8822/rtp/239.3.1.67:4120
+军旅剧场,http://home.zgnc.fun:8822/rtp/239.3.1.68:4120
+武侠剧场,http://home.zgnc.fun:8822/rtp/239.3.1.90:4120
+古装剧场,http://home.zgnc.fun:8822/rtp/239.3.1.69:4120
+热播剧场,http://home.zgnc.fun:8822/rtp/239.3.1.194:9020
+经典电影,http://home.zgnc.fun:8822/rtp/239.3.1.195:9024
+爱上4K,http://home.zgnc.fun:8822/rtp/239.3.1.236:2000
+
 
 
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
@@ -769,19 +788,15 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 
 少儿动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.199:9000
 少儿动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.199:9000
-
+少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
 
 宝宝动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.80:4120
 宝宝动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.80:4120
-
+宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
 
 早教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.79:4120
 早教,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.79:4120
-
-
-优优宝贝,http://www.qfly9236.cn:8888/rtp/239.253.93.244:6422
-优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://jf.aisio.cn:8266/rtp/239.253.93.244:6422
+早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
 
@@ -814,6 +829,12 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 好学生,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.81:4120
 鉴赏,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.82:4120
 墨宝,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.83:4120
+
+
+中国交通,http://home.zgnc.fun:8822/rtp/239.3.1.188:8001
+好学生,http://home.zgnc.fun:8822/rtp/239.3.1.81:4120
+鉴赏,http://home.zgnc.fun:8822/rtp/239.3.1.82:4120
+墨宝,http://home.zgnc.fun:8822/rtp/239.3.1.83:4120
 
 
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
