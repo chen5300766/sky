@@ -14,15 +14,16 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.65:5146
-广东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.66:5146
-深圳卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.67:5146
-湖南卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.56:5146
-江苏卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.57:5146
-浙江卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.58:5146
-东方卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.59:5146
-四川卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.60:5146
-山东卫视-4K,http://www.8888866.xyz:10000/udp/239.77.0.61:5146
+北京卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.226:4056
+北京卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.225:4056
+东方卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.76:4056
+广东卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.252:4056
+深圳卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.254:4056
+湖南卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.72:4056
+山东卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.78:4056
+四川卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.80:4056
+浙江卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.75:4056
+江苏卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.73:4056
 
 
 湖南卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
@@ -47,6 +48,8 @@ CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 广东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
 深圳卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
 CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
+
+CCTV16-4K,http://www.yichengfood.net:9938/rtp/239.81.0.144:4056
 
 
 📡稳定源,#genre#
@@ -774,6 +777,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://www.yichengfood.net:9938/rtp/239.81.0.63:4056
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
