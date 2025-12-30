@@ -816,7 +816,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://119.125.134.175:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://119.125.134.145:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
