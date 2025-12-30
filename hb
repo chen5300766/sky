@@ -644,6 +644,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+棋牌汇,http://cpanel.lwfz.fun:8800/rtp/239.16.10.186:2000
 棋牌汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.118:11180
 
 
