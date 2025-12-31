@@ -625,7 +625,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
-五星体育,http://raytitor.cn:8888/rtp/233.18.204.58:5140
+五星体育,http://www.958598.xyz:4022/rtp/233.18.204.58:5140
+五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
+五星体育,http://l.youngx.top:4022/rtp/233.18.204.58:5140
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
