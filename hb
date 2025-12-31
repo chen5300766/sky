@@ -14,19 +14,6 @@ LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-北京卫视-4K,http://www.96335.top:4566/rtp/239.81.0.226:4056
-北京卫视-4K,http://www.96335.top:4566/rtp/239.81.0.225:4056
-东方卫视-4K,http://www.96335.top:4566/rtp/239.81.0.76:4056
-广东卫视-4K,http://www.96335.top:4566/rtp/239.81.0.252:4056
-深圳卫视-4K,http://www.96335.top:4566/rtp/239.81.0.254:4056
-湖南卫视-4K,http://www.96335.top:4566/rtp/239.81.0.72:4056
-山东卫视-4K,http://www.96335.top:4566/rtp/239.81.0.78:4056
-四川卫视-4K,http://www.96335.top:4566/rtp/239.81.0.80:4056
-浙江卫视-4K,http://www.96335.top:4566/rtp/239.81.0.75:4056
-江苏卫视-4K,http://www.96335.top:4566/rtp/239.81.0.73:4056
-
-
-
 北京卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.226:4056
 北京卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.225:4056
 东方卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.76:4056
