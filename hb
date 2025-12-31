@@ -1123,7 +1123,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 港澳枪战动作片,https://www.goodiptv.club/huya/25646817#http://cfss.cc/cdn/hy/25646817.flv
 动作大片放映厅,https://www.goodiptv.club/huya/10871113#http://cfss.cc/cdn/hy/10871113.flv
 杀手系列电影,https://www.goodiptv.club/huya/23728689#http://cfss.cc/cdn/hy/23728689.flv
-高分公路电影,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 致命女人联盟,https://www.goodiptv.club/huya/30080157#http://cfss.cc/cdn/hy/30080157.flv
 年代剧,https://www.goodiptv.club/huya/20969095#http://cfss.cc/cdn/hy/20969095.flv
 邵氏金牌监制蔡澜作品集,https://www.goodiptv.club/huya/24314160#http://cfss.cc/cdn/hy/24314160.flv
@@ -1195,6 +1194,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 洗冤录,https://www.goodiptv.club/huya/29465851#http://cfss.cc/cdn/hy/29465851.flv
 刑事侦缉档案,https://www.goodiptv.club/huya/29465856#http://cfss.cc/cdn/hy/29465856.flv
 天地男儿,https://www.goodiptv.club/huya/20969141#http://cfss.cc/cdn/hy/20969141.flv
+仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 济公,https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/hy/29982613.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
 一代名相吕不韦,https://www.goodiptv.club/huya/11352953#http://cfss.cc/cdn/hy/11352953.flv
@@ -1261,6 +1261,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 鹿鼎记--黄晓明,https://www.goodiptv.club/huya/11342388#http://cfss.cc/cdn/hy/11342388.flv
 鹿鼎记--陈小春,https://www.goodiptv.club/huya/23650774#http://cfss.cc/cdn/hy/23650774.flv
 鹿鼎记--梁朝伟,https://www.goodiptv.club/huya/21059597#http://cfss.cc/cdn/hy/21059597.flv
+89版侠客行,https://www.goodiptv.club/huya/29982656#http://cfss.cc/cdn/hy/29982656.flv
 乌龙院闯情关,https://www.goodiptv.club/huya/26355767#http://cfss.cc/cdn/hy/26355767.flv
 死神来了系列,https://www.goodiptv.club/huya/11352903#http://cfss.cc/cdn/hy/11352903.flv
 鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#http://cfss.cc/cdn/hy/30080152.flv
