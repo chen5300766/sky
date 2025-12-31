@@ -480,7 +480,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
-大湾区卫视,http://183.162.120.25:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
