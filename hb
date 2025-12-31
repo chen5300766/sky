@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2025-12-31,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -623,7 +623,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 五星体育,http://www.958598.xyz:4022/rtp/233.18.204.58:5140
 五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
@@ -676,7 +675,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
-重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
