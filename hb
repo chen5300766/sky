@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2025-12-30,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2025-12-31,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -12,6 +12,19 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 LOVE NATURE-4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视-4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视-4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+北京卫视-4K,http://www.96335.top:4566/rtp/239.81.0.226:4056
+北京卫视-4K,http://www.96335.top:4566/rtp/239.81.0.225:4056
+东方卫视-4K,http://www.96335.top:4566/rtp/239.81.0.76:4056
+广东卫视-4K,http://www.96335.top:4566/rtp/239.81.0.252:4056
+深圳卫视-4K,http://www.96335.top:4566/rtp/239.81.0.254:4056
+湖南卫视-4K,http://www.96335.top:4566/rtp/239.81.0.72:4056
+山东卫视-4K,http://www.96335.top:4566/rtp/239.81.0.78:4056
+四川卫视-4K,http://www.96335.top:4566/rtp/239.81.0.80:4056
+浙江卫视-4K,http://www.96335.top:4566/rtp/239.81.0.75:4056
+江苏卫视-4K,http://www.96335.top:4566/rtp/239.81.0.73:4056
+
 
 
 北京卫视-4K,http://www.yichengfood.net:9938/rtp/239.81.0.226:4056
@@ -479,6 +492,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
+
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
 
@@ -814,6 +829,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://www.96335.top:4566/rtp/239.81.0.63:4056
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://www.yichengfood.net:9938/rtp/239.81.0.63:4056
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
