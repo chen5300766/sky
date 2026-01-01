@@ -958,6 +958,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#http://cfss.cc/cdn/hy/20985834.flv
 神奇宝贝,https://www.goodiptv.club/huya/21241784#http://cfss.cc/cdn/hy/21241784.flv
 无上神帝,https://www.goodiptv.club/huya/11352892#http://cfss.cc/cdn/hy/11352892.flv
+神龙斗士,https://www.goodiptv.club/huya/21241839#http://cfss.cc/cdn/hy/21241839.flv
 
 
 ❤️虎牙影院,#genre#
