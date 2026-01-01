@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -70,9 +70,6 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 
 
 📡港澳台,#genre#
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-
-
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
@@ -263,21 +260,6 @@ TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-
-
-TVB Plus,https://live.catvod.com/iptv.php?id=0iwhnrjg
-HOY TV,https://live.catvod.com/iptv.php?id=5bud57xp
-HOY TV,https://live.catvod.com/iptv.php?id=edjbde4k
-亚洲武侠,https://live.catvod.com/iptv.php?id=y66gfjlq
-重温经典,https://live.catvod.com/iptv.php?id=8lull020
-RTHK31,https://live.catvod.com/iptv.php?id=oplzcxgo
-翡翠台4K,https://live.catvod.com/iptv.php?id=14twrbp6
-龙华经典,https://live.catvod.com/iptv.php?id=j5lr6u81
-龙华卡通,https://live.catvod.com/iptv.php?id=68gix8l2
-龙华偶像,https://live.catvod.com/iptv.php?id=g4g22eig
-龙华日韩,https://live.catvod.com/iptv.php?id=eimvk9bl
-龙华洋片,https://live.catvod.com/iptv.php?id=d4zbki3g
 
 
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
