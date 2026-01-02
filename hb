@@ -624,6 +624,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://183.7.145.218:8081/hls/68/index.m3u8
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -778,6 +779,7 @@ CETV早期教育,http://lihljp.dpdns.org:4022/rtp/239.253.92.39:6107
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://119.125.134.145:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://59.32.97.250:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
