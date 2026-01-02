@@ -741,6 +741,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 CETV早期教育,http://raytitor.cn:8888/rtp/233.18.204.187:5140
+CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 
 
 📡数字电视,#genre#
