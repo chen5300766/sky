@@ -1196,6 +1196,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 隋唐演义,https://www.goodiptv.club/huya/30080219#http://cfss.cc/cdn/hy/30080219.flv
 倩女幽魂,https://www.goodiptv.club/huya/26355822#http://cfss.cc/cdn/hy/26355822.flv
 浴血黑帮1-6,https://www.goodiptv.club/huya/29982659#http://cfss.cc/cdn/hy/29982659.flv
+高纬度战栗,https://www.goodiptv.club/huya/29465897#http://cfss.cc/cdn/hy/29465897.flv
 外科风云,https://www.goodiptv.club/huya/29982672#http://cfss.cc/cdn/hy/29982672.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/hy/29982671.flv
 我的前半生,https://www.goodiptv.club/huya/11352916#http://cfss.cc/cdn/hy/11352916.flv
@@ -1662,9 +1663,10 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743#http://zzy789.xy
 天蓬元帅,http://tv.ximix.us/yy/1354930189
 陈翔六点半之拳王妈妈,http://tv.ximix.us/yy/1382851602
 学生兵,http://tv.ximix.us/yy/1354658003#http://cfss.cc/cdn/yy/1354658003.flv
-武林外传,http://tv.ximix.us/yy/21092633#http://tv.ximix.us/yy/21092633
-好先生,http://tv.ximix.us/yy/79382500#http://tv.ximix.us/yy/79382500
-法证先锋,http://tv.ximix.us/yy/1354930939#http://tv.ximix.us/yy/1354930939
+武林外传,http://tv.ximix.us/yy/21092633
+生存密码,http://tv.ximix.us/yy/1414864186#http://cfss.cc/cdn/yy/1414864186.flv
+好先生,http://tv.ximix.us/yy/79382500
+法证先锋,http://tv.ximix.us/yy/1354930939
 老酒馆,http://tv.ximix.us/yy/1382736872#http://cfss.cc/cdn/yy/1382736872.flv
 李连杰功夫片,http://cfss.cc/cdn/yy/74613175.flv#http://tv.ximix.us/yy/74613175
 国外动作大片,http://cfss.cc/cdn/yy/1382735540.flv#http://tv.ximix.us/yy/1382735540
