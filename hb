@@ -758,9 +758,6 @@ CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-
-
 中国交通,http://hpcigg.icancloud.top:31415/rtp/239.3.1.188:8001
 好学生,http://hpcigg.icancloud.top:31415/rtp/239.3.1.81:4120
 鉴赏,http://hpcigg.icancloud.top:31415/rtp/239.3.1.82:4120
@@ -795,6 +792,11 @@ CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 
 
 中华特产,http://cpanel.lwfz.fun:8800/rtp/239.16.20.132:11320
+
+
+新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://cpanel.lwfz.fun:8800/rtp/239.16.20.113:11130
+新视觉,http://dodge.lwfz.fun:8800/rtp/239.16.20.113:11130
 
 
 美食汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.117:11170
