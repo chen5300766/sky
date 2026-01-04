@@ -14,6 +14,17 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
+北京卫视4K,http://msen.site:8000/rtp/235.254.197.52:7980
+北京卫视4K,http://msen.site:8000/rtp/235.254.197.50:7980
+东方卫视4K,http://msen.site:8000/rtp/235.254.197.190:7980
+广东卫视4K,http://msen.site:8000/rtp/235.254.197.55:7980
+深圳卫视4K,http://msen.site:8000/rtp/235.254.197.56:7980
+湖南卫视4K,http://msen.site:8000/rtp/235.254.197.196:7980
+山东卫视4K,http://msen.site:8000/rtp/235.254.197.195:7980
+浙江卫视4K,http://msen.site:8000/rtp/235.254.197.194:7980
+江苏卫视4K,http://msen.site:8000/rtp/235.254.197.191:7980
+
+
 湖南卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
 浙江卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
 江苏卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
@@ -337,6 +348,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
+
+CCTV风云剧场,http://msen.site:8000/rtp/235.254.199.207:7980
+CCTV文化精品,http://msen.site:8000/rtp/235.254.199.210:7980
 
 CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
 CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
@@ -694,7 +708,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 
 
 精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
-
+精彩影视,http://msen.site:8000/rtp/235.254.199.250:7980
 
 
 📡动漫卡通,#genre#
@@ -796,6 +810,7 @@ CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 
 
 求索记录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
+求索记录,http://msen.site:8000/rtp/235.254.199.251:7980
 
 
 📡百视通系列,#genre#
