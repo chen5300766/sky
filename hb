@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-4,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -444,6 +444,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 
 
+凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
+凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+
+
+
 大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
 大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
 
@@ -460,12 +466,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-
-
-凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-
 
 
 📡湖北省,#genre#
