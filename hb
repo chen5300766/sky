@@ -14,18 +14,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-北京卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.226:4056
-北京卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.225:4056
-东方卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.76:4056
-广东卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.252:4056
-深圳卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.254:4056
-湖南卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.72:4056
-山东卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.78:4056
-四川卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.80:4056
-浙江卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.75:4056
-江苏卫视4K,http://www.yichengfood.net:9938/rtp/239.81.0.73:4056
-
-
 湖南卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
 浙江卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
 江苏卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
@@ -48,8 +36,6 @@ CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 广东卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
 深圳卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
 CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
-
-CCTV16奥林匹克4K,http://www.yichengfood.net:9938/rtp/239.81.0.144:4056
 
 
 📡稳定源,#genre#
@@ -780,7 +766,6 @@ CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 
 中国天气,http://www.96335.top:4566/rtp/239.81.0.63:4056
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
-中国天气,http://www.yichengfood.net:9938/rtp/239.81.0.63:4056
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
