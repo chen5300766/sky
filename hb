@@ -14,6 +14,24 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
+北京卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.2:5146
+北京卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.3:5146
+北京卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.153:5146
+北京卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.233:5146
+北京卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.13:5146
+东方卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.59:5146
+广东卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.27:5146
+广东卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.65:5146
+广东卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.66:5146
+深圳卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.67:5146
+深圳卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.14:5146
+湖南卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.56:5146
+山东卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.61:5146
+四川卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.60:5146
+浙江卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.58:5146
+江苏卫视4K,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.57:5146
+
+
 北京卫视4K,http://msen.site:8000/rtp/235.254.197.52:7980
 北京卫视4K,http://msen.site:8000/rtp/235.254.197.50:7980
 东方卫视4K,http://msen.site:8000/rtp/235.254.197.190:7980
@@ -375,6 +393,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,http://yahao.myqnapcloud.com:4022/rtp/239.253.43.16:5146
+CCTV文化精品,http://yahao.myqnapcloud.com:4022/rtp/239.253.43.13:5146
+
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
 
@@ -403,6 +424,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
+中央新影-发现之旅,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://lj.kuail8.cn:7000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
@@ -478,7 +500,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
-
+大湾区卫视,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.215:5146
 大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
 大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
 
@@ -625,6 +647,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://yahao.myqnapcloud.com:4022/rtp/239.253.43.98:5146
 天元围棋,http://fn.122020.xyz:4000/rtp/239.253.93.211:6389
 天元围棋,http://www.0000505.xyz:8888/rtp/239.76.246.2:1234
 天元围棋,http://lj.kuail8.cn:7000/rtp/239.253.93.211:6389
@@ -771,6 +794,8 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 早教,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.79:4120
 早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
+
+CETV早期教育,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.180:5146
 CETV早期教育,http://raytitor.cn:8888/rtp/233.18.204.187:5140
 CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 
@@ -811,6 +836,7 @@ CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.2:5146
 中国天气,http://www.96335.top:4566/rtp/239.81.0.63:4056
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
