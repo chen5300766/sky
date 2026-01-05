@@ -728,26 +728,6 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 爱上4K,http://home.zgnc.fun:8822/rtp/239.3.1.236:2000
 
 
-iHOT爱体育,http://nas.cdbackup.cn:8888/rtp/239.94.1.143:5140
-iHOT爱动漫,http://nas.cdbackup.cn:8888/rtp/239.94.1.141:5140
-iHOT爱历史,http://nas.cdbackup.cn:8888/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://nas.cdbackup.cn:8888/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://nas.cdbackup.cn:8888/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://nas.cdbackup.cn:8888/rtp/239.94.1.130:5140
-iHOT爱幼教,http://nas.cdbackup.cn:8888/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://nas.cdbackup.cn:8888/rtp/239.94.1.136:5140
-iHOT爱旅行,http://nas.cdbackup.cn:8888/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://nas.cdbackup.cn:8888/rtp/239.94.1.128:5140
-iHOT爱玩具,http://nas.cdbackup.cn:8888/rtp/239.94.1.140:5140
-iHOT爱科幻,http://nas.cdbackup.cn:8888/rtp/239.94.1.131:5140
-iHOT爱谍战,http://nas.cdbackup.cn:8888/rtp/239.94.1.134:5140
-iHOT爱赛车,http://nas.cdbackup.cn:8888/rtp/239.94.1.144:5140
-iHOT爱院线,http://nas.cdbackup.cn:8888/rtp/239.94.1.132:5140
-全球大片,http://nas.cdbackup.cn:8888/rtp/239.94.1.24:5140
-华语影院,http://nas.cdbackup.cn:8888/rtp/239.94.1.22:5140
-星光院线,http://nas.cdbackup.cn:8888/rtp/239.94.1.23:5140
-
-
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
