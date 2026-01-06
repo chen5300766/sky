@@ -713,8 +713,6 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
-精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
-精彩影视,http://msen.site:8000/rtp/235.254.199.250:7980
 精彩影视,http://www.330459.xyz:8188/rtp/225.1.1.141:5002
 
 
@@ -818,9 +816,6 @@ CETV早期教育,http://unraid.cyruslee.top:8888/rtp/239.77.0.180:5146
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-
-求索记录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
-求索记录,http://msen.site:8000/rtp/235.254.199.251:7980
 求索记录,http://unraid.cyruslee.top:8888/rtp/239.77.0.21:5146
 
 
