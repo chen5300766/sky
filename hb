@@ -14,28 +14,28 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-湖南卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
-浙江卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
-江苏卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
-东方卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.37:11376
-山东卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.38:11382
-四川卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.39:11388
-北京卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.22:11286
-广东卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.27:11316
-深圳卫视-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.28:11322
-CCTV16-4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
+湖南卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
+浙江卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
+江苏卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
+东方卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.37:11376
+山东卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.38:11382
+四川卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.39:11388
+北京卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.22:11286
+广东卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.27:11316
+深圳卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.28:11322
+CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 
 
-湖南卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
-浙江卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
-江苏卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
-东方卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
-山东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
-四川卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
-北京卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
-广东卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
-深圳卫视-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
-CCTV16-4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
+湖南卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
+浙江卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
+江苏卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
+东方卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
+山东卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
+四川卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
+北京卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
+广东卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
+深圳卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
+CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 
 
 
