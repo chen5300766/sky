@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -339,6 +339,9 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+
+CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
+CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
@@ -683,6 +686,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 
 精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
 精彩影视,http://msen.site:8000/rtp/235.254.199.250:7980
+精彩影视,http://www.330459.xyz:8188/rtp/225.1.1.141:5002
 
 
 📡动漫卡通,#genre#
