@@ -1282,6 +1282,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 007动作大片系列,https://www.goodiptv.club/huya/21059585#http://cfss.cc/cdn/hy/21059585.flv
 古天乐系列,https://www.goodiptv.club/huya/29982675#http://cfss.cc/cdn/hy/29982675.flv
 葛优系列,https://www.goodiptv.club/huya/29982661#http://cfss.cc/cdn/hy/29982661.flv
+张家辉系列,https://www.goodiptv.club/huya/21241807#http://cfss.cc/cdn/hy/21241807.flv
 敢死队,https://www.goodiptv.club/huya/23864973#http://cfss.cc/cdn/hy/23864973.flv
 一起同过窗,https://www.goodiptv.club/huya/30080228#http://cfss.cc/cdn/hy/30080228.flv
 猎罪图鉴,https://www.goodiptv.club/huya/11601962#http://cfss.cc/cdn/hy/11601962.flv
