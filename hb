@@ -368,9 +368,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
-CCTV风云剧场,http://mx.37du.co:2345/rtp/235.254.199.207:7980
-CCTV文化精品,http://mx.37du.co:2345/rtp/235.254.199.210:7980
-
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
 
@@ -763,7 +760,6 @@ BesTV4K动画,http://www.958598.xyz:4022/rtp/233.18.204.171:5140
 BesTV4K动画,http://shenhua.asuscomm.com:8888/rtp/233.18.204.171:5140
 
 
-CETV早期教育,http://mx.37du.co:2345/rtp/235.254.199.201:7980
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 
 
@@ -829,7 +825,6 @@ CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索记录,http://mx.37du.co:2345/rtp/235.254.198.251:7980
 求索记录,http://www.msen.site:8000/rtp/235.254.198.251:7980
 求索记录,http://msen.site:8000/rtp/235.254.199.251:7980
 
