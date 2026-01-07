@@ -594,7 +594,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 五星体育,http://www.958598.xyz:4022/rtp/233.18.204.58:5140
 五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
-五星体育,http://l.youngx.top:4022/rtp/233.18.204.58:5140
+五星体育,http://www.yyf1991.top:9999/rtp/233.18.204.58:5140
+五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -716,9 +717,10 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 精彩影视,http://cloud-hui.synology.me:4000/rtp/225.0.4.231:7980
 
 
-BesTV4K电影,http://raytitor.cn:8888/rtp/233.18.204.169:5140
+BesTV4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
 BesTV4K电影,http://www.958598.xyz:4022/rtp/233.18.204.169:5140
 BesTV4K电影,http://shenhua.asuscomm.com:8888/rtp/233.18.204.169:5140
+BesTV4K电影,http://www.rogerxlj.top:9998/rtp/233.18.204.169:5140
 
 
 📡动漫卡通,#genre#
@@ -753,15 +755,18 @@ BesTV4K电影,http://shenhua.asuscomm.com:8888/rtp/233.18.204.169:5140
 早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
-CETV早期教育,http://raytitor.cn:8888/rtp/233.18.204.187:5140
-CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
-CETV早期教育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.187:5140
-BesTV4K动画,http://raytitor.cn:8888/rtp/233.18.204.171:5140
 BesTV4K动画,http://www.958598.xyz:4022/rtp/233.18.204.171:5140
 BesTV4K动画,http://shenhua.asuscomm.com:8888/rtp/233.18.204.171:5140
+BesTV4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
+BesTV4K动画,http://www.rogerxlj.top:9998/rtp/233.18.204.171:5140
 
 
+CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
+CETV早期教育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.187:5140
+CETV早期教育,http://www.yyf1991.top:9999/rtp/233.18.204.187:5140
+CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
+
 
 
 📡数字电视,#genre#
