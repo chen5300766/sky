@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新时间,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-7,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -718,6 +718,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 
 BesTV4K电影,http://raytitor.cn:8888/rtp/233.18.204.169:5140
 BesTV4K电影,http://www.958598.xyz:4022/rtp/233.18.204.169:5140
+BesTV4K电影,http://shenhua.asuscomm.com:8888/rtp/233.18.204.169:5140
 
 
 📡动漫卡通,#genre#
@@ -754,8 +755,10 @@ BesTV4K电影,http://www.958598.xyz:4022/rtp/233.18.204.169:5140
 
 CETV早期教育,http://raytitor.cn:8888/rtp/233.18.204.187:5140
 CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
+CETV早期教育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.187:5140
 BesTV4K动画,http://raytitor.cn:8888/rtp/233.18.204.171:5140
 BesTV4K动画,http://www.958598.xyz:4022/rtp/233.18.204.171:5140
+BesTV4K动画,http://shenhua.asuscomm.com:8888/rtp/233.18.204.171:5140
 
 
 CETV早期教育,http://mx.37du.co:2345/rtp/235.254.199.201:7980
