@@ -738,9 +738,8 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 
 
 CETV早期教育,http://59.32.97.216:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://www.tjlyh.cn:7788/rtp/225.1.2.207:5002
-
+CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 
 
 📡数字电视,#genre#
