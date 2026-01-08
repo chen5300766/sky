@@ -368,17 +368,8 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
-CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
-CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
-
-CCTV风云剧场,http://msen.site:8000/rtp/235.254.199.207:7980
-CCTV文化精品,http://msen.site:8000/rtp/235.254.199.210:7980
-
-CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
-CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
-
-CCTV风云剧场,http://yun.igeizhe.com:2000/rtp/238.1.79.62:4632
-CCTV文化精品,http://yun.igeizhe.com:2000/rtp/238.1.79.54:4568
+CCTV风云剧场,http://www.tjlyh.cn:7788/rtp/225.1.2.174:5002
+CCTV文化精品,http://www.tjlyh.cn:7788/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
@@ -713,12 +704,6 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 精彩影视,http://cloud-hui.synology.me:4000/rtp/225.0.4.231:7980
 
 
-BesTV4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
-BesTV4K电影,http://www.958598.xyz:4022/rtp/233.18.204.169:5140
-BesTV4K电影,http://shenhua.asuscomm.com:8888/rtp/233.18.204.169:5140
-BesTV4K电影,http://www.rogerxlj.top:9998/rtp/233.18.204.169:5140
-
-
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -751,14 +736,10 @@ BesTV4K电影,http://www.rogerxlj.top:9998/rtp/233.18.204.169:5140
 早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
-BesTV4K动画,http://www.958598.xyz:4022/rtp/233.18.204.171:5140
-BesTV4K动画,http://shenhua.asuscomm.com:8888/rtp/233.18.204.171:5140
-BesTV4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
-BesTV4K动画,http://www.rogerxlj.top:9998/rtp/233.18.204.171:5140
-
 
 CETV早期教育,http://59.32.97.216:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
+CETV早期教育,http://www.tjlyh.cn:7788/rtp/225.1.2.207:5002
 
 
 
