@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-7,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -609,10 +609,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.qfly9236.cn:8888/rtp/239.253.93.211:6389
 
 
-
-劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
-
-
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
@@ -761,10 +757,7 @@ BesTV4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
 BesTV4K动画,http://www.rogerxlj.top:9998/rtp/233.18.204.171:5140
 
 
-CETV早期教育,http://www.958598.xyz:4022/rtp/233.18.204.187:5140
-CETV早期教育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.187:5140
-CETV早期教育,http://www.yyf1991.top:9999/rtp/233.18.204.187:5140
-CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
+CETV早期教育,http://59.32.97.216:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 
 
