@@ -369,11 +369,17 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
-CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
-CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
+CCTV风云剧场,http://lihljp.dpdns.org:4022/rtp/239.253.92.22:6073
+CCTV文化精品,http://lihljp.dpdns.org:4022/rtp/239.253.92.25:6104
 
-CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
-CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
+CCTV风云剧场,http://lj.kuail8.cn:7000/rtp/239.253.92.22:6073
+CCTV文化精品,http://lj.kuail8.cn:7000/rtp/239.253.92.25:6104
+
+CCTV风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
+CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
+
+CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
+CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
