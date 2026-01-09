@@ -366,15 +366,7 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
-CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
-
-CCTV风云剧场,http://anhdx07.chunfengyun.top:40022/rtp/238.1.79.62:4632
-CCTV文化精品,http://anhdx07.chunfengyun.top:40022/rtp/238.1.79.54:4568
-
-
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
-
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
