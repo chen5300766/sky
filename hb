@@ -375,9 +375,6 @@ CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.201.219:7257
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.201.229:7260
 
-CCTV风云剧场,http://msen.site:8000/rtp/235.254.199.207:7980
-CCTV文化精品,http://msen.site:8000/rtp/235.254.199.210:7980
-
 CCTV风云剧场,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
 CCTV文化精品,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.083:5540
 
