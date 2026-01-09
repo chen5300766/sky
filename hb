@@ -371,6 +371,10 @@ CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 CCTV风云剧场,http://www.tjlyh.cn:7788/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.tjlyh.cn:7788/rtp/225.1.2.177:5002
 
+
+CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
+
+
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
 
@@ -465,6 +469,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
 大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
 大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
+大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
+
 
 
 农林卫视,http://sh.lnott.top:880/dx60.m3u8
