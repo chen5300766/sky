@@ -589,10 +589,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,http://www.958598.xyz:4022/rtp/233.18.204.58:5140
-五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
-五星体育,http://www.yyf1991.top:9999/rtp/233.18.204.58:5140
-五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
+五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
