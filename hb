@@ -37,6 +37,8 @@ CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 深圳卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
 CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 
+CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?
+auth=testpub
 
 
 📡稳定源,#genre#
@@ -374,6 +376,7 @@ CCTV文化精品,http://www.tjlyh.cn:7788/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
 CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
@@ -395,6 +398,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://lj.kuail8.cn:7000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -596,6 +600,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://lihljp.dpdns.org:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.0000505.xyz:8888/rtp/239.76.246.2:1234
 天元围棋,http://lj.kuail8.cn:7000/rtp/239.253.93.211:6389
@@ -638,6 +643,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
+重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
