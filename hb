@@ -672,6 +672,7 @@ IPTV淘BABY,http://hpcigg.icancloud.top:31415/rtp/239.3.1.238:8001
 热播剧场,http://hpcigg.icancloud.top:31415/rtp/239.3.1.194:9020
 经典电影,http://hpcigg.icancloud.top:31415/rtp/239.3.1.195:9024
 爱上4K,http://hpcigg.icancloud.top:31415/rtp/239.3.1.236:2000
+精选,http://hpcigg.icancloud.top:31415/rtp/239.3.1.74:4120
 
 
 影视,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.88:4120
@@ -688,6 +689,7 @@ IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
 热播剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.194:9020
 经典电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.195:9024
 爱上4K,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.236:2000
+精选,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.74:4120
 
 
 影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
@@ -704,6 +706,7 @@ IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
 热播剧场,http://home.zgnc.fun:8822/rtp/239.3.1.194:9020
 经典电影,http://home.zgnc.fun:8822/rtp/239.3.1.195:9024
 爱上4K,http://home.zgnc.fun:8822/rtp/239.3.1.236:2000
+精选,http://home.zgnc.fun:8822/rtp/239.3.1.74:4120
 
 
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
