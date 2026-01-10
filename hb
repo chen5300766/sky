@@ -344,7 +344,7 @@ CCTV14少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u
 CCTV15音乐,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
 CCTV16奥林匹克,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://haoyu.myds.me:24022/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 
 
@@ -678,23 +678,23 @@ IPTV家庭影院,http://hpcigg.icancloud.top:31415/rtp/239.3.1.93:4120
 
 
 
-IPTV影视,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.88:4120
-IPTV4K超清,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.249:8001
-IPTV淘剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.95:8001
-IPTV淘电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.100:8001
-IPTV淘BABY,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.102:8001
-IPTV星影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.94:4120
-IPTV城市剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.90:4120
-IPTV古装剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.69:4120
-IPTV热播剧场,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.194:9020
-IPTV经典电影,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.195:9024
-IPTV爱上4K,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.236:2000
-IPTV精选,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.74:4120
-IPTV家庭影院,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.93:4120
+IPTV影视,http://haoyu.myds.me:24022/rtp/239.3.1.88:4120
+IPTV4K超清,http://haoyu.myds.me:24022/rtp/239.3.1.249:8001
+IPTV淘剧场,http://haoyu.myds.me:24022/rtp/239.3.1.95:8001
+IPTV淘电影,http://haoyu.myds.me:24022/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://haoyu.myds.me:24022/rtp/239.3.1.100:8001
+IPTV淘BABY,http://haoyu.myds.me:24022/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://haoyu.myds.me:24022/rtp/239.3.1.102:8001
+IPTV星影,http://haoyu.myds.me:24022/rtp/239.3.1.94:4120
+IPTV城市剧场,http://haoyu.myds.me:24022/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://haoyu.myds.me:24022/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://haoyu.myds.me:24022/rtp/239.3.1.90:4120
+IPTV古装剧场,http://haoyu.myds.me:24022/rtp/239.3.1.69:4120
+IPTV热播剧场,http://haoyu.myds.me:24022/rtp/239.3.1.194:9020
+IPTV经典电影,http://haoyu.myds.me:24022/rtp/239.3.1.195:9024
+IPTV爱上4K,http://haoyu.myds.me:24022/rtp/239.3.1.236:2000
+IPTV精选,http://haoyu.myds.me:24022/rtp/239.3.1.74:4120
+IPTV家庭影院,http://haoyu.myds.me:24022/rtp/239.3.1.93:4120
 
 
 IPTV影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
@@ -748,15 +748,15 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 IPTV少儿动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.199:9000
-IPTV少儿动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.199:9000
+IPTV少儿动画,http://haoyu.myds.me:24022/rtp/239.3.1.199:9000
 IPTV少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://hpcigg.icancloud.top:31415/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://haoyu.myds.me:24022/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
 
 IPTV早教,http://hpcigg.icancloud.top:31415/rtp/239.3.1.79:4120
-IPTV早教,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.79:4120
+IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
@@ -793,11 +793,11 @@ CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 军事,http://hpcigg.icancloud.top:31415/rtp/239.3.1.76:4120
 
 
-中国交通,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.188:8001
-好学生,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.81:4120
-鉴赏,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.82:4120
-墨宝,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.83:4120
-军事,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.76:4120
+中国交通,http://haoyu.myds.me:24022/rtp/239.3.1.188:8001
+好学生,http://haoyu.myds.me:24022/rtp/239.3.1.81:4120
+鉴赏,http://haoyu.myds.me:24022/rtp/239.3.1.82:4120
+墨宝,http://haoyu.myds.me:24022/rtp/239.3.1.83:4120
+军事,http://haoyu.myds.me:24022/rtp/239.3.1.76:4120
 
 
 中国交通,http://home.zgnc.fun:8822/rtp/239.3.1.188:8001
