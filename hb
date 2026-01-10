@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -723,6 +723,10 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
+精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
+精彩影视,http://score.9498345.xyz:16618/rtp/239.81.0.152:4056
+
+
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -755,6 +759,7 @@ IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
 CETV早期教育,http://lihljp.dpdns.org:4022/rtp/239.253.92.39:6107
@@ -830,9 +835,10 @@ CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索记录,http://www.msen.site:8000/rtp/235.254.198.251:7980
-求索记录,http://msen.site:8000/rtp/235.254.199.251:7980
-
+求索纪录,http://www.msen.site:8000/rtp/235.254.198.251:7980
+求索纪录,http://msen.site:8000/rtp/235.254.199.251:7980
+求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
+求索纪录,http://score.9498345.xyz:16618/rtp/239.81.0.153:4056
 
 
 📡百视通系列,#genre#
