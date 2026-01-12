@@ -367,7 +367,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
-CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 CCTV风云剧场,http://lihljp.dpdns.org:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://lihljp.dpdns.org:4022/rtp/239.253.92.25:6104
