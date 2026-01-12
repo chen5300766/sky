@@ -105,7 +105,6 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 
-
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
