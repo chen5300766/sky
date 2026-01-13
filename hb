@@ -472,7 +472,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
-大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
+大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
 大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
@@ -737,7 +737,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
-精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
+精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 
 
@@ -822,7 +822,7 @@ CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
-中国天气,http://www.96335.top:4566/rtp/239.81.0.63:4056
+中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
@@ -849,7 +849,7 @@ CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 
 求索纪录,http://www.msen.site:8000/rtp/235.254.198.251:7980
 求索纪录,http://msen.site:8000/rtp/235.254.199.251:7980
-求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
+求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
 
 
