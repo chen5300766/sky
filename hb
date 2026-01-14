@@ -862,12 +862,11 @@ CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 美食汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.117:11170
 美食汇,http://cpanel.lwfz.fun:8800/rtp/239.16.10.185:2000
 
+
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索纪录,http://www.msen.site:8000/rtp/235.254.198.251:7980
-求索纪录,http://msen.site:8000/rtp/235.254.199.251:7980
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
