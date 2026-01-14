@@ -293,6 +293,7 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 
 有线综合粤,http://rihou.cc:555/tv/[PL]有线综合
+有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
 有线综合国,http://rihou.cc:555/tv/[PL]有线综国
 无线明珠标,http://rihou.cc:555/tv/[PL]无线明标
 无线翡翠高,http://rihou.cc:555/tv/[PL]无线翡翠
@@ -318,6 +319,24 @@ VIUTV-粤,http://rihou.cc:555/tv/[PL]VIUTV粤
 Astroaod,http://rihou.cc:555/tv/[PL]Astroaod
 RTHK-31,http://rihou.cc:555/tv/[PL]RTHK-31
 RTHK-32,http://rihou.cc:555/tv/[PL]RTHK-32
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+
+
+
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
 
 
 
@@ -565,11 +584,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-69b7adceccbc5ea8f2cc6f34b34171af
 嘉鱼新闻综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90997969c48171e39b738519231accac
 通山综合,https://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-47936ec27159c1f2b4e1ddfd4c2caa46
-谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
 黄石新闻综合,https://44721-live.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3031.m3u8?auth_key=1767537823-0-0-0359a7b4335b1ec5e8ab16c3ca5a52b6&extra_key=Uihowqr--_fCfU1AlQ6869rx69mrmx-uGtqIecanYqh9V6eufcMfvoCYe4frDg97Jdpc1tFkxMRSR9K92f97hI7B0zgRDz3a_Y1kTZ-UawqVjJ_vyP6_ES1hoPFcvezhDIk44uEvAQ8Q3odEvjtnWc7rgcFT9hG9Bpu-I4VHMW0
 
 
-云梦综合,http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E6%A2%A6%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
 潜江综合,https://p2hs.vzan.com/slowlive/481008854192202056/live.m3u8
 保康新闻综合,http://bktvplay.gdnewmedia.cc/bktv/bktv001.m3u8?auth_key=1715157778-0-0-2a5aee0bfaeff717537ec0ef8a1e1567
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8
