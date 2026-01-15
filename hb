@@ -856,8 +856,7 @@ CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 
 
 中华特产,http://cpanel.lwfz.fun:8800/rtp/239.16.20.132:11320
-中华特产,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.18:11262
-中华特产,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.18:11262
+中华特产,http://dodge.lwfz.fun:8800/rtp/239.16.20.132:11320
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
