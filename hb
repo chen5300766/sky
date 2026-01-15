@@ -517,6 +517,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 农林卫视,http://110.72.75.164:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://113.233.134.47:3163/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
