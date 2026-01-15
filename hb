@@ -70,7 +70,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-探索,http://iptv.huuc.edu.cn/hls/discovery.m3u8
 
 
 📡港澳台,#genre#
@@ -415,9 +414,6 @@ CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
 CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
 
-CCTV风云剧场,http://sh.lnott.top:880/dx94.m3u8
-CCTV文化精品,http://sh.lnott.top:880/dx104.m3u8
-
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
@@ -520,7 +516,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 
-农林卫视,http://sh.lnott.top:880/dx60.m3u8
+农林卫视,http://110.72.75.164:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
@@ -873,10 +869,6 @@ CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-
-
-中华特产,http://sh.lnott.top:880/dx83.m3u8
-家庭理财,http://sh.lnott.top:880/dx65.m3u8
 
 
 中华特产,http://cpanel.lwfz.fun:8800/rtp/239.16.20.132:11320
