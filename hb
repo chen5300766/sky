@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-14,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-15,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -855,6 +855,7 @@ CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://119.125.134.214:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://cpanel.lwfz.fun:8800/rtp/239.16.20.113:11130
 新视觉,http://dodge.lwfz.fun:8800/rtp/239.16.20.113:11130
 
