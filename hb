@@ -679,7 +679,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
 
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
