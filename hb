@@ -14,24 +14,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-北京卫视4K,http://sslcb.top:8888/rtp/239.69.2.22:11286
-东方卫视4K,http://sslcb.top:8888/rtp/239.69.2.37:11376
-广东卫视4K,http://sslcb.top:8888/rtp/239.69.2.27:11316
-深圳卫视4K,http://sslcb.top:8888/rtp/239.69.2.28:11322
-湖南卫视4K,http://sslcb.top:8888/rtp/239.69.1.13:9718
-湖南卫视4K,http://sslcb.top:8888/rtp/239.69.1.27:9802
-湖南卫视4K,http://sslcb.top:8888/rtp/239.69.2.34:11358
-山东卫视4K,http://sslcb.top:8888/rtp/239.69.1.26:9796
-山东卫视4K,http://sslcb.top:8888/rtp/239.69.2.38:11382
-四川卫视4K,http://sslcb.top:8888/rtp/239.69.2.39:11388
-四川卫视4K,http://sslcb.top:8888/rtp/239.69.1.28:9808
-浙江卫视4K,http://sslcb.top:8888/rtp/239.69.2.35:11364
-浙江卫视4K,http://sslcb.top:8888/rtp/239.69.1.25:9790
-江苏卫视4K,http://sslcb.top:8888/rtp/239.69.1.24:9784
-江苏卫视4K,http://sslcb.top:8888/rtp/239.69.2.36:11370
-CCTV16奥林匹克4K,http://sslcb.top:8888/rtp/239.69.1.249:11136
-
-
 湖南卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
 浙江卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.35:11364
 江苏卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.36:11370
@@ -874,7 +856,8 @@ CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 
 
 中华特产,http://cpanel.lwfz.fun:8800/rtp/239.16.20.132:11320
-中华特产,http://sslcb.top:8888/rtp/239.69.2.18:11262
+中华特产,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.18:11262
+中华特产,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.18:11262
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
