@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-16,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -381,6 +381,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
+CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
+
 CCTV风云剧场,http://nuc.xixi.baby:4000/rtp/226.0.2.227:9728
 CCTV文化精品,http://nuc.xixi.baby:4000/rtp/226.0.2.219:9664
 
@@ -413,6 +416,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://lj.kuail8.cn:7000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -497,10 +501,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
-
-农林卫视,http://110.72.75.164:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-农林卫视,http://113.233.134.47:3163/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
+农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
+农林卫视,http://4712635.xyz:26000/rtp/239.112.205.26:5140
+农林卫视,http://sakura.dynv6.net:64785/rtp/239.112.205.26:5140
+农林卫视,http://tiger81.i234.me:8888/rtp/239.112.205.26:5140
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
@@ -646,6 +650,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://lj.kuail8.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://fnos.kictoc.top:7000/rtp/239.254.201.156:6270
 天元围棋,http://www.qfly9236.cn:8888/rtp/239.253.93.211:6389
+天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -805,6 +810,7 @@ CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
+CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
