@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -12,6 +12,26 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+北京卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.160:5999
+北京卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.149:5999
+东方卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.124:5999
+东方卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.123:5999
+广东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.46:5999
+广东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.109:5999
+深圳卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.110:5999
+深圳卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.45:5999
+湖南卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.113:5999
+湖南卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.114:5999
+山东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.130:5999
+山东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.138:5999
+四川卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.129:5999
+四川卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.125:5999
+浙江卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.122:5999
+浙江卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.121:5999
+江苏卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.118:5999
+江苏卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.119:5999
 
 
 湖南卫视4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.2.34:11358
@@ -363,8 +383,6 @@ CCTV16奥林匹克,http://hpcigg.icancloud.top:31415/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://haoyu.myds.me:24022/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 
-
-
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
 
@@ -380,6 +398,9 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+
+CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
+CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 
 CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
@@ -417,6 +438,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
+中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -501,6 +523,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
+农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://4712635.xyz:26000/rtp/239.112.205.26:5140
 农林卫视,http://tiger81.i234.me:8888/rtp/239.112.205.26:5140
@@ -642,6 +665,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
+天元围棋,http://gyvnc.liy.ink:369/rtp/238.255.2.7:5999
 天元围棋,http://lj.kuail8.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://fnos.kictoc.top:7000/rtp/239.254.201.156:6270
 天元围棋,http://www.qfly9236.cn:8888/rtp/239.253.93.211:6389
@@ -801,6 +825,7 @@ CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
+CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
