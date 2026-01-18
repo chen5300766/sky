@@ -884,7 +884,6 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://119.125.134.214:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://cpanel.lwfz.fun:8800/rtp/239.16.20.113:11130
 新视觉,http://dodge.lwfz.fun:8800/rtp/239.16.20.113:11130
 
