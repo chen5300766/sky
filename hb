@@ -533,6 +533,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 海峡卫视,http://r.jdshipin.com/WtYt3
 
 
+海峡卫视,https://mg.pl10000.top/849119120
+农林卫视,https://mg.pl10000.top/956904896
+大湾区卫视,https://mg.pl10000.top/608917627
+
+
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
 
@@ -785,6 +790,12 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
+
+
+新片放映厅,https://mg.pl10000.top/619495952
+经典香港电影,https://mg.pl10000.top/625703337
+抗战经典影片,https://mg.pl10000.top/617432318
+
 
 
 📡动漫卡通,#genre#
