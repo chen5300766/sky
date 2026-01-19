@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -691,6 +691,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 足球栏目,http://4712635.xyz:26000/rtp/239.110.205.25:9846
 足球栏目,http://tiger81.i234.me:8888/rtp/239.110.205.25:9846
+足球栏目,http://home.660888.xyz:4000/rtp/225.0.4.167:7980
 
 
 📡电视影院,#genre#
@@ -790,6 +791,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
+精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
 
 
 新片放映厅,https://mg.pl10000.top/619495952
@@ -910,6 +912,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
+求索记录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
 
 
 📡百视通系列,#genre#
