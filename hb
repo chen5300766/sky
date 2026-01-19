@@ -952,24 +952,24 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 火影疾风传1,https://yylunbo.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#http://cfss.cc/cdn/hy/20985833.flv
 火影忍者,https://www.goodiptv.club/huya/29465866#http://cfss.cc/cdn/hy/29465866.flv
-成龙历险记,https://live.ottiptv.cc/douyu/2287949#https://www.goodiptv.club/huya/11352946#http://www.douzhicloud.site:35455/douyu/2287949#http://cfss.cc/cdn/hy/11352946.flv
-快来看动画,https://live.ottiptv.cc/douyu/12144115#http://www.douzhicloud.site:35455/douyu/12144115
+成龙历险记,https://live.ottiptv.cc/douyu/2287949#https://www.goodiptv.club/huya/11352946#https://live.188766.xyz/douyu/2287949#http://cfss.cc/cdn/hy/11352946.flv
+快来看动画,https://live.ottiptv.cc/douyu/12144115#https://live.188766.xyz/douyu/12144115
 厨神小当家,https://www.goodiptv.club/huya/24257300#http://cfss.cc/cdn/hy/24257300.flv
-中华小当家,https://live.ottiptv.cc/douyu/8231658#http://www.douzhicloud.site:35455/douyu/8231658
-【动漫合集】皮克斯、Conan看不停,https://live.ottiptv.cc/douyu/7620081#http://www.douzhicloud.site:35455/douyu/7620081
-【动漫】超燃 怀旧 经典,https://live.ottiptv.cc/douyu/1174353#http://www.douzhicloud.site:35455/douyu/1174353
-草帽丶海贼团的直播间,https://live.ottiptv.cc/douyu/997925#http://www.douzhicloud.site:35455/douyu/997925
+中华小当家,https://live.ottiptv.cc/douyu/8231658#https://live.188766.xyz/douyu/8231658
+【动漫合集】皮克斯、Conan看不停,https://live.ottiptv.cc/douyu/7620081#https://live.188766.xyz/douyu/7620081
+【动漫】超燃 怀旧 经典,https://live.ottiptv.cc/douyu/1174353#https://live.188766.xyz/douyu/1174353
+草帽丶海贼团的直播间,https://live.ottiptv.cc/douyu/997925#https://live.188766.xyz/douyu/997925
 [剧场版] 海贼王,https://www.goodiptv.club/huya/29982634#http://cfss.cc/cdn/hy/29982634.flv
-动漫 热血 老贼 冒险,https://live.ottiptv.cc/douyu/6610883#http://www.douzhicloud.site:35455/douyu/6610883
-【童年往事】仨房间画面同步显示点播1,https://live.ottiptv.cc/douyu/1569773#http://www.douzhicloud.site:35455/douyu/1569773
-【童年往事】仨房间画面同步显示点播2,https://live.ottiptv.cc/douyu/7256376#http://www.douzhicloud.site:35455/douyu/7256376
+动漫 热血 老贼 冒险,https://live.ottiptv.cc/douyu/6610883#https://live.188766.xyz/douyu/6610883
+【童年往事】仨房间画面同步显示点播1,https://live.ottiptv.cc/douyu/1569773#https://live.188766.xyz/douyu/1569773
+【童年往事】仨房间画面同步显示点播2,https://live.ottiptv.cc/douyu/7256376#https://live.188766.xyz/douyu/7256376
 虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#http://cfss.cc/cdn/hy/30080148.flv
-斗鱼名侦探柯南,https://live.ottiptv.cc/douyu/5172389#http://www.douzhicloud.site:35455/douyu/5172389
+斗鱼名侦探柯南,https://live.ottiptv.cc/douyu/5172389#https://live.188766.xyz/douyu/5172389
 名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#http://cfss.cc/cdn/hy/30080236.flv
 汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/hy/11352879.flv
-龍組队长天昊直播间,https://live.ottiptv.cc/douyu/1487654#http://www.douzhicloud.site:35455/douyu/1487654
-骑士不让播了，先随便播下吧,https://live.ottiptv.cc/douyu/1218414#http://www.douzhicloud.site:35455/douyu/1218414
-茶啊二中,https://www.goodiptv.club/huya/11213191#http://cfss.cc/cdn/hy/11213191.flv#http://www.douzhicloud.site:35455/douyu/2925610#https://live.ottiptv.cc/douyu/2925610
+龍組队长天昊直播间,https://live.ottiptv.cc/douyu/1487654#https://live.188766.xyz/douyu/1487654
+骑士不让播了，先随便播下吧,https://live.ottiptv.cc/douyu/1218414#https://live.188766.xyz/douyu/1218414
+茶啊二中,https://www.goodiptv.club/huya/11213191#http://cfss.cc/cdn/hy/11213191.flv#https://live.188766.xyz/douyu/2925610#https://live.ottiptv.cc/douyu/2925610
 航海王,https://www.goodiptv.club/huya/16913382#http://cfss.cc/cdn/hy/16913382.flv
 龙珠超,https://www.goodiptv.club/huya/11601966#http://cfss.cc/cdn/hy/11601966.flv
 樱桃小丸子,https://www.goodiptv.club/huya/11342394#http://cfss.cc/cdn/hy/11342394.flv
@@ -978,16 +978,16 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 异人动漫,https://www.goodiptv.club/huya/11352869#http://cfss.cc/cdn/hy/11352869.flv
 新世纪福音战士,https://www.goodiptv.club/huya/21059570#http://cfss.cc/cdn/hy/21059570.flv
 蜡笔小新,https://www.goodiptv.club/huya/11352970#http://cfss.cc/cdn/hy/11352970.flv#https://www.goodiptv.club/huya/137834#http://cfss.cc/cdn/hy/137834.flv
-犬夜叉剧场版,https://live.ottiptv.cc/douyu/11906591#http://www.douzhicloud.site:35455/douyu/11906591
-晓妞动漫花园,https://live.ottiptv.cc/douyu/426517#http://www.douzhicloud.site:35455/douyu/426517
+犬夜叉剧场版,https://live.ottiptv.cc/douyu/11906591#https://live.188766.xyz/douyu/11906591
+晓妞动漫花园,https://live.ottiptv.cc/douyu/426517#https://live.188766.xyz/douyu/426517
 网球王子,https://www.goodiptv.club/huya/11352882#http://cfss.cc/cdn/hy/11352882.flv
 二次元的世界里有我的梦想和青春,https://www.goodiptv.club/huya/21059614#http://cfss.cc/cdn/hy/21059614.flv
 齐神,https://www.goodiptv.club/huya/11352918#http://cfss.cc/cdn/hy/11352918.flv
 完美世界,https://www.goodiptv.club/huya/11336579#http://cfss.cc/cdn/hy/11336579.flv
 哆啦A梦,https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#http://cfss.cc/cdn/hy/11601963.flv#http://cfss.cc/cdn/hy/29982795.flv
-开心锤锤,https://live.ottiptv.cc/douyu/9018297#http://www.douzhicloud.site:35455/douyu/9018297
+开心锤锤,https://live.ottiptv.cc/douyu/9018297#https://live.188766.xyz/douyu/9018297
 虎牙四驱兄弟,https://www.goodiptv.club/huya/11352922#http://cfss.cc/cdn/hy/11352922.flv
-斗鱼四驱兄弟,https://live.ottiptv.cc/douyu/4575356#http://www.douzhicloud.site:35455/douyu/4575356
+斗鱼四驱兄弟,https://live.ottiptv.cc/douyu/4575356#https://live.188766.xyz/douyu/4575356
 圣魔大陆,https://www.goodiptv.club/huya/26355828#http://cfss.cc/cdn/hy/26355828.flv
 画江湖之不良人,https://www.goodiptv.club/huya/21059565#http://cfss.cc/cdn/hy/21059565.flv#https://www.goodiptv.club/huya/30080218#http://cfss.cc/cdn/hy/30080218.flv
 不良人1-6动漫,https://www.goodiptv.club/huya/29982595#http://cfss.cc/cdn/hy/29982595.flv
@@ -995,27 +995,27 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 斗帝萧炎,https://www.goodiptv.club/huya/618917#http://cfss.cc/cdn/hy/618917.flv
 头文字D动漫,https://www.goodiptv.club/huya/11352889#http://cfss.cc/cdn/hy/11352889.flv
 足球小将,https://www.goodiptv.club/huya/11352904#http://cfss.cc/cdn/hy/11352904.flv
-海绵宝宝,http://www.douzhicloud.site:35455/douyu/7528160#http://www.douzhicloud.site:35455/douyu/3949681#https://www.goodiptv.club/huya/11352919#http://www.douzhicloud.site:35455/douyu/11595245#http://www.douzhicloud.site:35455/douyu/12311684#https://live.ottiptv.cc/douyu/7528160#https://live.ottiptv.cc/douyu/3949681#https://live.ottiptv.cc/douyu/11595245#https://live.ottiptv.cc/douyu/12311684
+海绵宝宝,https://live.188766.xyz/douyu/7528160#https://live.188766.xyz/douyu/3949681#https://www.goodiptv.club/huya/11352919#https://live.188766.xyz/douyu/11595245#https://live.188766.xyz/douyu/12311684#https://live.ottiptv.cc/douyu/7528160#https://live.ottiptv.cc/douyu/3949681#https://live.ottiptv.cc/douyu/11595245#https://live.ottiptv.cc/douyu/12311684
 武林之同福客栈动画版,https://www.goodiptv.club/huya/25749066#http://cfss.cc/cdn/hy/25749066.flv
 哪吒传奇,https://www.goodiptv.club/huya/26355782#http://cfss.cc/cdn/hy/26355782.flv
-惊悚恐怖动画,https://live.ottiptv.cc/douyu/9312460#http://www.douzhicloud.site:35455/douyu/9312460
+惊悚恐怖动画,https://live.ottiptv.cc/douyu/9312460#https://live.188766.xyz/douyu/9312460
 魔道祖师,https://www.goodiptv.club/huya/30080217#http://cfss.cc/cdn/hy/30080217.flv
 仙逆,https://www.goodiptv.club/huya/30080215#http://cfss.cc/cdn/hy/30080215.flv
 西游记动画,https://www.goodiptv.club/huya/29981376#http://cfss.cc/cdn/hy/29981376.flv
 少年歌行,https://www.goodiptv.club/huya/29982667#http://cfss.cc/cdn/hy/29982667.flv
 一念永恒,https://www.goodiptv.club/huya/30080223#http://cfss.cc/cdn/hy/30080223.flv
-小时候看过的怀旧动画片,https://live.ottiptv.cc/douyu/7360064#http://www.douzhicloud.site:35455/douyu/7360064
+小时候看过的怀旧动画片,https://live.ottiptv.cc/douyu/7360064#https://live.188766.xyz/douyu/7360064
 武庚纪-究极人神之战,https://www.goodiptv.club/huya/26355862#http://cfss.cc/cdn/hy/26355862.flv
 刘关张三活宝,https://www.goodiptv.club/huya/29465871#http://cfss.cc/cdn/hy/29465871.flv
 全职猎人,https://www.goodiptv.club/huya/30080254#http://cfss.cc/cdn/hy/30080254.flv
 黑子的篮球,https://www.goodiptv.club/huya/30080253#http://cfss.cc/cdn/hy/30080253.flv
-林小二动画,https://live.ottiptv.cc/douyu/11184164#http://www.douzhicloud.site:35455/douyu/11184164
+林小二动画,https://live.ottiptv.cc/douyu/11184164#https://live.188766.xyz/douyu/11184164
 迪士尼! 经典动画电影,https://www.goodiptv.club/huya/30080256#http://cfss.cc/cdn/hy/30080256.flv
 地灵曲,https://www.goodiptv.club/huya/30080216#http://cfss.cc/cdn/hy/30080216.flv
-童年的动画片,https://live.ottiptv.cc/douyu/11741459#http://www.douzhicloud.site:35455/douyu/11741459
+童年的动画片,https://live.ottiptv.cc/douyu/11741459#https://live.188766.xyz/douyu/11741459
 国风动画电影,https://www.goodiptv.club/huya/30080242#http://cfss.cc/cdn/hy/30080242.flv
 怪盗基德,https://www.goodiptv.club/huya/26355804#http://cfss.cc/cdn/hy/26355804.flv
-小猪佩奇,https://live.ottiptv.cc/douyu/9541736#http://www.douzhicloud.site:35455/douyu/9541736
+小猪佩奇,https://live.ottiptv.cc/douyu/9541736#https://live.188766.xyz/douyu/9541736
 喜羊羊灰太狼,https://www.goodiptv.club/huya/23865080#http://cfss.cc/cdn/hy/23865080.flv#https://www.goodiptv.club/huya/23699135#http://cfss.cc/cdn/hy/23699135.flv
 民调局异闻录,https://www.goodiptv.club/huya/26355820#http://cfss.cc/cdn/hy/26355820.flv
 异人之下,https://www.goodiptv.club/huya/11602065#http://cfss.cc/cdn/hy/11602065.flv
@@ -1026,7 +1026,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 快把我哥哥带走,https://www.goodiptv.club/huya/23734246#http://cfss.cc/cdn/hy/23734246.flv
 瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#http://cfss.cc/cdn/hy/29982655.flv
 守护甜心,https://www.goodiptv.club/huya/24314166#http://cfss.cc/cdn/hy/24314166.flv
-山止月的直播间,https://live.ottiptv.cc/douyu/12538016#http://www.douzhicloud.site:35455/douyu/12538016
+山止月的直播间,https://live.ottiptv.cc/douyu/12538016#https://live.188766.xyz/douyu/12538016
 灌篮高手,http://cfss.cc/cdn/yy/1356243352.flv#https://yylunbo.ottiptv.cc/yy/1356243352
 灌篮高手,https://yylunbo.ottiptv.cc/yy/1382735626
 妖神记,https://yylunbo.ottiptv.cc/yy/1382745171#http://cfss.cc/cdn/yy/1382745171.flv
@@ -1035,7 +1035,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 全职高手动画,https://www.goodiptv.club/huya/21059628#http://cfss.cc/cdn/hy/21059628.flv
 双城之战--英雄联盟超燃动画,https://www.goodiptv.club/huya/23903196#http://cfss.cc/cdn/hy/23903196.flv
 熊出没之探险日记,https://yylunbo.ottiptv.cc/yy/1382745122#http://cfss.cc/cdn/yy/1382745122.flv#https://yylunbo.ottiptv.cc/yy/1354930977
-奇光动漫剧场,https://live.ottiptv.cc/douyu/12560807#http://www.douzhicloud.site:35455/douyu/12560807
+奇光动漫剧场,https://live.ottiptv.cc/douyu/12560807#https://live.188766.xyz/douyu/12560807
 迪迦奥特曼,https://www.goodiptv.club/huya/21059569#http://cfss.cc/cdn/hy/21059569.flv
 星辰变,https://www.goodiptv.club/huya/24514506#http://cfss.cc/cdn/hy/24514506.flv
 最新日本动画片,https://www.goodiptv.club/huya/26355787#http://cfss.cc/cdn/hy/26355787.flv
@@ -1044,7 +1044,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 诛仙--国漫,https://www.goodiptv.club/huya/23728595#http://cfss.cc/cdn/hy/23728595.flv
 宇宙护卫队--国漫,https://yylunbo.ottiptv.cc/yy/1382736837
 萌鸡小队,https://yylunbo.ottiptv.cc/yy/1382736904
-动画片,https://live.ottiptv.cc/douyu/12626455#http://www.douzhicloud.site:35455/douyu/12626455
+动画片,https://live.ottiptv.cc/douyu/12626455#https://live.188766.xyz/douyu/12626455
 吞噬星空,https://www.goodiptv.club/huya/23902242#http://cfss.cc/cdn/hy/23902242.flv
 游戏王,https://www.goodiptv.club/huya/20985856#http://cfss.cc/cdn/hy/20985856.flv
 游戏王,https://www.goodiptv.club/huya/20969126#http://cfss.cc/cdn/hy/20969126.flv
@@ -1521,150 +1521,150 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 
 
 ❤️斗鱼影院,#genre#
-片源多多1,https://live.ottiptv.cc/douyu/7623292#http://www.douzhicloud.site:35455/douyu/7623292
-片源多多2,https://live.ottiptv.cc/douyu/7476264#http://www.douzhicloud.site:35455/douyu/7476264
-片源多多3,https://live.ottiptv.cc/douyu/2073#http://www.douzhicloud.site:35455/douyu/2073
-经典随便放,https://live.ottiptv.cc/douyu/12169420#http://www.douzhicloud.site:35455/douyu/12169420
-随便播,https://live.ottiptv.cc/douyu/6588759#http://www.douzhicloud.site:35455/douyu/6588759
-随机连播,https://live.ottiptv.cc/douyu/6369954#http://www.douzhicloud.site:35455/douyu/6369954
-港剧1,https://live.ottiptv.cc/douyu/4290711#http://www.douzhicloud.site:35455/douyu/4290711
-港剧2,https://live.ottiptv.cc/douyu/5522351#http://www.douzhicloud.site:35455/douyu/5522351
-港剧3,https://live.ottiptv.cc/douyu/5261342#http://www.douzhicloud.site:35455/douyu/5261342
-港剧4,https://live.ottiptv.cc/douyu/11247280#http://www.douzhicloud.site:35455/douyu/11247280
-港剧5,https://live.ottiptv.cc/douyu/5061550#http://www.douzhicloud.site:35455/douyu/5061550
-电视剧、电影,https://live.ottiptv.cc/douyu/9838414#http://www.douzhicloud.site:35455/douyu/9838414
-影视剧,https://live.ottiptv.cc/douyu/9242659#http://www.douzhicloud.site:35455/douyu/9242659
-贝贝影视,https://live.ottiptv.cc/douyu/431460#http://www.douzhicloud.site:35455/douyu/431460
-橙記-弹幕看剧间,https://live.ottiptv.cc/douyu/4549169#http://www.douzhicloud.site:35455/douyu/4549169
-铁甲影院--庆余年,https://live.ottiptv.cc/douyu/1274132#http://www.douzhicloud.site:35455/douyu/1274132
-庆余年,https://live.ottiptv.cc/douyu/7812810#http://www.douzhicloud.site:35455/douyu/7812810
-庆余年,https://live.ottiptv.cc/douyu/329876#http://www.douzhicloud.site:35455/douyu/329876
-经典老剧,https://live.ottiptv.cc/douyu/12015111#http://www.douzhicloud.site:35455/douyu/12015111
-老剧,https://live.ottiptv.cc/douyu/8543072#http://www.douzhicloud.site:35455/douyu/8543072
-岁月经典,https://live.ottiptv.cc/douyu/11756388#http://www.douzhicloud.site:35455/douyu/11756388
-【怡影吧】❤️经典剧集❤️,https://live.ottiptv.cc/douyu/8507544#http://www.douzhicloud.site:35455/douyu/8507544
-【暧昧】犯我大汉者虽远必诛,https://live.ottiptv.cc/douyu/3134490#http://www.douzhicloud.site:35455/douyu/3134490
-迷路的挂件直播间,https://live.ottiptv.cc/douyu/12210085#http://www.douzhicloud.site:35455/douyu/12210085
-爱画画的奶糖直播间,https://live.ottiptv.cc/douyu/4346416#http://www.douzhicloud.site:35455/douyu/4346416
-傲娇的超级赛亚人直播间,https://live.ottiptv.cc/douyu/4373285#http://www.douzhicloud.site:35455/douyu/4373285
-烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#http://www.douzhicloud.site:35455/douyu/11649079
-【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#http://www.douzhicloud.site:35455/douyu/323876
-小毅喜剧剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#http://www.douzhicloud.site:35455/douyu/11851549
-小毅喜剧剧场--快乐星球1-3,https://live.ottiptv.cc/douyu/1446150#http://www.douzhicloud.site:35455/douyu/1446150
-【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#http://www.douzhicloud.site:35455/douyu/11849873
-【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#http://www.douzhicloud.site:35455/douyu/1226741
-小猪忧版剧院,https://live.ottiptv.cc/douyu/10297898#http://www.douzhicloud.site:35455/douyu/10297898
-看看老电影,https://live.ottiptv.cc/douyu/585642#http://www.douzhicloud.site:35455/douyu/585642
-下饭神剧,https://live.ottiptv.cc/douyu/3700024#http://www.douzhicloud.site:35455/douyu/3700024
-胡八一冲冲冲的直播间,https://live.ottiptv.cc/douyu/9292503#http://www.douzhicloud.site:35455/douyu/9292503
-胡八一胖子促发剧情,https://live.ottiptv.cc/douyu/5635000#http://www.douzhicloud.site:35455/douyu/5635000
-国产青春-动作-喜剧,https://live.ottiptv.cc/douyu/5423#http://www.douzhicloud.site:35455/douyu/5423
-4K❤电影院❤喜剧悬疑文艺科幻灾难动,https://live.ottiptv.cc/douyu/12192607#http://www.douzhicloud.site:35455/douyu/12192607
-宅男冰狗直播间,https://live.ottiptv.cc/douyu/1369700#http://www.douzhicloud.site:35455/douyu/1369700
-深夜D你上高速,https://live.ottiptv.cc/douyu/7882691#http://www.douzhicloud.site:35455/douyu/7882691
-深夜D你去看剧,https://live.ottiptv.cc/douyu/12434419#http://www.douzhicloud.site:35455/douyu/12434419
-【刀刀de食堂】点播台,https://live.ottiptv.cc/douyu/6733133#http://www.douzhicloud.site:35455/douyu/6733133
-荒野大镖客,https://live.ottiptv.cc/douyu/5982597#http://www.douzhicloud.site:35455/douyu/5982597
-奇兮兮悄陌直播间,https://live.ottiptv.cc/douyu/953193#http://www.douzhicloud.site:35455/douyu/953193
-【小白影院】60帧 蓝光影院,https://live.ottiptv.cc/douyu/322360#http://www.douzhicloud.site:35455/douyu/322360
-科幻片,https://live.ottiptv.cc/douyu/10183347#http://www.douzhicloud.site:35455/douyu/10183347
-豆瓣高分,https://live.ottiptv.cc/douyu/8770422#http://www.douzhicloud.site:35455/douyu/8770422
-✨神乐✨欧美 电影 科幻 动作 经典喜剧,https://live.ottiptv.cc/douyu/20415#http://www.douzhicloud.site:35455/douyu/20415
-【港剧/动作】武侠 经典 古装,https://live.ottiptv.cc/douyu/2793084#http://www.douzhicloud.site:35455/douyu/2793084
-【变种人】除掉任何阻碍我们的人,https://live.ottiptv.cc/douyu/9651304#http://www.douzhicloud.site:35455/douyu/9651304
-【神乐】华语 经典 电影 沈腾 周杰伦,https://live.ottiptv.cc/douyu/85894#http://www.douzhicloud.site:35455/douyu/85894
-回忆青春剧场,https://live.ottiptv.cc/douyu/12590736#http://www.douzhicloud.site:35455/douyu/12590736
-电影天堂,https://live.ottiptv.cc/douyu/3811092#http://www.douzhicloud.site:35455/douyu/3811092
-酷炫短剧场,https://live.ottiptv.cc/douyu/36337#http://www.douzhicloud.site:35455/douyu/36337
-悍匪电影,https://live.ottiptv.cc/douyu/922564#http://www.douzhicloud.site:35455/douyu/922564
-亚洲功夫影片,https://live.ottiptv.cc/douyu/11849283#http://www.douzhicloud.site:35455/douyu/11849283
-林正英.周星驰.欧美经典片,https://live.ottiptv.cc/douyu/433055#http://www.douzhicloud.site:35455/douyu/433055
-童年记忆,https://live.ottiptv.cc/douyu/73354#http://www.douzhicloud.site:35455/douyu/73354
-动作喜剧,https://live.ottiptv.cc/douyu/12421816#http://www.douzhicloud.site:35455/douyu/12421816
-❤️怡寶❤️影院,https://live.ottiptv.cc/douyu/434971#http://www.douzhicloud.site:35455/douyu/434971
-喜剧电影专场1,https://live.ottiptv.cc/douyu/9292492#http://www.douzhicloud.site:35455/douyu/9292492
-喜剧电影专场2,https://live.ottiptv.cc/douyu/9824094#http://www.douzhicloud.site:35455/douyu/9824094
-【蓝翔】60帧原画电影 华语喜剧,https://live.ottiptv.cc/douyu/276200#http://www.douzhicloud.site:35455/douyu/276200
-dx雾黎直播间,https://live.ottiptv.cc/douyu/10935839#http://www.douzhicloud.site:35455/douyu/10935839
-漫威主线剧情最佳电影,https://live.ottiptv.cc/douyu/11673725#http://www.douzhicloud.site:35455/douyu/11673725
-伊太刀刀的直播间,https://live.ottiptv.cc/douyu/747764#http://www.douzhicloud.site:35455/douyu/747764
-译制国语影片,https://live.ottiptv.cc/douyu/2436390#http://www.douzhicloud.site:35455/douyu/2436390
-小毅影院,https://live.ottiptv.cc/douyu/6906628#http://www.douzhicloud.site:35455/douyu/6906628
-奇光喜剧剧场,https://live.ottiptv.cc/douyu/8009547#http://www.douzhicloud.site:35455/douyu/8009547
-经典剧场,https://live.ottiptv.cc/douyu/4246519#http://www.douzhicloud.site:35455/douyu/4246519
-米尼影院,https://live.ottiptv.cc/douyu/7642724#http://www.douzhicloud.site:35455/douyu/7642724
-特辑电影,https://live.ottiptv.cc/douyu/3637778#http://www.douzhicloud.site:35455/douyu/3637778
-【贝爷影厅】欧美 科幻 动作 经典 电影,https://live.ottiptv.cc/douyu/252802#http://www.douzhicloud.site:35455/douyu/252802
-好剧看不停,https://live.ottiptv.cc/douyu/9388938#http://www.douzhicloud.site:35455/douyu/9388938
-追梦凌宝的直播间,https://live.ottiptv.cc/douyu/1377142#http://www.douzhicloud.site:35455/douyu/1377142
-【静静】经典影视剧,https://live.ottiptv.cc/douyu/5668371#http://www.douzhicloud.site:35455/douyu/5668371
-经典高分电影,https://live.ottiptv.cc/douyu/7254536#http://www.douzhicloud.site:35455/douyu/7254536
-漫威主线剧情,https://live.ottiptv.cc/douyu/6140589#http://www.douzhicloud.site:35455/douyu/6140589
-一起看新手主播,https://live.ottiptv.cc/douyu/12453761#http://www.douzhicloud.site:35455/douyu/12453761
-箩卜君直播间,https://live.ottiptv.cc/douyu/7495810#http://www.douzhicloud.site:35455/douyu/7495810
-【贝爷MAX厅】60帧电影 科幻 动作,https://live.ottiptv.cc/douyu/4332#http://www.douzhicloud.site:35455/douyu/4332
-吃米滴虫,https://live.ottiptv.cc/douyu/315457#http://www.douzhicloud.site:35455/douyu/315457
-经典影视,https://live.ottiptv.cc/douyu/6091425#http://www.douzhicloud.site:35455/douyu/6091425
-小鬼影院点播台,https://live.ottiptv.cc/douyu/3928#http://www.douzhicloud.site:35455/douyu/3928
-【神 剧】的直播间,https://live.ottiptv.cc/douyu/3439096#http://www.douzhicloud.site:35455/douyu/3439096
-天龙八部、连城诀轮播,https://live.ottiptv.cc/douyu/8166878#http://www.douzhicloud.site:35455/douyu/8166878
-经典武侠剧,https://live.ottiptv.cc/douyu/11784023#http://www.douzhicloud.site:35455/douyu/11784023
-金庸武侠剧场,https://live.ottiptv.cc/douyu/9285904#http://www.douzhicloud.site:35455/douyu/9285904
-李小龙系列,https://live.ottiptv.cc/douyu/8721095#http://www.douzhicloud.site:35455/douyu/8721095
-家有儿女,https://live.ottiptv.cc/douyu/11827530#http://www.douzhicloud.site:35455/douyu/11827530
-爱情公寓,https://live.ottiptv.cc/douyu/6863367#http://www.douzhicloud.site:35455/douyu/6863367#https://live.ottiptv.cc/douyu/4105989#http://www.douzhicloud.site:35455/douyu/4105989
-太平天国,https://live.ottiptv.cc/douyu/12068394#http://www.douzhicloud.site:35455/douyu/12068394
-任志飞直播间,https://live.ottiptv.cc/douyu/12501387#http://www.douzhicloud.site:35455/douyu/12501387
-士兵突击,https://live.ottiptv.cc/douyu/10348728#http://www.douzhicloud.site:35455/douyu/10348728
-4K超高清影视剧场,https://live.ottiptv.cc/douyu/12632716#http://www.douzhicloud.site:35455/douyu/12632716
-林正英【久久】下饭电视剧,https://live.ottiptv.cc/douyu/8371123#http://www.douzhicloud.site:35455/douyu/8371123
-kk6506直播间,https://live.ottiptv.cc/douyu/4579455#http://www.douzhicloud.site:35455/douyu/4579455
-肖胜350的直播间,https://live.ottiptv.cc/douyu/7338853#http://www.douzhicloud.site:35455/douyu/7338853
-LR1245直播间,https://live.ottiptv.cc/douyu/12534632#http://www.douzhicloud.site:35455/douyu/12534632
-【默鱼】陪你一起看剧,https://live.ottiptv.cc/douyu/11922242#http://www.douzhicloud.site:35455/douyu/11922242
-西游记续集,https://live.ottiptv.cc/douyu/3113309#http://www.douzhicloud.site:35455/douyu/3113309
-西游记港剧,https://live.ottiptv.cc/douyu/10198644#http://www.douzhicloud.site:35455/douyu/10198644
-射雕英雄传,https://live.ottiptv.cc/douyu/12143858#http://www.douzhicloud.site:35455/douyu/12143858
-欢乐时光经典剧场,https://live.ottiptv.cc/douyu/755851#http://www.douzhicloud.site:35455/douyu/755851
-鹿鼎记-陈小春,https://live.ottiptv.cc/douyu/12128227#http://www.douzhicloud.site:35455/douyu/12128227
-新三国,https://live.ottiptv.cc/douyu/428402#http://www.douzhicloud.site:35455/douyu/428402#https://live.ottiptv.cc/douyu/12253936#http://www.douzhicloud.site:35455/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#http://www.douzhicloud.site:35455/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#http://www.douzhicloud.site:35455/douyu/12180551
-三国演义94版,https://live.ottiptv.cc/douyu/12463728#http://www.douzhicloud.site:35455/douyu/12463728
-神话,https://live.ottiptv.cc/douyu/5448413#http://www.douzhicloud.site:35455/douyu/5448413
-康熙微服私访记,https://live.ottiptv.cc/douyu/1006179#http://www.douzhicloud.site:35455/douyu/1006179
-网神影厅,https://live.ottiptv.cc/douyu/508118#http://www.douzhicloud.site:35455/douyu/508118
-燕双鹰专场,https://live.ottiptv.cc/douyu/11931032#http://www.douzhicloud.site:35455/douyu/11931032
-神剧,https://live.ottiptv.cc/douyu/5875025#http://www.douzhicloud.site:35455/douyu/5875025
-神探狄仁杰,https://live.ottiptv.cc/douyu/12442176#http://www.douzhicloud.site:35455/douyu/12442176#https://live.ottiptv.cc/douyu/11391949#http://www.douzhicloud.site:35455/douyu/11391949#http://www.douzhicloud.site:35455/douyu/12183882#https://live.ottiptv.cc/douyu/12183882#https://live.ottiptv.cc/douyu/6027991#http://www.douzhicloud.site:35455/douyu/6027991#https://live.ottiptv.cc/douyu/12655359#http://www.douzhicloud.site:35455/douyu/12655359
-大秦帝国,https://live.ottiptv.cc/douyu/9388931#http://www.douzhicloud.site:35455/douyu/9388931
-顺才少爷,https://live.ottiptv.cc/douyu/10084875#http://www.douzhicloud.site:35455/douyu/10084875
-炊事班的故事,https://live.ottiptv.cc/douyu/319576#http://www.douzhicloud.site:35455/douyu/319576
-和平饭店,https://live.ottiptv.cc/douyu/9650782#http://www.douzhicloud.site:35455/douyu/9650782
-新剧,https://live.ottiptv.cc/douyu/12552495#http://www.douzhicloud.site:35455/douyu/12552495
-火影手游1,https://live.ottiptv.cc/douyu/11425422#http://www.douzhicloud.site:35455/douyu/11425422
-火影手游2,https://live.ottiptv.cc/douyu/12267530#http://www.douzhicloud.site:35455/douyu/12267530
-火影手游3,https://live.ottiptv.cc/douyu/921393#http://www.douzhicloud.site:35455/douyu/921393
-火影手游4,https://live.ottiptv.cc/douyu/10363686#http://www.douzhicloud.site:35455/douyu/10363686
-火影手游5,https://live.ottiptv.cc/douyu/12188319#http://www.douzhicloud.site:35455/douyu/12188319
-狼人杀官方赛事,https://live.ottiptv.cc/douyu/4615959#http://www.douzhicloud.site:35455/douyu/4615959
-三角洲行动,https://live.ottiptv.cc/douyu/1485743#http://www.douzhicloud.site:35455/douyu/1485743
-开心麻花---沈腾、马丽经典小品专场,https://live.ottiptv.cc/douyu/10153463#http://www.douzhicloud.site:35455/douyu/10153463
-宋小宝经典小品,https://live.ottiptv.cc/douyu/9817729#http://www.douzhicloud.site:35455/douyu/9817729
-贾玲经典小品,https://live.ottiptv.cc/douyu/10419541#http://www.douzhicloud.site:35455/douyu/10419541
-欢乐小饭米粒儿,https://live.ottiptv.cc/douyu/9403690#http://www.douzhicloud.site:35455/douyu/9403690
-经典小品,https://live.ottiptv.cc/douyu/9067836#http://www.douzhicloud.site:35455/douyu/9067836
-许君聪经典小品的直播间,https://live.ottiptv.cc/douyu/10419558#http://www.douzhicloud.site:35455/douyu/10419558
-搞笑天堂岛,https://live.ottiptv.cc/douyu/6916081#http://www.douzhicloud.site:35455/douyu/6916081
-多多看车--交通事故,https://live.ottiptv.cc/douyu/4921957#http://www.douzhicloud.site:35455/douyu/4921957
-开车大神--交通事故,https://live.ottiptv.cc/douyu/9759970#http://www.douzhicloud.site:35455/douyu/9759970
-备胎说车,https://live.ottiptv.cc/douyu/3783046#http://www.douzhicloud.site:35455/douyu/3783046
-三国杀游戏1,https://live.ottiptv.cc/douyu/11958868#http://www.douzhicloud.site:35455/douyu/11958868
-三国杀游戏2,https://live.ottiptv.cc/douyu/7529411#http://www.douzhicloud.site:35455/douyu/7529411
-象棋1,https://live.ottiptv.cc/douyu/7453312#http://www.douzhicloud.site:35455/douyu/7453312
-象棋2,https://live.ottiptv.cc/douyu/851040#http://www.douzhicloud.site:35455/douyu/851040
-JJ斗地主,https://live.ottiptv.cc/douyu/488743#http://www.douzhicloud.site:35455/douyu/488743
-拳皇97,https://live.ottiptv.cc/douyu/8387733#http://www.douzhicloud.site:35455/douyu/8387733
-阿七点歌台,https://live.ottiptv.cc/douyu/3186217#http://www.douzhicloud.site:35455/douyu/3186217
-音乐MV,https://live.ottiptv.cc/douyu/3870925#http://www.douzhicloud.site:35455/douyu/3870925
+片源多多1,https://live.ottiptv.cc/douyu/7623292#https://live.188766.xyz/douyu/7623292
+片源多多2,https://live.ottiptv.cc/douyu/7476264#https://live.188766.xyz/douyu/7476264
+片源多多3,https://live.ottiptv.cc/douyu/2073#https://live.188766.xyz/douyu/2073
+经典随便放,https://live.ottiptv.cc/douyu/12169420#https://live.188766.xyz/douyu/12169420
+随便播,https://live.ottiptv.cc/douyu/6588759#https://live.188766.xyz/douyu/6588759
+随机连播,https://live.ottiptv.cc/douyu/6369954#https://live.188766.xyz/douyu/6369954
+港剧1,https://live.ottiptv.cc/douyu/4290711#https://live.188766.xyz/douyu/4290711
+港剧2,https://live.ottiptv.cc/douyu/5522351#https://live.188766.xyz/douyu/5522351
+港剧3,https://live.ottiptv.cc/douyu/5261342#https://live.188766.xyz/douyu/5261342
+港剧4,https://live.ottiptv.cc/douyu/11247280#https://live.188766.xyz/douyu/11247280
+港剧5,https://live.ottiptv.cc/douyu/5061550#https://live.188766.xyz/douyu/5061550
+电视剧、电影,https://live.ottiptv.cc/douyu/9838414#https://live.188766.xyz/douyu/9838414
+影视剧,https://live.ottiptv.cc/douyu/9242659#https://live.188766.xyz/douyu/9242659
+贝贝影视,https://live.ottiptv.cc/douyu/431460#https://live.188766.xyz/douyu/431460
+橙記-弹幕看剧间,https://live.ottiptv.cc/douyu/4549169#https://live.188766.xyz/douyu/4549169
+铁甲影院--庆余年,https://live.ottiptv.cc/douyu/1274132#https://live.188766.xyz/douyu/1274132
+庆余年,https://live.ottiptv.cc/douyu/7812810#https://live.188766.xyz/douyu/7812810
+庆余年,https://live.ottiptv.cc/douyu/329876#https://live.188766.xyz/douyu/329876
+经典老剧,https://live.ottiptv.cc/douyu/12015111#https://live.188766.xyz/douyu/12015111
+老剧,https://live.ottiptv.cc/douyu/8543072#https://live.188766.xyz/douyu/8543072
+岁月经典,https://live.ottiptv.cc/douyu/11756388#https://live.188766.xyz/douyu/11756388
+【怡影吧】❤️经典剧集❤️,https://live.ottiptv.cc/douyu/8507544#https://live.188766.xyz/douyu/8507544
+【暧昧】犯我大汉者虽远必诛,https://live.ottiptv.cc/douyu/3134490#https://live.188766.xyz/douyu/3134490
+迷路的挂件直播间,https://live.ottiptv.cc/douyu/12210085#https://live.188766.xyz/douyu/12210085
+爱画画的奶糖直播间,https://live.ottiptv.cc/douyu/4346416#https://live.188766.xyz/douyu/4346416
+傲娇的超级赛亚人直播间,https://live.ottiptv.cc/douyu/4373285#https://live.188766.xyz/douyu/4373285
+烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#https://live.188766.xyz/douyu/11649079
+【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://live.188766.xyz/douyu/323876
+小毅喜剧剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://live.188766.xyz/douyu/11851549
+小毅喜剧剧场--快乐星球1-3,https://live.ottiptv.cc/douyu/1446150#https://live.188766.xyz/douyu/1446150
+【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://live.188766.xyz/douyu/11849873
+【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#https://live.188766.xyz/douyu/1226741
+小猪忧版剧院,https://live.ottiptv.cc/douyu/10297898#https://live.188766.xyz/douyu/10297898
+看看老电影,https://live.ottiptv.cc/douyu/585642#https://live.188766.xyz/douyu/585642
+下饭神剧,https://live.ottiptv.cc/douyu/3700024#https://live.188766.xyz/douyu/3700024
+胡八一冲冲冲的直播间,https://live.ottiptv.cc/douyu/9292503#https://live.188766.xyz/douyu/9292503
+胡八一胖子促发剧情,https://live.ottiptv.cc/douyu/5635000#https://live.188766.xyz/douyu/5635000
+国产青春-动作-喜剧,https://live.ottiptv.cc/douyu/5423#https://live.188766.xyz/douyu/5423
+4K❤电影院❤喜剧悬疑文艺科幻灾难动,https://live.ottiptv.cc/douyu/12192607#https://live.188766.xyz/douyu/12192607
+宅男冰狗直播间,https://live.ottiptv.cc/douyu/1369700#https://live.188766.xyz/douyu/1369700
+深夜D你上高速,https://live.ottiptv.cc/douyu/7882691#https://live.188766.xyz/douyu/7882691
+深夜D你去看剧,https://live.ottiptv.cc/douyu/12434419#https://live.188766.xyz/douyu/12434419
+【刀刀de食堂】点播台,https://live.ottiptv.cc/douyu/6733133#https://live.188766.xyz/douyu/6733133
+荒野大镖客,https://live.ottiptv.cc/douyu/5982597#https://live.188766.xyz/douyu/5982597
+奇兮兮悄陌直播间,https://live.ottiptv.cc/douyu/953193#https://live.188766.xyz/douyu/953193
+【小白影院】60帧 蓝光影院,https://live.ottiptv.cc/douyu/322360#https://live.188766.xyz/douyu/322360
+科幻片,https://live.ottiptv.cc/douyu/10183347#https://live.188766.xyz/douyu/10183347
+豆瓣高分,https://live.ottiptv.cc/douyu/8770422#https://live.188766.xyz/douyu/8770422
+✨神乐✨欧美 电影 科幻 动作 经典喜剧,https://live.ottiptv.cc/douyu/20415#https://live.188766.xyz/douyu/20415
+【港剧/动作】武侠 经典 古装,https://live.ottiptv.cc/douyu/2793084#https://live.188766.xyz/douyu/2793084
+【变种人】除掉任何阻碍我们的人,https://live.ottiptv.cc/douyu/9651304#https://live.188766.xyz/douyu/9651304
+【神乐】华语 经典 电影 沈腾 周杰伦,https://live.ottiptv.cc/douyu/85894#https://live.188766.xyz/douyu/85894
+回忆青春剧场,https://live.ottiptv.cc/douyu/12590736#https://live.188766.xyz/douyu/12590736
+电影天堂,https://live.ottiptv.cc/douyu/3811092#https://live.188766.xyz/douyu/3811092
+酷炫短剧场,https://live.ottiptv.cc/douyu/36337#https://live.188766.xyz/douyu/36337
+悍匪电影,https://live.ottiptv.cc/douyu/922564#https://live.188766.xyz/douyu/922564
+亚洲功夫影片,https://live.ottiptv.cc/douyu/11849283#https://live.188766.xyz/douyu/11849283
+林正英.周星驰.欧美经典片,https://live.ottiptv.cc/douyu/433055#https://live.188766.xyz/douyu/433055
+童年记忆,https://live.ottiptv.cc/douyu/73354#https://live.188766.xyz/douyu/73354
+动作喜剧,https://live.ottiptv.cc/douyu/12421816#https://live.188766.xyz/douyu/12421816
+❤️怡寶❤️影院,https://live.ottiptv.cc/douyu/434971#https://live.188766.xyz/douyu/434971
+喜剧电影专场1,https://live.ottiptv.cc/douyu/9292492#https://live.188766.xyz/douyu/9292492
+喜剧电影专场2,https://live.ottiptv.cc/douyu/9824094#https://live.188766.xyz/douyu/9824094
+【蓝翔】60帧原画电影 华语喜剧,https://live.ottiptv.cc/douyu/276200#https://live.188766.xyz/douyu/276200
+dx雾黎直播间,https://live.ottiptv.cc/douyu/10935839#https://live.188766.xyz/douyu/10935839
+漫威主线剧情最佳电影,https://live.ottiptv.cc/douyu/11673725#https://live.188766.xyz/douyu/11673725
+伊太刀刀的直播间,https://live.ottiptv.cc/douyu/747764#https://live.188766.xyz/douyu/747764
+译制国语影片,https://live.ottiptv.cc/douyu/2436390#https://live.188766.xyz/douyu/2436390
+小毅影院,https://live.ottiptv.cc/douyu/6906628#https://live.188766.xyz/douyu/6906628
+奇光喜剧剧场,https://live.ottiptv.cc/douyu/8009547#https://live.188766.xyz/douyu/8009547
+经典剧场,https://live.ottiptv.cc/douyu/4246519#https://live.188766.xyz/douyu/4246519
+米尼影院,https://live.ottiptv.cc/douyu/7642724#https://live.188766.xyz/douyu/7642724
+特辑电影,https://live.ottiptv.cc/douyu/3637778#https://live.188766.xyz/douyu/3637778
+【贝爷影厅】欧美 科幻 动作 经典 电影,https://live.ottiptv.cc/douyu/252802#https://live.188766.xyz/douyu/252802
+好剧看不停,https://live.ottiptv.cc/douyu/9388938#https://live.188766.xyz/douyu/9388938
+追梦凌宝的直播间,https://live.ottiptv.cc/douyu/1377142#https://live.188766.xyz/douyu/1377142
+【静静】经典影视剧,https://live.ottiptv.cc/douyu/5668371#https://live.188766.xyz/douyu/5668371
+经典高分电影,https://live.ottiptv.cc/douyu/7254536#https://live.188766.xyz/douyu/7254536
+漫威主线剧情,https://live.ottiptv.cc/douyu/6140589#https://live.188766.xyz/douyu/6140589
+一起看新手主播,https://live.ottiptv.cc/douyu/12453761#https://live.188766.xyz/douyu/12453761
+箩卜君直播间,https://live.ottiptv.cc/douyu/7495810#https://live.188766.xyz/douyu/7495810
+【贝爷MAX厅】60帧电影 科幻 动作,https://live.ottiptv.cc/douyu/4332#https://live.188766.xyz/douyu/4332
+吃米滴虫,https://live.ottiptv.cc/douyu/315457#https://live.188766.xyz/douyu/315457
+经典影视,https://live.ottiptv.cc/douyu/6091425#https://live.188766.xyz/douyu/6091425
+小鬼影院点播台,https://live.ottiptv.cc/douyu/3928#https://live.188766.xyz/douyu/3928
+【神 剧】的直播间,https://live.ottiptv.cc/douyu/3439096#https://live.188766.xyz/douyu/3439096
+天龙八部、连城诀轮播,https://live.ottiptv.cc/douyu/8166878#https://live.188766.xyz/douyu/8166878
+经典武侠剧,https://live.ottiptv.cc/douyu/11784023#https://live.188766.xyz/douyu/11784023
+金庸武侠剧场,https://live.ottiptv.cc/douyu/9285904#https://live.188766.xyz/douyu/9285904
+李小龙系列,https://live.ottiptv.cc/douyu/8721095#https://live.188766.xyz/douyu/8721095
+家有儿女,https://live.ottiptv.cc/douyu/11827530#https://live.188766.xyz/douyu/11827530
+爱情公寓,https://live.ottiptv.cc/douyu/6863367#https://live.188766.xyz/douyu/6863367#https://live.ottiptv.cc/douyu/4105989#https://live.188766.xyz/douyu/4105989
+太平天国,https://live.ottiptv.cc/douyu/12068394#https://live.188766.xyz/douyu/12068394
+任志飞直播间,https://live.ottiptv.cc/douyu/12501387#https://live.188766.xyz/douyu/12501387
+士兵突击,https://live.ottiptv.cc/douyu/10348728#https://live.188766.xyz/douyu/10348728
+4K超高清影视剧场,https://live.ottiptv.cc/douyu/12632716#https://live.188766.xyz/douyu/12632716
+林正英【久久】下饭电视剧,https://live.ottiptv.cc/douyu/8371123#https://live.188766.xyz/douyu/8371123
+kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://live.188766.xyz/douyu/4579455
+肖胜350的直播间,https://live.ottiptv.cc/douyu/7338853#https://live.188766.xyz/douyu/7338853
+LR1245直播间,https://live.ottiptv.cc/douyu/12534632#https://live.188766.xyz/douyu/12534632
+【默鱼】陪你一起看剧,https://live.ottiptv.cc/douyu/11922242#https://live.188766.xyz/douyu/11922242
+西游记续集,https://live.ottiptv.cc/douyu/3113309#https://live.188766.xyz/douyu/3113309
+西游记港剧,https://live.ottiptv.cc/douyu/10198644#https://live.188766.xyz/douyu/10198644
+射雕英雄传,https://live.ottiptv.cc/douyu/12143858#https://live.188766.xyz/douyu/12143858
+欢乐时光经典剧场,https://live.ottiptv.cc/douyu/755851#https://live.188766.xyz/douyu/755851
+鹿鼎记-陈小春,https://live.ottiptv.cc/douyu/12128227#https://live.188766.xyz/douyu/12128227
+新三国,https://live.ottiptv.cc/douyu/428402#https://live.188766.xyz/douyu/428402#https://live.ottiptv.cc/douyu/12253936#https://live.188766.xyz/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#https://live.188766.xyz/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#https://live.188766.xyz/douyu/12180551
+三国演义94版,https://live.ottiptv.cc/douyu/12463728#https://live.188766.xyz/douyu/12463728
+神话,https://live.ottiptv.cc/douyu/5448413#https://live.188766.xyz/douyu/5448413
+康熙微服私访记,https://live.ottiptv.cc/douyu/1006179#https://live.188766.xyz/douyu/1006179
+网神影厅,https://live.ottiptv.cc/douyu/508118#https://live.188766.xyz/douyu/508118
+燕双鹰专场,https://live.ottiptv.cc/douyu/11931032#https://live.188766.xyz/douyu/11931032
+神剧,https://live.ottiptv.cc/douyu/5875025#https://live.188766.xyz/douyu/5875025
+神探狄仁杰,https://live.ottiptv.cc/douyu/12442176#https://live.188766.xyz/douyu/12442176#https://live.ottiptv.cc/douyu/11391949#https://live.188766.xyz/douyu/11391949#https://live.188766.xyz/douyu/12183882#https://live.ottiptv.cc/douyu/12183882#https://live.ottiptv.cc/douyu/6027991#https://live.188766.xyz/douyu/6027991#https://live.ottiptv.cc/douyu/12655359#https://live.188766.xyz/douyu/12655359
+大秦帝国,https://live.ottiptv.cc/douyu/9388931#https://live.188766.xyz/douyu/9388931
+顺才少爷,https://live.ottiptv.cc/douyu/10084875#https://live.188766.xyz/douyu/10084875
+炊事班的故事,https://live.ottiptv.cc/douyu/319576#https://live.188766.xyz/douyu/319576
+和平饭店,https://live.ottiptv.cc/douyu/9650782#https://live.188766.xyz/douyu/9650782
+新剧,https://live.ottiptv.cc/douyu/12552495#https://live.188766.xyz/douyu/12552495
+火影手游1,https://live.ottiptv.cc/douyu/11425422#https://live.188766.xyz/douyu/11425422
+火影手游2,https://live.ottiptv.cc/douyu/12267530#https://live.188766.xyz/douyu/12267530
+火影手游3,https://live.ottiptv.cc/douyu/921393#https://live.188766.xyz/douyu/921393
+火影手游4,https://live.ottiptv.cc/douyu/10363686#https://live.188766.xyz/douyu/10363686
+火影手游5,https://live.ottiptv.cc/douyu/12188319#https://live.188766.xyz/douyu/12188319
+狼人杀官方赛事,https://live.ottiptv.cc/douyu/4615959#https://live.188766.xyz/douyu/4615959
+三角洲行动,https://live.ottiptv.cc/douyu/1485743#https://live.188766.xyz/douyu/1485743
+开心麻花---沈腾、马丽经典小品专场,https://live.ottiptv.cc/douyu/10153463#https://live.188766.xyz/douyu/10153463
+宋小宝经典小品,https://live.ottiptv.cc/douyu/9817729#https://live.188766.xyz/douyu/9817729
+贾玲经典小品,https://live.ottiptv.cc/douyu/10419541#https://live.188766.xyz/douyu/10419541
+欢乐小饭米粒儿,https://live.ottiptv.cc/douyu/9403690#https://live.188766.xyz/douyu/9403690
+经典小品,https://live.ottiptv.cc/douyu/9067836#https://live.188766.xyz/douyu/9067836
+许君聪经典小品的直播间,https://live.ottiptv.cc/douyu/10419558#https://live.188766.xyz/douyu/10419558
+搞笑天堂岛,https://live.ottiptv.cc/douyu/6916081#https://live.188766.xyz/douyu/6916081
+多多看车--交通事故,https://live.ottiptv.cc/douyu/4921957#https://live.188766.xyz/douyu/4921957
+开车大神--交通事故,https://live.ottiptv.cc/douyu/9759970#https://live.188766.xyz/douyu/9759970
+备胎说车,https://live.ottiptv.cc/douyu/3783046#https://live.188766.xyz/douyu/3783046
+三国杀游戏1,https://live.ottiptv.cc/douyu/11958868#https://live.188766.xyz/douyu/11958868
+三国杀游戏2,https://live.ottiptv.cc/douyu/7529411#https://live.188766.xyz/douyu/7529411
+象棋1,https://live.ottiptv.cc/douyu/7453312#https://live.188766.xyz/douyu/7453312
+象棋2,https://live.ottiptv.cc/douyu/851040#https://live.188766.xyz/douyu/851040
+JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/488743
+拳皇97,https://live.ottiptv.cc/douyu/8387733#https://live.188766.xyz/douyu/8387733
+阿七点歌台,https://live.ottiptv.cc/douyu/3186217#https://live.188766.xyz/douyu/3186217
+音乐MV,https://live.ottiptv.cc/douyu/3870925#https://live.188766.xyz/douyu/3870925
 
 
 
@@ -2027,20 +2027,20 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 
 
 ❤️恐怖悬疑影院,#genre#
-林正英恐怖剧集,https://live.ottiptv.cc/douyu/7356023#http://www.douzhicloud.site:35455/douyu/7356023
-一个只播恐怖片的直播间,https://live.ottiptv.cc/douyu/12068394#http://www.douzhicloud.site:35455/douyu/12068394
-恐怖电影,https://live.ottiptv.cc/douyu/310926#http://www.douzhicloud.site:35455/douyu/310926
-【瑶瑶】童年阴影 鬼片 恐怖 惊悚,https://live.ottiptv.cc/douyu/2935323#http://www.douzhicloud.site:35455/douyu/2935323
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,https://live.ottiptv.cc/douyu/96577#http://www.douzhicloud.site:35455/douyu/96577
-【马小玲】况天佑~山本,https://live.ottiptv.cc/douyu/9470198#http://www.douzhicloud.site:35455/douyu/9470198
-经典、恐怖、鬼怪、剧场,https://live.ottiptv.cc/douyu/1165374#http://www.douzhicloud.site:35455/douyu/1165374
-林正英1,https://live.ottiptv.cc/douyu/12143683#http://www.douzhicloud.site:35455/douyu/12143683
+林正英恐怖剧集,https://live.ottiptv.cc/douyu/7356023#https://live.188766.xyz/douyu/7356023
+一个只播恐怖片的直播间,https://live.ottiptv.cc/douyu/12068394#https://live.188766.xyz/douyu/12068394
+恐怖电影,https://live.ottiptv.cc/douyu/310926#https://live.188766.xyz/douyu/310926
+【瑶瑶】童年阴影 鬼片 恐怖 惊悚,https://live.ottiptv.cc/douyu/2935323#https://live.188766.xyz/douyu/2935323
+❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,https://live.ottiptv.cc/douyu/96577#https://live.188766.xyz/douyu/96577
+【马小玲】况天佑~山本,https://live.ottiptv.cc/douyu/9470198#https://live.188766.xyz/douyu/9470198
+经典、恐怖、鬼怪、剧场,https://live.ottiptv.cc/douyu/1165374#https://live.188766.xyz/douyu/1165374
+林正英1,https://live.ottiptv.cc/douyu/12143683#https://live.188766.xyz/douyu/12143683
 林正英2,https://www.goodiptv.club/huya/11342421#http://cfss.cc/cdn/hy/11342421.flv
-林正英3,https://live.ottiptv.cc/douyu/7805562#http://www.douzhicloud.site:35455/douyu/7805562
+林正英3,https://live.ottiptv.cc/douyu/7805562#https://live.188766.xyz/douyu/7805562
 林正英4,https://www.goodiptv.club/huya/29978179#http://cfss.cc/cdn/hy/29978179.flv
-林正英5,https://live.ottiptv.cc/douyu/10673574#http://www.douzhicloud.site:35455/douyu/10673574
+林正英5,https://live.ottiptv.cc/douyu/10673574#https://live.188766.xyz/douyu/10673574
 林正英6,https://www.goodiptv.club/huya/396734#http://cfss.cc/cdn/hy/396734.flv
-林正英7,https://live.ottiptv.cc/douyu/12176174#http://www.douzhicloud.site:35455/douyu/12176174
+林正英7,https://live.ottiptv.cc/douyu/12176174#https://live.188766.xyz/douyu/12176174
 林正英8,https://www.goodiptv.club/huya/25256065#http://cfss.cc/cdn/hy/25256065.flv
 林正英9,http://cfss.cc/cdn/yy/1382780025.flv#https://yylunbo.ottiptv.cc/yy/1382780025
 林正英10,http://cfss.cc/cdn/yy/1455891197.flv#https://yylunbo.ottiptv.cc/yy/1455891197
@@ -2051,7 +2051,7 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 林正英15,https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/hy/23865148.flv
 林正英16,https://yylunbo.ottiptv.cc/yy/1351505899
 经典鬼片3000部,https://yylunbo.ottiptv.cc/yy/29460894
-恐怖电影 林正英 僵尸 鬼片 经典,https://live.ottiptv.cc/douyu/9275635#http://www.douzhicloud.site:35455/douyu/9275635
+恐怖电影 林正英 僵尸 鬼片 经典,https://live.ottiptv.cc/douyu/9275635#https://live.188766.xyz/douyu/9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/hy/11601960.flv
 古墓系列,https://www.goodiptv.club/huya/11352913#http://cfss.cc/cdn/hy/11352913.flv
 鬼吹灯系列1,https://www.goodiptv.club/huya/29768105#http://cfss.cc/cdn/hy/29768105.flv
@@ -2074,10 +2074,10 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 灵界侦探浦饭幽助,https://www.goodiptv.club/huya/11602034#http://cfss.cc/cdn/hy/11602034.flv
 经典系列 一屋开心鬼,https://www.goodiptv.club/huya/353798#http://cfss.cc/cdn/hy/353798.flv
 关于我和鬼变成家人的那件事,https://yylunbo.ottiptv.cc/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv
-老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939#http://www.douzhicloud.site:35455/douyu/2337939
+老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939#https://live.188766.xyz/douyu/2337939
 活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#http://cfss.cc/cdn/hy/30080183.flv
 我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/hy/21059571.flv
-我和僵尸有个约会2,https://live.ottiptv.cc/douyu/8637229#http://www.douzhicloud.site:35455/douyu/8637229
+我和僵尸有个约会2,https://live.ottiptv.cc/douyu/8637229#https://live.188766.xyz/douyu/8637229
 惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#https://yylunbo.ottiptv.cc/yy/1355052097
 鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#http://cfss.cc/cdn/hy/23728674.flv
 海外经典恐怖片,https://www.goodiptv.club/huya/20985852#http://cfss.cc/cdn/hy/20985852.flv
