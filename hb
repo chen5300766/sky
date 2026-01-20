@@ -525,6 +525,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
+农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
