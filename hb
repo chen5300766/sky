@@ -838,6 +838,23 @@ iHOT爱赛车,http://nas.cdbackup.cn:8888/rtp/239.94.1.144:5140
 iHOT爱院线,http://nas.cdbackup.cn:8888/rtp/239.94.1.132:5140
 
 
+iHOT爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140
+iHOT爱动漫,http://www.yanbingg.com:1888/rtp/239.94.1.141:5140
+iHOT爱历史,http://www.yanbingg.com:1888/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://www.yanbingg.com:1888/rtp/239.94.1.130:5140
+iHOT爱幼教,http://www.yanbingg.com:1888/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://www.yanbingg.com:1888/rtp/239.94.1.136:5140
+iHOT爱旅行,http://www.yanbingg.com:1888/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://www.yanbingg.com:1888/rtp/239.94.1.128:5140
+iHOT爱玩具,http://www.yanbingg.com:1888/rtp/239.94.1.140:5140
+iHOT爱科幻,http://www.yanbingg.com:1888/rtp/239.94.1.131:5140
+iHOT爱谍战,http://www.yanbingg.com:1888/rtp/239.94.1.134:5140
+iHOT爱赛车,http://www.yanbingg.com:1888/rtp/239.94.1.144:5140
+iHOT爱院线,http://www.yanbingg.com:1888/rtp/239.94.1.132:5140
+
+
 iHOT爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.143:5140
 iHOT爱动漫,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.141:5140
 iHOT爱历史,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.135:5140
