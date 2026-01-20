@@ -1067,6 +1067,8 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 神奇宝贝,https://www.goodiptv.club/huya/21241784#http://cfss.cc/cdn/hy/21241784.flv
 无上神帝,https://www.goodiptv.club/huya/11352892#http://cfss.cc/cdn/hy/11352892.flv
 神龙斗士,https://www.goodiptv.club/huya/21241839#http://cfss.cc/cdn/hy/21241839.flv
+第一神拳,https://www.goodiptv.club/huya/26355789#http://cfss.cc/cdn/hy/26355789.flv
+
 
 
 ❤️虎牙影院,#genre#
@@ -1384,6 +1386,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 鹿鼎记--陈小春,https://www.goodiptv.club/huya/23650774#http://cfss.cc/cdn/hy/23650774.flv
 鹿鼎记--梁朝伟,https://www.goodiptv.club/huya/21059597#http://cfss.cc/cdn/hy/21059597.flv
 89版侠客行,https://www.goodiptv.club/huya/29982656#http://cfss.cc/cdn/hy/29982656.flv
+95版武则天,https://www.goodiptv.club/huya/20969136#http://cfss.cc/cdn/hy/20969136.flv
 乌龙院闯情关,https://www.goodiptv.club/huya/26355767#http://cfss.cc/cdn/hy/26355767.flv
 死神来了系列,https://www.goodiptv.club/huya/11352903#http://cfss.cc/cdn/hy/11352903.flv
 鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#http://cfss.cc/cdn/hy/30080152.flv
@@ -1461,7 +1464,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 雪中悍刀行,https://www.goodiptv.club/huya/11336592#http://cfss.cc/cdn/hy/11336592.flv
 活佛济公,https://www.goodiptv.club/huya/29465878#http://cfss.cc/cdn/hy/29465878.flv
 新白娘子传奇,https://www.goodiptv.club/huya/26355768#http://cfss.cc/cdn/hy/26355768.flv
-流星蝴蝶剑,https://www.goodiptv.club/huya/11342420#http://cfss.cc/cdn/hy/11342420.flv#https://www.goodiptv.club/huya/26355789#http://cfss.cc/cdn/hy/26355789.flv
+流星蝴蝶剑,https://www.goodiptv.club/huya/11342420#http://cfss.cc/cdn/hy/11342420.flv
 香蜜沉沉烬如霜,https://www.goodiptv.club/huya/30080182#http://cfss.cc/cdn/hy/30080182.flv
 红高粱,https://www.goodiptv.club/huya/20969131#http://cfss.cc/cdn/hy/20969131.flv
 乔家的儿女,https://www.goodiptv.club/huya/29982622#http://cfss.cc/cdn/hy/29982622.flv
