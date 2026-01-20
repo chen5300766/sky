@@ -720,6 +720,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 
 
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
