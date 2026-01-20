@@ -659,12 +659,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,https://live.catvod.com/iptv.php?id=wxty01
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
-
 
 
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
