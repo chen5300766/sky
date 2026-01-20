@@ -525,7 +525,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
-农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
+农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
+农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
 
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
@@ -720,7 +721,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 
 
-陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
+陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
+
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
