@@ -58,9 +58,9 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.117:5140
 
 
-CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.12:9712
-CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.12:9712
-CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.12:9712
+CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
+CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
+CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.249:11136
 
 
 📡稳定源,#genre#
