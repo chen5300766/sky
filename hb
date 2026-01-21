@@ -660,9 +660,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-
-五星体育,http://cloud.sunrisecom.cn:18888/rtp/233.18.204.6:5140
-五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.6:5140
 五星体育,https://live.catvod.com/iptv.php?id=wxty01
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
