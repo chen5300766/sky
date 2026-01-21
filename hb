@@ -34,28 +34,28 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.119:5999
 
 
-湖南卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.34:11358
-浙江卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.35:11364
-江苏卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.36:11370
-东方卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.37:11376
-山东卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.38:11382
-四川卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.39:11388
-北京卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.22:11286
-广东卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.27:11316
-深圳卫视4K,http://www.zhangkx717.cn:9999/rtp/239.69.2.28:11322
-CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.249:11136
+北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.111:5140
+北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.112:5140
+东方卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.119:5140
+广东卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.114:5140
+深圳卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.113:5140
+湖南卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.116:5140
+山东卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.120:5140
+四川卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.115:5140
+浙江卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.118:5140
+江苏卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.117:5140
 
 
-湖南卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
-浙江卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
-江苏卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
-东方卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
-山东卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
-四川卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
-北京卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
-广东卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
-深圳卫视4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
-CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
+北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.111:5140
+北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.112:5140
+东方卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.119:5140
+广东卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.114:5140
+深圳卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.113:5140
+湖南卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.116:5140
+山东卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.120:5140
+四川卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.115:5140
+浙江卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.118:5140
+江苏卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.117:5140
 
 
 📡稳定源,#genre#
