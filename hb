@@ -720,7 +720,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
-1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
+
+1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
+
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
