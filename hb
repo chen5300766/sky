@@ -994,7 +994,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索记录,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.21:5146
+求索纪录,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
