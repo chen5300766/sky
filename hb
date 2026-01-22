@@ -544,11 +544,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 海峡卫视,http://r.jdshipin.com/WtYt3
 
 
-海峡卫视,https://mg.pl10000.top/849119120
-农林卫视,https://mg.pl10000.top/956904896
-大湾区卫视,https://mg.pl10000.top/608917627
-
-
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
 
@@ -836,11 +831,6 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 全球大片,http://qwsw.duckdns.org:2222/rtp/239.94.1.24:5140
 华语影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.22:5140
-
-
-新片放映厅,https://mg.pl10000.top/619495952
-经典香港电影,https://mg.pl10000.top/625703337
-抗战经典影片,https://mg.pl10000.top/617432318
 
 
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
