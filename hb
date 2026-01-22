@@ -404,11 +404,11 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV文化精品,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.13:5146
 CCTV风云剧场,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.16:5146
+CCTV文化精品,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.13:5146
 
-CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
+CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 
 CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
