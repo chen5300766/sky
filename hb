@@ -1802,7 +1802,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 复仇者联盟全季,http://www.douzhicloud.site:35455/yy/1354936167#http://www.douzhicloud.site:35455/yy/1354936167
 九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#http://www.douzhicloud.site:35455/yy/1354936116
 笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#http://www.douzhicloud.site:35455/yy/1382851576
-我爱我家,http://cfss.cc/cdn/yy/1382851580.flv#http://www.douzhicloud.site:35455/yy/1382851580
+我爱我家,http://iptv.frp.terry666.xyz:90/yy/1382851580#http://www.douzhicloud.site:35455/yy/1382851580
 血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#http://www.douzhicloud.site:35455/yy/1354936136
 不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#http://www.douzhicloud.site:35455/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#http://www.douzhicloud.site:35455/yy/1382736816
