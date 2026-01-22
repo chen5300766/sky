@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-21,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-22,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -404,6 +404,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV文化精品,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.13:5146
+CCTV风云剧场,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.16:5146
+
 CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 
@@ -438,6 +441,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
+中央新影-发现之旅,http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://xxglive.myds.me:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://lj.kuail8.cn:7000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
@@ -520,6 +524,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
+大湾区卫视,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
@@ -673,6 +678,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.98:5146
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://gyvnc.liy.ink:369/rtp/238.255.2.7:5999
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
@@ -691,6 +697,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 棋牌汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.118:11180
 
 
+爱体育,http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.116:5146
 爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
 爱体育,http://home.660888.xyz:4000/rtp/225.0.4.53:7980
 
@@ -903,6 +910,7 @@ IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.180:5146
 CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
@@ -959,6 +967,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.2:5146
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
@@ -985,6 +994,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
+求索记录,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
