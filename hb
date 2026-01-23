@@ -1813,7 +1813,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 小欢喜,http://www.douzhicloud.site:35455/yy/1382737888#http://iptv.frp.terry666.xyz:90/yy/1382737888
 炊事班的故事第一部,http://www.douzhicloud.site:35455/yy/1382749901#http://iptv.frp.terry666.xyz:90/yy/1382749901
 炊事班的故事第二部,http://www.douzhicloud.site:35455/yy/1382736885#http://iptv.frp.terry666.xyz:90/yy/1382736885
-炊事班的故事第三部,http://www.douzhicloud.site:35455/yy/1382736716#http://iptv.frp.terry666.xyz:90/yy/138273671
+炊事班的故事第三部,http://www.douzhicloud.site:35455/yy/1382736716#http://iptv.frp.terry666.xyz:90/yy/1382736716
 武林客栈,http://www.douzhicloud.site:35455/yy/1382773728#http://iptv.frp.terry666.xyz:90/yy/1382773728
 娘亲舅大,http://www.douzhicloud.site:35455/yy/1354932360#http://iptv.frp.terry666.xyz:90/yy/1354932360
 情满四合院,http://www.douzhicloud.site:35455/yy/1382851524#http://www.douzhicloud.site:35455/yy/1382736848#http://www.douzhicloud.site:35455/yy/1382745089#http://www.douzhicloud.site:35455/yy/1382735541
@@ -1934,7 +1934,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 叶问全集,http://www.douzhicloud.site:35455/yy/1382828771#http://iptv.frp.terry666.xyz:90/yy/1382828771
 东海龙棺,http://www.douzhicloud.site:35455/yy/1354930968#http://iptv.frp.terry666.xyz:90/yy/1354930968
 经典大片合集,http://www.douzhicloud.site:35455/yy/1382749895#http://iptv.frp.terry666.xyz:90/yy/1382749895
-风靡全球的谍战片,http://cfss.cc/cdn/yy/1382736817.flv#http://www.douzhicloud.site:35455/yy/1382736817#http://iptv.frp.terry666.xyz:90/yy/1382736817#
+风靡全球的谍战片,http://cfss.cc/cdn/yy/1382736817.flv#http://www.douzhicloud.site:35455/yy/1382736817#http://iptv.frp.terry666.xyz:90/yy/1382736817
 我的超人女友,http://cfss.cc/cdn/yy/1382736893.flv#http://www.douzhicloud.site:35455/yy/1382736893#http://iptv.frp.terry666.xyz:90/yy/1382736893
 超级英雄系列1,http://cfss.cc/cdn/yy/1382745091.flv#http://www.douzhicloud.site:35455/yy/1382745091#http://iptv.frp.terry666.xyz:90/yy/1382745091
 超级英雄系列2,http://cfss.cc/cdn/yy/1354932402.flv#http://www.douzhicloud.site:35455/yy/1354932402#http://iptv.frp.terry666.xyz:90/yy/1354932402
