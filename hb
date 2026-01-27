@@ -621,6 +621,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大悟综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000468
 
 
+云梦综合,http://hub.sohu.blog/hubxg1.php?id=ym
+钟祥综合,http://hub.sohu.blog/cjydf.php?id=zxxwzh
+枝江综合,http://hub.sohu.blog/cjydf.php?id=zjzh
+远安综合,http://hub.sohu.blog/cjydf.php?id=yazh
+
+
 赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-69b7adceccbc5ea8f2cc6f34b34171af
 嘉鱼新闻综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90997969c48171e39b738519231accac
