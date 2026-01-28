@@ -1386,7 +1386,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 济公,https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/hy/29982613.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
-一代名相吕不韦,http://huanqiuzhibo.cn/manifest/huya.php?id=11352953#http://cfss.cc/cdn/hy/11352953.flv
+一代名相吕不韦,https://txdirect.flv.huya.com/huyalive/1423787848-1423787848-6115122243602219008-2847699152-10057-A-0-1.flv?wsSecret=9da50682225e38e4248dea2aded9cc60&wsTime=697b05f8&u=0&seqid=17695837368388160&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103#http://huanqiuzhibo.cn/manifest/huya.php?id=11352953#http://cfss.cc/cdn/hy/11352953.flv
 三国演义,https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/hy/11602081.flv
 黑暗之源,https://www.goodiptv.club/huya/10875560#http://cfss.cc/cdn/hy/10875560.flv
 梦回大唐,https://www.goodiptv.club/huya/20432237#http://cfss.cc/cdn/hy/20432237.flv
