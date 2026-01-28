@@ -1386,7 +1386,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 济公,https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/hy/29982613.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
-一代名相吕不韦,video://https://www.huya.com/11352953#http://cfss.cc/cdn/hy/11352953.flv
+一代名相吕不韦,webview://https://www.huya.com/11352953#http://cfss.cc/cdn/hy/11352953.flv
 三国演义,https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/hy/11602081.flv
 黑暗之源,https://www.goodiptv.club/huya/10875560#http://cfss.cc/cdn/hy/10875560.flv
 梦回大唐,https://www.goodiptv.club/huya/20432237#http://cfss.cc/cdn/hy/20432237.flv
@@ -1427,7 +1427,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 天涯明月刀,https://www.goodiptv.club/huya/30080162#http://cfss.cc/cdn/hy/30080162.flv
 花千骨,https://www.goodiptv.club/huya/26355839#http://cfss.cc/cdn/hy/26355839.flv
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#http://cfss.cc/cdn/hy/30080146.flv
-西游记,video://https://www.huya.com/26355861#http://cfss.cc/cdn/hy/26355861.flv
+西游记,webview://https://www.huya.com/26355861#http://cfss.cc/cdn/hy/26355861.flv
 西游记续集,https://www.goodiptv.club/huya/20985836#http://cfss.cc/cdn/hy/20985836.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
@@ -1511,7 +1511,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 穆桂英挂帅,https://www.goodiptv.club/huya/30080248#http://cfss.cc/cdn/hy/30080248.flv
 新九品芝麻官,https://www.goodiptv.club/huya/29465891#http://cfss.cc/cdn/hy/29465891.flv
 活佛济公1-3,https://www.goodiptv.club/huya/26355765#http://cfss.cc/cdn/hy/26355765.flv
-刁蛮公主,video://https://www.huya.com/29465879#http://cfss.cc/cdn/hy/29465879.flv
+刁蛮公主,webview://https://www.huya.com/29465879#http://cfss.cc/cdn/hy/29465879.flv
 绝代双骄,https://www.goodiptv.club/huya/29982627#http://cfss.cc/cdn/hy/29982627.flv
 芈月传,https://www.goodiptv.club/huya/26355775#http://cfss.cc/cdn/hy/26355775.flv
 新水浒传,https://www.goodiptv.club/huya/11342384#http://cfss.cc/cdn/hy/11342384.flv
