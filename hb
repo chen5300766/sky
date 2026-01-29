@@ -1627,6 +1627,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/hy/11
 迷路的挂件直播间,https://live.ottiptv.cc/douyu/12210085#https://live.188766.xyz/douyu/12210085
 爱画画的奶糖直播间,https://live.ottiptv.cc/douyu/4346416#https://live.188766.xyz/douyu/4346416
 傲娇的超级赛亚人直播间,https://live.ottiptv.cc/douyu/4373285#https://live.188766.xyz/douyu/4373285
+光之镇魂曲的特摄动漫直播间,https://live.ottiptv.cc/douyu/12684513#https://live.188766.xyz/douyu/12684513
 烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#https://live.188766.xyz/douyu/11649079
 【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://live.188766.xyz/douyu/323876
 小毅喜剧剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://live.188766.xyz/douyu/11851549
