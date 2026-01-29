@@ -404,7 +404,8 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
-
+CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
+CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
 
 CCTV风云剧场,http://xxglive.myds.me:4022/rtp/239.253.93.251:6429
 CCTV文化精品,http://xxglive.myds.me:4022/rtp/239.253.93.175:6439
@@ -901,8 +902,7 @@ IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
-
-
+CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
