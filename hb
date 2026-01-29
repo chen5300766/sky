@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-27,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-1-29,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -61,6 +61,7 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.249:11136
+CCTV16奥林匹克4K,http://www.alihomes.top:8188/rtp/239.254.96.170:8206
 
 
 📡稳定源,#genre#
@@ -413,9 +414,6 @@ CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
 
-CCTV风云剧场,http://nuc.xixi.baby:4000/rtp/226.0.2.227:9728
-CCTV文化精品,http://nuc.xixi.baby:4000/rtp/226.0.2.219:9664
-
 CCTV风云剧场,http://xxglive.myds.me:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://xxglive.myds.me:4022/rtp/239.253.92.25:6104
 
@@ -697,8 +695,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 爱体育,http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.116:5146
 爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
 爱体育,http://home.660888.xyz:4000/rtp/225.0.4.53:7980
+爱体育,http://www.alihomes.top:8188/rtp/239.254.96.101:7792
 
 
+足球体育,http://www.alihomes.top:8188/rtp/239.254.96.146:7998
 足球体育,http://game.x3322.net:8899/rtp/225.0.4.167:7980
 足球体育,http://home.660888.xyz:4000/rtp/225.0.4.167:7980
 足球体育,http://www.stoneshi1984.ren:58120/rtp/239.110.205.25:9846
@@ -836,6 +836,8 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://home.660888.xyz:4000/rtp/225.0.4.163:7980
+影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
+
 
 
 📡iHOT影院,#genre#
@@ -909,14 +911,12 @@ CETV早期教育,http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.180:5146
 CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
-CETV早期教育,http://nuc.xixi.baby:4000/rtp/226.0.2.99:8704
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
 CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://nuc.xixi.baby:4000/rtp/226.0.2.119:8864
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
 
@@ -965,7 +965,6 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
-中国天气,http://nuc.xixi.baby:4000/rtp/226.0.2.103:8736
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
