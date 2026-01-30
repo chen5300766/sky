@@ -14,26 +14,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-北京卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.160:5999
-北京卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.149:5999
-东方卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.124:5999
-东方卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.123:5999
-广东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.46:5999
-广东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.109:5999
-深圳卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.110:5999
-深圳卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.45:5999
-湖南卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.113:5999
-湖南卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.114:5999
-山东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.130:5999
-山东卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.138:5999
-四川卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.129:5999
-四川卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.125:5999
-浙江卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.122:5999
-浙江卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.121:5999
-江苏卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.118:5999
-江苏卫视4K,http://gyvnc.liy.ink:369/rtp/238.255.2.119:5999
-
-
 北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.111:5140
 北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.112:5140
 东方卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.119:5140
