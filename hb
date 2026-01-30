@@ -505,6 +505,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 农林卫视,http://39.77.77.20:85/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://stream.snrtv.com/sxbc-nl-berw04.m3u8
 农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
@@ -717,6 +718,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 
 
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://www.stoneshi1984.ren:58120/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
