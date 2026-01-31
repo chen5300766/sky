@@ -682,6 +682,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 棋牌汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.118:11180
 
 
+
+
+爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
+爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
+爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.44:5140
 爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
 爱体育,http://home.660888.xyz:4000/rtp/225.0.4.53:7980
 爱体育,http://www.alihomes.top:8188/rtp/239.254.96.101:7792
