@@ -654,7 +654,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
-天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
