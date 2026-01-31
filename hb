@@ -14,6 +14,18 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
+北京卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.111:5140
+北京卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.112:5140
+东方卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.119:5140
+广东卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.114:5140
+深圳卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.113:5140
+湖南卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.116:5140
+山东卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.120:5140
+四川卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.115:5140
+浙江卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.118:5140
+江苏卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.117:5140
+
+
 北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.111:5140
 北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.112:5140
 东方卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.119:5140
@@ -652,6 +664,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
@@ -796,6 +809,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
+精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://qwsw.duckdns.org:2222/rtp/239.94.1.172:5140
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
@@ -807,6 +821,8 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 全球大片,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.24:5140
 华语影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.22:5140
 
+全球大片,http://www.yanbingg.com:1888/rtp/239.94.1.24:5140
+华语影院,http://www.yanbingg.com:1888/rtp/239.94.1.22:5140
 
 全球大片,http://qwsw.duckdns.org:2222/rtp/239.94.1.24:5140
 华语影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.22:5140
@@ -819,6 +835,23 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 📡iHOT影院,#genre#
+iHOT爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140
+iHOT爱动漫,http://www.yanbingg.com:1888/rtp/239.94.1.141:5140
+iHOT爱历史,http://www.yanbingg.com:1888/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://www.yanbingg.com:1888/rtp/239.94.1.130:5140
+iHOT爱幼教,http://www.yanbingg.com:1888/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://www.yanbingg.com:1888/rtp/239.94.1.136:5140
+iHOT爱旅行,http://www.yanbingg.com:1888/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://www.yanbingg.com:1888/rtp/239.94.1.128:5140
+iHOT爱玩具,http://www.yanbingg.com:1888/rtp/239.94.1.140:5140
+iHOT爱科幻,http://www.yanbingg.com:1888/rtp/239.94.1.131:5140
+iHOT爱谍战,http://www.yanbingg.com:1888/rtp/239.94.1.134:5140
+iHOT爱赛车,http://www.yanbingg.com:1888/rtp/239.94.1.144:5140
+iHOT爱院线,http://www.yanbingg.com:1888/rtp/239.94.1.132:5140
+
+
 iHOT爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.143:5140
 iHOT爱动漫,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.141:5140
 iHOT爱历史,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.135:5140
@@ -938,6 +971,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
+中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
@@ -963,14 +997,13 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
+求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
 求索纪录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
-
-
 
 
 📡百视通系列,#genre#
