@@ -399,8 +399,8 @@ CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
 CCTV风云剧场,http://lj.kuail8.cn:7000/rtp/239.253.92.22:6073
 CCTV文化精品,http://lj.kuail8.cn:7000/rtp/239.253.92.25:6104
 
-CCTV风云剧场,http://www.bg3nit.top:9999/rtp/239.253.92.22:6073
-CCTV文化精品,http://www.bg3nit.top:9999/rtp/239.253.92.25:6104
+CCTV风云剧场,http://fn.122020.xyz:4000/rtp/239.253.92.22:6073
+CCTV文化精品,http://fn.122020.xyz:4000/rtp/239.253.92.25:6104
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -418,7 +418,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://39.77.77.20:85/tsfile/live/0002_63.m3u8?key=txiptv&playlive=1&authid=0
 中央新影-发现之旅,http://xxglive.myds.me:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://lj.kuail8.cn:7000/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
 
 
@@ -884,7 +884,7 @@ IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
-CETV早期教育,http://www.bg3nit.top:9999/rtp/239.253.92.39:6107
+CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.cn:7000/rtp/239.253.92.39:6107
 CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
