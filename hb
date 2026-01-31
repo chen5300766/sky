@@ -384,6 +384,9 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
 
@@ -496,6 +499,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
+大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
@@ -643,7 +647,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,https://live.catvod.com/iptv.php?id=wxty01
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
 
@@ -651,6 +654,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
@@ -709,6 +713,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
 
+重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
