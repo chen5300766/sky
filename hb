@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-1-31,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -38,16 +38,16 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.117:5140
 
 
-北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.111:5140
-北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.112:5140
-东方卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.119:5140
-广东卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.114:5140
-深圳卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.113:5140
-湖南卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.116:5140
-山东卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.120:5140
-四川卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.115:5140
-浙江卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.118:5140
-江苏卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.117:5140
+北京卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.111:5140
+北京卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.112:5140
+东方卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.119:5140
+广东卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.114:5140
+深圳卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.113:5140
+湖南卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.116:5140
+山东卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.120:5140
+四川卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.115:5140
+浙江卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.118:5140
+江苏卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.117:5140
 
 
 CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
@@ -667,7 +667,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
-天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
+天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
 天元围棋,http://lj.kuail8.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://fnos.kictoc.top:7000/rtp/239.254.201.156:6270
@@ -686,7 +686,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
-爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.44:5140
+爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
 爱体育,http://home.660888.xyz:4000/rtp/225.0.4.53:7980
 爱体育,http://www.alihomes.top:8188/rtp/239.254.96.101:7792
@@ -815,7 +815,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
-精彩影视,http://qwsw.duckdns.org:2222/rtp/239.94.1.172:5140
+精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
@@ -829,8 +829,8 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 全球大片,http://www.yanbingg.com:1888/rtp/239.94.1.24:5140
 华语影院,http://www.yanbingg.com:1888/rtp/239.94.1.22:5140
 
-全球大片,http://qwsw.duckdns.org:2222/rtp/239.94.1.24:5140
-华语影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.22:5140
+全球大片,http://dx.yanbingg.com:1888/rtp/239.94.1.24:5140
+华语影院,http://dx.yanbingg.com:1888/rtp/239.94.1.22:5140
 
 
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
@@ -874,21 +874,21 @@ iHOT爱赛车,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.144:5140
 iHOT爱院线,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.132:5140
 
 
-iHOT爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.143:5140
-iHOT爱动漫,http://qwsw.duckdns.org:2222/rtp/239.94.1.141:5140
-iHOT爱历史,http://qwsw.duckdns.org:2222/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://qwsw.duckdns.org:2222/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://qwsw.duckdns.org:2222/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://qwsw.duckdns.org:2222/rtp/239.94.1.130:5140
-iHOT爱幼教,http://qwsw.duckdns.org:2222/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://qwsw.duckdns.org:2222/rtp/239.94.1.136:5140
-iHOT爱旅行,http://qwsw.duckdns.org:2222/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://qwsw.duckdns.org:2222/rtp/239.94.1.128:5140
-iHOT爱玩具,http://qwsw.duckdns.org:2222/rtp/239.94.1.140:5140
-iHOT爱科幻,http://qwsw.duckdns.org:2222/rtp/239.94.1.131:5140
-iHOT爱谍战,http://qwsw.duckdns.org:2222/rtp/239.94.1.134:5140
-iHOT爱赛车,http://qwsw.duckdns.org:2222/rtp/239.94.1.144:5140
-iHOT爱院线,http://qwsw.duckdns.org:2222/rtp/239.94.1.132:5140
+iHOT爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.143:5140
+iHOT爱动漫,http://dx.yanbingg.com:1888/rtp/239.94.1.141:5140
+iHOT爱历史,http://dx.yanbingg.com:1888/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://dx.yanbingg.com:1888/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://dx.yanbingg.com:1888/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://dx.yanbingg.com:1888/rtp/239.94.1.130:5140
+iHOT爱幼教,http://dx.yanbingg.com:1888/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://dx.yanbingg.com:1888/rtp/239.94.1.136:5140
+iHOT爱旅行,http://dx.yanbingg.com:1888/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://dx.yanbingg.com:1888/rtp/239.94.1.128:5140
+iHOT爱玩具,http://dx.yanbingg.com:1888/rtp/239.94.1.140:5140
+iHOT爱科幻,http://dx.yanbingg.com:1888/rtp/239.94.1.131:5140
+iHOT爱谍战,http://dx.yanbingg.com:1888/rtp/239.94.1.134:5140
+iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
+iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 📡动漫卡通,#genre#
@@ -977,7 +977,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
-中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
+中国天气,http://dx.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
 中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
@@ -1003,7 +1003,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
-求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
+求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
