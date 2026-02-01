@@ -1417,6 +1417,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 情深深雨蒙蒙,https://www.goodiptv.club/huya/29982624#http://cfss.cc/cdn/hy/29982624.flv
 小别离的真相,https://www.goodiptv.club/huya/29465848#http://cfss.cc/cdn/hy/29465848.flv
 父母爱情,https://www.goodiptv.club/huya/24648646#http://cfss.cc/cdn/hy/24648646.flv
+篮球火,https://www.goodiptv.club/huya/20985781#http://cfss.cc/cdn/hy/20985781.flv
+潜行狙击,https://www.goodiptv.club/huya/20985782#http://cfss.cc/cdn/hy/20985782.flv
 东北一家人,https://www.goodiptv.club/huya/21059634#http://cfss.cc/cdn/hy/21059634.flv
 士兵突击,https://www.goodiptv.club/huya/30704992#http://cfss.cc/cdn/hy/30704992.flv
 大长今,https://www.goodiptv.club/huya/29982616#http://cfss.cc/cdn/hy/29982616.flv
