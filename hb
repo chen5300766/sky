@@ -1778,7 +1778,6 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 鹿鼎记--周星驰,http://www.douzhicloud.site:35455/yy/1354658049#http://iptv.frp.terry666.xyz:90/yy/1354658049
 铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#http://www.douzhicloud.site:35455/yy/1382781415#http://iptv.frp.terry666.xyz:90/yy/1382781415
 康熙王朝,http://www.douzhicloud.site:35455/yy/1382851583#http://iptv.frp.terry666.xyz:90/yy/1382851583
-倚天屠龙记--苏有朋版,http://www.douzhicloud.site:35455/yy/1507704566#http://iptv.frp.terry666.xyz:90/yy/1507704566
 神雕侠侣粤语--古天乐,http://www.douzhicloud.site:35455/yy/1354926637#http://iptv.frp.terry666.xyz:90/yy/1354926637
 神雕侠侣--古天乐,http://www.douzhicloud.site:35455/yy/1351762426#http://iptv.frp.terry666.xyz:90/yy/1351762426
 83版射雕英雄传,http://www.douzhicloud.site:35455/yy/1354210357#http://iptv.frp.terry666.xyz:90/yy/1354210357
@@ -1802,6 +1801,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 闯关东,http://cfss.cc/cdn/yy/1354689861.flv#http://www.douzhicloud.site:35455/yy/1354689861#http://iptv.frp.terry666.xyz:90/yy/1354689861
 父母爱情,http://www.douzhicloud.site:35455/yy/1382851594#http://iptv.frp.terry666.xyz:90/yy/1382851594
 父母爱情,http://www.douzhicloud.site:35455/yy/1354926650#http://iptv.frp.terry666.xyz:90/yy/1354926650
+非常保镖,http://www.douzhicloud.site:35455/yy/1382736903#http://iptv.frp.terry666.xyz:90/yy/1382736903
 大染坊,http://cfss.cc/cdn/yy/1353215589.flv#http://www.douzhicloud.site:35455/yy/1353215589#http://iptv.frp.terry666.xyz:90/yy/1353215589
 珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#http://www.douzhicloud.site:35455/yy/1354936234#http://iptv.frp.terry666.xyz:90/yy/1354936234
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#http://www.douzhicloud.site:35455/yy/1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
@@ -1820,6 +1820,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 哈利波特全集,http://www.douzhicloud.site:35455/yy/1382745105#http://iptv.frp.terry666.xyz:90/yy/1382745105
 终结者,http://cfss.cc/cdn/yy/1382736851.flv#http://www.douzhicloud.site:35455/yy/1382736851#http://iptv.frp.terry666.xyz:90/yy/1382736851
 大进军全集,http://www.douzhicloud.site:35455/yy/1382745083#http://iptv.frp.terry666.xyz:90/yy/1382745083
+铁道游击队,http://www.douzhicloud.site:35455/yy/1507704566#http://iptv.frp.terry666.xyz:90/yy/1507704566
 超炫科幻大片,http://cfss.cc/cdn/yy/1382736840.flv#http://www.douzhicloud.site:35455/yy/1382736840#http://iptv.frp.terry666.xyz:90/yy/1382736840
 科幻片1,http://www.douzhicloud.site:35455/yy/1382745114#http://iptv.frp.terry666.xyz:90/yy/1382745114
 科幻片2,http://www.douzhicloud.site:35455/yy/1354930897#http://iptv.frp.terry666.xyz:90/yy/1354930897
@@ -2023,7 +2024,7 @@ JJ斗地主,http://www.douzhicloud.site:35455/yy/1355501191#http://www.douzhiclo
 还珠格格/少年包青天,https://www.goodiptv.club/bilibili/6823190
 少年包青天第一部/神探狄仁杰,https://www.goodiptv.club/bilibili/1896525489
 少年包青天1-3,https://www.goodiptv.club/bilibili/27554961
-少年包青天第一部,https://www.goodiptv.club/bilibili/14705490#https://www.goodiptv.club/bilibili/27391420
+少年包青天第一部,https://www.goodiptv.club/bilibili/14705490#https://www.goodiptv.club/bilibili/27391420#https://www.goodiptv.club/bilibili/1713827446
 细思极恐的直播间,https://www.goodiptv.club/bilibili/27719619
 超多短剧,https://www.goodiptv.club/bilibili/31486610
 仙剑奇侠传1+3,https://www.goodiptv.club/bilibili/15030833
