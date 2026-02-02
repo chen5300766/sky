@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -399,6 +399,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
+CCTV风云剧场,http://idc.zymok.cn:10000/rtp/239.253.43.16:5146
+CCTV文化精品,http://idc.zymok.cn:10000/rtp/239.253.43.13:5146
+
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
 
@@ -430,6 +433,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
+中央新影-发现之旅,http://idc.zymok.cn:10000/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://xxglive.myds.me:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
@@ -664,6 +668,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://idc.zymok.cn:10000/rtp/239.253.43.98:5146
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
@@ -682,8 +687,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 棋牌汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.118:11180
 
 
-
-
+爱体育,http://idc.zymok.cn:10000/rtp/239.77.1.116:5146
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
 爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
@@ -923,6 +927,7 @@ IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://idc.zymok.cn:10000/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
@@ -975,6 +980,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://idc.zymok.cn:10000/rtp/239.77.1.2:5146
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://dx.yanbingg.com:1888/rtp/239.94.1.167:5140
@@ -1001,6 +1007,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
+求索记录,http://idc.zymok.cn:10000/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
