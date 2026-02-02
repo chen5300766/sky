@@ -1007,7 +1007,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索记录,http://idc.zymok.cn:10000/rtp/239.77.0.21:5146
+求索纪录,http://idc.zymok.cn:10000/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
