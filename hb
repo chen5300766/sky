@@ -1455,6 +1455,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 西游记续集,https://www.goodiptv.club/huya/20985836#http://cfss.cc/cdn/hy/20985836.flv
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/hy/29465860.flv
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/hy/23829447.flv
+西游记-港剧3,https://www.goodiptv.club/huya/29465859#http://cfss.cc/cdn/hy/29465859.flv
 豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#http://cfss.cc/cdn/hy/20432223.flv
 星汉灿烂,https://www.goodiptv.club/huya/11336591#http://cfss.cc/cdn/hy/11336591.flv
 传奇皇帝朱元璋,https://www.goodiptv.club/huya/29982665#http://cfss.cc/cdn/hy/29982665.flv
