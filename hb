@@ -2196,3 +2196,31 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 鬼片喜剧/动作港剧,http://www.douzhicloud.site:35455/yy/1355269576#http://iptv.frp.terry666.xyz:90/yy/1355269576
 玄幻道墓,http://www.douzhicloud.site:35455/yy/1459714870#http://cfss.cc/cdn/yy/1459714870.flv
 夜场恐怖片,https://www.goodiptv.club/huya/30522289#http://cfss.cc/cdn/hy/30522289.flv
+
+
+📡西游记,#genre#
+西游记 第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
+西游记 第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
+西游记 第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
+西游记 第04集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205307782734748_hlsb.m3u8
+西游记 第05集,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998463397799646_hlsb.m3u8
+西游记 第06集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382480897511687_hlsb.m3u8
+西游记 第07集,https://txmov2.a.kwimgs.com/bs3/video-hls/5255982306920155520_hlsb.m3u8
+西游记 第08集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245004783362852874_hlsb.m3u8
+西游记 第09集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188991261818113744_hlsb.m3u8
+西游记 第10集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286258564595605_hlsb.m3u8
+西游记 第11集,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190033819283686_hlsb.m3u8
+西游记 第12集,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465185500328899_hlsb.m3u8
+西游记 第13集,https://txmov2.a.kwimgs.com/bs3/video-hls/5233182832465375578_hlsb.m3u8
+西游记 第14集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952633664504505_hlsb.m3u8
+西游记 第15集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+西游记 第16集,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339285053330625_hlsb.m3u8
+西游记 第17集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353685308148894_hlsb.m3u8
+西游记 第18集,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028138193985933_hlsb.m3u8
+西游记 第19集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637211300344_hlsb.m3u8
+西游记 第20集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368961005814924_hlsb.m3u8
+西游记 第21集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590208336898334_hlsb.m3u8
+西游记 第22集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212506629016061_hlsb.m3u8
+西游记 第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
+西游记 第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
+西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
