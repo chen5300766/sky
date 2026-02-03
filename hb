@@ -1380,7 +1380,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#http://cfss.cc/cdn/hy/20985799.flv
 爱情公寓,https://www.goodiptv.club/huya/11336726#http://cfss.cc/cdn/hy/11336726.flv
 家有儿女,https://www.goodiptv.club/huya/11352872#http://cfss.cc/cdn/hy/11352872.flv#http://cfss.cc/cdn/hy/30523326.flv#https://www.goodiptv.club/huya/30526426#https://www.goodiptv.club/huya/30664021#http://cfss.cc/cdn/hy/30664021.flv
-成年版《家有儿女》,https://www.goodiptv.club/huya/11352893#http://cfss.cc/cdn/hy/11352893.flv
+父辈的荣耀,https://www.goodiptv.club/huya/11352893#http://cfss.cc/cdn/hy/11352893.flv
 流星花园,https://www.goodiptv.club/huya/26355793#http://cfss.cc/cdn/hy/26355793.flv
 射雕英雄传-张智霖,https://www.goodiptv.club/huya/20969099#http://cfss.cc/cdn/hy/20969099.flv
 神雕侠侣-陈妍希,https://www.goodiptv.club/huya/11352964#http://cfss.cc/cdn/hy/11352964.flv
