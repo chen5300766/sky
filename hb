@@ -1250,6 +1250,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#http://cfss.cc/cdn/hy
 香港贺岁片,https://www.goodiptv.club/huya/11601955#http://cfss.cc/cdn/hy/11601955.flv
 港片,https://www.goodiptv.club/huya/11602043#http://cfss.cc/cdn/hy/11602043.flv
 香港喜剧,https://www.goodiptv.club/huya/20969142#http://cfss.cc/cdn/hy/20969142.flv
+香港电影经典之大作,https://www.goodiptv.club/huya/30631706#http://cfss.cc/cdn/hy/30631706.flv
 香港动作电影,https://www.goodiptv.club/huya/11602055#http://cfss.cc/cdn/hy/11602055.flv
 谍战片,https://www.goodiptv.club/huya/26355810#http://cfss.cc/cdn/hy/26355810.flv
 曲三更破案,https://www.goodiptv.club/huya/21059595#http://cfss.cc/cdn/hy/21059595.flv
@@ -1556,6 +1557,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 小李飞刀,https://www.goodiptv.club/huya/11342417#http://cfss.cc/cdn/hy/11342417.flv
 花姑子,https://www.goodiptv.club/huya/21059575#http://cfss.cc/cdn/hy/21059575.flv
 宝莲灯,https://www.goodiptv.club/huya/21059563#http://cfss.cc/cdn/hy/21059563.flv
+天地传说之宝莲灯,https://www.goodiptv.club/huya/24517063#http://cfss.cc/cdn/hy/24517063.flv
 活佛济公3,https://www.goodiptv.club/huya/23903123#http://cfss.cc/cdn/hy/23903123.flv
 医馆笑传,https://www.goodiptv.club/huya/11352891#http://cfss.cc/cdn/hy/11352891.flv
 汉武大帝,https://www.goodiptv.club/huya/26355859#http://cfss.cc/cdn/hy/26355859.flv
