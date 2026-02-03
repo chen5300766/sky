@@ -1411,6 +1411,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 天地男儿,https://www.goodiptv.club/huya/20969141#http://cfss.cc/cdn/hy/20969141.flv
 仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
 陆小凤传奇,https://www.goodiptv.club/huya/20985865#http://cfss.cc/cdn/hy/20985865.flv
+公主嫁到,https://www.goodiptv.club/huya/20969101#http://cfss.cc/cdn/hy/20969101.flv
+错点鸳鸯·戏点鸳鸯,https://www.goodiptv.club/huya/20985827#http://cfss.cc/cdn/hy/20985827.flv
 济公,https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/hy/29982613.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
 华灯初上,https://www.goodiptv.club/huya/20985793#http://cfss.cc/cdn/hy/20985793.flv
