@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1360,6 +1360,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 兄台明鉴直播间--重案六组,https://www.goodiptv.club/huya/23482266#http://cfss.cc/cdn/hy/23482266.flv
 历年贺岁档,https://www.goodiptv.club/huya/11601986#http://cfss.cc/cdn/hy/11601986.flv
 港片经典系列,https://www.goodiptv.club/huya/29982660#http://cfss.cc/cdn/hy/29982660.flv
+无间,https://www.goodiptv.club/huya/20985844#http://cfss.cc/cdn/hy/20985844.flv
 音乐成就人生 音乐类型电影,https://www.goodiptv.club/huya/23860057#http://cfss.cc/cdn/hy/23860057.flv
 海外电影,https://www.goodiptv.club/huya/29982623#http://cfss.cc/cdn/hy/29982623.flv
 红色影片,https://www.goodiptv.club/huya/11602076#http://cfss.cc/cdn/hy/11602076.flv
@@ -1369,6 +1370,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 十三宗命案,https://www.goodiptv.club/huya/21028268#http://cfss.cc/cdn/hy/21028268.flv
 还珠格格3,https://www.goodiptv.club/huya/30080241#http://cfss.cc/cdn/hy/30080241.flv
 麻雀,https://www.goodiptv.club/huya/30307160#http://cfss.cc/cdn/hy/30307160.flv
+重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#http://cfss.cc/cdn/hy/20985799.flv
 爱情公寓,https://www.goodiptv.club/huya/11336726#http://cfss.cc/cdn/hy/11336726.flv
 家有儿女,https://www.goodiptv.club/huya/11352872#http://cfss.cc/cdn/hy/11352872.flv#http://cfss.cc/cdn/hy/30523326.flv#https://www.goodiptv.club/huya/30526426#https://www.goodiptv.club/huya/30664021#http://cfss.cc/cdn/hy/30664021.flv
 射雕英雄传-张智霖,https://www.goodiptv.club/huya/20969099#http://cfss.cc/cdn/hy/20969099.flv
@@ -1382,6 +1384,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 觉醒年代,https://www.goodiptv.club/huya/21059558#http://cfss.cc/cdn/hy/21059558.flv
 谍战深海之惊蛰,https://www.goodiptv.club/huya/30080139#http://cfss.cc/cdn/hy/30080139.flv
 《刑侦》四季连播,https://www.goodiptv.club/huya/23358441#http://cfss.cc/cdn/hy/23358441.flv
+天下长河,https://www.goodiptv.club/huya/21241763#http://cfss.cc/cdn/hy/21241763.flv
+巾帼枭雄,https://www.goodiptv.club/huya/21059550#http://cfss.cc/cdn/hy/21059550.flv
 谈判专家,https://www.goodiptv.club/huya/23863833#http://cfss.cc/cdn/hy/23863833.flv
 我们不能是朋友,https://www.goodiptv.club/huya/29982662#http://cfss.cc/cdn/hy/29982662.flv
 双响炮、粉红女郎姊妹篇,https://www.goodiptv.club/huya/29982652#http://cfss.cc/cdn/hy/29982652.flv
@@ -1396,6 +1400,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 曾少年,https://www.goodiptv.club/huya/20985815#http://cfss.cc/cdn/hy/20985815.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/hy/29982671.flv
 87版红楼梦,https://www.goodiptv.club/huya/30080221#http://cfss.cc/cdn/hy/30080221.flv
+红楼梦-李少红版,https://www.goodiptv.club/huya/20985783#http://cfss.cc/cdn/hy/20985783.flv
 大宋提刑官,https://www.goodiptv.club/huya/30080167#http://cfss.cc/cdn/hy/30080167.flv
 圆月弯刀---古天乐,https://www.goodiptv.club/huya/23652238#http://cfss.cc/cdn/hy/23652238.flv
 神隐,https://www.goodiptv.club/huya/21241837#http://cfss.cc/cdn/hy/21241837.flv
@@ -1405,8 +1410,10 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 刑事侦缉档案,https://www.goodiptv.club/huya/29465856#http://cfss.cc/cdn/hy/29465856.flv
 天地男儿,https://www.goodiptv.club/huya/20969141#http://cfss.cc/cdn/hy/20969141.flv
 仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/hy/20985812.flv
+陆小凤传奇,https://www.goodiptv.club/huya/20985865#http://cfss.cc/cdn/hy/20985865.flv
 济公,https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/hy/29982613.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/hy/20985806.flv
+华灯初上,https://www.goodiptv.club/huya/20985793#http://cfss.cc/cdn/hy/20985793.flv
 三国演义,https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/hy/11602081.flv
 黑暗之源,https://www.goodiptv.club/huya/10875560#http://cfss.cc/cdn/hy/10875560.flv
 梦回大唐,https://www.goodiptv.club/huya/20432237#http://cfss.cc/cdn/hy/20432237.flv
@@ -1499,6 +1506,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#http://cfss.
 韩国电影,https://www.goodiptv.club/huya/11352884#http://cfss.cc/cdn/hy/11352884.flv
 全职高手,https://www.goodiptv.club/huya/11352901#http://cfss.cc/cdn/hy/11352901.flv
 太极宗师,https://www.goodiptv.club/huya/11342438#http://cfss.cc/cdn/hy/11342438.flv
+武林宗师梁小龙,https://www.goodiptv.club/huya/20985775#http://cfss.cc/cdn/hy/20985775.flv
 周星驰系列,https://www.goodiptv.club/huya/11342412#http://cfss.cc/cdn/hy/11342412.flv
 周海媚系列,https://www.goodiptv.club/huya/11279247#http://cfss.cc/cdn/hy/11279247.flv
 沈腾系列,https://www.goodiptv.club/huya/11601968#http://cfss.cc/cdn/hy/11601968.flv
