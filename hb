@@ -1742,6 +1742,7 @@ dx雾黎直播间,https://live.ottiptv.cc/douyu/10935839#https://live.188766.xyz
 一起看新手主播,https://live.ottiptv.cc/douyu/12453761#https://live.188766.xyz/douyu/12453761
 箩卜君直播间,https://live.ottiptv.cc/douyu/7495810#https://live.188766.xyz/douyu/7495810
 【贝爷MAX厅】60帧电影 科幻 动作,https://live.ottiptv.cc/douyu/4332#https://live.188766.xyz/douyu/4332
+Hi欣影厅,https://live.ottiptv.cc/douyu/11996166#https://live.188766.xyz/douyu/11996166
 吃米滴虫,https://live.ottiptv.cc/douyu/315457#https://live.188766.xyz/douyu/315457
 经典影视,https://live.ottiptv.cc/douyu/6091425#https://live.188766.xyz/douyu/6091425
 小鬼影院点播台,https://live.ottiptv.cc/douyu/3928#https://live.188766.xyz/douyu/3928
@@ -1804,7 +1805,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 拳皇97,https://live.ottiptv.cc/douyu/8387733#https://live.188766.xyz/douyu/8387733
 阿七点歌台,https://live.ottiptv.cc/douyu/3186217#https://live.188766.xyz/douyu/3186217
 音乐MV,https://live.ottiptv.cc/douyu/3870925#https://live.188766.xyz/douyu/3870925
-
+戏曲,https://live.ottiptv.cc/douyu/12091975#https://live.188766.xyz/douyu/12091975
 
 
 ❤️歪歪影院,#genre#
