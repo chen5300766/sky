@@ -743,6 +743,16 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
 
+峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
+峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
+
+
+红色影院,http://www.yanbingg.com:1888/rtp/239.94.1.48:5140
+红色影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.48:5140
+红色影院,http://dx.yanbingg.com:1888/rtp/239.94.1.48:5140
+
+
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
@@ -1001,6 +1011,16 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
 求索纪录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
+
+
+家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
+家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
+家庭理财,http://dx.yanbingg.com:1888/rtp/239.94.1.50:5140
+
+
+爱宠宠物,http://www.yanbingg.com:1888/rtp/239.94.1.145:5140
+爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
+爱宠宠物,http://dx.yanbingg.com:1888/rtp/239.94.1.145:5140
 
 
 📡百视通系列,#genre#
