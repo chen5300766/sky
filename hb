@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-3,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-4,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -678,13 +678,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://fnos.kictoc.top:7000/rtp/239.254.201.156:6270
 
 
-
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-棋牌汇,http://cpanel.lwfz.fun:8800/rtp/239.16.10.186:2000
-棋牌汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.118:11180
 
 
 爱体育,http://idc.zymok.cn:10000/rtp/239.77.1.116:5146
@@ -990,17 +985,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
 
-中华特产,http://cpanel.lwfz.fun:8800/rtp/239.16.20.132:11320
-中华特产,http://dodge.lwfz.fun:8800/rtp/239.16.20.132:11320
-
-
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://cpanel.lwfz.fun:8800/rtp/239.16.20.113:11130
-新视觉,http://dodge.lwfz.fun:8800/rtp/239.16.20.113:11130
-
-
-美食汇,http://dodge.lwfz.fun:8800/rtp/239.16.20.117:11170
-美食汇,http://cpanel.lwfz.fun:8800/rtp/239.16.10.185:2000
 
 
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
