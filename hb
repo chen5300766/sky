@@ -1272,6 +1272,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://live.ottiptv.
 经典武打电影,https://www.goodiptv.club/huya/23865179#https://live.ottiptv.cc/huya/23865179
 科幻电影大合集,https://www.goodiptv.club/huya/23746486#https://live.ottiptv.cc/huya/23746486
 吴镇宇电影,https://www.goodiptv.club/huya/23865096#https://live.ottiptv.cc/huya/23865096
+李连杰黄飞鸿系列,http://cfss.cc/cdn/huya/30650512.flv
 最新动作大片,https://www.goodiptv.club/huya/23728651#https://live.ottiptv.cc/huya/23728651
 《惩罚者》高能复仇名场面连刷,https://www.goodiptv.club/huya/23863882#https://live.ottiptv.cc/huya/23863882
 经典女神系列,https://www.goodiptv.club/huya/11352909#https://live.ottiptv.cc/huya/11352909
@@ -1481,12 +1482,14 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 天涯明月刀,https://www.goodiptv.club/huya/30080162#https://live.ottiptv.cc/huya/30080162
 花千骨,https://www.goodiptv.club/huya/26355839#https://live.ottiptv.cc/huya/26355839
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#https://live.ottiptv.cc/huya/30080146
+西游记,http://cfss.cc/cdn/hy/26355861.flv
 西游记续集,https://www.goodiptv.club/huya/20985836#https://live.ottiptv.cc/huya/20985836
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#https://live.ottiptv.cc/huya/29465860
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#https://live.ottiptv.cc/huya/23829447
 西游记-港剧3,https://www.goodiptv.club/huya/29465859#https://live.ottiptv.cc/huya/29465859
 豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#https://live.ottiptv.cc/huya/20432223
 星汉灿烂,https://www.goodiptv.club/huya/11336591#https://live.ottiptv.cc/huya/11336591
+刁蛮公主,http://cfss.cc/cdn/hy/29465879.flv
 传奇皇帝朱元璋,https://www.goodiptv.club/huya/29982665#https://live.ottiptv.cc/huya/29982665
 花木兰,https://www.goodiptv.club/huya/30080178#https://live.ottiptv.cc/huya/30080178
 悬崖,https://www.goodiptv.club/huya/21059620#https://live.ottiptv.cc/huya/21059620
