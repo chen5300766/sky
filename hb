@@ -523,7 +523,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
-农林卫视,http://stream.snrtv.com/sxbc-nl-berw04.m3u8
+农林卫视,http://stream.snrtv.com/sxbc-nl-gijruM.m3u8
 农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
