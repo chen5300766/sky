@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-4,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1406,6 +1406,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 国产奇幻剧,https://www.goodiptv.club/huya/11601982#https://live.ottiptv.cc/huya/11601982
 国产科幻,https://www.goodiptv.club/huya/20985801#https://live.ottiptv.cc/huya/20985801
 国产喜剧搞笑电影,https://www.goodiptv.club/huya/30511625#https://live.ottiptv.cc/huya/30511625
+好莱坞电影,https://www.goodiptv.club/huya/23734223#https://live.ottiptv.cc/huya/23734223
+斗牌传说,https://www.goodiptv.club/huya/26355783#https://live.ottiptv.cc/huya/26355783
 死神来了系列,https://www.goodiptv.club/huya/11352903#https://live.ottiptv.cc/huya/11352903
 鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#https://live.ottiptv.cc/huya/30080152
 坏种,https://www.goodiptv.club/huya/26355802#https://live.ottiptv.cc/huya/26355802
