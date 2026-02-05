@@ -1471,8 +1471,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 花千骨,https://www.goodiptv.club/huya/26355839#https://live.ottiptv.cc/huya/26355839
 楚乔传,https://www.goodiptv.club/huya/19285234#https://live.ottiptv.cc/huya/19285234
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#https://live.ottiptv.cc/huya/30080146
-刁蛮公主,http://cfss.cc/cdn/hy/29465879.flv
-西游记,http://cfss.cc/cdn/hy/26355861.flv
+刁蛮公主,http://cfss.cc/cdn/huya/29465879.flv
+西游记,http://cfss.cc/cdn/huya/26355861.flv
 西游记续集,https://www.goodiptv.club/huya/20985836#https://live.ottiptv.cc/huya/20985836
 西游记-港剧1,https://www.goodiptv.club/huya/29465860#https://live.ottiptv.cc/huya/29465860
 西游记-港剧2,https://www.goodiptv.club/huya/23829447#https://live.ottiptv.cc/huya/23829447
