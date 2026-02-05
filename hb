@@ -400,9 +400,14 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
-
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
+
+CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.92.22:6073
+CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.92.25:6104
+
+CCTV风云剧场,http://www.tszhgjj.cn:7000/rtp/239.253.93.251:6429
+CCTV文化精品,http://www.tszhgjj.cn:7000/rtp/239.253.93.175:6439
 
 CCTV风云剧场,http://xxglive.myds.me:4022/rtp/239.253.93.251:6429
 CCTV文化精品,http://xxglive.myds.me:4022/rtp/239.253.93.175:6439
@@ -435,7 +440,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
-
+中央新影-发现之旅,http://www.tszhgjj.cn:7000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://xxglive.myds.me:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
@@ -671,6 +676,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
+天元围棋	http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
@@ -933,6 +939,8 @@ IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
+CETV早期教育,http://www.tszhgjj.cn:7000/rtp/239.253.93.164:6440
+CETV早期教育,http://www.tszhgjj.cn:7000/rtp/239.253.92.39:6107
 CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 CETV早期教育,http://xxglive.myds.me:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
