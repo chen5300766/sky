@@ -1974,7 +1974,10 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 小鬼当家,http://cfss.cc/cdn/yy/1354658064.flv#http://www.douzhicloud.site:35455/yy/1354658064#http://iptv.frp.terry666.xyz:90/yy/1354658064
 神奇动物：邓布利多谜团,http://cfss.cc/cdn/yy/1354930984.flv#http://www.douzhicloud.site:35455/yy/1354930984#http://iptv.frp.terry666.xyz:90/yy/1354930984
 白鹿原,http://cfss.cc/cdn/yy/1354931488.flv#http://www.douzhicloud.site:35455/yy/1354931488#http://iptv.frp.terry666.xyz:90/yy/1354931488
-江湖情缘,http://cfss.cc/cdn/yy/1354936238.flv#http://www.douzhicloud.site:35455/yy/1354936238#http://iptv.frp.terry666.xyz:90/yy/1354936238
+降魔传-神魔大战,http://www.douzhicloud.site:35455/yy/1354932371#http://iptv.frp.terry666.xyz:90/yy/1354932371#http://cfss.cc/cdn/yy/1354932371.flv
+村里有情况,http://www.douzhicloud.site:35455/yy/1382749940#http://iptv.frp.terry666.xyz:90/yy/1382749940#http://cfss.cc/cdn/yy/1382749940.flv
+欢喜冤家的爱情,http://www.douzhicloud.site:35455/yy/1354936191#http://iptv.frp.terry666.xyz:90/yy/1354936191#http://cfss.cc/cdn/yy/1354936191.flv
+东北奇缘-江湖情缘,http://cfss.cc/cdn/yy/1354936238.flv#http://www.douzhicloud.site:35455/yy/1354936238#http://iptv.frp.terry666.xyz:90/yy/1354936238
 霹雳火,http://cfss.cc/cdn/yy/1382736895.flv#http://www.douzhicloud.site:35455/yy/1382736895#http://iptv.frp.terry666.xyz:90/yy/1382736895
 守护长城之战,http://cfss.cc/cdn/yy/1382736896.flv#http://www.douzhicloud.site:35455/yy/1382736896#http://iptv.frp.terry666.xyz:90/yy/1382736896
 暮光之城,http://www.douzhicloud.site:35455/yy/1382745179#http://iptv.frp.terry666.xyz:90/yy/1382745179
