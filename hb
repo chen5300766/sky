@@ -1152,6 +1152,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 宇宙护卫队--国漫,http://www.douzhicloud.site:35455/yy/1382736837#http://iptv.frp.terry666.xyz:90/yy/1382736837
 萌鸡小队,http://www.douzhicloud.site:35455/yy/1382736904#http://iptv.frp.terry666.xyz:90/yy/1382736904
 动画片,https://live.ottiptv.cc/douyu/12626455#https://live.188766.xyz/douyu/12626455
+动漫,http://www.douzhicloud.site:35455/yy/26664495#http://iptv.frp.terry666.xyz:90/yy/26664495
 吞噬星空,https://www.goodiptv.club/huya/23902242#https://live.ottiptv.cc/huya/23902242
 游戏王,https://www.goodiptv.club/huya/20985856#https://live.ottiptv.cc/huya/20985856
 游戏王,https://www.goodiptv.club/huya/20969126#https://live.ottiptv.cc/huya/20969126
@@ -1825,6 +1826,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#http://www.douzhicloud.site:35455/yy/1460463356#http://iptv.frp.terry666.xyz:90/yy/1460463356
 鹿鼎记--周星驰,http://www.douzhicloud.site:35455/yy/1354658049#http://iptv.frp.terry666.xyz:90/yy/1354658049
 铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#http://www.douzhicloud.site:35455/yy/1382781415#http://iptv.frp.terry666.xyz:90/yy/1382781415
+铜齿铁牙纪晓岚,http://www.douzhicloud.site:35455/yy/1354143978#http://iptv.frp.terry666.xyz:90/yy/1354143978
 康熙王朝,http://www.douzhicloud.site:35455/yy/1382851583#http://iptv.frp.terry666.xyz:90/yy/1382851583
 神雕侠侣粤语--古天乐,http://www.douzhicloud.site:35455/yy/1354926637#http://iptv.frp.terry666.xyz:90/yy/1354926637
 神雕侠侣--古天乐,http://www.douzhicloud.site:35455/yy/1351762426#http://iptv.frp.terry666.xyz:90/yy/1351762426
@@ -1845,6 +1847,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 亮剑,http://cfss.cc/cdn/yy/1453810838.flv#http://www.douzhicloud.site:35455/yy/1453810838#http://iptv.frp.terry666.xyz:90/yy/1453810838
 亮剑2,http://cfss.cc/cdn/yy/1460662397.flv#http://www.douzhicloud.site:35455/yy/1460662397#http://iptv.frp.terry666.xyz:90/yy/1460662397
 亮剑,http://www.douzhicloud.site:35455/yy/1356043643#http://iptv.frp.terry666.xyz:90/yy/1356043643
+亮剑,http://www.douzhicloud.site:35455/yy/1352946111#http://iptv.frp.terry666.xyz:90/yy/1352946111
 特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#http://www.douzhicloud.site:35455/yy/1508456184#http://iptv.frp.terry666.xyz:90/yy/1508456184
 闯关东,http://cfss.cc/cdn/yy/1354689861.flv#http://www.douzhicloud.site:35455/yy/1354689861#http://iptv.frp.terry666.xyz:90/yy/1354689861
 父母爱情,http://www.douzhicloud.site:35455/yy/1382851594#http://iptv.frp.terry666.xyz:90/yy/1382851594
@@ -1853,11 +1856,10 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 大染坊,http://cfss.cc/cdn/yy/1353215589.flv#http://www.douzhicloud.site:35455/yy/1353215589#http://iptv.frp.terry666.xyz:90/yy/1353215589
 珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#http://www.douzhicloud.site:35455/yy/1354936234#http://iptv.frp.terry666.xyz:90/yy/1354936234
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#http://www.douzhicloud.site:35455/yy/1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
+古惑仔,http://www.douzhicloud.site:35455/yy/1458015189#http://iptv.frp.terry666.xyz:90/yy/1458015189
 古惑仔,http://www.douzhicloud.site:35455/yy/1370293254#http://iptv.frp.terry666.xyz:90/yy/1370293254
-百家讲坛之女皇武则天,http://cfss.cc/cdn/yy/1354889015.flv#http://www.douzhicloud.site:35455/yy/1354889015#http://iptv.frp.terry666.xyz:90/yy/1354889015
-百家讲坛之明太祖朱元璋,http://cfss.cc/cdn/yy/1354936149.flv#http://www.douzhicloud.site:35455/yy/1354936149#http://iptv.frp.terry666.xyz:90/yy/1354936149
-百家讲坛之红楼梦,http://cfss.cc/cdn/yy/1382741639.flv#http://www.douzhicloud.site:35455/yy/1382741639#http://iptv.frp.terry666.xyz:90/yy/1382741639
-赵本山爆笑小品,http://cfss.cc/cdn/yy/1354936217.flv#http://www.douzhicloud.site:35455/yy/1354936217#http://iptv.frp.terry666.xyz:90/yy/1354936217
+伪装者,http://www.douzhicloud.site:35455/yy/1382851593#http://iptv.frp.terry666.xyz:90/yy/1382851593
+地下交通站,http://www.douzhicloud.site:35455/yy/1353428972#http://iptv.frp.terry666.xyz:90/yy/1353428972#http://www.douzhicloud.site:35455/yy/1382736795#http://iptv.frp.terry666.xyz:90/yy/1382736795
 特种兵之火凤凰,http://cfss.cc/cdn/yy/1463088777.flv#http://www.douzhicloud.site:35455/yy/1463088777#http://iptv.frp.terry666.xyz:90/yy/1463088777
 大侦探霍桑,http://cfss.cc/cdn/yy/1382737886.flv#http://www.douzhicloud.site:35455/yy/1382737886#http://iptv.frp.terry666.xyz:90/yy/1382737886
 神探狄仁杰第一部,http://www.douzhicloud.site:35455/yy/1382851575#http://www.douzhicloud.site:35455/yy/1354930934#http://iptv.frp.terry666.xyz:90/yy/1354930934
@@ -1883,11 +1885,15 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#http://www.douzhicloud.site:35455/yy/1382851586#http://iptv.frp.terry666.xyz:90/yy/1382851586
 举起手来,http://www.douzhicloud.site:35455/yy/1382736877#http://iptv.frp.terry666.xyz:90/yy/1382736877
 案发现场,http://www.douzhicloud.site:35455/yy/22089862#http://cfss.cc/cdn/yy/22089862.flv#http://iptv.frp.terry666.xyz:90/yy/22089862
+风筝,http://www.douzhicloud.site:35455/yy/1382828770#http://iptv.frp.terry666.xyz:90/yy/1382828770
 小欢喜,http://www.douzhicloud.site:35455/yy/1382737888#http://iptv.frp.terry666.xyz:90/yy/1382737888
+炊事班的故事,http://www.douzhicloud.site:35455/yy/1382736886#http://iptv.frp.terry666.xyz:90/yy/1382736886
 炊事班的故事第一部,http://www.douzhicloud.site:35455/yy/1382749901#http://iptv.frp.terry666.xyz:90/yy/1382749901
 炊事班的故事第二部,http://www.douzhicloud.site:35455/yy/1382736885#http://iptv.frp.terry666.xyz:90/yy/1382736885
 炊事班的故事第三部,http://www.douzhicloud.site:35455/yy/1382736716#http://iptv.frp.terry666.xyz:90/yy/1382736716
+正阳门下,http://www.douzhicloud.site:35455/yy/1354931580#http://iptv.frp.terry666.xyz:90/yy/1354931580
 武林客栈,http://www.douzhicloud.site:35455/yy/1382773728#http://iptv.frp.terry666.xyz:90/yy/1382773728
+武林外传,http://www.douzhicloud.site:35455/yy/1355652820#http://iptv.frp.terry666.xyz:90/yy/1355652820
 娘亲舅大,http://www.douzhicloud.site:35455/yy/1354932360#http://iptv.frp.terry666.xyz:90/yy/1354932360
 情满四合院,http://www.douzhicloud.site:35455/yy/1382851524#http://www.douzhicloud.site:35455/yy/1382736848#http://www.douzhicloud.site:35455/yy/1382745089#http://www.douzhicloud.site:35455/yy/1382735541
 北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#http://www.douzhicloud.site:35455/yy/1382744423#http://iptv.frp.terry666.xyz:90/yy/1382744423
@@ -1938,6 +1944,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 火蓝刀锋,http://cfss.cc/cdn/yy/1458239444.flv#http://www.douzhicloud.site:35455/yy/1458239444#http://iptv.frp.terry666.xyz:90/yy/1458239444
 狂飙,http://www.douzhicloud.site:35455/yy/1354790484#http://iptv.frp.terry666.xyz:90/yy/1354790484
 谈判专家,http://cfss.cc/cdn/yy/1382735560.flv#http://www.douzhicloud.site:35455/yy/1382735560#http://iptv.frp.terry666.xyz:90/yy/1382735560
+鉴证实录2,http://www.douzhicloud.site:35455/yy/1356341389#http://iptv.frp.terry666.xyz:90/yy/1356341389
 猛兽列车,http://www.douzhicloud.site:35455/yy/1414853669#http://iptv.frp.terry666.xyz:90/yy/1414853669
 史诗级科幻电影-阿凡达,http://www.douzhicloud.site:35455/yy/1382735577#http://iptv.frp.terry666.xyz:90/yy/1382735577
 电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#http://www.douzhicloud.site:35455/yy/1382735571#http://iptv.frp.terry666.xyz:90/yy/1382735571
@@ -1961,6 +1968,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 国外动作大片,http://cfss.cc/cdn/yy/1382735540.flv#http://www.douzhicloud.site:35455/yy/1382735540#http://iptv.frp.terry666.xyz:90/yy/1382735540
 国内动作大片1,http://cfss.cc/cdn/yy/1382749917.flv#http://www.douzhicloud.site:35455/yy/1382749917#http://iptv.frp.terry666.xyz:90/yy/1382749917
 国内动作大片2,http://cfss.cc/cdn/yy/1382745176.flv#http://www.douzhicloud.site:35455/yy/1382745176#http://iptv.frp.terry666.xyz:90/yy/1382745176
+经典港片动作搞笑,http://www.douzhicloud.site:35455/yy/1459869766#http://iptv.frp.terry666.xyz:90/yy/1459869766
 儿童大冒险--丛林历险记,http://www.douzhicloud.site:35455/yy/1382736897#http://iptv.frp.terry666.xyz:90/yy/1382736897
 萌萌爱追剧,http://www.douzhicloud.site:35455/yy/1382745093#http://iptv.frp.terry666.xyz:90/yy/1382745093
 高分喜剧,http://www.douzhicloud.site:35455/yy/1354936157#http://iptv.frp.terry666.xyz:90/yy/1354936157
@@ -2027,6 +2035,10 @@ JJ象棋,http://cfss.cc/cdn/yy/1382735030.flv#http://www.douzhicloud.site:35455/
 象棋-棋行天下,http://www.douzhicloud.site:35455/yy/1355709463#http://iptv.frp.terry666.xyz:90/yy/1355709463
 JJ斗地主,http://www.douzhicloud.site:35455/yy/1355501191#http://www.douzhicloud.site:35455/yy/1354650274#http://iptv.frp.terry666.xyz:90/yy/1354650274
 天天象棋官方,http://cfss.cc/cdn/yy/1354650216.flv#http://www.douzhicloud.site:35455/yy/1354650216#http://iptv.frp.terry666.xyz:90/yy/1354650216
+百家讲坛之女皇武则天,http://cfss.cc/cdn/yy/1354889015.flv#http://www.douzhicloud.site:35455/yy/1354889015#http://iptv.frp.terry666.xyz:90/yy/1354889015
+百家讲坛之明太祖朱元璋,http://cfss.cc/cdn/yy/1354936149.flv#http://www.douzhicloud.site:35455/yy/1354936149#http://iptv.frp.terry666.xyz:90/yy/1354936149
+百家讲坛之红楼梦,http://cfss.cc/cdn/yy/1382741639.flv#http://www.douzhicloud.site:35455/yy/1382741639#http://iptv.frp.terry666.xyz:90/yy/1382741639
+赵本山爆笑小品,http://cfss.cc/cdn/yy/1354936217.flv#http://www.douzhicloud.site:35455/yy/1354936217#http://iptv.frp.terry666.xyz:90/yy/1354936217
 本山选谁上,http://cfss.cc/cdn/yy/1382749878.flv#http://www.douzhicloud.site:35455/yy/1382749878#http://iptv.frp.terry666.xyz:90/yy/1382749878
 本山快乐营,http://cfss.cc/cdn/yy/1382736718.flv#http://www.douzhicloud.site:35455/yy/1382736718#http://iptv.frp.terry666.xyz:90/yy/1382736718
 赵本山搞笑小品,http://cfss.cc/cdn/yy/1355923243.flv#http://www.douzhicloud.site:35455/yy/1355923243#http://iptv.frp.terry666.xyz:90/yy/1355923243
