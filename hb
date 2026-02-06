@@ -1175,6 +1175,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 ❤️虎牙影院,#genre#
+异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841
 大神级现场的直播间,https://www.goodiptv.club/huya/21241817#https://live.ottiptv.cc/huya/21241817
 亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#https://live.ottiptv.cc/huya/136154
 甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#https://live.ottiptv.cc/huya/30080159
@@ -1638,7 +1639,6 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 斯诺克4,https://www.goodiptv.club/huya/253859#https://live.ottiptv.cc/huya/253859
 羽毛球比赛,https://www.goodiptv.club/huya/30862938#https://live.ottiptv.cc/huya/30862938
 虎牙乒乓球,https://www.goodiptv.club/huya/18152390#https://live.ottiptv.cc/huya/18152390
-异色档案,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841
 最强大脑7-12季,https://www.goodiptv.club/huya/29465880#https://live.ottiptv.cc/huya/29465880
 狼人杀游戏1,https://www.goodiptv.club/huya/28092035#https://live.ottiptv.cc/huya/28092035
 狼人杀游戏2,https://www.goodiptv.club/huya/30360763#https://live.ottiptv.cc/huya/30360763
