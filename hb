@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1697,6 +1697,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://live.188766.xyz/douyu/323876
 小毅喜剧剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://live.188766.xyz/douyu/11851549
 小毅喜剧剧场--快乐星球1-3,https://live.ottiptv.cc/douyu/1446150#https://live.188766.xyz/douyu/1446150
+小毅喜剧剧场--成长的烦恼,https://live.ottiptv.cc/douyu/12080172#https://live.188766.xyz/douyu/12080172
 【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://live.188766.xyz/douyu/11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#https://live.188766.xyz/douyu/1226741
 小猪忧版剧院,https://live.ottiptv.cc/douyu/10297898#https://live.188766.xyz/douyu/10297898
