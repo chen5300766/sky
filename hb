@@ -1130,7 +1130,6 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 动画电影大赏,https://www.goodiptv.club/huya/21059599#https://live.ottiptv.cc/huya/21059599
 百变小樱,https://www.goodiptv.club/huya/21059587#https://live.ottiptv.cc/huya/21059587
 一念斩千魔，一念诛万仙,https://www.goodiptv.club/huya/21059592#https://live.ottiptv.cc/huya/21059592
-快把我哥哥带走,https://www.goodiptv.club/huya/23734246#https://live.ottiptv.cc/huya/23734246
 瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#https://live.ottiptv.cc/huya/29982655
 守护甜心,https://www.goodiptv.club/huya/24314166#https://live.ottiptv.cc/huya/24314166
 山止月的直播间,https://live.ottiptv.cc/douyu/12538016#https://live.188766.xyz/douyu/12538016
@@ -1364,6 +1363,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 陈翔六点半,https://www.goodiptv.club/huya/11274154#https://live.ottiptv.cc/huya/11274154
 卧底之神无间道经典不断,https://www.goodiptv.club/huya/30585957#https://live.ottiptv.cc/huya/30585957
 阳阳影视,https://www.goodiptv.club/huya/29805872#https://live.ottiptv.cc/huya/29805872
+选妃记,https://www.goodiptv.club/huya/23734246#https://live.ottiptv.cc/huya/23734246
 大秦赋,https://www.goodiptv.club/huya/23903130#https://live.ottiptv.cc/huya/23903130
 风云,https://www.goodiptv.club/huya/21059612#https://live.ottiptv.cc/huya/21059612
 风云1-2,https://www.goodiptv.club/huya/11602067#https://live.ottiptv.cc/huya/11602067
