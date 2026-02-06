@@ -675,7 +675,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
-天元围棋	http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
+天元围棋,http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://xxglive.myds.me:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
