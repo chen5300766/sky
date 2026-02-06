@@ -2254,7 +2254,7 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 夜场恐怖片,https://www.goodiptv.club/huya/30522289#https://live.ottiptv.cc/huya/30522289
 
 
-📡西游记,#genre#
+❤️西游记,#genre#
 西游记 第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
 西游记 第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
 西游记 第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
@@ -2280,3 +2280,31 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 西游记 第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
 西游记 第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
 西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
+
+
+❤️上海滩,#genre#
+上海滩 第01集,https://vip.ffzy-play1.com/20221101/7793_0936938d/index.m3u8
+上海滩 第02集,https://vip.ffzy-play1.com/20221101/7792_8c33e364/index.m3u8
+上海滩 第03集,https://vip.ffzy-play1.com/20221101/7797_db30e4e5/index.m3u8
+上海滩 第04集,https://vip.ffzy-play1.com/20221101/7796_150221e5/index.m3u8
+上海滩 第05集,https://vip.ffzy-play1.com/20221101/7795_7babb848/index.m3u8
+上海滩 第06集,https://vip.ffzy-play1.com/20221101/7798_4318fa7c/index.m3u8
+上海滩 第07集,https://vip.ffzy-play1.com/20221101/7799_d96ed4d4/index.m3u8
+上海滩 第08集,https://vip.ffzy-play1.com/20221101/7801_ada46e61/index.m3u8
+上海滩 第09集,https://vip.ffzy-play1.com/20221101/7800_125ec8ef/index.m3u8
+上海滩 第10集,https://vip.ffzy-play1.com/20221101/7804_e27b9abb/index.m3u8
+上海滩 第11集,https://vip.ffzy-play1.com/20221101/7802_5212736a/index.m3u8
+上海滩 第12集,https://vip.ffzy-play1.com/20221101/7805_2176ad30/index.m3u8
+上海滩 第13集,https://vip.ffzy-play1.com/20221101/7803_bb7baeb0/index.m3u8
+上海滩 第14集,https://vip.ffzy-play1.com/20221101/7808_9a9e0685/index.m3u8
+上海滩 第15集,https://vip.ffzy-play1.com/20221101/7809_48ba11e8/index.m3u8
+上海滩 第16集,https://vip.ffzy-play1.com/20221101/7807_312d5f5b/index.m3u8
+上海滩 第17集,https://vip.ffzy-play1.com/20221101/7806_ce222c0e/index.m3u8
+上海滩 第18集,https://vip.ffzy-play1.com/20221101/7811_d0e9546b/index.m3u8
+上海滩 第19集,https://vip.ffzy-play1.com/20221101/7810_83b52589/index.m3u8
+上海滩 第20集,https://vip.ffzy-play1.com/20221101/7813_0bf9e0ba/index.m3u8
+上海滩 第21集,https://vip.ffzy-play1.com/20221101/7812_5b28e835/index.m3u8
+上海滩 第22集,https://vip.ffzy-play1.com/20221101/7814_32bbe19a/index.m3u8
+上海滩 第23集,https://vip.ffzy-play1.com/20221101/7815_a735d6e6/index.m3u8
+上海滩 第24集,https://vip.ffzy-play1.com/20221101/7816_70421a4c/index.m3u8
+上海滩 第25集,https://vip.ffzy-play1.com/20221101/7818_fee80523/index.m3u8
