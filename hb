@@ -1949,12 +1949,12 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/4
 史诗级科幻电影-阿凡达,http://www.douzhicloud.site:35455/yy/1382735577#http://iptv.frp.terry666.xyz:90/yy/1382735577
 电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#http://www.douzhicloud.site:35455/yy/1382735571#http://iptv.frp.terry666.xyz:90/yy/1382735571
 详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#http://www.douzhicloud.site:35455/yy/1382851137#http://iptv.frp.terry666.xyz:90/yy/1382851137
-无限复活,http://cfss.cc/cdn/yy/1382745190.flv#http://www.douzhicloud.site:35455/yy/1382745190#http://iptv.frp.terry666.xyz:90/yy/1382745190
 超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#http://www.douzhicloud.site:35455/yy/1354932441#http://iptv.frp.terry666.xyz:90/yy/1354932441
 古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#http://www.douzhicloud.site:35455/yy/1382881708#http://iptv.frp.terry666.xyz:90/yy/1382881708
 经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#http://www.douzhicloud.site:35455/yy/1354806550#http://iptv.frp.terry666.xyz:90/yy/1354806550
 铁道游击队,http://cfss.cc/cdn/yy/1453955779.flv#http://www.douzhicloud.site:35455/yy/1453955779#http://iptv.frp.terry666.xyz:90/yy/1453955779
 憨豆先生-经典喜剧,http://cfss.cc/cdn/yy/1354936239.flv#http://www.douzhicloud.site:35455/yy/1354936239#http://iptv.frp.terry666.xyz:90/yy/1354936239
+憨豆先生勇闯美国,http://cfss.cc/cdn/yy/1382745190.flv#http://www.douzhicloud.site:35455/yy/1382745190#http://iptv.frp.terry666.xyz:90/yy/1382745190
 最佳下饭小甜剧,http://www.douzhicloud.site:35455/yy/1382741637#http://iptv.frp.terry666.xyz:90/yy/1382741637
 天蓬元帅,http://www.douzhicloud.site:35455/yy/1354930189#http://iptv.frp.terry666.xyz:90/yy/1354930189
 陈翔六点半之拳王妈妈,http://www.douzhicloud.site:35455/yy/1382851602#http://iptv.frp.terry666.xyz:90/yy//1382851602
