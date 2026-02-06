@@ -1775,7 +1775,7 @@ LR1245直播间,https://live.ottiptv.cc/douyu/12534632#https://live.188766.xyz/d
 射雕英雄传,https://live.ottiptv.cc/douyu/12143858#https://live.188766.xyz/douyu/12143858
 欢乐时光经典剧场,https://live.ottiptv.cc/douyu/755851#https://live.188766.xyz/douyu/755851
 鹿鼎记-陈小春,https://live.ottiptv.cc/douyu/12128227#https://live.188766.xyz/douyu/12128227
-新三国,https://live.ottiptv.cc/douyu/428402#https://live.188766.xyz/douyu/428402#https://live.ottiptv.cc/douyu/12253936#https://live.188766.xyz/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#https://live.188766.xyz/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#https://live.188766.xyz/douyu/12180551
+新三国,https://live.ottiptv.cc/douyu/428402#https://live.188766.xyz/douyu/428402#https://live.ottiptv.cc/douyu/12253936#https://live.188766.xyz/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#https://live.188766.xyz/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#https://live.188766.xyz/douyu/12180551#https://live.ottiptv.cc/douyu/10906963#https://live.188766.xyz/douyu/10906963
 三国演义94版,https://live.ottiptv.cc/douyu/12463728#https://live.188766.xyz/douyu/12463728
 神话,https://live.ottiptv.cc/douyu/5448413#https://live.188766.xyz/douyu/5448413
 康熙微服私访记,https://live.ottiptv.cc/douyu/1006179#https://live.188766.xyz/douyu/1006179
