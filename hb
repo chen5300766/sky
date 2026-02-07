@@ -890,7 +890,7 @@ iHOT爱赛车,http://qwsw.duckdns.org:2222/rtp/239.94.1.144:5140
 iHOT爱院线,http://qwsw.duckdns.org:2222/rtp/239.94.1.132:5140
 
 
-HOT爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140
+iHOT爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140
 iHOT爱动漫,http://www.yanbingg.com:1888/rtp/239.94.1.141:5140
 iHOT爱历史,http://www.yanbingg.com:1888/rtp/239.94.1.135:5140
 iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.1.129:5140
