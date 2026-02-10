@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -776,6 +776,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
 峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
 峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://www.alphauncle.com:2715/rtp/239.0.0.9:5140
 
 
 红色影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.48:5140
@@ -853,6 +854,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
+精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
@@ -949,6 +951,25 @@ iHOT爱科幻,http://dx.yanbingg.com:1888/rtp/239.94.1.131:5140
 iHOT爱谍战,http://dx.yanbingg.com:1888/rtp/239.94.1.134:5140
 iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
 iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
+
+
+NEWTV家庭剧场,http://vpn.cd37.com.cn:1723/rtp/239.11.0.131:5140
+NEWTV精品纪录,http://vpn.cd37.com.cn:1723/rtp/239.11.0.132:5140
+NEWTV健康有约,http://vpn.cd37.com.cn:1723/rtp/239.11.0.133:5140
+NEWTV精品体育,http://vpn.cd37.com.cn:1723/rtp/239.11.0.134:5140
+NEWTV军事评论,http://vpn.cd37.com.cn:1723/rtp/239.11.0.136:5140
+NEWTV农业致富,http://vpn.cd37.com.cn:1723/rtp/239.11.0.137:5140
+NewTV爱情喜剧,http://vpn.cd37.com.cn:1723/rtp/239.11.0.149:5140
+NewTV精品大剧,http://vpn.cd37.com.cn:1723/rtp/239.11.0.150:5140
+NewTV中国功夫,http://vpn.cd37.com.cn:1723/rtp/239.11.0.151:5140
+NewTV金牌综艺,http://vpn.cd37.com.cn:1723/rtp/239.11.0.152:5140
+NEWTV古装剧场,http://vpn.cd37.com.cn:1723/rtp/239.11.0.141:5140
+NEWTV动作电影,http://vpn.cd37.com.cn:1723/rtp/239.11.0.142:5140
+NEWTV军旅剧场,http://vpn.cd37.com.cn:1723/rtp/239.11.0.143:5140
+NEWTV惊悚悬疑,http://vpn.cd37.com.cn:1723/rtp/239.11.0.144:5140
+NewTV海外剧场,http://vpn.cd37.com.cn:1723/rtp/239.11.0.145:5140
+NewTV搏击,http://vpn.cd37.com.cn:1723/rtp/239.11.0.146:5140
+NewTV明星大片,http://vpn.cd37.com.cn:1723/rtp/239.11.0.147:5140
 
 
 📡动漫卡通,#genre#
