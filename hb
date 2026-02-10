@@ -14,6 +14,25 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
+北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.2:5146
+北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.3:5146
+北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.153:5146
+北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.233:5146
+北京卫视4K,http://yanshifen.top:8889/rtp/239.77.1.13:5146
+东方卫视4K,http://yanshifen.top:8889/rtp/239.77.0.59:5146
+广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.27:5146
+广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.65:5146
+广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.66:5146
+深圳卫视4K,http://yanshifen.top:8889/rtp/239.77.0.67:5146
+深圳卫视4K,http://yanshifen.top:8889/rtp/239.77.1.14:5146
+湖南卫视4K,http://yanshifen.top:8889/rtp/239.77.0.56:5146
+山东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.61:5146
+四川卫视4K,http://yanshifen.top:8889/rtp/239.77.0.60:5146
+浙江卫视4K,http://yanshifen.top:8889/rtp/239.77.0.58:5146
+江苏卫视4K,http://yanshifen.top:8889/rtp/239.77.0.57:5146
+
+
+
 北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.111:5140
 北京卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.112:5140
 东方卫视4K,http://qwsw.duckdns.org:2222/rtp/239.94.0.119:5140
@@ -62,6 +81,7 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.117:5140
 
 
+CCTV16奥林匹克4K,http://yanshifen.top:8889/rtp/239.77.0.165:5146
 CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
 CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
 CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.249:11136
@@ -412,6 +432,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
+CCTV风云剧场,http://yanshifen.top:8889/rtp/239.253.43.16:5146
+CCTV文化精品,http://yanshifen.top:8889/rtp/239.253.43.13:5146
+
 CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
 CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
 
@@ -441,6 +464,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
 中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
 
@@ -674,6 +698,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
+天元围棋,http://yanshifen.top:8889/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
@@ -686,6 +711,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.44:5140
+爱体育,http://yanshifen.top:8889/rtp/239.77.1.116:5146
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
 爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
@@ -957,6 +983,7 @@ IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
@@ -1026,6 +1053,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
+求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
