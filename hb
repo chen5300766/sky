@@ -1221,7 +1221,7 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 神龙斗士,https://www.goodiptv.club/huya/21241839#https://live.ottiptv.cc/huya/21241839#http://cfss.cc/cdn/huya/21241839.flv
 第一神拳,https://www.goodiptv.club/huya/26355789#https://live.ottiptv.cc/huya/26355789#http://cfss.cc/cdn/huya/26355789.flv
 高达动画,https://www.goodiptv.club/huya/23863809#https://live.ottiptv.cc/huya/23863809#http://cfss.cc/cdn/huya/23863809.flv
-
+西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
 
 
 ❤️虎牙影院,#genre#
@@ -1500,6 +1500,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 一起来看流星雨,https://www.goodiptv.club/huya/20985814#https://live.ottiptv.cc/huya/20985814#http://cfss.cc/cdn/huya/20985814.flv
 阳光的快乐生活,https://www.goodiptv.club/huya/11602085#https://live.ottiptv.cc/huya/11602085#http://cfss.cc/cdn/huya/11602085.flv
 与凤行,https://www.goodiptv.club/huya/26355866#https://live.ottiptv.cc/huya/26355866#http://cfss.cc/cdn/huya/26355866.flv
+华胥引之绝爱之城,https://www.goodiptv.club/huya/22129776#https://live.ottiptv.cc/huya/22129776#http://cfss.cc/cdn/huya/22129776.flv
 金枝欲孽,https://www.goodiptv.club/huya/29465847#https://live.ottiptv.cc/huya/29465847#http://cfss.cc/cdn/huya/29465847.flv
 海派甜心,https://www.goodiptv.club/huya/11342436#https://live.ottiptv.cc/huya/11342436#http://cfss.cc/cdn/huya/11342436.flv
 情深深雨蒙蒙,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
@@ -1618,6 +1619,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 新水浒传,https://www.goodiptv.club/huya/11342384#https://live.ottiptv.cc/huya/11342384#http://cfss.cc/cdn/huya/11342384.flv
 倚天屠龙记-苏有朋,https://www.goodiptv.club/huya/11342403#https://live.ottiptv.cc/huya/11342403#http://cfss.cc/cdn/huya/11342403.flv
 倚天屠龙记-邓超,https://www.goodiptv.club/huya/30080143#https://live.ottiptv.cc/huya/30080143#http://cfss.cc/cdn/huya/30080143.flv
+倚天屠龙记-吴启华,https://www.goodiptv.club/huya/21241819#https://live.ottiptv.cc/huya/21241819#http://cfss.cc/cdn/huya/21241819.flv
 笑傲江湖--李亚鹏,https://www.goodiptv.club/huya/26355790#https://live.ottiptv.cc/huya/26355790#http://cfss.cc/cdn/huya/26355790.flv
 笑傲江湖-霍建华,https://www.goodiptv.club/huya/26355858#https://live.ottiptv.cc/huya/26355858#http://cfss.cc/cdn/huya/26355858.flv
 笑傲江湖-吕颂贤,https://www.goodiptv.club/huya/20985791#https://live.ottiptv.cc/huya/20985791#http://cfss.cc/cdn/huya/20985791.flv
