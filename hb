@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-13,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -449,14 +449,9 @@ CCTV文化精品,http://lj.kuail8.com:4022/rtp/239.253.92.25:6104
 CCTV风云剧场,http://yanshifen.top:8889/rtp/239.253.43.16:5146
 CCTV文化精品,http://yanshifen.top:8889/rtp/239.253.43.13:5146
 
-CCTV风云剧场,http://fnos.kictoc.top:7000/rtp/239.254.200.94:6228
-CCTV文化精品,http://fnos.kictoc.top:7000/rtp/239.254.200.111:6251
 
 CCTV风云剧场,http://www.liyajun.top:7088/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
-
-CCTV风云剧场,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.22:6073
-CCTV文化精品,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.25:6104
 
 CCTV风云剧场,http://fn.122020.xyz:4000/rtp/239.253.92.22:6073
 CCTV文化精品,http://fn.122020.xyz:4000/rtp/239.253.92.25:6104
@@ -478,7 +473,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
 中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://fn.122020.xyz:4000/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
@@ -720,8 +714,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
-天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://fnos.kictoc.top:7000/rtp/239.254.201.156:6270
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -1038,8 +1030,6 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
-CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
-CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
