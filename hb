@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1106,768 +1106,768 @@ CETV早期教育,http://fnos.kictoc.top:7000/rtp/239.254.201.230:7253
 
 
 ❤️动画世界,#genre#
-火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://live.ottiptv.cc/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
+火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://www.goodiptv.club/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
 火影疾风传1,http://www.douzhicloud.site:35455/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
-火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
-火影忍者,https://www.goodiptv.club/huya/29465866#https://live.ottiptv.cc/huya/29465866#http://cfss.cc/cdn/huya/23734243.flv
-成龙历险记,https://live.ottiptv.cc/douyu/2287949#https://www.goodiptv.club/huya/11352946#https://live.188766.xyz/douyu/2287949#https://live.ottiptv.cc/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
-快来看动画,https://live.ottiptv.cc/douyu/12144115#https://live.188766.xyz/douyu/12144115
-厨神小当家,https://www.goodiptv.club/huya/24257300#https://live.ottiptv.cc/huya/24257300#http://cfss.cc/cdn/huya/24257300.flv
-中华小当家,https://live.ottiptv.cc/douyu/8231658#https://live.188766.xyz/douyu/8231658
-【动漫合集】皮克斯、Conan看不停,https://live.ottiptv.cc/douyu/7620081#https://live.188766.xyz/douyu/7620081
-【动漫】超燃 怀旧 经典,https://live.ottiptv.cc/douyu/1174353#https://live.188766.xyz/douyu/1174353
-草帽丶海贼团的直播间,https://live.ottiptv.cc/douyu/997925#https://live.188766.xyz/douyu/997925
-[剧场版] 海贼王,https://www.goodiptv.club/huya/29982634#https://live.ottiptv.cc/huya/29982634#http://cfss.cc/cdn/huya/29982634.flv
-动漫 热血 老贼 冒险,https://live.ottiptv.cc/douyu/6610883#https://live.188766.xyz/douyu/6610883
-【童年往事】仨房间画面同步显示点播1,https://live.ottiptv.cc/douyu/1569773#https://live.188766.xyz/douyu/1569773
-【童年往事】仨房间画面同步显示点播2,https://live.ottiptv.cc/douyu/7256376#https://live.188766.xyz/douyu/7256376
-虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#https://live.ottiptv.cc/huya/30080148#http://cfss.cc/cdn/huya/30080148.flv
-斗鱼名侦探柯南,https://live.ottiptv.cc/douyu/5172389#https://live.188766.xyz/douyu/5172389
-名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#https://live.ottiptv.cc/huya/30080236#http://cfss.cc/cdn/huya/30080236.flv
-汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#https://live.ottiptv.cc/huya/11352879#http://cfss.cc/cdn/huya/11352879.flv
-龍組队长天昊直播间,https://live.ottiptv.cc/douyu/1487654#https://live.188766.xyz/douyu/1487654
-骑士不让播了，先随便播下吧,https://live.ottiptv.cc/douyu/1218414#https://live.188766.xyz/douyu/1218414
-茶啊二中,https://www.goodiptv.club/huya/11213191#https://live.ottiptv.cc/huya/11213191#https://live.188766.xyz/douyu/2925610#https://live.ottiptv.cc/douyu/2925610
-航海王,https://www.goodiptv.club/huya/16913382#https://live.ottiptv.cc/huya/16913382#http://cfss.cc/cdn/huya/16913382.flv
-龙珠超,https://www.goodiptv.club/huya/11601966#https://live.ottiptv.cc/huya/11601966#http://cfss.cc/cdn/huya/11601966.flv
-樱桃小丸子,https://www.goodiptv.club/huya/11342394#https://live.ottiptv.cc/huya/11342394#http://cfss.cc/cdn/huya/11342394.flv
-宠物小精灵,http://cfss.cc/cdn/huya/29465874.flv#http://cfss.cc/cdn/huya/11602069.flv#https://www.goodiptv.club/huya/29465874#https://www.goodiptv.club/huya/11602069#https://live.ottiptv.cc/huya/29465874#https://live.ottiptv.cc/huya/11602069#https://www.goodiptv.club/huya/23749096#https://live.ottiptv.cc/huya/23749096
-斗罗大陆动画,https://www.goodiptv.club/huya/11352906#https://live.ottiptv.cc/huya/11352906#http://cfss.cc/cdn/huya/11352906.flv
-异人动漫,https://www.goodiptv.club/huya/11352869#https://live.ottiptv.cc/huya/11352869#http://cfss.cc/cdn/huya/11352869.flv
-新世纪福音战士,https://www.goodiptv.club/huya/21059570#https://live.ottiptv.cc/huya/21059570#http://cfss.cc/cdn/huya/21059570.flv
-蜡笔小新,https://www.goodiptv.club/huya/11352970#https://live.ottiptv.cc/huya/11352970#http://cfss.cc/cdn/huya/11352970.flv#https://www.goodiptv.club/huya/137834#https://live.ottiptv.cc/huya/137834#http://cfss.cc/cdn/huya/137834.flv
-犬夜叉剧场版,https://live.ottiptv.cc/douyu/11906591#https://live.188766.xyz/douyu/11906591
-晓妞动漫花园,https://live.ottiptv.cc/douyu/426517#https://live.188766.xyz/douyu/426517
-网球王子,https://www.goodiptv.club/huya/11352882#https://live.ottiptv.cc/huya/11352882#http://cfss.cc/cdn/huya/11352882.flv
-二次元的世界里有我的梦想和青春,https://www.goodiptv.club/huya/21059614#https://live.ottiptv.cc/huya/21059614#http://cfss.cc/cdn/huya/21059614.flv
-齐神,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
-完美世界,https://www.goodiptv.club/huya/11336579#https://live.ottiptv.cc/huya/11336579#http://cfss.cc/cdn/huya/11336579.flv
-哆啦A梦,https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#https://live.ottiptv.cc/huya/11601963#https://live.ottiptv.cc/huya/29982795#http://cfss.cc/cdn/huya/11601963.flv#http://cfss.cc/cdn/huya/29982795.flv
-开心锤锤,https://live.ottiptv.cc/douyu/9018297#https://live.188766.xyz/douyu/9018297
-虎牙四驱兄弟,https://www.goodiptv.club/huya/11352922#https://live.ottiptv.cc/huya/11352922#http://cfss.cc/cdn/huya/11352922.flv
-斗鱼四驱兄弟,https://live.ottiptv.cc/douyu/4575356#https://live.188766.xyz/douyu/4575356
-圣魔大陆,https://www.goodiptv.club/huya/26355828#https://live.ottiptv.cc/huya/26355828#http://cfss.cc/cdn/huya/26355828.flv
-画江湖之不良人,https://www.goodiptv.club/huya/21059565#https://live.ottiptv.cc/huya/21059565#https://www.goodiptv.club/huya/30080218#https://live.ottiptv.cc/huya/30080218#http://cfss.cc/cdn/huya/21059565.flv#http://cfss.cc/cdn/huya/30080218.flv
-不良人1-6动漫,https://www.goodiptv.club/huya/29982595#https://live.ottiptv.cc/huya/29982595#http://cfss.cc/cdn/huya/29982595.flv
-斗破苍穹,https://www.goodiptv.club/huya/24055996#https://live.ottiptv.cc/huya/24055996#https://live.ottiptv.cc/huya/29465865#https://www.goodiptv.club/huya/29465865#https://live.ottiptv.cc/huya/11336572#https://www.goodiptv.club/huya/11336572
-斗帝萧炎,https://www.goodiptv.club/huya/618917#https://live.ottiptv.cc/huya/618917#http://cfss.cc/cdn/huya/618917.flv
-头文字D动漫,https://www.goodiptv.club/huya/11352889#https://live.ottiptv.cc/huya/11352889#http://cfss.cc/cdn/huya/11352889.flv
-足球小将,https://www.goodiptv.club/huya/11352904#https://live.ottiptv.cc/huya/11352904#http://cfss.cc/cdn/huya/11352904.flv
-海绵宝宝,https://live.188766.xyz/douyu/7528160#https://live.188766.xyz/douyu/3949681#https://www.goodiptv.club/huya/11352919#http://cfss.cc/cdn/huya/11352919.flv#https://live.188766.xyz/douyu/11595245#https://live.188766.xyz/douyu/12311684#https://live.ottiptv.cc/douyu/7528160#https://live.ottiptv.cc/douyu/3949681#https://live.ottiptv.cc/douyu/11595245#https://live.ottiptv.cc/douyu/12311684
-武林之同福客栈动画版,https://www.goodiptv.club/huya/25749066#https://live.ottiptv.cc/huya/25749066#http://cfss.cc/cdn/huya/25749066.flv
-哪吒传奇,https://www.goodiptv.club/huya/26355782#https://live.ottiptv.cc/huya/26355782#http://cfss.cc/cdn/huya/26355782.flv
-惊悚恐怖动画,https://live.ottiptv.cc/douyu/9312460#https://live.188766.xyz/douyu/9312460
-魔道祖师,https://www.goodiptv.club/huya/30080217#https://live.ottiptv.cc/huya/30080217#http://cfss.cc/cdn/huya/30080217.flv
-仙逆,https://www.goodiptv.club/huya/30080215#https://live.ottiptv.cc/huya/30080215#http://cfss.cc/cdn/huya/30080215.flv
-动画,https://www.goodiptv.club/huya/29981376#https://live.ottiptv.cc/huya/29981376#http://cfss.cc/cdn/huya/29981376.flv
-少年歌行,https://www.goodiptv.club/huya/29982667#https://live.ottiptv.cc/huya/29982667#http://cfss.cc/cdn/huya/29982667.flv
-一念永恒,https://www.goodiptv.club/huya/30080223#https://live.ottiptv.cc/huya/30080223#http://cfss.cc/cdn/huya/30080223.flv
-小时候看过的怀旧动画片,https://live.ottiptv.cc/douyu/7360064#https://live.188766.xyz/douyu/7360064
-武庚纪-究极人神之战,https://www.goodiptv.club/huya/26355862#https://live.ottiptv.cc/huya/26355862#http://cfss.cc/cdn/huya/26355862.flv
-刘关张三活宝,https://www.goodiptv.club/huya/29465871#https://live.ottiptv.cc/huya/29465871#http://cfss.cc/cdn/huya/29465871.flv
-全职猎人,https://www.goodiptv.club/huya/30080254#https://live.ottiptv.cc/huya/30080254#http://cfss.cc/cdn/huya/30080254.flv
-黑子的篮球,https://www.goodiptv.club/huya/30080253#https://live.ottiptv.cc/huya/30080253#http://cfss.cc/cdn/huya/30080253.flv
-林小二动画,https://live.ottiptv.cc/douyu/11184164#https://live.188766.xyz/douyu/11184164
-迪士尼! 经典动画电影,https://www.goodiptv.club/huya/30080256#https://live.ottiptv.cc/huya/30080256#http://cfss.cc/cdn/huya/30080256.flv
-地灵曲,https://www.goodiptv.club/huya/30080216#https://live.ottiptv.cc/huya/30080216#http://cfss.cc/cdn/huya/30080216.flv
-童年的动画片,https://live.ottiptv.cc/douyu/11741459#https://live.188766.xyz/douyu/11741459
-国风动画电影,https://www.goodiptv.club/huya/30080242#https://live.ottiptv.cc/huya/30080242#http://cfss.cc/cdn/huya/30080242.flv
-怪盗基德,https://www.goodiptv.club/huya/26355804#https://live.ottiptv.cc/huya/26355804#http://cfss.cc/cdn/huya/26355804.flv
-小猪佩奇,https://live.ottiptv.cc/douyu/9541736#https://live.188766.xyz/douyu/9541736
-喜羊羊灰太狼,https://www.goodiptv.club/huya/23865080#https://live.ottiptv.cc/huya/23865080#http://cfss.cc/cdn/huya/23865080.flv#https://www.goodiptv.club/huya/23699135#https://live.ottiptv.cc/huya/23699135#http://cfss.cc/cdn/huya/23699135.flv
-民调局异闻录,https://www.goodiptv.club/huya/26355820#https://live.ottiptv.cc/huya/26355820#http://cfss.cc/cdn/huya/26355820.flv
-异人之下,https://www.goodiptv.club/huya/11602065#https://live.ottiptv.cc/huya/11602065#http://cfss.cc/cdn/huya/11602065.flv
-妖狐小红娘,https://www.goodiptv.club/huya/11352967#https://live.ottiptv.cc/huya/11352967#http://cfss.cc/cdn/huya/11352967.flv
-动画电影大赏,https://www.goodiptv.club/huya/21059599#https://live.ottiptv.cc/huya/21059599#http://cfss.cc/cdn/huya/21059599.flv
-百变小樱,https://www.goodiptv.club/huya/21059587#https://live.ottiptv.cc/huya/21059587#http://cfss.cc/cdn/huya/21059587.flv
-一念斩千魔，一念诛万仙,https://www.goodiptv.club/huya/21059592#https://live.ottiptv.cc/huya/21059592#http://cfss.cc/cdn/huya/21059592.flv
-瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#https://live.ottiptv.cc/huya/29982655#http://cfss.cc/cdn/huya/29982655.flv
-守护甜心,https://www.goodiptv.club/huya/24314166#https://live.ottiptv.cc/huya/24314166#http://cfss.cc/cdn/huya/24314166.flv
-山止月的直播间,https://live.ottiptv.cc/douyu/12538016#https://live.188766.xyz/douyu/12538016
+火影疾风传2,https://www.goodiptv.club/huya/20985833#https://www.goodiptv.club/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
+火影忍者,https://www.goodiptv.club/huya/29465866#https://www.goodiptv.club/huya/29465866#http://cfss.cc/cdn/huya/23734243.flv
+成龙历险记,https://www.goodiptv.club/douyu/2287949#https://www.goodiptv.club/huya/11352946#https://live.188766.xyz/douyu/2287949#https://www.goodiptv.club/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
+快来看动画,https://www.goodiptv.club/douyu/12144115#https://live.188766.xyz/douyu/12144115
+厨神小当家,https://www.goodiptv.club/huya/24257300#https://www.goodiptv.club/huya/24257300#http://cfss.cc/cdn/huya/24257300.flv
+中华小当家,https://www.goodiptv.club/douyu/8231658#https://live.188766.xyz/douyu/8231658
+【动漫合集】皮克斯、Conan看不停,https://www.goodiptv.club/douyu/7620081#https://live.188766.xyz/douyu/7620081
+【动漫】超燃 怀旧 经典,https://www.goodiptv.club/douyu/1174353#https://live.188766.xyz/douyu/1174353
+草帽丶海贼团的直播间,https://www.goodiptv.club/douyu/997925#https://live.188766.xyz/douyu/997925
+[剧场版] 海贼王,https://www.goodiptv.club/huya/29982634#https://www.goodiptv.club/huya/29982634#http://cfss.cc/cdn/huya/29982634.flv
+动漫 热血 老贼 冒险,https://www.goodiptv.club/douyu/6610883#https://live.188766.xyz/douyu/6610883
+【童年往事】仨房间画面同步显示点播1,https://www.goodiptv.club/douyu/1569773#https://live.188766.xyz/douyu/1569773
+【童年往事】仨房间画面同步显示点播2,https://www.goodiptv.club/douyu/7256376#https://live.188766.xyz/douyu/7256376
+虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#https://www.goodiptv.club/huya/30080148#http://cfss.cc/cdn/huya/30080148.flv
+斗鱼名侦探柯南,https://www.goodiptv.club/douyu/5172389#https://live.188766.xyz/douyu/5172389
+名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#https://www.goodiptv.club/huya/30080236#http://cfss.cc/cdn/huya/30080236.flv
+汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#https://www.goodiptv.club/huya/11352879#http://cfss.cc/cdn/huya/11352879.flv
+龍組队长天昊直播间,https://www.goodiptv.club/douyu/1487654#https://live.188766.xyz/douyu/1487654
+骑士不让播了，先随便播下吧,https://www.goodiptv.club/douyu/1218414#https://live.188766.xyz/douyu/1218414
+茶啊二中,https://www.goodiptv.club/huya/11213191#https://www.goodiptv.club/huya/11213191#https://live.188766.xyz/douyu/2925610#https://www.goodiptv.club/douyu/2925610
+航海王,https://www.goodiptv.club/huya/16913382#https://www.goodiptv.club/huya/16913382#http://cfss.cc/cdn/huya/16913382.flv
+龙珠超,https://www.goodiptv.club/huya/11601966#https://www.goodiptv.club/huya/11601966#http://cfss.cc/cdn/huya/11601966.flv
+樱桃小丸子,https://www.goodiptv.club/huya/11342394#https://www.goodiptv.club/huya/11342394#http://cfss.cc/cdn/huya/11342394.flv
+宠物小精灵,http://cfss.cc/cdn/huya/29465874.flv#http://cfss.cc/cdn/huya/11602069.flv#https://www.goodiptv.club/huya/29465874#https://www.goodiptv.club/huya/11602069#https://www.goodiptv.club/huya/29465874#https://www.goodiptv.club/huya/11602069#https://www.goodiptv.club/huya/23749096#https://www.goodiptv.club/huya/23749096
+斗罗大陆动画,https://www.goodiptv.club/huya/11352906#https://www.goodiptv.club/huya/11352906#http://cfss.cc/cdn/huya/11352906.flv
+异人动漫,https://www.goodiptv.club/huya/11352869#https://www.goodiptv.club/huya/11352869#http://cfss.cc/cdn/huya/11352869.flv
+新世纪福音战士,https://www.goodiptv.club/huya/21059570#https://www.goodiptv.club/huya/21059570#http://cfss.cc/cdn/huya/21059570.flv
+蜡笔小新,https://www.goodiptv.club/huya/11352970#https://www.goodiptv.club/huya/11352970#http://cfss.cc/cdn/huya/11352970.flv#https://www.goodiptv.club/huya/137834#https://www.goodiptv.club/huya/137834#http://cfss.cc/cdn/huya/137834.flv
+犬夜叉剧场版,https://www.goodiptv.club/douyu/11906591#https://live.188766.xyz/douyu/11906591
+晓妞动漫花园,https://www.goodiptv.club/douyu/426517#https://live.188766.xyz/douyu/426517
+网球王子,https://www.goodiptv.club/huya/11352882#https://www.goodiptv.club/huya/11352882#http://cfss.cc/cdn/huya/11352882.flv
+二次元的世界里有我的梦想和青春,https://www.goodiptv.club/huya/21059614#https://www.goodiptv.club/huya/21059614#http://cfss.cc/cdn/huya/21059614.flv
+齐神,https://www.goodiptv.club/huya/11352918#https://www.goodiptv.club/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
+完美世界,https://www.goodiptv.club/huya/11336579#https://www.goodiptv.club/huya/11336579#http://cfss.cc/cdn/huya/11336579.flv
+哆啦A梦,https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#http://cfss.cc/cdn/huya/11601963.flv#http://cfss.cc/cdn/huya/29982795.flv
+开心锤锤,https://www.goodiptv.club/douyu/9018297#https://live.188766.xyz/douyu/9018297
+虎牙四驱兄弟,https://www.goodiptv.club/huya/11352922#https://www.goodiptv.club/huya/11352922#http://cfss.cc/cdn/huya/11352922.flv
+斗鱼四驱兄弟,https://www.goodiptv.club/douyu/4575356#https://live.188766.xyz/douyu/4575356
+圣魔大陆,https://www.goodiptv.club/huya/26355828#https://www.goodiptv.club/huya/26355828#http://cfss.cc/cdn/huya/26355828.flv
+画江湖之不良人,https://www.goodiptv.club/huya/21059565#https://www.goodiptv.club/huya/21059565#https://www.goodiptv.club/huya/30080218#https://www.goodiptv.club/huya/30080218#http://cfss.cc/cdn/huya/21059565.flv#http://cfss.cc/cdn/huya/30080218.flv
+不良人1-6动漫,https://www.goodiptv.club/huya/29982595#https://www.goodiptv.club/huya/29982595#http://cfss.cc/cdn/huya/29982595.flv
+斗破苍穹,https://www.goodiptv.club/huya/24055996#https://www.goodiptv.club/huya/24055996#https://www.goodiptv.club/huya/29465865#https://www.goodiptv.club/huya/29465865#https://www.goodiptv.club/huya/11336572#https://www.goodiptv.club/huya/11336572
+斗帝萧炎,https://www.goodiptv.club/huya/618917#https://www.goodiptv.club/huya/618917#http://cfss.cc/cdn/huya/618917.flv
+头文字D动漫,https://www.goodiptv.club/huya/11352889#https://www.goodiptv.club/huya/11352889#http://cfss.cc/cdn/huya/11352889.flv
+足球小将,https://www.goodiptv.club/huya/11352904#https://www.goodiptv.club/huya/11352904#http://cfss.cc/cdn/huya/11352904.flv
+海绵宝宝,https://live.188766.xyz/douyu/7528160#https://live.188766.xyz/douyu/3949681#https://www.goodiptv.club/huya/11352919#http://cfss.cc/cdn/huya/11352919.flv#https://live.188766.xyz/douyu/11595245#https://live.188766.xyz/douyu/12311684#https://www.goodiptv.club/douyu/7528160#https://www.goodiptv.club/douyu/3949681#https://www.goodiptv.club/douyu/11595245#https://www.goodiptv.club/douyu/12311684
+武林之同福客栈动画版,https://www.goodiptv.club/huya/25749066#https://www.goodiptv.club/huya/25749066#http://cfss.cc/cdn/huya/25749066.flv
+哪吒传奇,https://www.goodiptv.club/huya/26355782#https://www.goodiptv.club/huya/26355782#http://cfss.cc/cdn/huya/26355782.flv
+惊悚恐怖动画,https://www.goodiptv.club/douyu/9312460#https://live.188766.xyz/douyu/9312460
+魔道祖师,https://www.goodiptv.club/huya/30080217#https://www.goodiptv.club/huya/30080217#http://cfss.cc/cdn/huya/30080217.flv
+仙逆,https://www.goodiptv.club/huya/30080215#https://www.goodiptv.club/huya/30080215#http://cfss.cc/cdn/huya/30080215.flv
+动画,https://www.goodiptv.club/huya/29981376#https://www.goodiptv.club/huya/29981376#http://cfss.cc/cdn/huya/29981376.flv
+少年歌行,https://www.goodiptv.club/huya/29982667#https://www.goodiptv.club/huya/29982667#http://cfss.cc/cdn/huya/29982667.flv
+一念永恒,https://www.goodiptv.club/huya/30080223#https://www.goodiptv.club/huya/30080223#http://cfss.cc/cdn/huya/30080223.flv
+小时候看过的怀旧动画片,https://www.goodiptv.club/douyu/7360064#https://live.188766.xyz/douyu/7360064
+武庚纪-究极人神之战,https://www.goodiptv.club/huya/26355862#https://www.goodiptv.club/huya/26355862#http://cfss.cc/cdn/huya/26355862.flv
+刘关张三活宝,https://www.goodiptv.club/huya/29465871#https://www.goodiptv.club/huya/29465871#http://cfss.cc/cdn/huya/29465871.flv
+全职猎人,https://www.goodiptv.club/huya/30080254#https://www.goodiptv.club/huya/30080254#http://cfss.cc/cdn/huya/30080254.flv
+黑子的篮球,https://www.goodiptv.club/huya/30080253#https://www.goodiptv.club/huya/30080253#http://cfss.cc/cdn/huya/30080253.flv
+林小二动画,https://www.goodiptv.club/douyu/11184164#https://live.188766.xyz/douyu/11184164
+迪士尼! 经典动画电影,https://www.goodiptv.club/huya/30080256#https://www.goodiptv.club/huya/30080256#http://cfss.cc/cdn/huya/30080256.flv
+地灵曲,https://www.goodiptv.club/huya/30080216#https://www.goodiptv.club/huya/30080216#http://cfss.cc/cdn/huya/30080216.flv
+童年的动画片,https://www.goodiptv.club/douyu/11741459#https://live.188766.xyz/douyu/11741459
+国风动画电影,https://www.goodiptv.club/huya/30080242#https://www.goodiptv.club/huya/30080242#http://cfss.cc/cdn/huya/30080242.flv
+怪盗基德,https://www.goodiptv.club/huya/26355804#https://www.goodiptv.club/huya/26355804#http://cfss.cc/cdn/huya/26355804.flv
+小猪佩奇,https://www.goodiptv.club/douyu/9541736#https://live.188766.xyz/douyu/9541736
+喜羊羊灰太狼,https://www.goodiptv.club/huya/23865080#https://www.goodiptv.club/huya/23865080#http://cfss.cc/cdn/huya/23865080.flv#https://www.goodiptv.club/huya/23699135#https://www.goodiptv.club/huya/23699135#http://cfss.cc/cdn/huya/23699135.flv
+民调局异闻录,https://www.goodiptv.club/huya/26355820#https://www.goodiptv.club/huya/26355820#http://cfss.cc/cdn/huya/26355820.flv
+异人之下,https://www.goodiptv.club/huya/11602065#https://www.goodiptv.club/huya/11602065#http://cfss.cc/cdn/huya/11602065.flv
+妖狐小红娘,https://www.goodiptv.club/huya/11352967#https://www.goodiptv.club/huya/11352967#http://cfss.cc/cdn/huya/11352967.flv
+动画电影大赏,https://www.goodiptv.club/huya/21059599#https://www.goodiptv.club/huya/21059599#http://cfss.cc/cdn/huya/21059599.flv
+百变小樱,https://www.goodiptv.club/huya/21059587#https://www.goodiptv.club/huya/21059587#http://cfss.cc/cdn/huya/21059587.flv
+一念斩千魔，一念诛万仙,https://www.goodiptv.club/huya/21059592#https://www.goodiptv.club/huya/21059592#http://cfss.cc/cdn/huya/21059592.flv
+瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#https://www.goodiptv.club/huya/29982655#http://cfss.cc/cdn/huya/29982655.flv
+守护甜心,https://www.goodiptv.club/huya/24314166#https://www.goodiptv.club/huya/24314166#http://cfss.cc/cdn/huya/24314166.flv
+山止月的直播间,https://www.goodiptv.club/douyu/12538016#https://live.188766.xyz/douyu/12538016
 灌篮高手,http://cfss.cc/cdn/yy/1356243352.flv#http://www.douzhicloud.site:35455/yy/1356243352
 灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626#http://iptv.frp.terry666.xyz:90/yy/1382735626
 妖神记,http://www.douzhicloud.site:35455/yy/1382745171#http://cfss.cc/cdn/yy/1382745171.flv
 妖神记-全集,http://www.douzhicloud.site:35455/yy/1382735551#http://iptv.frp.terry666.xyz:90/yy/1382735551
 星际穿越：虫洞冒险,http://www.douzhicloud.site:35455/yy/1354930945#http://cfss.cc/cdn/yy/1354930945.flv
-全职高手动画,https://www.goodiptv.club/huya/21059628#https://live.ottiptv.cc/huya/21059628#http://cfss.cc/cdn/huya/21059628.flv
-双城之战--英雄联盟超燃动画,https://www.goodiptv.club/huya/23903196#https://live.ottiptv.cc/huya/23903196#http://cfss.cc/cdn/huya/23903196.flv
+全职高手动画,https://www.goodiptv.club/huya/21059628#https://www.goodiptv.club/huya/21059628#http://cfss.cc/cdn/huya/21059628.flv
+双城之战--英雄联盟超燃动画,https://www.goodiptv.club/huya/23903196#https://www.goodiptv.club/huya/23903196#http://cfss.cc/cdn/huya/23903196.flv
 熊出没之探险日记,http://www.douzhicloud.site:35455/yy/1382745122#http://cfss.cc/cdn/yy/1382745122.flv#http://www.douzhicloud.site:35455/yy/1354930977
-奇光动漫剧场,https://live.ottiptv.cc/douyu/12560807#https://live.188766.xyz/douyu/12560807
-迪迦奥特曼,https://www.goodiptv.club/huya/21059569#https://live.ottiptv.cc/huya/21059569#http://cfss.cc/cdn/huya/21059569.flv
-星辰变,https://www.goodiptv.club/huya/24514506#https://live.ottiptv.cc/huya/24514506#http://cfss.cc/cdn/huya/24514506.flv
-最新日本动画片,https://www.goodiptv.club/huya/26355787#https://live.ottiptv.cc/huya/26355787#http://cfss.cc/cdn/huya/26355787.flv
-经典动漫电影,https://www.goodiptv.club/huya/24884368#https://live.ottiptv.cc/huya/24884368#http://cfss.cc/cdn/huya/24884368.flv
-合家欢动画片,https://www.goodiptv.club/huya/11601958#https://live.ottiptv.cc/huya/11601958#http://cfss.cc/cdn/huya/11601958.flv
-诛仙--国漫,https://www.goodiptv.club/huya/23728595#https://live.ottiptv.cc/huya/23728595#http://cfss.cc/cdn/huya/23728595.flv
+奇光动漫剧场,https://www.goodiptv.club/douyu/12560807#https://live.188766.xyz/douyu/12560807
+迪迦奥特曼,https://www.goodiptv.club/huya/21059569#https://www.goodiptv.club/huya/21059569#http://cfss.cc/cdn/huya/21059569.flv
+星辰变,https://www.goodiptv.club/huya/24514506#https://www.goodiptv.club/huya/24514506#http://cfss.cc/cdn/huya/24514506.flv
+最新日本动画片,https://www.goodiptv.club/huya/26355787#https://www.goodiptv.club/huya/26355787#http://cfss.cc/cdn/huya/26355787.flv
+经典动漫电影,https://www.goodiptv.club/huya/24884368#https://www.goodiptv.club/huya/24884368#http://cfss.cc/cdn/huya/24884368.flv
+合家欢动画片,https://www.goodiptv.club/huya/11601958#https://www.goodiptv.club/huya/11601958#http://cfss.cc/cdn/huya/11601958.flv
+诛仙--国漫,https://www.goodiptv.club/huya/23728595#https://www.goodiptv.club/huya/23728595#http://cfss.cc/cdn/huya/23728595.flv
 宇宙护卫队--国漫,http://www.douzhicloud.site:35455/yy/1382736837#http://iptv.frp.terry666.xyz:90/yy/1382736837
 萌鸡小队,http://www.douzhicloud.site:35455/yy/1382736904#http://iptv.frp.terry666.xyz:90/yy/1382736904
-动画片,https://live.ottiptv.cc/douyu/12626455#https://live.188766.xyz/douyu/12626455
+动画片,https://www.goodiptv.club/douyu/12626455#https://live.188766.xyz/douyu/12626455
 动漫,http://www.douzhicloud.site:35455/yy/26664495#http://iptv.frp.terry666.xyz:90/yy/26664495
-吞噬星空,https://www.goodiptv.club/huya/23902242#https://live.ottiptv.cc/huya/23902242#http://cfss.cc/cdn/huya/23902242.flv
-游戏王,https://www.goodiptv.club/huya/20985856#https://live.ottiptv.cc/huya/20985856#http://cfss.cc/cdn/huya/20985856.flv
-游戏王,https://www.goodiptv.club/huya/20969126#https://live.ottiptv.cc/huya/20969126#http://cfss.cc/cdn/huya/20969126.flv
-齐神,https://www.goodiptv.club/huya/20985831#https://live.ottiptv.cc/huya/20985831#http://cfss.cc/cdn/huya/20985831.flv
-小时候看过的动画片,https://www.goodiptv.club/huya/20985773#https://live.ottiptv.cc/huya/20985773#http://cfss.cc/cdn/huya/20985773.flv
-童年的回忆,https://www.goodiptv.club/huya/20969112#https://live.ottiptv.cc/huya/20969112#http://cfss.cc/cdn/huya/20969112.flv
-大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#https://live.ottiptv.cc/huya/20969114#http://cfss.cc/cdn/huya/20969114.flv
-钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#https://live.ottiptv.cc/huya/20985859#http://cfss.cc/cdn/huya/20985859.flv
-无敌叶宁,https://www.goodiptv.club/huya/11352954#https://live.ottiptv.cc/huya/11352954#http://cfss.cc/cdn/huya/11352954.flv
-游戏电影,https://www.goodiptv.club/huya/20985870#https://live.ottiptv.cc/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
-假面骑士,https://www.goodiptv.club/huya/20985813#https://live.ottiptv.cc/huya/20985813#http://cfss.cc/cdn/huya/20985813.flv
-反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#https://live.ottiptv.cc/huya/20969113#http://cfss.cc/cdn/huya/20969113.flv
-葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#https://live.ottiptv.cc/huya/20985834#http://cfss.cc/cdn/huya/20985834.flv
-神奇宝贝,https://www.goodiptv.club/huya/21241784#https://live.ottiptv.cc/huya/21241784#http://cfss.cc/cdn/huya/21241784.flv
-无上神帝,https://www.goodiptv.club/huya/11352892#https://live.ottiptv.cc/huya/11352892#http://cfss.cc/cdn/huya/11352892.flv
-神龙斗士,https://www.goodiptv.club/huya/21241839#https://live.ottiptv.cc/huya/21241839#http://cfss.cc/cdn/huya/21241839.flv
-第一神拳,https://www.goodiptv.club/huya/26355789#https://live.ottiptv.cc/huya/26355789#http://cfss.cc/cdn/huya/26355789.flv
-高达动画,https://www.goodiptv.club/huya/23863809#https://live.ottiptv.cc/huya/23863809#http://cfss.cc/cdn/huya/23863809.flv
-西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
+吞噬星空,https://www.goodiptv.club/huya/23902242#https://www.goodiptv.club/huya/23902242#http://cfss.cc/cdn/huya/23902242.flv
+游戏王,https://www.goodiptv.club/huya/20985856#https://www.goodiptv.club/huya/20985856#http://cfss.cc/cdn/huya/20985856.flv
+游戏王,https://www.goodiptv.club/huya/20969126#https://www.goodiptv.club/huya/20969126#http://cfss.cc/cdn/huya/20969126.flv
+齐神,https://www.goodiptv.club/huya/20985831#https://www.goodiptv.club/huya/20985831#http://cfss.cc/cdn/huya/20985831.flv
+小时候看过的动画片,https://www.goodiptv.club/huya/20985773#https://www.goodiptv.club/huya/20985773#http://cfss.cc/cdn/huya/20985773.flv
+童年的回忆,https://www.goodiptv.club/huya/20969112#https://www.goodiptv.club/huya/20969112#http://cfss.cc/cdn/huya/20969112.flv
+大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#https://www.goodiptv.club/huya/20969114#http://cfss.cc/cdn/huya/20969114.flv
+钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#https://www.goodiptv.club/huya/20985859#http://cfss.cc/cdn/huya/20985859.flv
+无敌叶宁,https://www.goodiptv.club/huya/11352954#https://www.goodiptv.club/huya/11352954#http://cfss.cc/cdn/huya/11352954.flv
+游戏电影,https://www.goodiptv.club/huya/20985870#https://www.goodiptv.club/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
+假面骑士,https://www.goodiptv.club/huya/20985813#https://www.goodiptv.club/huya/20985813#http://cfss.cc/cdn/huya/20985813.flv
+反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#https://www.goodiptv.club/huya/20969113#http://cfss.cc/cdn/huya/20969113.flv
+葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#https://www.goodiptv.club/huya/20985834#http://cfss.cc/cdn/huya/20985834.flv
+神奇宝贝,https://www.goodiptv.club/huya/21241784#https://www.goodiptv.club/huya/21241784#http://cfss.cc/cdn/huya/21241784.flv
+无上神帝,https://www.goodiptv.club/huya/11352892#https://www.goodiptv.club/huya/11352892#http://cfss.cc/cdn/huya/11352892.flv
+神龙斗士,https://www.goodiptv.club/huya/21241839#https://www.goodiptv.club/huya/21241839#http://cfss.cc/cdn/huya/21241839.flv
+第一神拳,https://www.goodiptv.club/huya/26355789#https://www.goodiptv.club/huya/26355789#http://cfss.cc/cdn/huya/26355789.flv
+高达动画,https://www.goodiptv.club/huya/23863809#https://www.goodiptv.club/huya/23863809#http://cfss.cc/cdn/huya/23863809.flv
+西游新传奇,https://www.goodiptv.club/huya/20985765#https://www.goodiptv.club/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
 
 
 ❤️虎牙影院,#genre#
-异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841#http://cfss.cc/cdn/huya/20985841.flv
-大神级现场的直播间,https://www.goodiptv.club/huya/21241817#https://live.ottiptv.cc/huya/21241817#http://cfss.cc/cdn/huya/21241817.flv
-亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#https://live.ottiptv.cc/huya/136154#http://cfss.cc/cdn/huya/136154.flv
-甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#https://live.ottiptv.cc/huya/30080159#http://cfss.cc/cdn/huya/30080159.flv
-有点意思的直播间,https://www.goodiptv.club/huya/20985824#https://live.ottiptv.cc/huya/20985824#http://cfss.cc/cdn/huya/20985824.flv
-最篮球的直播间,https://www.goodiptv.club/huya/29982651#https://live.ottiptv.cc/huya/29982651#http://cfss.cc/cdn/huya/29982651.flv
-超能狗仔队的直播间,https://www.goodiptv.club/huya/30080173#https://live.ottiptv.cc/huya/30080173#http://cfss.cc/cdn/huya/30080173.flv
-飞鸟鸣春小满日的直播间,https://www.goodiptv.club/huya/29982646#https://live.ottiptv.cc/huya/29982646#http://cfss.cc/cdn/huya/29982646.flv
-足球客栈Harbou的直播间,https://www.goodiptv.club/huya/29982615#https://live.ottiptv.cc/huya/29982615#http://cfss.cc/cdn/huya/29982615.flv
-TVB练习生的直播间,https://www.goodiptv.club/huya/23865132#https://live.ottiptv.cc/huya/23865132#http://cfss.cc/cdn/huya/23865132.flv
-我是港剧迷的直播间,https://www.goodiptv.club/huya/23903085#https://live.ottiptv.cc/huya/23903085#http://cfss.cc/cdn/huya/23903085.flv
-港剧一家人的直播间,https://www.goodiptv.club/huya/23903152#https://live.ottiptv.cc/huya/23903152#http://cfss.cc/cdn/huya/23903152.flv
-石敢当本当的直播间,https://www.goodiptv.club/huya/23749074#https://live.ottiptv.cc/huya/23749074#http://cfss.cc/cdn/huya/23749074.flv
-排球太燃了的直播间,https://www.goodiptv.club/huya/30080166#https://live.ottiptv.cc/huya/30080166#http://cfss.cc/cdn/huya/30080166.flv
-TVB浪姐的直播间,https://www.goodiptv.club/huya/23865124#https://live.ottiptv.cc/huya/23865124#http://cfss.cc/cdn/huya/23865124.flv
-君临剧有益的直播间,https://www.goodiptv.club/huya/24884646#https://live.ottiptv.cc/huya/24884646#http://cfss.cc/cdn/huya/24884646.flv
-追娘娘超会看的直播间,https://www.goodiptv.club/huya/30080184#https://live.ottiptv.cc/huya/30080184#http://cfss.cc/cdn/huya/30080184.flv
-过儿想姑姑了的直播间,https://www.goodiptv.club/huya/23749068#https://live.ottiptv.cc/huya/23749068#http://cfss.cc/cdn/huya/23749068.flv
-君临剧美丽的直播间,https://www.goodiptv.club/huya/24879375#https://live.ottiptv.cc/huya/24879375#http://cfss.cc/cdn/huya/24879375.flv
-别和陌生人说话的直播间,https://www.goodiptv.club/huya/21059573#https://live.ottiptv.cc/huya/21059573#http://cfss.cc/cdn/huya/21059573.flv
-上山鱼香的直播间,https://www.goodiptv.club/huya/26355798#https://live.ottiptv.cc/huya/26355798#http://cfss.cc/cdn/huya/26355798.flv
-辣条好吃嘛的直播间,https://www.goodiptv.club/huya/11601969#https://live.ottiptv.cc/huya/11601969#http://cfss.cc/cdn/huya/11601969.flv
-臨眺無雨色的直播间,https://www.goodiptv.club/huya/26355838#https://live.ottiptv.cc/huya/26355838#http://cfss.cc/cdn/huya/26355838.flv
-人类观察员love的直播间,https://www.goodiptv.club/huya/29982628#https://live.ottiptv.cc/huya/29982628#http://cfss.cc/cdn/huya/29982628.flv
-足球TOP的直播间,https://www.goodiptv.club/huya/29982607#https://live.ottiptv.cc/huya/29982607#http://cfss.cc/cdn/huya/29982607.flv
-小丛发疯ing的直播间,https://www.goodiptv.club/huya/29982650#https://live.ottiptv.cc/huya/29982650#http://cfss.cc/cdn/huya/29982650.flv
-包蛋超人的直播间,https://www.goodiptv.club/huya/11342400#https://live.ottiptv.cc/huya/11342400#http://cfss.cc/cdn/huya/11342400.flv
-请叫我大猪逸的直播间,https://www.goodiptv.club/huya/21059617#https://live.ottiptv.cc/huya/21059617#http://cfss.cc/cdn/huya/21059617.flv
-吹绿令人老的直播间,https://www.goodiptv.club/huya/21059613#https://live.ottiptv.cc/huya/21059613#http://cfss.cc/cdn/huya/21059613.flv
-夏初冬临的直播间,https://www.goodiptv.club/huya/21241825#https://live.ottiptv.cc/huya/21241825#http://cfss.cc/cdn/huya/21241825.flv
-春天的希望小仙子的直播间,https://www.goodiptv.club/huya/30080231#https://live.ottiptv.cc/huya/30080231#http://cfss.cc/cdn/huya/30080231.flv
-高山流水梦的直播间,https://www.goodiptv.club/huya/30080174#https://live.ottiptv.cc/huya/30080174#http://cfss.cc/cdn/huya/30080174.flv
-是大宝贝呀的直播间,https://www.goodiptv.club/huya/23829543#https://live.ottiptv.cc/huya/23829543#http://cfss.cc/cdn/huya/23829543.flv
-會稽愚婦数花开的直播间,https://www.goodiptv.club/huya/26355845#https://live.ottiptv.cc/huya/26355845#http://cfss.cc/cdn/huya/26355845.flv
-良奉白豆的直播间,https://www.goodiptv.club/huya/26355849#https://live.ottiptv.cc/huya/26355849#http://cfss.cc/cdn/huya/26355849.flv
-歪果仁的直播间,https://www.goodiptv.club/huya/29982644#https://live.ottiptv.cc/huya/29982644#http://cfss.cc/cdn/huya/29982644.flv
-大懒猫的直播间,https://www.goodiptv.club/huya/11602046#https://live.ottiptv.cc/huya/11602046#http://cfss.cc/cdn/huya/11602046.flv
-super一拳超人的直播间,https://www.goodiptv.club/huya/30080169#https://live.ottiptv.cc/huya/30080169#http://cfss.cc/cdn/huya/30080169.flv
-电视城打工人的直播间,https://www.goodiptv.club/huya/23824171#https://live.ottiptv.cc/huya/23824171#http://cfss.cc/cdn/huya/23824171.flv
-匹马泪沾襟的直播间,https://www.goodiptv.club/huya/30080137#https://live.ottiptv.cc/huya/30080137#http://cfss.cc/cdn/huya/30080137.flv
-假面骑士干巴爹的直播间,https://www.goodiptv.club/huya/29982654#https://live.ottiptv.cc/huya/29982654#http://cfss.cc/cdn/huya/29982654.flv
-国乒小分队的直播间,https://www.goodiptv.club/huya/30080171#https://live.ottiptv.cc/huya/30080171#http://cfss.cc/cdn/huya/30080171.flv
-寄李在扬州的直播间,https://www.goodiptv.club/huya/30496955#https://live.ottiptv.cc/huya/30496955#http://cfss.cc/cdn/huya/30496955.flv
-我的宝贝baby的直播间,https://www.goodiptv.club/huya/11352880#https://live.ottiptv.cc/huya/11352880#http://cfss.cc/cdn/huya/11352880.flv
-大型忙内的宅姐姐直播间,https://www.goodiptv.club/huya/11602084#https://live.ottiptv.cc/huya/11602084#http://cfss.cc/cdn/huya/11602084.flv
-我是一颗小虎牙的直播间,https://www.goodiptv.club/huya/24314165#https://live.ottiptv.cc/huya/24314165#http://cfss.cc/cdn/huya/24314165.flv
-小亮亮的直播间,https://www.goodiptv.club/huya/11342432#https://live.ottiptv.cc/huya/11342432#http://cfss.cc/cdn/huya/11342432.flv
-主播辣眼睛的直播间,https://www.goodiptv.club/huya/11352915#https://live.ottiptv.cc/huya/11352915#http://cfss.cc/cdn/huya/11352915.flv
-元芳看不到的直播间,https://www.goodiptv.club/huya/11342414#https://live.ottiptv.cc/huya/11342414#http://cfss.cc/cdn/huya/11342414.flv
-简小熙的直播间,https://www.goodiptv.club/huya/11342399#https://live.ottiptv.cc/huya/11342399#http://cfss.cc/cdn/huya/11342399.flv
-状元及第粥的直播间,https://www.goodiptv.club/huya/21059581#https://live.ottiptv.cc/huya/21059581#http://cfss.cc/cdn/huya/21059581.flv
-阿飞的直播间,https://www.goodiptv.club/huya/11352934#https://live.ottiptv.cc/huya/11352934#http://cfss.cc/cdn/huya/11352934.flv
-不挤电影院,https://www.goodiptv.club/huya/11352897#https://live.ottiptv.cc/huya/11352897#http://cfss.cc/cdn/huya/11352897.flv
-豆瓣高分电影1,https://www.goodiptv.club/huya/23902225#https://live.ottiptv.cc/huya/23902225#http://cfss.cc/cdn/huya/23902225.flv
-豆瓣高分电影2,https://www.goodiptv.club/huya/24844242#https://live.ottiptv.cc/huya/24844242#http://cfss.cc/cdn/huya/24844242.flv
-印度高分电影,https://www.goodiptv.club/huya/26355799#https://live.ottiptv.cc/huya/26355799#http://cfss.cc/cdn/huya/26355799.flv
-经典灾难大片,https://www.goodiptv.club/huya/23728647#https://live.ottiptv.cc/huya/23728647#http://cfss.cc/cdn/huya/23728647.flv
-搞笑喜剧：最佳拍档、开心鬼系列,https://www.goodiptv.club/huya/11342423#https://live.ottiptv.cc/huya/11342423#http://cfss.cc/cdn/huya/11342423.flv
-喜剧电影专场,https://live.ottiptv.cc/huya/11602044#https://www.goodiptv.club/huya/11602044#http://cfss.cc/cdn/huya/11602044.flv
-玄幻剧场,https://www.goodiptv.club/huya/11342414#https://live.ottiptv.cc/huya/11342414#http://cfss.cc/cdn/huya/11342414.flv
-猫幺儿直播间,https://www.goodiptv.club/huya/26378858#https://live.ottiptv.cc/huya/26378858#http://cfss.cc/cdn/huya/26378858.flv
-五福星,https://www.goodiptv.club/huya/11282233#https://live.ottiptv.cc/huya/11282233#http://cfss.cc/cdn/huya/11282233.flv
-警匪电影,https://www.goodiptv.club/huya/11352886#https://live.ottiptv.cc/huya/11352886#http://cfss.cc/cdn/huya/11352886.flv
-女神系列,https://www.goodiptv.club/huya/11336571#https://live.ottiptv.cc/huya/11336571#http://cfss.cc/cdn/huya/11336571.flv
-经典之作,https://www.goodiptv.club/huya/29982695#https://live.ottiptv.cc/huya/29982695#http://cfss.cc/cdn/huya/29982695.flv
-经典港片轮播,https://www.goodiptv.club/huya/23865086#https://live.ottiptv.cc/huya/23865086#http://cfss.cc/cdn/huya/23865086.flv
-科幻电影1,https://www.goodiptv.club/huya/26355781#https://live.ottiptv.cc/huya/26355781#http://cfss.cc/cdn/huya/26355781.flv
-科幻电影2,https://www.goodiptv.club/huya/21059554#https://live.ottiptv.cc/huya/21059554#http://cfss.cc/cdn/huya/21059554.flv
-科幻电影3,https://www.goodiptv.club/huya/11352965#https://live.ottiptv.cc/huya/11352965#http://cfss.cc/cdn/huya/11352965.flv
-科幻电影4,https://www.goodiptv.club/huya/29982648#https://live.ottiptv.cc/huya/29982648#http://cfss.cc/cdn/huya/29982648.flv
-华视-你想要的,https://www.goodiptv.club/huya/23358446#https://live.ottiptv.cc/huya/23358446#http://cfss.cc/cdn/huya/23358446.flv
-华视-警匪大片,https://www.goodiptv.club/huya/23358421#https://live.ottiptv.cc/huya/23358421#http://cfss.cc/cdn/huya/23358421.flv
-华视-爱情大片,https://www.goodiptv.club/huya/23358431#https://live.ottiptv.cc/huya/23358431#http://cfss.cc/cdn/huya/23358431.flv
-华视-动作大片,https://www.goodiptv.club/huya/23352535#https://live.ottiptv.cc/huya/23352535#http://cfss.cc/cdn/huya/23352535.flv
-华视-高分好片,https://www.goodiptv.club/huya/23352530#https://live.ottiptv.cc/huya/23352530#http://cfss.cc/cdn/huya/23352530.flv
-华视-喜剧大片,https://www.goodiptv.club/huya/23352525#https://live.ottiptv.cc/huya/23352525#http://cfss.cc/cdn/huya/23352525.flv
-TVB爱情故事,https://www.goodiptv.club/huya/23863818#https://live.ottiptv.cc/huya/23863818#http://cfss.cc/cdn/huya/23863818.flv
-TVB古装大片,https://www.goodiptv.club/huya/23865025#https://live.ottiptv.cc/huya/23865025#http://cfss.cc/cdn/huya/23865025.flv
-TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://live.ottiptv.cc/huya/23735153#http://cfss.cc/cdn/huya/23735153.flv
-金庸群侠篇电影,https://www.goodiptv.club/huya/11342427#https://live.ottiptv.cc/huya/11342427#http://cfss.cc/cdn/huya/11342427.flv
-哈利波特系列,https://www.goodiptv.club/huya/29982669#https://live.ottiptv.cc/huya/29982669#http://cfss.cc/cdn/huya/29982669.flv
-星际迷航,https://www.goodiptv.club/huya/30080232#https://live.ottiptv.cc/huya/30080232#http://cfss.cc/cdn/huya/30080232.flv
-高智商的罪犯,https://www.goodiptv.club/huya/11352962#https://live.ottiptv.cc/huya/11352962#http://cfss.cc/cdn/huya/11352962.flv
-经典史诗电影,https://www.goodiptv.club/huya/20969119#https://live.ottiptv.cc/huya/20969119#http://cfss.cc/cdn/huya/20969119.flv
-经典电影,https://www.goodiptv.club/huya/30987504#https://live.ottiptv.cc/huya/30987504#http://cfss.cc/cdn/huya/30987504.flv
-经典高分动作电影系列,https://www.goodiptv.club/huya/31109333#https://live.ottiptv.cc/huya/31109333#http://cfss.cc/cdn/huya/31109333.flv
-香港贺岁片,https://www.goodiptv.club/huya/11601955#https://live.ottiptv.cc/huya/11601955#http://cfss.cc/cdn/huya/11601955.flv
-港片,https://www.goodiptv.club/huya/11602043#https://live.ottiptv.cc/huya/11602043#http://cfss.cc/cdn/huya/11602043.flv
-香港喜剧,https://www.goodiptv.club/huya/20969142#https://live.ottiptv.cc/huya/20969142#http://cfss.cc/cdn/huya/20969142.flv
-香港电影经典之大作,https://www.goodiptv.club/huya/30631706#https://live.ottiptv.cc/huya/30631706#http://cfss.cc/cdn/huya/30631706.flv
-香港动作电影,https://www.goodiptv.club/huya/11602055#https://live.ottiptv.cc/huya/11602055#http://cfss.cc/cdn/huya/11602055.flv
-谍战片,https://www.goodiptv.club/huya/26355810#https://live.ottiptv.cc/huya/26355810#http://cfss.cc/cdn/huya/26355810.flv
-曲三更破案,https://www.goodiptv.club/huya/21059595#https://live.ottiptv.cc/huya/21059595#http://cfss.cc/cdn/huya/21059595.flv
-香港经典探案剧,https://www.goodiptv.club/huya/24888173#https://live.ottiptv.cc/huya/24888173#http://cfss.cc/cdn/huya/24888173.flv
-经典武打电影,https://www.goodiptv.club/huya/23865179#https://live.ottiptv.cc/huya/23865179#http://cfss.cc/cdn/huya/23865179.flv
-科幻电影大合集,https://www.goodiptv.club/huya/23746486#https://live.ottiptv.cc/huya/23746486#http://cfss.cc/cdn/huya/23746486.flv
-吴镇宇电影,https://www.goodiptv.club/huya/23865096#https://live.ottiptv.cc/huya/23865096#http://cfss.cc/cdn/huya/23865096.flv
+异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://www.goodiptv.club/huya/20985841#http://cfss.cc/cdn/huya/20985841.flv
+大神级现场的直播间,https://www.goodiptv.club/huya/21241817#https://www.goodiptv.club/huya/21241817#http://cfss.cc/cdn/huya/21241817.flv
+亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#https://www.goodiptv.club/huya/136154#http://cfss.cc/cdn/huya/136154.flv
+甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#https://www.goodiptv.club/huya/30080159#http://cfss.cc/cdn/huya/30080159.flv
+有点意思的直播间,https://www.goodiptv.club/huya/20985824#https://www.goodiptv.club/huya/20985824#http://cfss.cc/cdn/huya/20985824.flv
+最篮球的直播间,https://www.goodiptv.club/huya/29982651#https://www.goodiptv.club/huya/29982651#http://cfss.cc/cdn/huya/29982651.flv
+超能狗仔队的直播间,https://www.goodiptv.club/huya/30080173#https://www.goodiptv.club/huya/30080173#http://cfss.cc/cdn/huya/30080173.flv
+飞鸟鸣春小满日的直播间,https://www.goodiptv.club/huya/29982646#https://www.goodiptv.club/huya/29982646#http://cfss.cc/cdn/huya/29982646.flv
+足球客栈Harbou的直播间,https://www.goodiptv.club/huya/29982615#https://www.goodiptv.club/huya/29982615#http://cfss.cc/cdn/huya/29982615.flv
+TVB练习生的直播间,https://www.goodiptv.club/huya/23865132#https://www.goodiptv.club/huya/23865132#http://cfss.cc/cdn/huya/23865132.flv
+我是港剧迷的直播间,https://www.goodiptv.club/huya/23903085#https://www.goodiptv.club/huya/23903085#http://cfss.cc/cdn/huya/23903085.flv
+港剧一家人的直播间,https://www.goodiptv.club/huya/23903152#https://www.goodiptv.club/huya/23903152#http://cfss.cc/cdn/huya/23903152.flv
+石敢当本当的直播间,https://www.goodiptv.club/huya/23749074#https://www.goodiptv.club/huya/23749074#http://cfss.cc/cdn/huya/23749074.flv
+排球太燃了的直播间,https://www.goodiptv.club/huya/30080166#https://www.goodiptv.club/huya/30080166#http://cfss.cc/cdn/huya/30080166.flv
+TVB浪姐的直播间,https://www.goodiptv.club/huya/23865124#https://www.goodiptv.club/huya/23865124#http://cfss.cc/cdn/huya/23865124.flv
+君临剧有益的直播间,https://www.goodiptv.club/huya/24884646#https://www.goodiptv.club/huya/24884646#http://cfss.cc/cdn/huya/24884646.flv
+追娘娘超会看的直播间,https://www.goodiptv.club/huya/30080184#https://www.goodiptv.club/huya/30080184#http://cfss.cc/cdn/huya/30080184.flv
+过儿想姑姑了的直播间,https://www.goodiptv.club/huya/23749068#https://www.goodiptv.club/huya/23749068#http://cfss.cc/cdn/huya/23749068.flv
+君临剧美丽的直播间,https://www.goodiptv.club/huya/24879375#https://www.goodiptv.club/huya/24879375#http://cfss.cc/cdn/huya/24879375.flv
+别和陌生人说话的直播间,https://www.goodiptv.club/huya/21059573#https://www.goodiptv.club/huya/21059573#http://cfss.cc/cdn/huya/21059573.flv
+上山鱼香的直播间,https://www.goodiptv.club/huya/26355798#https://www.goodiptv.club/huya/26355798#http://cfss.cc/cdn/huya/26355798.flv
+辣条好吃嘛的直播间,https://www.goodiptv.club/huya/11601969#https://www.goodiptv.club/huya/11601969#http://cfss.cc/cdn/huya/11601969.flv
+臨眺無雨色的直播间,https://www.goodiptv.club/huya/26355838#https://www.goodiptv.club/huya/26355838#http://cfss.cc/cdn/huya/26355838.flv
+人类观察员love的直播间,https://www.goodiptv.club/huya/29982628#https://www.goodiptv.club/huya/29982628#http://cfss.cc/cdn/huya/29982628.flv
+足球TOP的直播间,https://www.goodiptv.club/huya/29982607#https://www.goodiptv.club/huya/29982607#http://cfss.cc/cdn/huya/29982607.flv
+小丛发疯ing的直播间,https://www.goodiptv.club/huya/29982650#https://www.goodiptv.club/huya/29982650#http://cfss.cc/cdn/huya/29982650.flv
+包蛋超人的直播间,https://www.goodiptv.club/huya/11342400#https://www.goodiptv.club/huya/11342400#http://cfss.cc/cdn/huya/11342400.flv
+请叫我大猪逸的直播间,https://www.goodiptv.club/huya/21059617#https://www.goodiptv.club/huya/21059617#http://cfss.cc/cdn/huya/21059617.flv
+吹绿令人老的直播间,https://www.goodiptv.club/huya/21059613#https://www.goodiptv.club/huya/21059613#http://cfss.cc/cdn/huya/21059613.flv
+夏初冬临的直播间,https://www.goodiptv.club/huya/21241825#https://www.goodiptv.club/huya/21241825#http://cfss.cc/cdn/huya/21241825.flv
+春天的希望小仙子的直播间,https://www.goodiptv.club/huya/30080231#https://www.goodiptv.club/huya/30080231#http://cfss.cc/cdn/huya/30080231.flv
+高山流水梦的直播间,https://www.goodiptv.club/huya/30080174#https://www.goodiptv.club/huya/30080174#http://cfss.cc/cdn/huya/30080174.flv
+是大宝贝呀的直播间,https://www.goodiptv.club/huya/23829543#https://www.goodiptv.club/huya/23829543#http://cfss.cc/cdn/huya/23829543.flv
+會稽愚婦数花开的直播间,https://www.goodiptv.club/huya/26355845#https://www.goodiptv.club/huya/26355845#http://cfss.cc/cdn/huya/26355845.flv
+良奉白豆的直播间,https://www.goodiptv.club/huya/26355849#https://www.goodiptv.club/huya/26355849#http://cfss.cc/cdn/huya/26355849.flv
+歪果仁的直播间,https://www.goodiptv.club/huya/29982644#https://www.goodiptv.club/huya/29982644#http://cfss.cc/cdn/huya/29982644.flv
+大懒猫的直播间,https://www.goodiptv.club/huya/11602046#https://www.goodiptv.club/huya/11602046#http://cfss.cc/cdn/huya/11602046.flv
+super一拳超人的直播间,https://www.goodiptv.club/huya/30080169#https://www.goodiptv.club/huya/30080169#http://cfss.cc/cdn/huya/30080169.flv
+电视城打工人的直播间,https://www.goodiptv.club/huya/23824171#https://www.goodiptv.club/huya/23824171#http://cfss.cc/cdn/huya/23824171.flv
+匹马泪沾襟的直播间,https://www.goodiptv.club/huya/30080137#https://www.goodiptv.club/huya/30080137#http://cfss.cc/cdn/huya/30080137.flv
+假面骑士干巴爹的直播间,https://www.goodiptv.club/huya/29982654#https://www.goodiptv.club/huya/29982654#http://cfss.cc/cdn/huya/29982654.flv
+国乒小分队的直播间,https://www.goodiptv.club/huya/30080171#https://www.goodiptv.club/huya/30080171#http://cfss.cc/cdn/huya/30080171.flv
+寄李在扬州的直播间,https://www.goodiptv.club/huya/30496955#https://www.goodiptv.club/huya/30496955#http://cfss.cc/cdn/huya/30496955.flv
+我的宝贝baby的直播间,https://www.goodiptv.club/huya/11352880#https://www.goodiptv.club/huya/11352880#http://cfss.cc/cdn/huya/11352880.flv
+大型忙内的宅姐姐直播间,https://www.goodiptv.club/huya/11602084#https://www.goodiptv.club/huya/11602084#http://cfss.cc/cdn/huya/11602084.flv
+我是一颗小虎牙的直播间,https://www.goodiptv.club/huya/24314165#https://www.goodiptv.club/huya/24314165#http://cfss.cc/cdn/huya/24314165.flv
+小亮亮的直播间,https://www.goodiptv.club/huya/11342432#https://www.goodiptv.club/huya/11342432#http://cfss.cc/cdn/huya/11342432.flv
+主播辣眼睛的直播间,https://www.goodiptv.club/huya/11352915#https://www.goodiptv.club/huya/11352915#http://cfss.cc/cdn/huya/11352915.flv
+元芳看不到的直播间,https://www.goodiptv.club/huya/11342414#https://www.goodiptv.club/huya/11342414#http://cfss.cc/cdn/huya/11342414.flv
+简小熙的直播间,https://www.goodiptv.club/huya/11342399#https://www.goodiptv.club/huya/11342399#http://cfss.cc/cdn/huya/11342399.flv
+状元及第粥的直播间,https://www.goodiptv.club/huya/21059581#https://www.goodiptv.club/huya/21059581#http://cfss.cc/cdn/huya/21059581.flv
+阿飞的直播间,https://www.goodiptv.club/huya/11352934#https://www.goodiptv.club/huya/11352934#http://cfss.cc/cdn/huya/11352934.flv
+不挤电影院,https://www.goodiptv.club/huya/11352897#https://www.goodiptv.club/huya/11352897#http://cfss.cc/cdn/huya/11352897.flv
+豆瓣高分电影1,https://www.goodiptv.club/huya/23902225#https://www.goodiptv.club/huya/23902225#http://cfss.cc/cdn/huya/23902225.flv
+豆瓣高分电影2,https://www.goodiptv.club/huya/24844242#https://www.goodiptv.club/huya/24844242#http://cfss.cc/cdn/huya/24844242.flv
+印度高分电影,https://www.goodiptv.club/huya/26355799#https://www.goodiptv.club/huya/26355799#http://cfss.cc/cdn/huya/26355799.flv
+经典灾难大片,https://www.goodiptv.club/huya/23728647#https://www.goodiptv.club/huya/23728647#http://cfss.cc/cdn/huya/23728647.flv
+搞笑喜剧：最佳拍档、开心鬼系列,https://www.goodiptv.club/huya/11342423#https://www.goodiptv.club/huya/11342423#http://cfss.cc/cdn/huya/11342423.flv
+喜剧电影专场,https://www.goodiptv.club/huya/11602044#https://www.goodiptv.club/huya/11602044#http://cfss.cc/cdn/huya/11602044.flv
+玄幻剧场,https://www.goodiptv.club/huya/11342414#https://www.goodiptv.club/huya/11342414#http://cfss.cc/cdn/huya/11342414.flv
+猫幺儿直播间,https://www.goodiptv.club/huya/26378858#https://www.goodiptv.club/huya/26378858#http://cfss.cc/cdn/huya/26378858.flv
+五福星,https://www.goodiptv.club/huya/11282233#https://www.goodiptv.club/huya/11282233#http://cfss.cc/cdn/huya/11282233.flv
+警匪电影,https://www.goodiptv.club/huya/11352886#https://www.goodiptv.club/huya/11352886#http://cfss.cc/cdn/huya/11352886.flv
+女神系列,https://www.goodiptv.club/huya/11336571#https://www.goodiptv.club/huya/11336571#http://cfss.cc/cdn/huya/11336571.flv
+经典之作,https://www.goodiptv.club/huya/29982695#https://www.goodiptv.club/huya/29982695#http://cfss.cc/cdn/huya/29982695.flv
+经典港片轮播,https://www.goodiptv.club/huya/23865086#https://www.goodiptv.club/huya/23865086#http://cfss.cc/cdn/huya/23865086.flv
+科幻电影1,https://www.goodiptv.club/huya/26355781#https://www.goodiptv.club/huya/26355781#http://cfss.cc/cdn/huya/26355781.flv
+科幻电影2,https://www.goodiptv.club/huya/21059554#https://www.goodiptv.club/huya/21059554#http://cfss.cc/cdn/huya/21059554.flv
+科幻电影3,https://www.goodiptv.club/huya/11352965#https://www.goodiptv.club/huya/11352965#http://cfss.cc/cdn/huya/11352965.flv
+科幻电影4,https://www.goodiptv.club/huya/29982648#https://www.goodiptv.club/huya/29982648#http://cfss.cc/cdn/huya/29982648.flv
+华视-你想要的,https://www.goodiptv.club/huya/23358446#https://www.goodiptv.club/huya/23358446#http://cfss.cc/cdn/huya/23358446.flv
+华视-警匪大片,https://www.goodiptv.club/huya/23358421#https://www.goodiptv.club/huya/23358421#http://cfss.cc/cdn/huya/23358421.flv
+华视-爱情大片,https://www.goodiptv.club/huya/23358431#https://www.goodiptv.club/huya/23358431#http://cfss.cc/cdn/huya/23358431.flv
+华视-动作大片,https://www.goodiptv.club/huya/23352535#https://www.goodiptv.club/huya/23352535#http://cfss.cc/cdn/huya/23352535.flv
+华视-高分好片,https://www.goodiptv.club/huya/23352530#https://www.goodiptv.club/huya/23352530#http://cfss.cc/cdn/huya/23352530.flv
+华视-喜剧大片,https://www.goodiptv.club/huya/23352525#https://www.goodiptv.club/huya/23352525#http://cfss.cc/cdn/huya/23352525.flv
+TVB爱情故事,https://www.goodiptv.club/huya/23863818#https://www.goodiptv.club/huya/23863818#http://cfss.cc/cdn/huya/23863818.flv
+TVB古装大片,https://www.goodiptv.club/huya/23865025#https://www.goodiptv.club/huya/23865025#http://cfss.cc/cdn/huya/23865025.flv
+TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://www.goodiptv.club/huya/23735153#http://cfss.cc/cdn/huya/23735153.flv
+金庸群侠篇电影,https://www.goodiptv.club/huya/11342427#https://www.goodiptv.club/huya/11342427#http://cfss.cc/cdn/huya/11342427.flv
+哈利波特系列,https://www.goodiptv.club/huya/29982669#https://www.goodiptv.club/huya/29982669#http://cfss.cc/cdn/huya/29982669.flv
+星际迷航,https://www.goodiptv.club/huya/30080232#https://www.goodiptv.club/huya/30080232#http://cfss.cc/cdn/huya/30080232.flv
+高智商的罪犯,https://www.goodiptv.club/huya/11352962#https://www.goodiptv.club/huya/11352962#http://cfss.cc/cdn/huya/11352962.flv
+经典史诗电影,https://www.goodiptv.club/huya/20969119#https://www.goodiptv.club/huya/20969119#http://cfss.cc/cdn/huya/20969119.flv
+经典电影,https://www.goodiptv.club/huya/30987504#https://www.goodiptv.club/huya/30987504#http://cfss.cc/cdn/huya/30987504.flv
+经典高分动作电影系列,https://www.goodiptv.club/huya/31109333#https://www.goodiptv.club/huya/31109333#http://cfss.cc/cdn/huya/31109333.flv
+香港贺岁片,https://www.goodiptv.club/huya/11601955#https://www.goodiptv.club/huya/11601955#http://cfss.cc/cdn/huya/11601955.flv
+港片,https://www.goodiptv.club/huya/11602043#https://www.goodiptv.club/huya/11602043#http://cfss.cc/cdn/huya/11602043.flv
+香港喜剧,https://www.goodiptv.club/huya/20969142#https://www.goodiptv.club/huya/20969142#http://cfss.cc/cdn/huya/20969142.flv
+香港电影经典之大作,https://www.goodiptv.club/huya/30631706#https://www.goodiptv.club/huya/30631706#http://cfss.cc/cdn/huya/30631706.flv
+香港动作电影,https://www.goodiptv.club/huya/11602055#https://www.goodiptv.club/huya/11602055#http://cfss.cc/cdn/huya/11602055.flv
+谍战片,https://www.goodiptv.club/huya/26355810#https://www.goodiptv.club/huya/26355810#http://cfss.cc/cdn/huya/26355810.flv
+曲三更破案,https://www.goodiptv.club/huya/21059595#https://www.goodiptv.club/huya/21059595#http://cfss.cc/cdn/huya/21059595.flv
+香港经典探案剧,https://www.goodiptv.club/huya/24888173#https://www.goodiptv.club/huya/24888173#http://cfss.cc/cdn/huya/24888173.flv
+经典武打电影,https://www.goodiptv.club/huya/23865179#https://www.goodiptv.club/huya/23865179#http://cfss.cc/cdn/huya/23865179.flv
+科幻电影大合集,https://www.goodiptv.club/huya/23746486#https://www.goodiptv.club/huya/23746486#http://cfss.cc/cdn/huya/23746486.flv
+吴镇宇电影,https://www.goodiptv.club/huya/23865096#https://www.goodiptv.club/huya/23865096#http://cfss.cc/cdn/huya/23865096.flv
 李连杰黄飞鸿系列,http://cfss.cc/cdn/huya/30650512.flv
-最新动作大片,https://www.goodiptv.club/huya/23728651#https://live.ottiptv.cc/huya/23728651#http://cfss.cc/cdn/huya/23728651.flv
-《惩罚者》高能复仇名场面连刷,https://www.goodiptv.club/huya/23863882#https://live.ottiptv.cc/huya/23863882#http://cfss.cc/cdn/huya/23863882.flv
-经典女神系列,https://www.goodiptv.club/huya/11352909#https://live.ottiptv.cc/huya/11352909#http://cfss.cc/cdn/huya/11352909.flv
-金庸的武侠世界,https://www.goodiptv.club/huya/11342435#https://live.ottiptv.cc/huya/11342435#http://cfss.cc/cdn/huya/11342435.flv
-牙缝多了根青菜的直播间,https://www.goodiptv.club/huya/11352877#https://live.ottiptv.cc/huya/11352877#http://cfss.cc/cdn/huya/11352877.flv
-薛教授的直播间,https://www.goodiptv.club/huya/11342385#https://live.ottiptv.cc/huya/11342385#http://cfss.cc/cdn/huya/11342385.flv
-飙车的老司机直播间,https://www.goodiptv.club/huya/11352894#https://live.ottiptv.cc/huya/11352894#http://cfss.cc/cdn/huya/11352894.flv
-大导演斯皮尔伯格经典,https://www.goodiptv.club/huya/21267475#https://live.ottiptv.cc/huya/21267475#http://cfss.cc/cdn/huya/21267475.flv
-白发王妃,https://www.goodiptv.club/huya/20985837#https://live.ottiptv.cc/huya/20985837#http://cfss.cc/cdn/huya/20985837.flv
-大秦帝国,https://www.goodiptv.club/huya/11602077#https://live.ottiptv.cc/huya/11602077#http://cfss.cc/cdn/huya/11602077.flv#https://www.goodiptv.club/huya/20985829#https://live.ottiptv.cc/huya/20985829#http://cfss.cc/cdn/huya/20985829.flv
-大明宫词,https://www.goodiptv.club/huya/21059598#https://live.ottiptv.cc/huya/21059598#http://cfss.cc/cdn/huya/21059598.flv
-动作电影,https://www.goodiptv.club/huya/11602041#https://live.ottiptv.cc/huya/11602041#http://cfss.cc/cdn/huya/11602041.flv
-硬汉动作片,https://www.goodiptv.club/huya/29465873#https://live.ottiptv.cc/huya/29465873#http://cfss.cc/cdn/huya/29465873.flv
-搞笑电影,https://www.goodiptv.club/huya/21059615#https://live.ottiptv.cc/huya/21059615#http://cfss.cc/cdn/huya/21059615.flv
-星辰影院,https://www.goodiptv.club/huya/28954842#https://live.ottiptv.cc/huya/28954842#http://cfss.cc/cdn/huya/28954842.flv
-黑帮大片,https://www.goodiptv.club/huya/11336719#https://live.ottiptv.cc/huya/11336719#http://cfss.cc/cdn/huya/11336719.flv
-关于复仇电影,https://www.goodiptv.club/huya/29982645#https://live.ottiptv.cc/huya/29982645#http://cfss.cc/cdn/huya/29982645.flv
-犯罪电影,https://www.goodiptv.club/huya/11352908#https://live.ottiptv.cc/huya/11352908#http://cfss.cc/cdn/huya/11352908.flv
-海外悬疑大片,https://www.goodiptv.club/huya/21059530#https://live.ottiptv.cc/huya/21059530#http://cfss.cc/cdn/huya/21059530.flv
-主播黑猫的直播间,https://www.goodiptv.club/huya/11352896#https://live.ottiptv.cc/huya/11352896#http://cfss.cc/cdn/huya/11352896.flv
-越光宝盒,https://www.goodiptv.club/huya/128391#https://live.ottiptv.cc/huya/128391#http://cfss.cc/cdn/huya/128391.flv
-国产悬疑精选·智商在线,https://www.goodiptv.club/huya/11342395#https://live.ottiptv.cc/huya/11342395#http://cfss.cc/cdn/huya/11342395.flv
-电影放映,https://www.goodiptv.club/huya/21059607#https://live.ottiptv.cc/huya/21059607#http://cfss.cc/cdn/huya/21059607.flv
-隋唐英雄传,https://www.goodiptv.club/huya/29465893#https://live.ottiptv.cc/huya/29465893#http://cfss.cc/cdn/huya/29465893.flv
-漫改电影系列,https://www.goodiptv.club/huya/11336593#https://live.ottiptv.cc/huya/11336593#http://cfss.cc/cdn/huya/11336593.flv
-超异能族,https://www.goodiptv.club/huya/21059586#https://live.ottiptv.cc/huya/21059586#http://cfss.cc/cdn/huya/21059586.flv
-许氏三杰,https://www.goodiptv.club/huya/11602033#https://live.ottiptv.cc/huya/11602033#http://cfss.cc/cdn/huya/11602033.flv
-虎牙八点档,https://www.goodiptv.club/huya/880261#https://live.ottiptv.cc/huya/880261#http://cfss.cc/cdn/huya/880261.flv
-恺撒 金刚 哥斯拉大混战,https://www.goodiptv.club/huya/11601965#https://live.ottiptv.cc/huya/11601965#http://cfss.cc/cdn/huya/11601965.flv
-诺兰电影,https://www.goodiptv.club/huya/30080257#https://live.ottiptv.cc/huya/30080257#http://cfss.cc/cdn/huya/30080257.flv
-一片青青草原的直播间,https://www.goodiptv.club/huya/11352973#https://live.ottiptv.cc/huya/11352973#http://cfss.cc/cdn/huya/11352973.flv
-英雄联盟系列,https://www.goodiptv.club/huya/11601980#https://live.ottiptv.cc/huya/11601980#http://cfss.cc/cdn/huya/11601980.flv
-超级英雄电影,https://www.goodiptv.club/huya/11352950#https://live.ottiptv.cc/huya/11352950#http://cfss.cc/cdn/huya/11352950.flv
-西部片,https://www.goodiptv.club/huya/30080177#https://live.ottiptv.cc/huya/30080177#http://cfss.cc/cdn/huya/30080177.flv
-探案推理电影,https://www.goodiptv.club/huya/30080172#https://live.ottiptv.cc/huya/30080172#http://cfss.cc/cdn/huya/30080172.flv
-香港警匪剧,https://www.goodiptv.club/huya/30080176#https://live.ottiptv.cc/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
-香港经典动作片,https://www.goodiptv.club/huya/24884587#https://live.ottiptv.cc/huya/24884587#http://cfss.cc/cdn/huya/24884587.flv
-经典电影,https://www.goodiptv.club/huya/30080155#https://live.ottiptv.cc/huya/30080155#http://cfss.cc/cdn/huya/30080155.flv
-经典电影大片,https://www.goodiptv.club/huya/20985866#https://live.ottiptv.cc/huya/20985866#http://cfss.cc/cdn/huya/20985866.flv
-毒液三部曲合集,https://www.goodiptv.club/huya/29982604#https://live.ottiptv.cc/huya/29982604#http://cfss.cc/cdn/huya/29982604.flv
-星球大战,https://www.goodiptv.club/huya/30080234#https://live.ottiptv.cc/huya/30080234#http://cfss.cc/cdn/huya/30080234.flv
-怪兽宇宙电影,https://www.goodiptv.club/huya/29982674#https://live.ottiptv.cc/huya/29982674#http://cfss.cc/cdn/huya/29982674.flv
-利刃双雄-死侍与金刚狼,https://www.goodiptv.club/huya/30080224#https://live.ottiptv.cc/huya/30080224#http://cfss.cc/cdn/huya/30080224.flv
-美味、好吃的直播间,https://www.goodiptv.club/huya/11336587#https://live.ottiptv.cc/huya/11336587#http://cfss.cc/cdn/huya/11336587.flv
-SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live.ottiptv.cc/huya/11602047#http://cfss.cc/cdn/huya/11602047.flv
-搞笑谍战电影,https://www.goodiptv.club/huya/29731435#https://live.ottiptv.cc/huya/29731435#http://cfss.cc/cdn/huya/29731435.flv
-纳尼亚传奇 博物馆奇妙夜系列,https://www.goodiptv.club/huya/30080188#https://live.ottiptv.cc/huya/30080188#http://cfss.cc/cdn/huya/30080188.flv
-欧美科幻片,https://www.goodiptv.club/huya/30080156#https://live.ottiptv.cc/huya/30080156#http://cfss.cc/cdn/huya/30080156.flv
-经典悬疑犯罪美剧,https://www.goodiptv.club/huya/20985825#https://live.ottiptv.cc/huya/20985825#http://cfss.cc/cdn/huya/20985825.flv
-热血军营女孩诞生记,https://www.goodiptv.club/huya/21241844#https://live.ottiptv.cc/huya/21241844#http://cfss.cc/cdn/huya/21241844.flv
-霹雳MIT,https://www.goodiptv.club/huya/11352905#https://live.ottiptv.cc/huya/11352905#http://cfss.cc/cdn/huya/11352905.flv
-经典国产剧,https://www.goodiptv.club/huya/21241786#https://live.ottiptv.cc/huya/21241786#http://cfss.cc/cdn/huya/21241786.flv
-希望的田野,https://www.goodiptv.club/huya/21241831#https://live.ottiptv.cc/huya/21241831#http://cfss.cc/cdn/huya/21241831.flv
-刑侦犯罪心理--超感警探,https://www.goodiptv.club/huya/21241841#https://live.ottiptv.cc/huya/21241841#http://cfss.cc/cdn/huya/21241841.flv
-画皮,https://www.goodiptv.club/huya/20985826#https://live.ottiptv.cc/huya/20985826#http://cfss.cc/cdn/huya/20985826.flv
-西部影坛,https://www.goodiptv.club/huya/30311497#https://live.ottiptv.cc/huya/30311497#http://cfss.cc/cdn/huya/30311497.flv
-怪兽打架x异形世界,https://www.goodiptv.club/huya/21059577#https://live.ottiptv.cc/huya/21059577#http://cfss.cc/cdn/huya/21059577.flv
-会唱歌的小野猫的直播间,https://www.goodiptv.club/huya/11352871#https://live.ottiptv.cc/huya/11352871#http://cfss.cc/cdn/huya/11352871.flv
-大场面战争片,https://www.goodiptv.club/huya/21059574#https://live.ottiptv.cc/huya/21059574#http://cfss.cc/cdn/huya/21059574.flv
-枪战电影,https://www.goodiptv.club/huya/21059579#https://live.ottiptv.cc/huya/21059579#http://cfss.cc/cdn/huya/21059579.flv
-古装武侠电影,https://www.goodiptv.club/huya/26355770#https://live.ottiptv.cc/huya/26355770#http://cfss.cc/cdn/huya/26355770.flv
-谍影重重 黑客帝国 烧脑系列,https://www.goodiptv.club/huya/11352917#https://live.ottiptv.cc/huya/11352917#http://cfss.cc/cdn/huya/11352917.flv
-唐探系列电影合集,https://www.goodiptv.club/huya/20969137#https://live.ottiptv.cc/huya/20969137#http://cfss.cc/cdn/huya/20969137.flv
-全女剧集,https://www.goodiptv.club/huya/29982605#https://live.ottiptv.cc/huya/29982605#http://cfss.cc/cdn/huya/29982605.flv
-奇幻电影放映厅,https://www.goodiptv.club/huya/26355847#https://live.ottiptv.cc/huya/26355847#http://cfss.cc/cdn/huya/26355847.flv
-冒险电影放映厅,https://www.goodiptv.club/huya/21059566#https://live.ottiptv.cc/huya/21059566#http://cfss.cc/cdn/huya/21059566.flv
-武侠电影放映厅,https://www.goodiptv.club/huya/29982611#https://live.ottiptv.cc/huya/29982611#http://cfss.cc/cdn/huya/29982611.flv
-喜剧电影放映厅,https://www.goodiptv.club/huya/11602031#https://live.ottiptv.cc/huya/11602031#http://cfss.cc/cdn/huya/11602031.flv
-动画电影放映厅,https://www.goodiptv.club/huya/11352878#https://live.ottiptv.cc/huya/11352878#http://cfss.cc/cdn/huya/11352878.flv
-爱情电影放映厅,https://www.goodiptv.club/huya/29982639#https://live.ottiptv.cc/huya/29982639#http://cfss.cc/cdn/huya/29982639.flv
-港澳枪战动作片,https://www.goodiptv.club/huya/25646817#https://live.ottiptv.cc/huya/25646817#http://cfss.cc/cdn/huya/25646817.flv
-动作大片放映厅,https://www.goodiptv.club/huya/10871113#https://live.ottiptv.cc/huya/10871113#http://cfss.cc/cdn/huya/10871113.flv
-杀手系列电影,https://www.goodiptv.club/huya/23728689#https://live.ottiptv.cc/huya/23728689#http://cfss.cc/cdn/huya/23728689.flv
-致命女人联盟,https://www.goodiptv.club/huya/30080157#https://live.ottiptv.cc/huya/30080157#http://cfss.cc/cdn/huya/30080157.flv
-年代剧,https://www.goodiptv.club/huya/20969095#https://live.ottiptv.cc/huya/20969095#http://cfss.cc/cdn/huya/20969095.flv
-邵氏金牌监制蔡澜作品集,https://www.goodiptv.club/huya/24314160#https://live.ottiptv.cc/huya/24314160#http://cfss.cc/cdn/huya/24314160.flv
-经典热播电影,https://www.goodiptv.club/huya/29640502#https://live.ottiptv.cc/huya/29640502#http://cfss.cc/cdn/huya/29640502.flv
-古惑仔,https://www.goodiptv.club/huya/26590882#https://live.ottiptv.cc/huya/26590882#http://cfss.cc/cdn/huya/26590882.flv
-晴儿影视,https://www.goodiptv.club/huya/30400559#https://live.ottiptv.cc/huya/30400559#http://cfss.cc/cdn/huya/30400559.flv
-麦麦放映,https://www.goodiptv.club/huya/30682679#https://live.ottiptv.cc/huya/30682679#http://cfss.cc/cdn/huya/30682679.flv
-金庸系列+武侠片,https://www.goodiptv.club/huya/30650192#https://live.ottiptv.cc/huya/30650192#http://cfss.cc/cdn/huya/30650192.flv
-小麦Mcy的直播间,https://www.goodiptv.club/huya/30537481#https://live.ottiptv.cc/huya/30537481#http://cfss.cc/cdn/huya/30537481.flv
-阿张的RayZhang的直播间,https://www.goodiptv.club/huya/29982637#https://live.ottiptv.cc/huya/29982637#http://cfss.cc/cdn/huya/29982637.flv
-狗狗影视,https://www.goodiptv.club/huya/30585838#https://live.ottiptv.cc/huya/30585838#http://cfss.cc/cdn/huya/30585838.flv
-虎牙院线,https://www.goodiptv.club/huya/16020022#https://live.ottiptv.cc/huya/16020022#http://cfss.cc/cdn/huya/16020022.flv
-小虎牙影视厅,https://www.goodiptv.club/huya/30413280#https://live.ottiptv.cc/huya/30413280#http://cfss.cc/cdn/huya/30413280.flv
-校园版《黑暗荣耀》,https://www.goodiptv.club/huya/23352563#https://live.ottiptv.cc/huya/23352563#http://cfss.cc/cdn/huya/23352563.flv
-锤子动画,https://www.goodiptv.club/huya/30649359#https://live.ottiptv.cc/huya/30649359#http://cfss.cc/cdn/huya/30649359.flv
-陈翔六点半,https://www.goodiptv.club/huya/11274154#https://live.ottiptv.cc/huya/11274154#http://cfss.cc/cdn/huya/11274154.flv
-卧底之神无间道经典不断,https://www.goodiptv.club/huya/30585957#https://live.ottiptv.cc/huya/30585957#http://cfss.cc/cdn/huya/30585957.flv
-阳阳影视,https://www.goodiptv.club/huya/29805872#https://live.ottiptv.cc/huya/29805872#http://cfss.cc/cdn/huya/29805872.flv
-选妃记,https://www.goodiptv.club/huya/23734246#https://live.ottiptv.cc/huya/23734246#http://cfss.cc/cdn/huya/23734246.flv
-大秦赋,https://www.goodiptv.club/huya/23903130#https://live.ottiptv.cc/huya/23903130#http://cfss.cc/cdn/huya/23903130.flv
-风云,https://www.goodiptv.club/huya/21059612#https://live.ottiptv.cc/huya/21059612#http://cfss.cc/cdn/huya/21059612.flv
-风云1-2,https://www.goodiptv.club/huya/11602067#https://live.ottiptv.cc/huya/11602067#http://cfss.cc/cdn/huya/11602067.flv
-三少爷的剑,https://www.goodiptv.club/huya/30080175#https://live.ottiptv.cc/huya/30080175#http://cfss.cc/cdn/huya/30080175.flv
-做人最要紧开心的直播间,http://www.douzhicloud.site:35455/huya/23824164#https://www.goodiptv.club/huya/23824164#https://live.ottiptv.cc/huya/23824164#http://cfss.cc/cdn/huya/23824164.flv
-李连杰-李小龙专场,https://www.goodiptv.club/huya/29807256#https://live.ottiptv.cc/huya/29807256#http://cfss.cc/cdn/huya/29807256.flv
-新醉打金枝,https://www.goodiptv.club/huya/20985835#https://live.ottiptv.cc/huya/20985835#http://cfss.cc/cdn/huya/20985835.flv
-画皮,https://www.goodiptv.club/huya/20985826#https://live.ottiptv.cc/huya/20985826#http://cfss.cc/cdn/huya/20985826.flv
-欢乐颂2,https://www.goodiptv.club/huya/29982666#https://live.ottiptv.cc/huya/29982666#http://cfss.cc/cdn/huya/29982666.flv
-兄台明鉴直播间--重案六组,https://www.goodiptv.club/huya/23482266#https://live.ottiptv.cc/huya/23482266#http://cfss.cc/cdn/huya/23482266.flv
-历年贺岁档,https://www.goodiptv.club/huya/11601986#https://live.ottiptv.cc/huya/11601986#http://cfss.cc/cdn/huya/11601986.flv
-港片经典系列,https://www.goodiptv.club/huya/29982660#https://live.ottiptv.cc/huya/29982660#http://cfss.cc/cdn/huya/29982660.flv
-无间,https://www.goodiptv.club/huya/20985844#https://live.ottiptv.cc/huya/20985844#http://cfss.cc/cdn/huya/20985844.flv
-音乐成就人生 音乐类型电影,https://www.goodiptv.club/huya/23860057#https://live.ottiptv.cc/huya/23860057#http://cfss.cc/cdn/huya/23860057.flv
-海外电影,https://www.goodiptv.club/huya/29982623#https://live.ottiptv.cc/huya/29982623#http://cfss.cc/cdn/huya/29982623.flv
-红色影片,https://www.goodiptv.club/huya/11602076#https://live.ottiptv.cc/huya/11602076#http://cfss.cc/cdn/huya/11602076.flv
-军民联合抗日，承受战争苦难,https://www.goodiptv.club/huya/11352910#https://live.ottiptv.cc/huya/11352910#http://cfss.cc/cdn/huya/11352910.flv
-神探夏洛克,https://www.goodiptv.club/huya/26355792#https://live.ottiptv.cc/huya/26355792#http://cfss.cc/cdn/huya/26355792.flv
-案发现场,https://www.goodiptv.club/huya/20432231#https://live.ottiptv.cc/huya/20432231#http://cfss.cc/cdn/huya/20432231.flv
-十三宗命案,https://www.goodiptv.club/huya/21028268#https://live.ottiptv.cc/huya/21028268#http://cfss.cc/cdn/huya/21028268.flv
-还珠格格3,https://www.goodiptv.club/huya/30080241#https://live.ottiptv.cc/huya/30080241#http://cfss.cc/cdn/huya/30080241.flv
-少年大钦差,https://www.goodiptv.club/huya/21059619#https://live.ottiptv.cc/huya/21059619#http://cfss.cc/cdn/huya/21059619.flv
-芈月传,https://www.goodiptv.club/huya/30311525#https://live.ottiptv.cc/huya/30311525#http://cfss.cc/cdn/huya/30311525.flv
-旷世真情,https://www.goodiptv.club/huya/30439834#https://live.ottiptv.cc/huya/30439834#http://cfss.cc/cdn/huya/30439834.flv
-盛唐传奇,https://www.goodiptv.club/huya/21059632#https://live.ottiptv.cc/huya/21059632#http://cfss.cc/cdn/huya/21059632.flv
-麻雀,https://www.goodiptv.club/huya/30307160#https://live.ottiptv.cc/huya/30307160#http://cfss.cc/cdn/huya/30307160.flv
-重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#https://live.ottiptv.cc/huya/20985799#http://cfss.cc/cdn/huya/20985799.flv
-爱情公寓,https://www.goodiptv.club/huya/11336726#https://live.ottiptv.cc/huya/11336726#http://cfss.cc/cdn/huya/11336726.flv
-家有儿女,https://www.goodiptv.club/huya/11352872#https://live.ottiptv.cc/huya/11352872#http://cfss.cc/cdn/huya/11352872.flv#https://live.ottiptv.cc/huya/30523326#https://www.goodiptv.club/huya/30526426#http://cfss.cc/cdn/huya/30526426.flv#https://www.goodiptv.club/huya/30664021#https://live.ottiptv.cc/huya/30664021#http://cfss.cc/cdn/huya/30664021.flv
-父辈的荣耀,https://www.goodiptv.club/huya/11352893#https://live.ottiptv.cc/huya/11352893#http://cfss.cc/cdn/huya/11352893.flv
-流星花园,https://www.goodiptv.club/huya/26355793#https://live.ottiptv.cc/huya/26355793#http://cfss.cc/cdn/huya/26355793.flv
-埋堆堆官方,https://www.goodiptv.club/huya/30326432#https://live.ottiptv.cc/huya/30326432#http://cfss.cc/cdn/huya/30326432.flv
-特种兵之火凤凰,https://www.goodiptv.club/huya/29982636#https://live.ottiptv.cc/huya/29982636#http://cfss.cc/cdn/huya/29982636.flv
-风筝,https://www.goodiptv.club/huya/30080225#https://live.ottiptv.cc/huya/30080225#http://cfss.cc/cdn/huya/30080225.flv
-欢颜,https://www.goodiptv.club/huya/29982606#https://live.ottiptv.cc/huya/29982606#http://cfss.cc/cdn/huya/29982606.flv
-觉醒年代,https://www.goodiptv.club/huya/21059558#https://live.ottiptv.cc/huya/21059558#http://cfss.cc/cdn/huya/21059558.flv
-谍战深海之惊蛰,https://www.goodiptv.club/huya/30080139#https://live.ottiptv.cc/huya/30080139#http://cfss.cc/cdn/huya/30080139.flv
-《刑侦》四季连播,https://www.goodiptv.club/huya/23358441#https://live.ottiptv.cc/huya/23358441#http://cfss.cc/cdn/huya/23358441.flv
-天下长河,https://www.goodiptv.club/huya/21241763#https://live.ottiptv.cc/huya/21241763#http://cfss.cc/cdn/huya/21241763.flv
-巾帼枭雄,https://www.goodiptv.club/huya/21059550#https://live.ottiptv.cc/huya/21059550#http://cfss.cc/cdn/huya/21059550.flv
-谈判专家,https://www.goodiptv.club/huya/23863833#https://live.ottiptv.cc/huya/23863833#http://cfss.cc/cdn/huya/23863833.flv
-我们不能是朋友,https://www.goodiptv.club/huya/29982662#https://live.ottiptv.cc/huya/29982662#http://cfss.cc/cdn/huya/29982662.flv
-双响炮、粉红女郎姊妹篇,https://www.goodiptv.club/huya/29982652#https://live.ottiptv.cc/huya/29982652#http://cfss.cc/cdn/huya/29982652.flv
-荣耀,https://www.goodiptv.club/huya/11352920#https://live.ottiptv.cc/huya/11352920#http://cfss.cc/cdn/huya/11352920.flv
-空降利刃,https://www.goodiptv.club/huya/20432236#https://live.ottiptv.cc/huya/20432236#http://cfss.cc/cdn/huya/20432236.flv
-打工毒蛇姐妹花儿,https://www.goodiptv.club/huya/21059564#https://live.ottiptv.cc/huya/21059564#http://cfss.cc/cdn/huya/21059564.flv
-真假千金,https://www.goodiptv.club/huya/26355848#https://live.ottiptv.cc/huya/26355848#http://cfss.cc/cdn/huya/26355848.flv
-有翡,https://www.goodiptv.club/huya/29982668#https://live.ottiptv.cc/huya/29982668#http://cfss.cc/cdn/huya/29982668.flv
-国产奇幻剧,https://www.goodiptv.club/huya/11601982#https://live.ottiptv.cc/huya/11601982#http://cfss.cc/cdn/huya/11601982.flv
-国产科幻,https://www.goodiptv.club/huya/20985801#https://live.ottiptv.cc/huya/20985801#http://cfss.cc/cdn/huya/20985801.flv
-国产喜剧搞笑电影,https://www.goodiptv.club/huya/30511625#https://live.ottiptv.cc/huya/30511625#http://cfss.cc/cdn/huya/30511625.flv
-好莱坞电影,https://www.goodiptv.club/huya/23734223#https://live.ottiptv.cc/huya/23734223#http://cfss.cc/cdn/huya/23734223.flv
-斗牌传说,https://www.goodiptv.club/huya/26355783#https://live.ottiptv.cc/huya/26355783#http://cfss.cc/cdn/huya/26355783.flv
-死神来了系列,https://www.goodiptv.club/huya/11352903#https://live.ottiptv.cc/huya/11352903#http://cfss.cc/cdn/huya/11352903.flv
-鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#https://live.ottiptv.cc/huya/30080152#http://cfss.cc/cdn/huya/30080152.flv
-坏种,https://www.goodiptv.club/huya/26355802#https://live.ottiptv.cc/huya/26355802#http://cfss.cc/cdn/huya/26355802.flv
-曾少年,https://www.goodiptv.club/huya/20985815#https://live.ottiptv.cc/huya/20985815#http://cfss.cc/cdn/huya/20985815.flv
-亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
-87版红楼梦,https://www.goodiptv.club/huya/30080221#https://live.ottiptv.cc/huya/30080221#http://cfss.cc/cdn/huya/30080221.flv
-红楼梦-李少红版,https://www.goodiptv.club/huya/20985783#https://live.ottiptv.cc/huya/20985783#http://cfss.cc/cdn/huya/20985783.flv
-大宋提刑官,https://www.goodiptv.club/huya/30080167#https://live.ottiptv.cc/huya/30080167#http://cfss.cc/cdn/huya/30080167.flv
-圆月弯刀---古天乐,https://www.goodiptv.club/huya/23652238#https://live.ottiptv.cc/huya/23652238#http://cfss.cc/cdn/huya/23652238.flv
-神隐,https://www.goodiptv.club/huya/21241837#https://live.ottiptv.cc/huya/21241837#http://cfss.cc/cdn/huya/21241837.flv
-陆贞传奇,https://www.goodiptv.club/huya/29982670#https://live.ottiptv.cc/huya/29982670#http://cfss.cc/cdn/huya/29982670.flv
-封神英雄,https://www.goodiptv.club/huya/26355865#https://live.ottiptv.cc/huya/26355865#http://cfss.cc/cdn/huya/26355865.flv
-洗冤录,https://www.goodiptv.club/huya/29465851#https://live.ottiptv.cc/huya/29465851#http://cfss.cc/cdn/huya/29465851.flv
-刑事侦缉档案,https://www.goodiptv.club/huya/29465856#https://live.ottiptv.cc/huya/29465856#http://cfss.cc/cdn/huya/29465856.flv
-天地男儿,https://www.goodiptv.club/huya/20969141#https://live.ottiptv.cc/huya/20969141#http://cfss.cc/cdn/huya/20969141.flv
-仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#https://live.ottiptv.cc/huya/20985812#http://cfss.cc/cdn/huya/20985812.flv
-陆小凤传奇,https://www.goodiptv.club/huya/20985865#https://live.ottiptv.cc/huya/20985865#http://cfss.cc/cdn/huya/20985865.flv
-公主嫁到,https://www.goodiptv.club/huya/20969101#https://live.ottiptv.cc/huya/20969101#http://cfss.cc/cdn/huya/20969101.flv
-错点鸳鸯·戏点鸳鸯,https://www.goodiptv.club/huya/20985827#https://live.ottiptv.cc/huya/20985827#http://cfss.cc/cdn/huya/20985827.flv
-少林寺传奇,https://www.goodiptv.club/huya/20985806#https://live.ottiptv.cc/huya/20985806#http://cfss.cc/cdn/huya/20985806.flv
-华灯初上,https://www.goodiptv.club/huya/20985793#https://live.ottiptv.cc/huya/20985793#http://cfss.cc/cdn/huya/20985793.flv
-三国演义,https://www.goodiptv.club/huya/11602081#https://live.ottiptv.cc/huya/11602081#http://cfss.cc/cdn/huya/11602081.flv
-黑暗之源,https://www.goodiptv.club/huya/10875560#https://live.ottiptv.cc/huya/10875560#http://cfss.cc/cdn/huya/10875560.flv
-梦回大唐,https://www.goodiptv.club/huya/20432237#https://live.ottiptv.cc/huya/20432237#http://cfss.cc/cdn/huya/20432237.flv
-舞乐传奇,https://www.goodiptv.club/huya/27564478#https://live.ottiptv.cc/huya/27564478#http://cfss.cc/cdn/huya/27564478.flv
-妈祖,https://www.goodiptv.club/huya/29982633#https://live.ottiptv.cc/huya/29982633#http://cfss.cc/cdn/huya/29982633.flv
-聊斋新编,https://www.goodiptv.club/huya/20969121#https://live.ottiptv.cc/huya/20969121#http://cfss.cc/cdn/huya/20969121.flv
-白蛇传,https://www.goodiptv.club/huya/21241798#https://live.ottiptv.cc/huya/21241798#http://cfss.cc/cdn/huya/21241798.flv
-斗罗大陆,https://www.goodiptv.club/huya/26355816#https://live.ottiptv.cc/huya/26355816#http://cfss.cc/cdn/huya/26355816.flv
-一起来看流星雨,https://www.goodiptv.club/huya/20985814#https://live.ottiptv.cc/huya/20985814#http://cfss.cc/cdn/huya/20985814.flv
-阳光的快乐生活,https://www.goodiptv.club/huya/11602085#https://live.ottiptv.cc/huya/11602085#http://cfss.cc/cdn/huya/11602085.flv
-与凤行,https://www.goodiptv.club/huya/26355866#https://live.ottiptv.cc/huya/26355866#http://cfss.cc/cdn/huya/26355866.flv
-华胥引之绝爱之城,https://www.goodiptv.club/huya/22129776#https://live.ottiptv.cc/huya/22129776#http://cfss.cc/cdn/huya/22129776.flv
-金枝欲孽,https://www.goodiptv.club/huya/29465847#https://live.ottiptv.cc/huya/29465847#http://cfss.cc/cdn/huya/29465847.flv
-海派甜心,https://www.goodiptv.club/huya/11342436#https://live.ottiptv.cc/huya/11342436#http://cfss.cc/cdn/huya/11342436.flv
-情深深雨蒙蒙,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
-小别离的真相,https://www.goodiptv.club/huya/29465848#https://live.ottiptv.cc/huya/29465848#http://cfss.cc/cdn/huya/29465848.flv
-父母爱情,https://www.goodiptv.club/huya/24648646#https://live.ottiptv.cc/huya/24648646#http://cfss.cc/cdn/huya/24648646.flv
-篮球火,https://www.goodiptv.club/huya/20985781#https://live.ottiptv.cc/huya/20985781#http://cfss.cc/cdn/huya/20985781.flv
-潜行狙击,https://www.goodiptv.club/huya/20985782#https://live.ottiptv.cc/huya/20985782#http://cfss.cc/cdn/huya/20985782.flv
-东北一家人,https://www.goodiptv.club/huya/21059634#https://live.ottiptv.cc/huya/21059634#http://cfss.cc/cdn/huya/21059634.flv
-士兵突击,https://www.goodiptv.club/huya/30704992#https://live.ottiptv.cc/huya/30704992#http://cfss.cc/cdn/huya/30704992.flv
-大长今,https://www.goodiptv.club/huya/29982616#https://live.ottiptv.cc/huya/29982616#http://cfss.cc/cdn/huya/29982616.flv
-王子变青蛙,https://www.goodiptv.club/huya/11601964#https://live.ottiptv.cc/huya/11601964#http://cfss.cc/cdn/huya/11601964.flv
-隋唐演义,https://www.goodiptv.club/huya/30080219#https://live.ottiptv.cc/huya/30080219#http://cfss.cc/cdn/huya/30080219.flv
-倩女幽魂,https://www.goodiptv.club/huya/26355822#https://live.ottiptv.cc/huya/26355822#http://cfss.cc/cdn/huya/26355822.flv
-浴血黑帮1-6,https://www.goodiptv.club/huya/29982659#https://live.ottiptv.cc/huya/29982659#http://cfss.cc/cdn/huya/29982659.flv
-高纬度战栗,https://www.goodiptv.club/huya/29465897#https://live.ottiptv.cc/huya/29465897#http://cfss.cc/cdn/huya/29465897.flv
-鉴证实录,https://www.goodiptv.club/huya/21241769#https://live.ottiptv.cc/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
-外科风云,https://www.goodiptv.club/huya/29982672#https://live.ottiptv.cc/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
-亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
-我的前半生,https://www.goodiptv.club/huya/11352916#https://live.ottiptv.cc/huya/11352916#http://cfss.cc/cdn/huya/11352916.flv
-网游超人曾日华来咯,https://www.goodiptv.club/huya/26355823#https://live.ottiptv.cc/huya/26355823#http://cfss.cc/cdn/huya/26355823.flv
-亮剑,https://www.goodiptv.club/huya/30080238#https://live.ottiptv.cc/huya/30080238#http://cfss.cc/cdn/huya/30080238.flv
-亮剑,https://www.goodiptv.club/huya/30299082#https://live.ottiptv.cc/huya/30299082#http://cfss.cc/cdn/huya/30299082.flv
-借命而生,https://www.goodiptv.club/huya/30080145#https://live.ottiptv.cc/huya/30080145#http://cfss.cc/cdn/huya/30080145.flv
-民兵葛二蛋,https://www.goodiptv.club/huya/11602072#https://live.ottiptv.cc/huya/11602072#http://cfss.cc/cdn/huya/11602072.flv
-士兵突击,https://www.goodiptv.club/huya/11342430#https://live.ottiptv.cc/huya/11342430#http://cfss.cc/cdn/huya/11342430.flv
-庆余年1,https://www.goodiptv.club/huya/11352960#https://live.ottiptv.cc/huya/11352960#http://cfss.cc/cdn/huya/11352960.flv
-庆余年2,https://www.goodiptv.club/huya/23740156#https://live.ottiptv.cc/huya/23740156#http://cfss.cc/cdn/huya/23740156.flv
-神探狄仁杰,https://www.goodiptv.club/huya/11342425#https://live.ottiptv.cc/huya/11342425#http://cfss.cc/cdn/huya/11342425.flv#https://www.goodiptv.club/huya/11352958#https://live.ottiptv.cc/huya/11352958#http://cfss.cc/cdn/huya/11352958.flv
-无心法师2,https://www.goodiptv.club/huya/30080233#https://live.ottiptv.cc/huya/30080233#http://cfss.cc/cdn/huya/30080233.flv
-天涯明月刀,https://www.goodiptv.club/huya/30080162#https://live.ottiptv.cc/huya/30080162#http://cfss.cc/cdn/huya/30080162.flv
-花千骨,https://www.goodiptv.club/huya/26355839#https://live.ottiptv.cc/huya/26355839#http://cfss.cc/cdn/huya/26355839.flv
-楚乔传,https://www.goodiptv.club/huya/19285234#https://live.ottiptv.cc/huya/19285234#http://cfss.cc/cdn/huya/19285234.flv
-寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#https://live.ottiptv.cc/huya/30080146#http://cfss.cc/cdn/huya/30080146.flv
+最新动作大片,https://www.goodiptv.club/huya/23728651#https://www.goodiptv.club/huya/23728651#http://cfss.cc/cdn/huya/23728651.flv
+《惩罚者》高能复仇名场面连刷,https://www.goodiptv.club/huya/23863882#https://www.goodiptv.club/huya/23863882#http://cfss.cc/cdn/huya/23863882.flv
+经典女神系列,https://www.goodiptv.club/huya/11352909#https://www.goodiptv.club/huya/11352909#http://cfss.cc/cdn/huya/11352909.flv
+金庸的武侠世界,https://www.goodiptv.club/huya/11342435#https://www.goodiptv.club/huya/11342435#http://cfss.cc/cdn/huya/11342435.flv
+牙缝多了根青菜的直播间,https://www.goodiptv.club/huya/11352877#https://www.goodiptv.club/huya/11352877#http://cfss.cc/cdn/huya/11352877.flv
+薛教授的直播间,https://www.goodiptv.club/huya/11342385#https://www.goodiptv.club/huya/11342385#http://cfss.cc/cdn/huya/11342385.flv
+飙车的老司机直播间,https://www.goodiptv.club/huya/11352894#https://www.goodiptv.club/huya/11352894#http://cfss.cc/cdn/huya/11352894.flv
+大导演斯皮尔伯格经典,https://www.goodiptv.club/huya/21267475#https://www.goodiptv.club/huya/21267475#http://cfss.cc/cdn/huya/21267475.flv
+白发王妃,https://www.goodiptv.club/huya/20985837#https://www.goodiptv.club/huya/20985837#http://cfss.cc/cdn/huya/20985837.flv
+大秦帝国,https://www.goodiptv.club/huya/11602077#https://www.goodiptv.club/huya/11602077#http://cfss.cc/cdn/huya/11602077.flv#https://www.goodiptv.club/huya/20985829#https://www.goodiptv.club/huya/20985829#http://cfss.cc/cdn/huya/20985829.flv
+大明宫词,https://www.goodiptv.club/huya/21059598#https://www.goodiptv.club/huya/21059598#http://cfss.cc/cdn/huya/21059598.flv
+动作电影,https://www.goodiptv.club/huya/11602041#https://www.goodiptv.club/huya/11602041#http://cfss.cc/cdn/huya/11602041.flv
+硬汉动作片,https://www.goodiptv.club/huya/29465873#https://www.goodiptv.club/huya/29465873#http://cfss.cc/cdn/huya/29465873.flv
+搞笑电影,https://www.goodiptv.club/huya/21059615#https://www.goodiptv.club/huya/21059615#http://cfss.cc/cdn/huya/21059615.flv
+星辰影院,https://www.goodiptv.club/huya/28954842#https://www.goodiptv.club/huya/28954842#http://cfss.cc/cdn/huya/28954842.flv
+黑帮大片,https://www.goodiptv.club/huya/11336719#https://www.goodiptv.club/huya/11336719#http://cfss.cc/cdn/huya/11336719.flv
+关于复仇电影,https://www.goodiptv.club/huya/29982645#https://www.goodiptv.club/huya/29982645#http://cfss.cc/cdn/huya/29982645.flv
+犯罪电影,https://www.goodiptv.club/huya/11352908#https://www.goodiptv.club/huya/11352908#http://cfss.cc/cdn/huya/11352908.flv
+海外悬疑大片,https://www.goodiptv.club/huya/21059530#https://www.goodiptv.club/huya/21059530#http://cfss.cc/cdn/huya/21059530.flv
+主播黑猫的直播间,https://www.goodiptv.club/huya/11352896#https://www.goodiptv.club/huya/11352896#http://cfss.cc/cdn/huya/11352896.flv
+越光宝盒,https://www.goodiptv.club/huya/128391#https://www.goodiptv.club/huya/128391#http://cfss.cc/cdn/huya/128391.flv
+国产悬疑精选·智商在线,https://www.goodiptv.club/huya/11342395#https://www.goodiptv.club/huya/11342395#http://cfss.cc/cdn/huya/11342395.flv
+电影放映,https://www.goodiptv.club/huya/21059607#https://www.goodiptv.club/huya/21059607#http://cfss.cc/cdn/huya/21059607.flv
+隋唐英雄传,https://www.goodiptv.club/huya/29465893#https://www.goodiptv.club/huya/29465893#http://cfss.cc/cdn/huya/29465893.flv
+漫改电影系列,https://www.goodiptv.club/huya/11336593#https://www.goodiptv.club/huya/11336593#http://cfss.cc/cdn/huya/11336593.flv
+超异能族,https://www.goodiptv.club/huya/21059586#https://www.goodiptv.club/huya/21059586#http://cfss.cc/cdn/huya/21059586.flv
+许氏三杰,https://www.goodiptv.club/huya/11602033#https://www.goodiptv.club/huya/11602033#http://cfss.cc/cdn/huya/11602033.flv
+虎牙八点档,https://www.goodiptv.club/huya/880261#https://www.goodiptv.club/huya/880261#http://cfss.cc/cdn/huya/880261.flv
+恺撒 金刚 哥斯拉大混战,https://www.goodiptv.club/huya/11601965#https://www.goodiptv.club/huya/11601965#http://cfss.cc/cdn/huya/11601965.flv
+诺兰电影,https://www.goodiptv.club/huya/30080257#https://www.goodiptv.club/huya/30080257#http://cfss.cc/cdn/huya/30080257.flv
+一片青青草原的直播间,https://www.goodiptv.club/huya/11352973#https://www.goodiptv.club/huya/11352973#http://cfss.cc/cdn/huya/11352973.flv
+英雄联盟系列,https://www.goodiptv.club/huya/11601980#https://www.goodiptv.club/huya/11601980#http://cfss.cc/cdn/huya/11601980.flv
+超级英雄电影,https://www.goodiptv.club/huya/11352950#https://www.goodiptv.club/huya/11352950#http://cfss.cc/cdn/huya/11352950.flv
+西部片,https://www.goodiptv.club/huya/30080177#https://www.goodiptv.club/huya/30080177#http://cfss.cc/cdn/huya/30080177.flv
+探案推理电影,https://www.goodiptv.club/huya/30080172#https://www.goodiptv.club/huya/30080172#http://cfss.cc/cdn/huya/30080172.flv
+香港警匪剧,https://www.goodiptv.club/huya/30080176#https://www.goodiptv.club/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
+香港经典动作片,https://www.goodiptv.club/huya/24884587#https://www.goodiptv.club/huya/24884587#http://cfss.cc/cdn/huya/24884587.flv
+经典电影,https://www.goodiptv.club/huya/30080155#https://www.goodiptv.club/huya/30080155#http://cfss.cc/cdn/huya/30080155.flv
+经典电影大片,https://www.goodiptv.club/huya/20985866#https://www.goodiptv.club/huya/20985866#http://cfss.cc/cdn/huya/20985866.flv
+毒液三部曲合集,https://www.goodiptv.club/huya/29982604#https://www.goodiptv.club/huya/29982604#http://cfss.cc/cdn/huya/29982604.flv
+星球大战,https://www.goodiptv.club/huya/30080234#https://www.goodiptv.club/huya/30080234#http://cfss.cc/cdn/huya/30080234.flv
+怪兽宇宙电影,https://www.goodiptv.club/huya/29982674#https://www.goodiptv.club/huya/29982674#http://cfss.cc/cdn/huya/29982674.flv
+利刃双雄-死侍与金刚狼,https://www.goodiptv.club/huya/30080224#https://www.goodiptv.club/huya/30080224#http://cfss.cc/cdn/huya/30080224.flv
+美味、好吃的直播间,https://www.goodiptv.club/huya/11336587#https://www.goodiptv.club/huya/11336587#http://cfss.cc/cdn/huya/11336587.flv
+SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://www.goodiptv.club/huya/11602047#http://cfss.cc/cdn/huya/11602047.flv
+搞笑谍战电影,https://www.goodiptv.club/huya/29731435#https://www.goodiptv.club/huya/29731435#http://cfss.cc/cdn/huya/29731435.flv
+纳尼亚传奇 博物馆奇妙夜系列,https://www.goodiptv.club/huya/30080188#https://www.goodiptv.club/huya/30080188#http://cfss.cc/cdn/huya/30080188.flv
+欧美科幻片,https://www.goodiptv.club/huya/30080156#https://www.goodiptv.club/huya/30080156#http://cfss.cc/cdn/huya/30080156.flv
+经典悬疑犯罪美剧,https://www.goodiptv.club/huya/20985825#https://www.goodiptv.club/huya/20985825#http://cfss.cc/cdn/huya/20985825.flv
+热血军营女孩诞生记,https://www.goodiptv.club/huya/21241844#https://www.goodiptv.club/huya/21241844#http://cfss.cc/cdn/huya/21241844.flv
+霹雳MIT,https://www.goodiptv.club/huya/11352905#https://www.goodiptv.club/huya/11352905#http://cfss.cc/cdn/huya/11352905.flv
+经典国产剧,https://www.goodiptv.club/huya/21241786#https://www.goodiptv.club/huya/21241786#http://cfss.cc/cdn/huya/21241786.flv
+希望的田野,https://www.goodiptv.club/huya/21241831#https://www.goodiptv.club/huya/21241831#http://cfss.cc/cdn/huya/21241831.flv
+刑侦犯罪心理--超感警探,https://www.goodiptv.club/huya/21241841#https://www.goodiptv.club/huya/21241841#http://cfss.cc/cdn/huya/21241841.flv
+画皮,https://www.goodiptv.club/huya/20985826#https://www.goodiptv.club/huya/20985826#http://cfss.cc/cdn/huya/20985826.flv
+西部影坛,https://www.goodiptv.club/huya/30311497#https://www.goodiptv.club/huya/30311497#http://cfss.cc/cdn/huya/30311497.flv
+怪兽打架x异形世界,https://www.goodiptv.club/huya/21059577#https://www.goodiptv.club/huya/21059577#http://cfss.cc/cdn/huya/21059577.flv
+会唱歌的小野猫的直播间,https://www.goodiptv.club/huya/11352871#https://www.goodiptv.club/huya/11352871#http://cfss.cc/cdn/huya/11352871.flv
+大场面战争片,https://www.goodiptv.club/huya/21059574#https://www.goodiptv.club/huya/21059574#http://cfss.cc/cdn/huya/21059574.flv
+枪战电影,https://www.goodiptv.club/huya/21059579#https://www.goodiptv.club/huya/21059579#http://cfss.cc/cdn/huya/21059579.flv
+古装武侠电影,https://www.goodiptv.club/huya/26355770#https://www.goodiptv.club/huya/26355770#http://cfss.cc/cdn/huya/26355770.flv
+谍影重重 黑客帝国 烧脑系列,https://www.goodiptv.club/huya/11352917#https://www.goodiptv.club/huya/11352917#http://cfss.cc/cdn/huya/11352917.flv
+唐探系列电影合集,https://www.goodiptv.club/huya/20969137#https://www.goodiptv.club/huya/20969137#http://cfss.cc/cdn/huya/20969137.flv
+全女剧集,https://www.goodiptv.club/huya/29982605#https://www.goodiptv.club/huya/29982605#http://cfss.cc/cdn/huya/29982605.flv
+奇幻电影放映厅,https://www.goodiptv.club/huya/26355847#https://www.goodiptv.club/huya/26355847#http://cfss.cc/cdn/huya/26355847.flv
+冒险电影放映厅,https://www.goodiptv.club/huya/21059566#https://www.goodiptv.club/huya/21059566#http://cfss.cc/cdn/huya/21059566.flv
+武侠电影放映厅,https://www.goodiptv.club/huya/29982611#https://www.goodiptv.club/huya/29982611#http://cfss.cc/cdn/huya/29982611.flv
+喜剧电影放映厅,https://www.goodiptv.club/huya/11602031#https://www.goodiptv.club/huya/11602031#http://cfss.cc/cdn/huya/11602031.flv
+动画电影放映厅,https://www.goodiptv.club/huya/11352878#https://www.goodiptv.club/huya/11352878#http://cfss.cc/cdn/huya/11352878.flv
+爱情电影放映厅,https://www.goodiptv.club/huya/29982639#https://www.goodiptv.club/huya/29982639#http://cfss.cc/cdn/huya/29982639.flv
+港澳枪战动作片,https://www.goodiptv.club/huya/25646817#https://www.goodiptv.club/huya/25646817#http://cfss.cc/cdn/huya/25646817.flv
+动作大片放映厅,https://www.goodiptv.club/huya/10871113#https://www.goodiptv.club/huya/10871113#http://cfss.cc/cdn/huya/10871113.flv
+杀手系列电影,https://www.goodiptv.club/huya/23728689#https://www.goodiptv.club/huya/23728689#http://cfss.cc/cdn/huya/23728689.flv
+致命女人联盟,https://www.goodiptv.club/huya/30080157#https://www.goodiptv.club/huya/30080157#http://cfss.cc/cdn/huya/30080157.flv
+年代剧,https://www.goodiptv.club/huya/20969095#https://www.goodiptv.club/huya/20969095#http://cfss.cc/cdn/huya/20969095.flv
+邵氏金牌监制蔡澜作品集,https://www.goodiptv.club/huya/24314160#https://www.goodiptv.club/huya/24314160#http://cfss.cc/cdn/huya/24314160.flv
+经典热播电影,https://www.goodiptv.club/huya/29640502#https://www.goodiptv.club/huya/29640502#http://cfss.cc/cdn/huya/29640502.flv
+古惑仔,https://www.goodiptv.club/huya/26590882#https://www.goodiptv.club/huya/26590882#http://cfss.cc/cdn/huya/26590882.flv
+晴儿影视,https://www.goodiptv.club/huya/30400559#https://www.goodiptv.club/huya/30400559#http://cfss.cc/cdn/huya/30400559.flv
+麦麦放映,https://www.goodiptv.club/huya/30682679#https://www.goodiptv.club/huya/30682679#http://cfss.cc/cdn/huya/30682679.flv
+金庸系列+武侠片,https://www.goodiptv.club/huya/30650192#https://www.goodiptv.club/huya/30650192#http://cfss.cc/cdn/huya/30650192.flv
+小麦Mcy的直播间,https://www.goodiptv.club/huya/30537481#https://www.goodiptv.club/huya/30537481#http://cfss.cc/cdn/huya/30537481.flv
+阿张的RayZhang的直播间,https://www.goodiptv.club/huya/29982637#https://www.goodiptv.club/huya/29982637#http://cfss.cc/cdn/huya/29982637.flv
+狗狗影视,https://www.goodiptv.club/huya/30585838#https://www.goodiptv.club/huya/30585838#http://cfss.cc/cdn/huya/30585838.flv
+虎牙院线,https://www.goodiptv.club/huya/16020022#https://www.goodiptv.club/huya/16020022#http://cfss.cc/cdn/huya/16020022.flv
+小虎牙影视厅,https://www.goodiptv.club/huya/30413280#https://www.goodiptv.club/huya/30413280#http://cfss.cc/cdn/huya/30413280.flv
+校园版《黑暗荣耀》,https://www.goodiptv.club/huya/23352563#https://www.goodiptv.club/huya/23352563#http://cfss.cc/cdn/huya/23352563.flv
+锤子动画,https://www.goodiptv.club/huya/30649359#https://www.goodiptv.club/huya/30649359#http://cfss.cc/cdn/huya/30649359.flv
+陈翔六点半,https://www.goodiptv.club/huya/11274154#https://www.goodiptv.club/huya/11274154#http://cfss.cc/cdn/huya/11274154.flv
+卧底之神无间道经典不断,https://www.goodiptv.club/huya/30585957#https://www.goodiptv.club/huya/30585957#http://cfss.cc/cdn/huya/30585957.flv
+阳阳影视,https://www.goodiptv.club/huya/29805872#https://www.goodiptv.club/huya/29805872#http://cfss.cc/cdn/huya/29805872.flv
+选妃记,https://www.goodiptv.club/huya/23734246#https://www.goodiptv.club/huya/23734246#http://cfss.cc/cdn/huya/23734246.flv
+大秦赋,https://www.goodiptv.club/huya/23903130#https://www.goodiptv.club/huya/23903130#http://cfss.cc/cdn/huya/23903130.flv
+风云,https://www.goodiptv.club/huya/21059612#https://www.goodiptv.club/huya/21059612#http://cfss.cc/cdn/huya/21059612.flv
+风云1-2,https://www.goodiptv.club/huya/11602067#https://www.goodiptv.club/huya/11602067#http://cfss.cc/cdn/huya/11602067.flv
+三少爷的剑,https://www.goodiptv.club/huya/30080175#https://www.goodiptv.club/huya/30080175#http://cfss.cc/cdn/huya/30080175.flv
+做人最要紧开心的直播间,http://www.douzhicloud.site:35455/huya/23824164#https://www.goodiptv.club/huya/23824164#https://www.goodiptv.club/huya/23824164#http://cfss.cc/cdn/huya/23824164.flv
+李连杰-李小龙专场,https://www.goodiptv.club/huya/29807256#https://www.goodiptv.club/huya/29807256#http://cfss.cc/cdn/huya/29807256.flv
+新醉打金枝,https://www.goodiptv.club/huya/20985835#https://www.goodiptv.club/huya/20985835#http://cfss.cc/cdn/huya/20985835.flv
+画皮,https://www.goodiptv.club/huya/20985826#https://www.goodiptv.club/huya/20985826#http://cfss.cc/cdn/huya/20985826.flv
+欢乐颂2,https://www.goodiptv.club/huya/29982666#https://www.goodiptv.club/huya/29982666#http://cfss.cc/cdn/huya/29982666.flv
+兄台明鉴直播间--重案六组,https://www.goodiptv.club/huya/23482266#https://www.goodiptv.club/huya/23482266#http://cfss.cc/cdn/huya/23482266.flv
+历年贺岁档,https://www.goodiptv.club/huya/11601986#https://www.goodiptv.club/huya/11601986#http://cfss.cc/cdn/huya/11601986.flv
+港片经典系列,https://www.goodiptv.club/huya/29982660#https://www.goodiptv.club/huya/29982660#http://cfss.cc/cdn/huya/29982660.flv
+无间,https://www.goodiptv.club/huya/20985844#https://www.goodiptv.club/huya/20985844#http://cfss.cc/cdn/huya/20985844.flv
+音乐成就人生 音乐类型电影,https://www.goodiptv.club/huya/23860057#https://www.goodiptv.club/huya/23860057#http://cfss.cc/cdn/huya/23860057.flv
+海外电影,https://www.goodiptv.club/huya/29982623#https://www.goodiptv.club/huya/29982623#http://cfss.cc/cdn/huya/29982623.flv
+红色影片,https://www.goodiptv.club/huya/11602076#https://www.goodiptv.club/huya/11602076#http://cfss.cc/cdn/huya/11602076.flv
+军民联合抗日，承受战争苦难,https://www.goodiptv.club/huya/11352910#https://www.goodiptv.club/huya/11352910#http://cfss.cc/cdn/huya/11352910.flv
+神探夏洛克,https://www.goodiptv.club/huya/26355792#https://www.goodiptv.club/huya/26355792#http://cfss.cc/cdn/huya/26355792.flv
+案发现场,https://www.goodiptv.club/huya/20432231#https://www.goodiptv.club/huya/20432231#http://cfss.cc/cdn/huya/20432231.flv
+十三宗命案,https://www.goodiptv.club/huya/21028268#https://www.goodiptv.club/huya/21028268#http://cfss.cc/cdn/huya/21028268.flv
+还珠格格3,https://www.goodiptv.club/huya/30080241#https://www.goodiptv.club/huya/30080241#http://cfss.cc/cdn/huya/30080241.flv
+少年大钦差,https://www.goodiptv.club/huya/21059619#https://www.goodiptv.club/huya/21059619#http://cfss.cc/cdn/huya/21059619.flv
+芈月传,https://www.goodiptv.club/huya/30311525#https://www.goodiptv.club/huya/30311525#http://cfss.cc/cdn/huya/30311525.flv
+旷世真情,https://www.goodiptv.club/huya/30439834#https://www.goodiptv.club/huya/30439834#http://cfss.cc/cdn/huya/30439834.flv
+盛唐传奇,https://www.goodiptv.club/huya/21059632#https://www.goodiptv.club/huya/21059632#http://cfss.cc/cdn/huya/21059632.flv
+麻雀,https://www.goodiptv.club/huya/30307160#https://www.goodiptv.club/huya/30307160#http://cfss.cc/cdn/huya/30307160.flv
+重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#https://www.goodiptv.club/huya/20985799#http://cfss.cc/cdn/huya/20985799.flv
+爱情公寓,https://www.goodiptv.club/huya/11336726#https://www.goodiptv.club/huya/11336726#http://cfss.cc/cdn/huya/11336726.flv
+家有儿女,https://www.goodiptv.club/huya/11352872#https://www.goodiptv.club/huya/11352872#http://cfss.cc/cdn/huya/11352872.flv#https://www.goodiptv.club/huya/30523326#https://www.goodiptv.club/huya/30526426#http://cfss.cc/cdn/huya/30526426.flv#https://www.goodiptv.club/huya/30664021#https://www.goodiptv.club/huya/30664021#http://cfss.cc/cdn/huya/30664021.flv
+父辈的荣耀,https://www.goodiptv.club/huya/11352893#https://www.goodiptv.club/huya/11352893#http://cfss.cc/cdn/huya/11352893.flv
+流星花园,https://www.goodiptv.club/huya/26355793#https://www.goodiptv.club/huya/26355793#http://cfss.cc/cdn/huya/26355793.flv
+埋堆堆官方,https://www.goodiptv.club/huya/30326432#https://www.goodiptv.club/huya/30326432#http://cfss.cc/cdn/huya/30326432.flv
+特种兵之火凤凰,https://www.goodiptv.club/huya/29982636#https://www.goodiptv.club/huya/29982636#http://cfss.cc/cdn/huya/29982636.flv
+风筝,https://www.goodiptv.club/huya/30080225#https://www.goodiptv.club/huya/30080225#http://cfss.cc/cdn/huya/30080225.flv
+欢颜,https://www.goodiptv.club/huya/29982606#https://www.goodiptv.club/huya/29982606#http://cfss.cc/cdn/huya/29982606.flv
+觉醒年代,https://www.goodiptv.club/huya/21059558#https://www.goodiptv.club/huya/21059558#http://cfss.cc/cdn/huya/21059558.flv
+谍战深海之惊蛰,https://www.goodiptv.club/huya/30080139#https://www.goodiptv.club/huya/30080139#http://cfss.cc/cdn/huya/30080139.flv
+《刑侦》四季连播,https://www.goodiptv.club/huya/23358441#https://www.goodiptv.club/huya/23358441#http://cfss.cc/cdn/huya/23358441.flv
+天下长河,https://www.goodiptv.club/huya/21241763#https://www.goodiptv.club/huya/21241763#http://cfss.cc/cdn/huya/21241763.flv
+巾帼枭雄,https://www.goodiptv.club/huya/21059550#https://www.goodiptv.club/huya/21059550#http://cfss.cc/cdn/huya/21059550.flv
+谈判专家,https://www.goodiptv.club/huya/23863833#https://www.goodiptv.club/huya/23863833#http://cfss.cc/cdn/huya/23863833.flv
+我们不能是朋友,https://www.goodiptv.club/huya/29982662#https://www.goodiptv.club/huya/29982662#http://cfss.cc/cdn/huya/29982662.flv
+双响炮、粉红女郎姊妹篇,https://www.goodiptv.club/huya/29982652#https://www.goodiptv.club/huya/29982652#http://cfss.cc/cdn/huya/29982652.flv
+荣耀,https://www.goodiptv.club/huya/11352920#https://www.goodiptv.club/huya/11352920#http://cfss.cc/cdn/huya/11352920.flv
+空降利刃,https://www.goodiptv.club/huya/20432236#https://www.goodiptv.club/huya/20432236#http://cfss.cc/cdn/huya/20432236.flv
+打工毒蛇姐妹花儿,https://www.goodiptv.club/huya/21059564#https://www.goodiptv.club/huya/21059564#http://cfss.cc/cdn/huya/21059564.flv
+真假千金,https://www.goodiptv.club/huya/26355848#https://www.goodiptv.club/huya/26355848#http://cfss.cc/cdn/huya/26355848.flv
+有翡,https://www.goodiptv.club/huya/29982668#https://www.goodiptv.club/huya/29982668#http://cfss.cc/cdn/huya/29982668.flv
+国产奇幻剧,https://www.goodiptv.club/huya/11601982#https://www.goodiptv.club/huya/11601982#http://cfss.cc/cdn/huya/11601982.flv
+国产科幻,https://www.goodiptv.club/huya/20985801#https://www.goodiptv.club/huya/20985801#http://cfss.cc/cdn/huya/20985801.flv
+国产喜剧搞笑电影,https://www.goodiptv.club/huya/30511625#https://www.goodiptv.club/huya/30511625#http://cfss.cc/cdn/huya/30511625.flv
+好莱坞电影,https://www.goodiptv.club/huya/23734223#https://www.goodiptv.club/huya/23734223#http://cfss.cc/cdn/huya/23734223.flv
+斗牌传说,https://www.goodiptv.club/huya/26355783#https://www.goodiptv.club/huya/26355783#http://cfss.cc/cdn/huya/26355783.flv
+死神来了系列,https://www.goodiptv.club/huya/11352903#https://www.goodiptv.club/huya/11352903#http://cfss.cc/cdn/huya/11352903.flv
+鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#https://www.goodiptv.club/huya/30080152#http://cfss.cc/cdn/huya/30080152.flv
+坏种,https://www.goodiptv.club/huya/26355802#https://www.goodiptv.club/huya/26355802#http://cfss.cc/cdn/huya/26355802.flv
+曾少年,https://www.goodiptv.club/huya/20985815#https://www.goodiptv.club/huya/20985815#http://cfss.cc/cdn/huya/20985815.flv
+亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
+87版红楼梦,https://www.goodiptv.club/huya/30080221#https://www.goodiptv.club/huya/30080221#http://cfss.cc/cdn/huya/30080221.flv
+红楼梦-李少红版,https://www.goodiptv.club/huya/20985783#https://www.goodiptv.club/huya/20985783#http://cfss.cc/cdn/huya/20985783.flv
+大宋提刑官,https://www.goodiptv.club/huya/30080167#https://www.goodiptv.club/huya/30080167#http://cfss.cc/cdn/huya/30080167.flv
+圆月弯刀---古天乐,https://www.goodiptv.club/huya/23652238#https://www.goodiptv.club/huya/23652238#http://cfss.cc/cdn/huya/23652238.flv
+神隐,https://www.goodiptv.club/huya/21241837#https://www.goodiptv.club/huya/21241837#http://cfss.cc/cdn/huya/21241837.flv
+陆贞传奇,https://www.goodiptv.club/huya/29982670#https://www.goodiptv.club/huya/29982670#http://cfss.cc/cdn/huya/29982670.flv
+封神英雄,https://www.goodiptv.club/huya/26355865#https://www.goodiptv.club/huya/26355865#http://cfss.cc/cdn/huya/26355865.flv
+洗冤录,https://www.goodiptv.club/huya/29465851#https://www.goodiptv.club/huya/29465851#http://cfss.cc/cdn/huya/29465851.flv
+刑事侦缉档案,https://www.goodiptv.club/huya/29465856#https://www.goodiptv.club/huya/29465856#http://cfss.cc/cdn/huya/29465856.flv
+天地男儿,https://www.goodiptv.club/huya/20969141#https://www.goodiptv.club/huya/20969141#http://cfss.cc/cdn/huya/20969141.flv
+仙侠世界--幻城,https://www.goodiptv.club/huya/20985812#https://www.goodiptv.club/huya/20985812#http://cfss.cc/cdn/huya/20985812.flv
+陆小凤传奇,https://www.goodiptv.club/huya/20985865#https://www.goodiptv.club/huya/20985865#http://cfss.cc/cdn/huya/20985865.flv
+公主嫁到,https://www.goodiptv.club/huya/20969101#https://www.goodiptv.club/huya/20969101#http://cfss.cc/cdn/huya/20969101.flv
+错点鸳鸯·戏点鸳鸯,https://www.goodiptv.club/huya/20985827#https://www.goodiptv.club/huya/20985827#http://cfss.cc/cdn/huya/20985827.flv
+少林寺传奇,https://www.goodiptv.club/huya/20985806#https://www.goodiptv.club/huya/20985806#http://cfss.cc/cdn/huya/20985806.flv
+华灯初上,https://www.goodiptv.club/huya/20985793#https://www.goodiptv.club/huya/20985793#http://cfss.cc/cdn/huya/20985793.flv
+三国演义,https://www.goodiptv.club/huya/11602081#https://www.goodiptv.club/huya/11602081#http://cfss.cc/cdn/huya/11602081.flv
+黑暗之源,https://www.goodiptv.club/huya/10875560#https://www.goodiptv.club/huya/10875560#http://cfss.cc/cdn/huya/10875560.flv
+梦回大唐,https://www.goodiptv.club/huya/20432237#https://www.goodiptv.club/huya/20432237#http://cfss.cc/cdn/huya/20432237.flv
+舞乐传奇,https://www.goodiptv.club/huya/27564478#https://www.goodiptv.club/huya/27564478#http://cfss.cc/cdn/huya/27564478.flv
+妈祖,https://www.goodiptv.club/huya/29982633#https://www.goodiptv.club/huya/29982633#http://cfss.cc/cdn/huya/29982633.flv
+聊斋新编,https://www.goodiptv.club/huya/20969121#https://www.goodiptv.club/huya/20969121#http://cfss.cc/cdn/huya/20969121.flv
+白蛇传,https://www.goodiptv.club/huya/21241798#https://www.goodiptv.club/huya/21241798#http://cfss.cc/cdn/huya/21241798.flv
+斗罗大陆,https://www.goodiptv.club/huya/26355816#https://www.goodiptv.club/huya/26355816#http://cfss.cc/cdn/huya/26355816.flv
+一起来看流星雨,https://www.goodiptv.club/huya/20985814#https://www.goodiptv.club/huya/20985814#http://cfss.cc/cdn/huya/20985814.flv
+阳光的快乐生活,https://www.goodiptv.club/huya/11602085#https://www.goodiptv.club/huya/11602085#http://cfss.cc/cdn/huya/11602085.flv
+与凤行,https://www.goodiptv.club/huya/26355866#https://www.goodiptv.club/huya/26355866#http://cfss.cc/cdn/huya/26355866.flv
+华胥引之绝爱之城,https://www.goodiptv.club/huya/22129776#https://www.goodiptv.club/huya/22129776#http://cfss.cc/cdn/huya/22129776.flv
+金枝欲孽,https://www.goodiptv.club/huya/29465847#https://www.goodiptv.club/huya/29465847#http://cfss.cc/cdn/huya/29465847.flv
+海派甜心,https://www.goodiptv.club/huya/11342436#https://www.goodiptv.club/huya/11342436#http://cfss.cc/cdn/huya/11342436.flv
+情深深雨蒙蒙,https://www.goodiptv.club/huya/29982624#https://www.goodiptv.club/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
+小别离的真相,https://www.goodiptv.club/huya/29465848#https://www.goodiptv.club/huya/29465848#http://cfss.cc/cdn/huya/29465848.flv
+父母爱情,https://www.goodiptv.club/huya/24648646#https://www.goodiptv.club/huya/24648646#http://cfss.cc/cdn/huya/24648646.flv
+篮球火,https://www.goodiptv.club/huya/20985781#https://www.goodiptv.club/huya/20985781#http://cfss.cc/cdn/huya/20985781.flv
+潜行狙击,https://www.goodiptv.club/huya/20985782#https://www.goodiptv.club/huya/20985782#http://cfss.cc/cdn/huya/20985782.flv
+东北一家人,https://www.goodiptv.club/huya/21059634#https://www.goodiptv.club/huya/21059634#http://cfss.cc/cdn/huya/21059634.flv
+士兵突击,https://www.goodiptv.club/huya/30704992#https://www.goodiptv.club/huya/30704992#http://cfss.cc/cdn/huya/30704992.flv
+大长今,https://www.goodiptv.club/huya/29982616#https://www.goodiptv.club/huya/29982616#http://cfss.cc/cdn/huya/29982616.flv
+王子变青蛙,https://www.goodiptv.club/huya/11601964#https://www.goodiptv.club/huya/11601964#http://cfss.cc/cdn/huya/11601964.flv
+隋唐演义,https://www.goodiptv.club/huya/30080219#https://www.goodiptv.club/huya/30080219#http://cfss.cc/cdn/huya/30080219.flv
+倩女幽魂,https://www.goodiptv.club/huya/26355822#https://www.goodiptv.club/huya/26355822#http://cfss.cc/cdn/huya/26355822.flv
+浴血黑帮1-6,https://www.goodiptv.club/huya/29982659#https://www.goodiptv.club/huya/29982659#http://cfss.cc/cdn/huya/29982659.flv
+高纬度战栗,https://www.goodiptv.club/huya/29465897#https://www.goodiptv.club/huya/29465897#http://cfss.cc/cdn/huya/29465897.flv
+鉴证实录,https://www.goodiptv.club/huya/21241769#https://www.goodiptv.club/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
+外科风云,https://www.goodiptv.club/huya/29982672#https://www.goodiptv.club/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
+亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://www.goodiptv.club/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
+我的前半生,https://www.goodiptv.club/huya/11352916#https://www.goodiptv.club/huya/11352916#http://cfss.cc/cdn/huya/11352916.flv
+网游超人曾日华来咯,https://www.goodiptv.club/huya/26355823#https://www.goodiptv.club/huya/26355823#http://cfss.cc/cdn/huya/26355823.flv
+亮剑,https://www.goodiptv.club/huya/30080238#https://www.goodiptv.club/huya/30080238#http://cfss.cc/cdn/huya/30080238.flv
+亮剑,https://www.goodiptv.club/huya/30299082#https://www.goodiptv.club/huya/30299082#http://cfss.cc/cdn/huya/30299082.flv
+借命而生,https://www.goodiptv.club/huya/30080145#https://www.goodiptv.club/huya/30080145#http://cfss.cc/cdn/huya/30080145.flv
+民兵葛二蛋,https://www.goodiptv.club/huya/11602072#https://www.goodiptv.club/huya/11602072#http://cfss.cc/cdn/huya/11602072.flv
+士兵突击,https://www.goodiptv.club/huya/11342430#https://www.goodiptv.club/huya/11342430#http://cfss.cc/cdn/huya/11342430.flv
+庆余年1,https://www.goodiptv.club/huya/11352960#https://www.goodiptv.club/huya/11352960#http://cfss.cc/cdn/huya/11352960.flv
+庆余年2,https://www.goodiptv.club/huya/23740156#https://www.goodiptv.club/huya/23740156#http://cfss.cc/cdn/huya/23740156.flv
+神探狄仁杰,https://www.goodiptv.club/huya/11342425#https://www.goodiptv.club/huya/11342425#http://cfss.cc/cdn/huya/11342425.flv#https://www.goodiptv.club/huya/11352958#https://www.goodiptv.club/huya/11352958#http://cfss.cc/cdn/huya/11352958.flv
+无心法师2,https://www.goodiptv.club/huya/30080233#https://www.goodiptv.club/huya/30080233#http://cfss.cc/cdn/huya/30080233.flv
+天涯明月刀,https://www.goodiptv.club/huya/30080162#https://www.goodiptv.club/huya/30080162#http://cfss.cc/cdn/huya/30080162.flv
+花千骨,https://www.goodiptv.club/huya/26355839#https://www.goodiptv.club/huya/26355839#http://cfss.cc/cdn/huya/26355839.flv
+楚乔传,https://www.goodiptv.club/huya/19285234#https://www.goodiptv.club/huya/19285234#http://cfss.cc/cdn/huya/19285234.flv
+寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#https://www.goodiptv.club/huya/30080146#http://cfss.cc/cdn/huya/30080146.flv
 刁蛮公主,http://cfss.cc/cdn/huya/29465879.flv
 西游记,http://cfss.cc/cdn/huya/26355861.flv
-西游记续集,https://www.goodiptv.club/huya/20985836#https://live.ottiptv.cc/huya/20985836#http://cfss.cc/cdn/huya/20985836.flv
-西游记-港剧1,https://www.goodiptv.club/huya/29465860#https://live.ottiptv.cc/huya/29465860#http://cfss.cc/cdn/huya/29465860.flv
-西游记-港剧2,https://www.goodiptv.club/huya/23829447#https://live.ottiptv.cc/huya/23829447#http://cfss.cc/cdn/huya/23829447.flv
-西游记-港剧3,https://www.goodiptv.club/huya/29465859#https://live.ottiptv.cc/huya/29465859#http://cfss.cc/cdn/huya/29465859.flv
-传奇皇帝朱元璋,https://www.goodiptv.club/huya/29982665#https://live.ottiptv.cc/huya/29982665#http://cfss.cc/cdn/huya/29982665.flv
-豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#https://live.ottiptv.cc/huya/20432223#http://cfss.cc/cdn/huya/20432223.flv
-花木兰,https://www.goodiptv.club/huya/30080178#https://live.ottiptv.cc/huya/30080178#http://cfss.cc/cdn/huya/30080178.flv
-星汉灿烂,https://www.goodiptv.club/huya/11336591#https://live.ottiptv.cc/huya/11336591#http://cfss.cc/cdn/huya/11336591.flv
-悬崖,https://www.goodiptv.club/huya/21059620#https://live.ottiptv.cc/huya/21059620#http://cfss.cc/cdn/huya/21059620.flv
-法证先锋4,https://www.goodiptv.club/huya/29982617#https://live.ottiptv.cc/huya/29982617#http://cfss.cc/cdn/huya/29982617.flv
-少年天子,https://www.goodiptv.club/huya/29982640#https://live.ottiptv.cc/huya/29982640#http://cfss.cc/cdn/huya/29982640.flv
-水浒传,https://www.goodiptv.club/huya/26355860#https://live.ottiptv.cc/huya/26355860#http://cfss.cc/cdn/huya/26355860.flv
-犀利仁师,https://www.goodiptv.club/huya/23865036#https://live.ottiptv.cc/huya/23865036#http://cfss.cc/cdn/huya/23865036.flv
-征服,https://www.goodiptv.club/huya/30311494#https://live.ottiptv.cc/huya/30311494#http://cfss.cc/cdn/huya/30311494.flv
-扫黑风暴,https://www.goodiptv.club/huya/11342404#https://live.ottiptv.cc/huya/11342404#http://cfss.cc/cdn/huya/11342404.flv
-摩天大楼,https://www.goodiptv.club/huya/651536#https://live.ottiptv.cc/huya/651536#http://cfss.cc/cdn/huya/651536.flv
-新洛神,https://www.goodiptv.club/huya/21241770#https://live.ottiptv.cc/huya/21241770#http://cfss.cc/cdn/huya/21241770.flv
-港剧,https://www.goodiptv.club/huya/23734256#https://live.ottiptv.cc/huya/23734256#http://cfss.cc/cdn/huya/23734256.flv
-影视剧,https://www.goodiptv.club/huya/30158546#https://live.ottiptv.cc/huya/30158546#http://cfss.cc/cdn/huya/30158546.flv
-菲菲影视剧,https://www.goodiptv.club/huya/30671959#https://live.ottiptv.cc/huya/30671959#http://cfss.cc/cdn/huya/30671959.flv
-风声,https://www.goodiptv.club/huya/21059605#https://live.ottiptv.cc/huya/21059605#http://cfss.cc/cdn/huya/21059605.flv
-泡沫之夏--徐熙媛,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
-快乐星球,https://www.goodiptv.club/huya/21059600#https://live.ottiptv.cc/huya/21059600#http://cfss.cc/cdn/huya/21059600.flv
-微微一笑很倾城,https://www.goodiptv.club/huya/26355857#https://live.ottiptv.cc/huya/26355857#http://cfss.cc/cdn/huya/26355857.flv
-长大的我们,https://www.goodiptv.club/huya/30080176#https://live.ottiptv.cc/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
-你是我的眼,https://www.goodiptv.club/huya/20985766#https://live.ottiptv.cc/huya/20985766#http://cfss.cc/cdn/huya/20985766.flv
-粉红女郎,https://www.goodiptv.club/huya/26355794#https://live.ottiptv.cc/huya/26355794#http://cfss.cc/cdn/huya/26355794.flv
-闪灵探案,https://www.goodiptv.club/huya/26355801#https://live.ottiptv.cc/huya/26355801#http://cfss.cc/cdn/huya/26355801.flv
-魔幻手机,https://www.goodiptv.club/huya/11352966#https://live.ottiptv.cc/huya/11352966#http://cfss.cc/cdn/huya/11352966.flv
-李卫当官,https://www.goodiptv.club/huya/26355788#https://live.ottiptv.cc/huya/26355788#http://cfss.cc/cdn/huya/26355788.flv
-乌龙院闯情关,https://www.goodiptv.club/huya/26355767#https://live.ottiptv.cc/huya/26355767#http://cfss.cc/cdn/huya/26355767.flv
-狄仁杰系列,https://www.goodiptv.club/huya/30080229#https://live.ottiptv.cc/huya/30080229#http://cfss.cc/cdn/huya/30080229.flv
-新雪豹,https://www.goodiptv.club/huya/29580970#https://live.ottiptv.cc/huya/29580970#http://cfss.cc/cdn/huya/29580970.flv
-终极一班,https://www.goodiptv.club/huya/21059610#https://live.ottiptv.cc/huya/21059610#http://cfss.cc/cdn/huya/21059610.flv
-终极三国,https://www.goodiptv.club/huya/21059562#https://live.ottiptv.cc/huya/21059562#http://cfss.cc/cdn/huya/21059562.flv
-编辑部的故事,https://www.goodiptv.club/huya/21059591#https://live.ottiptv.cc/huya/21059591#http://cfss.cc/cdn/huya/21059591.flv
-炊事班的故事第三部,https://www.goodiptv.club/huya/19524135#https://live.ottiptv.cc/huya/19524135#http://cfss.cc/cdn/huya/19524135.flv
-特工卡特第一季,https://www.goodiptv.club/huya/11352961#https://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
-韩国电影,https://www.goodiptv.club/huya/11352884#https://live.ottiptv.cc/huya/11352884#http://cfss.cc/cdn/huya/11352884.flv
-全职高手,https://www.goodiptv.club/huya/11352901#https://live.ottiptv.cc/huya/11352901#http://cfss.cc/cdn/huya/11352901.flv
-太极宗师,https://www.goodiptv.club/huya/11342438#https://live.ottiptv.cc/huya/11342438#http://cfss.cc/cdn/huya/11342438.flv
-武林宗师梁小龙,https://www.goodiptv.club/huya/20985775#https://live.ottiptv.cc/huya/20985775#http://cfss.cc/cdn/huya/20985775.flv
-周星驰系列,https://www.goodiptv.club/huya/11342412#https://live.ottiptv.cc/huya/11342412#http://cfss.cc/cdn/huya/11342412.flv
-周海媚系列,https://www.goodiptv.club/huya/11279247#https://live.ottiptv.cc/huya/11279247#http://cfss.cc/cdn/huya/11279247.flv
-沈腾系列,https://www.goodiptv.club/huya/11601968#https://live.ottiptv.cc/huya/11601968#http://cfss.cc/cdn/huya/11601968.flv
-杰森·斯坦森系列,https://www.goodiptv.club/huya/21059588#https://live.ottiptv.cc/huya/21059588#http://cfss.cc/cdn/huya/21059588.flv
-曾江系列,https://www.goodiptv.club/huya/11601981#https://live.ottiptv.cc/huya/11601981#http://cfss.cc/cdn/huya/11601981.flv
-徐峥黄渤系列,https://www.goodiptv.club/huya/11352876#https://live.ottiptv.cc/huya/11352876#http://cfss.cc/cdn/huya/11352876.flv
-史泰龙系列,https://www.goodiptv.club/huya/23863822#https://live.ottiptv.cc/huya/23863822#http://cfss.cc/cdn/huya/23863822.flv
-梁家辉系列,https://www.goodiptv.club/huya/11342429#https://live.ottiptv.cc/huya/11342429#http://cfss.cc/cdn/huya/11342429.flv
-周润发系列1,https://www.goodiptv.club/huya/11342387#https://live.ottiptv.cc/huya/11342387#http://cfss.cc/cdn/huya/11342387.flv
-周润发系列2,https://www.goodiptv.club/huya/621378#https://live.ottiptv.cc/huya/621378#http://cfss.cc/cdn/huya/621378.flv
-甄子丹系列,https://www.goodiptv.club/huya/11352935#https://live.ottiptv.cc/huya/11352935#http://cfss.cc/cdn/huya/11352935.flv
-李连杰系列1,https://www.goodiptv.club/huya/11342390#https://live.ottiptv.cc/huya/11342390#http://cfss.cc/cdn/huya/11342390.flv
-李连杰系列2,https://www.goodiptv.club/huya/138531#https://live.ottiptv.cc/huya/138531#http://cfss.cc/cdn/huya/138531.flv
-洪金宝系列,https://www.goodiptv.club/huya/11279251#https://live.ottiptv.cc/huya/11279251#http://cfss.cc/cdn/huya/11279251.flv
-成龙系列1,https://www.goodiptv.club/huya/11342386#https://live.ottiptv.cc/huya/11342386#http://cfss.cc/cdn/huya/11342386.flv
-成龙系列2,https://www.goodiptv.club/huya/30403502#https://live.ottiptv.cc/huya/30403502#http://cfss.cc/cdn/huya/30403502.flv
-成龙系列3,https://www.goodiptv.club/huya/29835225#https://live.ottiptv.cc/huya/29835225#http://cfss.cc/cdn/huya/29835225.flv
-王宝强系列,https://www.goodiptv.club/huya/30080251#https://live.ottiptv.cc/huya/30080251#http://cfss.cc/cdn/huya/30080251.flv
-007动作大片系列,https://www.goodiptv.club/huya/21059585#https://live.ottiptv.cc/huya/21059585#http://cfss.cc/cdn/huya/21059585.flv
-古天乐系列,https://www.goodiptv.club/huya/29982675#https://live.ottiptv.cc/huya/29982675#http://cfss.cc/cdn/huya/29982675.flv
-葛优系列,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
-张家辉系列,https://www.goodiptv.club/huya/21241807#https://live.ottiptv.cc/huya/21241807#http://cfss.cc/cdn/huya/21241807.flv
-敢死队,https://www.goodiptv.club/huya/23864973#https://live.ottiptv.cc/huya/23864973#http://cfss.cc/cdn/huya/23864973.flv
-一起同过窗,https://www.goodiptv.club/huya/30080228#https://live.ottiptv.cc/huya/30080228#http://cfss.cc/cdn/huya/30080228.flv
-猎罪图鉴,https://www.goodiptv.club/huya/11601962#https://live.ottiptv.cc/huya/11601962#http://cfss.cc/cdn/huya/11601962.flv
-漫长的季节,https://www.goodiptv.club/huya/11342393#https://live.ottiptv.cc/huya/11342393#http://cfss.cc/cdn/huya/11342393.flv
-乡村爱情,https://www.goodiptv.club/huya/30080255#https://live.ottiptv.cc/huya/30080255#http://cfss.cc/cdn/huya/30080255.flv
-怪侠欧阳德,https://www.goodiptv.club/huya/29982629#https://live.ottiptv.cc/huya/29982629#http://cfss.cc/cdn/huya/29982629.flv
-情满四合院,https://www.goodiptv.club/huya/11342426#https://live.ottiptv.cc/huya/11342426#http://cfss.cc/cdn/huya/11342426.flv
-铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396#https://live.ottiptv.cc/huya/11342396#http://cfss.cc/cdn/huya/11342396.flv#https://www.goodiptv.club/huya/25701671#https://live.ottiptv.cc/huya/25701671#http://cfss.cc/cdn/huya/25701671.flv
-康熙微服私访记,https://www.goodiptv.club/huya/11342418#https://live.ottiptv.cc/huya/11342418#http://cfss.cc/cdn/huya/11342418.flv
-康熙大帝,https://www.goodiptv.club/huya/11352940#https://live.ottiptv.cc/huya/11352940#http://cfss.cc/cdn/huya/11352940.flv
-穆桂英挂帅,https://www.goodiptv.club/huya/30080248#https://live.ottiptv.cc/huya/30080248#http://cfss.cc/cdn/huya/30080248.flv
-新九品芝麻官,https://www.goodiptv.club/huya/29465891#https://live.ottiptv.cc/huya/29465891#http://cfss.cc/cdn/huya/29465891.flv
-绝代双骄,https://www.goodiptv.club/huya/29982627#https://live.ottiptv.cc/huya/29982627#http://cfss.cc/cdn/huya/29982627.flv
-江湖小子,https://www.goodiptv.club/huya/29465890#https://live.ottiptv.cc/huya/29465890#http://cfss.cc/cdn/huya/29465890.flv
-东游记,https://www.goodiptv.club/huya/20969135#https://live.ottiptv.cc/huya/20969135#http://cfss.cc/cdn/huya/20969135.flv
-芈月传,https://www.goodiptv.club/huya/26355775#https://live.ottiptv.cc/huya/26355775#http://cfss.cc/cdn/huya/26355775.flv
-新水浒传,https://www.goodiptv.club/huya/11342384#https://live.ottiptv.cc/huya/11342384#http://cfss.cc/cdn/huya/11342384.flv
-倚天屠龙记-苏有朋,https://www.goodiptv.club/huya/11342403#https://live.ottiptv.cc/huya/11342403#http://cfss.cc/cdn/huya/11342403.flv
-倚天屠龙记-邓超,https://www.goodiptv.club/huya/30080143#https://live.ottiptv.cc/huya/30080143#http://cfss.cc/cdn/huya/30080143.flv
-倚天屠龙记-吴启华,https://www.goodiptv.club/huya/21241819#https://live.ottiptv.cc/huya/21241819#http://cfss.cc/cdn/huya/21241819.flv
-笑傲江湖--李亚鹏,https://www.goodiptv.club/huya/26355790#https://live.ottiptv.cc/huya/26355790#http://cfss.cc/cdn/huya/26355790.flv
-笑傲江湖-霍建华,https://www.goodiptv.club/huya/26355858#https://live.ottiptv.cc/huya/26355858#http://cfss.cc/cdn/huya/26355858.flv
-笑傲江湖-吕颂贤,https://www.goodiptv.club/huya/20985791#https://live.ottiptv.cc/huya/20985791#http://cfss.cc/cdn/huya/20985791.flv
-鹿鼎记-黄晓明,https://www.goodiptv.club/huya/11342388#https://live.ottiptv.cc/huya/11342388#http://cfss.cc/cdn/huya/11342388.flv
-鹿鼎记-陈小春,https://www.goodiptv.club/huya/23650774#https://live.ottiptv.cc/huya/23650774#http://cfss.cc/cdn/huya/23650774.flv
-鹿鼎记-梁朝伟,https://www.goodiptv.club/huya/21059597#https://live.ottiptv.cc/huya/21059597#http://cfss.cc/cdn/huya/21059597.flv
-射雕英雄传-张智霖,https://www.goodiptv.club/huya/20969099#https://live.ottiptv.cc/huya/20969099#http://cfss.cc/cdn/huya/20969099.flv
-神雕侠侣-陈妍希,https://www.goodiptv.club/huya/11352964#https://live.ottiptv.cc/huya/11352964#http://cfss.cc/cdn/huya/11352964.flv
-神雕侠侣-刘德华,https://www.goodiptv.club/huya/30080191#https://live.ottiptv.cc/huya/30080191#http://cfss.cc/cdn/huya/30080191.flv
-雪山飞狐-黄日华,https://www.goodiptv.club/huya/23734176#https://live.ottiptv.cc/huya/23734176#http://cfss.cc/cdn/huya/23734176.flv
-03版天龙八部,https://www.goodiptv.club/huya/20985816#https://live.ottiptv.cc/huya/20985816#http://cfss.cc/cdn/huya/20985816.flv
-89版侠客行,https://www.goodiptv.club/huya/29982656#https://live.ottiptv.cc/huya/29982656#http://cfss.cc/cdn/huya/29982656.flv
-95版武则天,https://www.goodiptv.club/huya/20969136#https://live.ottiptv.cc/huya/20969136#http://cfss.cc/cdn/huya/20969136.flv
-大染坊,https://www.goodiptv.club/huya/11602086#https://live.ottiptv.cc/huya/11602086#http://cfss.cc/cdn/huya/11602086.flv
-大盛魁,https://www.goodiptv.club/huya/30292086#https://live.ottiptv.cc/huya/30292086#http://cfss.cc/cdn/huya/30292086.flv
-龙门镖局,https://www.goodiptv.club/huya/11352874#https://live.ottiptv.cc/huya/11352874#http://cfss.cc/cdn/huya/11352874.flv
-小李飞刀,https://www.goodiptv.club/huya/11342417#https://live.ottiptv.cc/huya/11342417#http://cfss.cc/cdn/huya/11342417.flv
-花姑子,https://www.goodiptv.club/huya/21059575#https://live.ottiptv.cc/huya/21059575#http://cfss.cc/cdn/huya/21059575.flv
-宝莲灯,https://www.goodiptv.club/huya/21059563#https://live.ottiptv.cc/huya/21059563#http://cfss.cc/cdn/huya/21059563.flv
-天地传说之宝莲灯,https://www.goodiptv.club/huya/24517063#https://live.ottiptv.cc/huya/24517063#http://cfss.cc/cdn/huya/24517063.flv
-济公,https://www.goodiptv.club/huya/29982613#https://live.ottiptv.cc/huya/29982613#http://cfss.cc/cdn/huya/29982613.flv
-活佛济公,https://www.goodiptv.club/huya/29465878#https://live.ottiptv.cc/huya/29465878#http://cfss.cc/cdn/huya/29465878.flv
-活佛济公1-3,https://www.goodiptv.club/huya/26355765#https://live.ottiptv.cc/huya/26355765#http://cfss.cc/cdn/huya/26355765.flv
-活佛济公3,https://www.goodiptv.club/huya/23903123#https://live.ottiptv.cc/huya/23903123#http://cfss.cc/cdn/huya/23903123.flv
-医馆笑传,https://www.goodiptv.club/huya/11352891#https://live.ottiptv.cc/huya/11352891#http://cfss.cc/cdn/huya/11352891.flv
-汉武大帝,https://www.goodiptv.club/huya/26355859#https://live.ottiptv.cc/huya/26355859#http://cfss.cc/cdn/huya/26355859.flv
-忽必烈传奇,https://www.goodiptv.club/huya/30344039#https://live.ottiptv.cc/huya/30344039#http://cfss.cc/cdn/huya/30344039.flv
-少年张三丰,https://www.goodiptv.club/huya/26355824#https://live.ottiptv.cc/huya/26355824#http://cfss.cc/cdn/huya/26355824.flv
-少林寺传奇,https://www.goodiptv.club/huya/30310431#https://live.ottiptv.cc/huya/30310431#http://cfss.cc/cdn/huya/30310431.flv
-女医明妃传,https://www.goodiptv.club/huya/26355760#https://live.ottiptv.cc/huya/26355760#http://cfss.cc/cdn/huya/26355760.flv
-且试天下,https://www.goodiptv.club/huya/21059630#https://live.ottiptv.cc/huya/21059630#http://cfss.cc/cdn/huya/21059630.flv
-天下无双,https://www.goodiptv.club/huya/26355796#https://live.ottiptv.cc/huya/26355796#http://cfss.cc/cdn/huya/26355796.flv
-说英雄谁是英雄,https://www.goodiptv.club/huya/11601979#https://live.ottiptv.cc/huya/11601979#http://cfss.cc/cdn/huya/11601979.flv
-雪中悍刀行,https://www.goodiptv.club/huya/11336592#https://live.ottiptv.cc/huya/11336592#http://cfss.cc/cdn/huya/11336592.flv
-新白娘子传奇,https://www.goodiptv.club/huya/26355768#https://live.ottiptv.cc/huya/26355768#http://cfss.cc/cdn/huya/26355768.flv
-流星蝴蝶剑,https://www.goodiptv.club/huya/11342420#https://live.ottiptv.cc/huya/11342420#http://cfss.cc/cdn/huya/11342420.flv
-香蜜沉沉烬如霜,https://www.goodiptv.club/huya/30080182#https://live.ottiptv.cc/huya/30080182#http://cfss.cc/cdn/huya/30080182.flv
-红高粱,https://www.goodiptv.club/huya/20969131#https://live.ottiptv.cc/huya/20969131#http://cfss.cc/cdn/huya/20969131.flv
-乔家的儿女,https://www.goodiptv.club/huya/29982622#https://live.ottiptv.cc/huya/29982622#http://cfss.cc/cdn/huya/29982622.flv
-小鱼儿与花无缺,https://www.goodiptv.club/huya/29465867#https://live.ottiptv.cc/huya/29465867#http://cfss.cc/cdn/huya/29465867.flv
-超级交通站,https://www.goodiptv.club/huya/11342433#https://live.ottiptv.cc/huya/11342433#http://cfss.cc/cdn/huya/11342433.flv
-延禧攻略,https://www.goodiptv.club/huya/26355864#https://live.ottiptv.cc/huya/26355864#http://cfss.cc/cdn/huya/26355864.flv
-想见你,https://www.goodiptv.club/huya/22360453#https://live.ottiptv.cc/huya/22360453#http://cfss.cc/cdn/huya/22360453.flv
-光荣时代,https://www.goodiptv.club/huya/30080193#https://live.ottiptv.cc/huya/30080193#http://cfss.cc/cdn/huya/30080193.flv
-我是大哥大,https://www.goodiptv.club/huya/23734196#https://live.ottiptv.cc/huya/23734196#http://cfss.cc/cdn/huya/23734196.flv
-僵尸国度,https://www.goodiptv.club/huya/11352947#https://live.ottiptv.cc/huya/11352947#http://cfss.cc/cdn/huya/11352947.flv
-SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/huya/11352937#http://cfss.cc/cdn/huya/11352937.flv
-雪鹰领主,https://www.goodiptv.club/huya/11352895#https://live.ottiptv.cc/huya/11352895#http://cfss.cc/cdn/huya/11352895.flv
-盗墓笔记之怒海潜沙&秦岭神树,https://www.goodiptv.club/huya/11342415#https://live.ottiptv.cc/huya/11342415#http://cfss.cc/cdn/huya/11342415.flv
-炎热夏阳柔和直播间,https://www.goodiptv.club/huya/30252446#https://live.ottiptv.cc/huya/30252446#http://cfss.cc/cdn/huya/30252446.flv
-越狱完整版1-5季,https://www.goodiptv.club/huya/30782327#https://live.ottiptv.cc/huya/30782327#http://cfss.cc/cdn/huya/30782327.flv
-天赐声音5,https://www.goodiptv.club/huya/30080249#https://live.ottiptv.cc/huya/30080249#http://cfss.cc/cdn/huya/30080249.flv
-青环1-5,https://www.goodiptv.club/huya/30080246#https://live.ottiptv.cc/huya/30080246#http://cfss.cc/cdn/huya/30080246.flv
-老梁故事汇,https://www.goodiptv.club/huya/30298239#https://live.ottiptv.cc/huya/30298239#http://cfss.cc/cdn/huya/30298239.flv
-脱口秀,https://www.goodiptv.club/huya/11352875#https://live.ottiptv.cc/huya/11352875#http://cfss.cc/cdn/huya/11352875.flv
-王牌综艺,https://www.goodiptv.club/huya/29982625#https://live.ottiptv.cc/huya/29982625#http://cfss.cc/cdn/huya/29982625.flv
-欢乐喜剧人第七季,https://www.goodiptv.club/huya/30080194#https://live.ottiptv.cc/huya/30080194#http://cfss.cc/cdn/huya/30080194.flv
-中国通史,https://live.188766.xyz/huya/20985822#https://live.ottiptv.cc/huya/20985822#http://cfss.cc/cdn/huya/20985822.flv
-宝藏,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
-重温春晚爆笑经典小品,https://www.goodiptv.club/huya/11602068#https://live.ottiptv.cc/huya/11602068#http://cfss.cc/cdn/huya/11602068.flv
-英雄联盟赛事,https://www.goodiptv.club/huya/660000#https://live.ottiptv.cc/huya/660000#http://cfss.cc/cdn/huya/660000.flv
-永劫无间赛事,https://www.goodiptv.club/huya/660115#https://live.ottiptv.cc/huya/660115#http://cfss.cc/cdn/huya/660115.flv
-王者荣耀赛事,https://www.goodiptv.club/huya/660002#https://live.ottiptv.cc/huya/660002#http://cfss.cc/cdn/huya/660002.flv
-穿越火线赛事,https://www.goodiptv.club/huya/660101#https://live.ottiptv.cc/huya/660101#http://cfss.cc/cdn/huya/660101.flv
-和平精英官方赛事,https://www.goodiptv.club/huya/660006#https://live.ottiptv.cc/huya/660006#http://cfss.cc/cdn/huya/660006.flv
-使命召唤大师赛,https://www.goodiptv.club/huya/11718629#https://live.ottiptv.cc/huya/11718629#http://cfss.cc/cdn/huya/11718629.flv
-中式台球,https://www.goodiptv.club/huya/880236#https://live.ottiptv.cc/huya/880236#http://cfss.cc/cdn/huya/880236.flv
-斯诺克1,https://www.goodiptv.club/huya/880625#https://live.ottiptv.cc/huya/880625#http://cfss.cc/cdn/huya/880625.flv
-斯诺克2,https://www.goodiptv.club/huya/149671#https://live.ottiptv.cc/huya/149671#http://cfss.cc/cdn/huya/149671.flv
-斯诺克3,https://www.goodiptv.club/huya/25526883#https://live.ottiptv.cc/huya/25526883#http://cfss.cc/cdn/huya/25526883.flv
-斯诺克4,https://www.goodiptv.club/huya/253859#https://live.ottiptv.cc/huya/253859#http://cfss.cc/cdn/huya/253859.flv
-羽毛球比赛,https://www.goodiptv.club/huya/30862938#https://live.ottiptv.cc/huya/30862938#http://cfss.cc/cdn/huya/30862938.flv
-虎牙乒乓球,https://www.goodiptv.club/huya/18152390#https://live.ottiptv.cc/huya/18152390#http://cfss.cc/cdn/huya/18152390.flv
-最强大脑7-12季,https://www.goodiptv.club/huya/29465880#https://live.ottiptv.cc/huya/29465880#http://cfss.cc/cdn/huya/29465880.flv
-狼人杀游戏1,https://www.goodiptv.club/huya/28092035#https://live.ottiptv.cc/huya/28092035#http://cfss.cc/cdn/huya/28092035.flv
-狼人杀游戏2,https://www.goodiptv.club/huya/30360763#https://live.ottiptv.cc/huya/30360763#http://cfss.cc/cdn/huya/30360763.flv
-狼人杀游戏3,https://www.goodiptv.club/huya/24231328#https://live.ottiptv.cc/huya/24231328#http://cfss.cc/cdn/huya/24231328.flv
-明星大侦探,https://www.goodiptv.club/huya/20969140#https://live.ottiptv.cc/huya/20969140#http://cfss.cc/cdn/huya/20969140.flv
-百家讲坛之易中天品三国,https://www.goodiptv.club/huya/11602032#https://live.ottiptv.cc/huya/11602032#http://cfss.cc/cdn/huya/11602032.flv
-奔跑吧，兄弟,https://www.goodiptv.club/huya/29465870#https://live.ottiptv.cc/huya/29465870#http://cfss.cc/cdn/huya/29465870.flv
-三国杀游戏1,https://www.goodiptv.club/huya/721954#https://live.ottiptv.cc/huya/721954#http://cfss.cc/cdn/huya/721954.flv
-三国杀游戏2,https://www.goodiptv.club/huya/103329#https://live.ottiptv.cc/huya/103329#http://cfss.cc/cdn/huya/103329.flv
-三国杀游戏3,https://www.goodiptv.club/huya/769178#https://live.ottiptv.cc/huya/769178#http://cfss.cc/cdn/huya/769178.flv
-三国杀游戏4,https://www.goodiptv.club/huya/19562307#https://live.ottiptv.cc/huya/19562307#http://cfss.cc/cdn/huya/19562307.flv
-三国杀游戏5,https://www.goodiptv.club/huya/23872019#https://live.ottiptv.cc/huya/23872019#http://cfss.cc/cdn/huya/23872019.flv
-三国杀游戏6,https://www.goodiptv.club/huya/24790642#https://live.ottiptv.cc/huya/24790642#http://cfss.cc/cdn/huya/24790642.flv
-火影手游1,https://www.goodiptv.club/huya/16327600#https://live.ottiptv.cc/huya/16327600#http://cfss.cc/cdn/huya/16327600.flv
-火影手游2,https://www.goodiptv.club/huya/30167478#https://live.ottiptv.cc/huya/30167478#http://cfss.cc/cdn/huya/30167478.flv
-火影手游3,https://www.goodiptv.club/huya/660148#https://live.ottiptv.cc/huya/660148#http://cfss.cc/cdn/huya/660148.flv
-奥特曼格斗游戏,https://www.goodiptv.club/huya/23322524#https://live.ottiptv.cc/huya/23322524#http://cfss.cc/cdn/huya/23322524.flv
-奥特曼：怪兽农场游戏,https://www.goodiptv.club/huya/24723851#https://live.ottiptv.cc/huya/24723851#http://cfss.cc/cdn/huya/24723851.flv
-拳皇97-1,https://www.goodiptv.club/huya/10799883#https://live.ottiptv.cc/huya/10799883#http://cfss.cc/cdn/huya/10799883.flv
-拳皇97-2,https://www.goodiptv.club/huya/30955971#https://live.ottiptv.cc/huya/30955971#http://cfss.cc/cdn/huya/30955971.flv
-拳皇98-1,https://www.goodiptv.club/huya/17167271#https://live.ottiptv.cc/huya/17167271#http://cfss.cc/cdn/huya/17167271.flv
-拳皇98-2,https://www.goodiptv.club/huya/24723921#https://live.ottiptv.cc/huya/24723921#http://cfss.cc/cdn/huya/24723921.flv
-壹车的直播间,https://www.goodiptv.club/huya/20969124#https://live.ottiptv.cc/huya/20969124#http://cfss.cc/cdn/huya/20969124.flv
-让人痴迷的F1赛车,https://www.goodiptv.club/huya/23734243#https://live.ottiptv.cc/huya/23734243#http://cfss.cc/cdn/huya/23734243.flv
+西游记续集,https://www.goodiptv.club/huya/20985836#https://www.goodiptv.club/huya/20985836#http://cfss.cc/cdn/huya/20985836.flv
+西游记-港剧1,https://www.goodiptv.club/huya/29465860#https://www.goodiptv.club/huya/29465860#http://cfss.cc/cdn/huya/29465860.flv
+西游记-港剧2,https://www.goodiptv.club/huya/23829447#https://www.goodiptv.club/huya/23829447#http://cfss.cc/cdn/huya/23829447.flv
+西游记-港剧3,https://www.goodiptv.club/huya/29465859#https://www.goodiptv.club/huya/29465859#http://cfss.cc/cdn/huya/29465859.flv
+传奇皇帝朱元璋,https://www.goodiptv.club/huya/29982665#https://www.goodiptv.club/huya/29982665#http://cfss.cc/cdn/huya/29982665.flv
+豆瓣9.3分神剧,https://www.goodiptv.club/huya/20432223#https://www.goodiptv.club/huya/20432223#http://cfss.cc/cdn/huya/20432223.flv
+花木兰,https://www.goodiptv.club/huya/30080178#https://www.goodiptv.club/huya/30080178#http://cfss.cc/cdn/huya/30080178.flv
+星汉灿烂,https://www.goodiptv.club/huya/11336591#https://www.goodiptv.club/huya/11336591#http://cfss.cc/cdn/huya/11336591.flv
+悬崖,https://www.goodiptv.club/huya/21059620#https://www.goodiptv.club/huya/21059620#http://cfss.cc/cdn/huya/21059620.flv
+法证先锋4,https://www.goodiptv.club/huya/29982617#https://www.goodiptv.club/huya/29982617#http://cfss.cc/cdn/huya/29982617.flv
+少年天子,https://www.goodiptv.club/huya/29982640#https://www.goodiptv.club/huya/29982640#http://cfss.cc/cdn/huya/29982640.flv
+水浒传,https://www.goodiptv.club/huya/26355860#https://www.goodiptv.club/huya/26355860#http://cfss.cc/cdn/huya/26355860.flv
+犀利仁师,https://www.goodiptv.club/huya/23865036#https://www.goodiptv.club/huya/23865036#http://cfss.cc/cdn/huya/23865036.flv
+征服,https://www.goodiptv.club/huya/30311494#https://www.goodiptv.club/huya/30311494#http://cfss.cc/cdn/huya/30311494.flv
+扫黑风暴,https://www.goodiptv.club/huya/11342404#https://www.goodiptv.club/huya/11342404#http://cfss.cc/cdn/huya/11342404.flv
+摩天大楼,https://www.goodiptv.club/huya/651536#https://www.goodiptv.club/huya/651536#http://cfss.cc/cdn/huya/651536.flv
+新洛神,https://www.goodiptv.club/huya/21241770#https://www.goodiptv.club/huya/21241770#http://cfss.cc/cdn/huya/21241770.flv
+港剧,https://www.goodiptv.club/huya/23734256#https://www.goodiptv.club/huya/23734256#http://cfss.cc/cdn/huya/23734256.flv
+影视剧,https://www.goodiptv.club/huya/30158546#https://www.goodiptv.club/huya/30158546#http://cfss.cc/cdn/huya/30158546.flv
+菲菲影视剧,https://www.goodiptv.club/huya/30671959#https://www.goodiptv.club/huya/30671959#http://cfss.cc/cdn/huya/30671959.flv
+风声,https://www.goodiptv.club/huya/21059605#https://www.goodiptv.club/huya/21059605#http://cfss.cc/cdn/huya/21059605.flv
+泡沫之夏--徐熙媛,https://www.goodiptv.club/huya/20985840#https://www.goodiptv.club/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
+快乐星球,https://www.goodiptv.club/huya/21059600#https://www.goodiptv.club/huya/21059600#http://cfss.cc/cdn/huya/21059600.flv
+微微一笑很倾城,https://www.goodiptv.club/huya/26355857#https://www.goodiptv.club/huya/26355857#http://cfss.cc/cdn/huya/26355857.flv
+长大的我们,https://www.goodiptv.club/huya/30080176#https://www.goodiptv.club/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
+你是我的眼,https://www.goodiptv.club/huya/20985766#https://www.goodiptv.club/huya/20985766#http://cfss.cc/cdn/huya/20985766.flv
+粉红女郎,https://www.goodiptv.club/huya/26355794#https://www.goodiptv.club/huya/26355794#http://cfss.cc/cdn/huya/26355794.flv
+闪灵探案,https://www.goodiptv.club/huya/26355801#https://www.goodiptv.club/huya/26355801#http://cfss.cc/cdn/huya/26355801.flv
+魔幻手机,https://www.goodiptv.club/huya/11352966#https://www.goodiptv.club/huya/11352966#http://cfss.cc/cdn/huya/11352966.flv
+李卫当官,https://www.goodiptv.club/huya/26355788#https://www.goodiptv.club/huya/26355788#http://cfss.cc/cdn/huya/26355788.flv
+乌龙院闯情关,https://www.goodiptv.club/huya/26355767#https://www.goodiptv.club/huya/26355767#http://cfss.cc/cdn/huya/26355767.flv
+狄仁杰系列,https://www.goodiptv.club/huya/30080229#https://www.goodiptv.club/huya/30080229#http://cfss.cc/cdn/huya/30080229.flv
+新雪豹,https://www.goodiptv.club/huya/29580970#https://www.goodiptv.club/huya/29580970#http://cfss.cc/cdn/huya/29580970.flv
+终极一班,https://www.goodiptv.club/huya/21059610#https://www.goodiptv.club/huya/21059610#http://cfss.cc/cdn/huya/21059610.flv
+终极三国,https://www.goodiptv.club/huya/21059562#https://www.goodiptv.club/huya/21059562#http://cfss.cc/cdn/huya/21059562.flv
+编辑部的故事,https://www.goodiptv.club/huya/21059591#https://www.goodiptv.club/huya/21059591#http://cfss.cc/cdn/huya/21059591.flv
+炊事班的故事第三部,https://www.goodiptv.club/huya/19524135#https://www.goodiptv.club/huya/19524135#http://cfss.cc/cdn/huya/19524135.flv
+特工卡特第一季,https://www.goodiptv.club/huya/11352961#https://www.goodiptv.club/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
+韩国电影,https://www.goodiptv.club/huya/11352884#https://www.goodiptv.club/huya/11352884#http://cfss.cc/cdn/huya/11352884.flv
+全职高手,https://www.goodiptv.club/huya/11352901#https://www.goodiptv.club/huya/11352901#http://cfss.cc/cdn/huya/11352901.flv
+太极宗师,https://www.goodiptv.club/huya/11342438#https://www.goodiptv.club/huya/11342438#http://cfss.cc/cdn/huya/11342438.flv
+武林宗师梁小龙,https://www.goodiptv.club/huya/20985775#https://www.goodiptv.club/huya/20985775#http://cfss.cc/cdn/huya/20985775.flv
+周星驰系列,https://www.goodiptv.club/huya/11342412#https://www.goodiptv.club/huya/11342412#http://cfss.cc/cdn/huya/11342412.flv
+周海媚系列,https://www.goodiptv.club/huya/11279247#https://www.goodiptv.club/huya/11279247#http://cfss.cc/cdn/huya/11279247.flv
+沈腾系列,https://www.goodiptv.club/huya/11601968#https://www.goodiptv.club/huya/11601968#http://cfss.cc/cdn/huya/11601968.flv
+杰森·斯坦森系列,https://www.goodiptv.club/huya/21059588#https://www.goodiptv.club/huya/21059588#http://cfss.cc/cdn/huya/21059588.flv
+曾江系列,https://www.goodiptv.club/huya/11601981#https://www.goodiptv.club/huya/11601981#http://cfss.cc/cdn/huya/11601981.flv
+徐峥黄渤系列,https://www.goodiptv.club/huya/11352876#https://www.goodiptv.club/huya/11352876#http://cfss.cc/cdn/huya/11352876.flv
+史泰龙系列,https://www.goodiptv.club/huya/23863822#https://www.goodiptv.club/huya/23863822#http://cfss.cc/cdn/huya/23863822.flv
+梁家辉系列,https://www.goodiptv.club/huya/11342429#https://www.goodiptv.club/huya/11342429#http://cfss.cc/cdn/huya/11342429.flv
+周润发系列1,https://www.goodiptv.club/huya/11342387#https://www.goodiptv.club/huya/11342387#http://cfss.cc/cdn/huya/11342387.flv
+周润发系列2,https://www.goodiptv.club/huya/621378#https://www.goodiptv.club/huya/621378#http://cfss.cc/cdn/huya/621378.flv
+甄子丹系列,https://www.goodiptv.club/huya/11352935#https://www.goodiptv.club/huya/11352935#http://cfss.cc/cdn/huya/11352935.flv
+李连杰系列1,https://www.goodiptv.club/huya/11342390#https://www.goodiptv.club/huya/11342390#http://cfss.cc/cdn/huya/11342390.flv
+李连杰系列2,https://www.goodiptv.club/huya/138531#https://www.goodiptv.club/huya/138531#http://cfss.cc/cdn/huya/138531.flv
+洪金宝系列,https://www.goodiptv.club/huya/11279251#https://www.goodiptv.club/huya/11279251#http://cfss.cc/cdn/huya/11279251.flv
+成龙系列1,https://www.goodiptv.club/huya/11342386#https://www.goodiptv.club/huya/11342386#http://cfss.cc/cdn/huya/11342386.flv
+成龙系列2,https://www.goodiptv.club/huya/30403502#https://www.goodiptv.club/huya/30403502#http://cfss.cc/cdn/huya/30403502.flv
+成龙系列3,https://www.goodiptv.club/huya/29835225#https://www.goodiptv.club/huya/29835225#http://cfss.cc/cdn/huya/29835225.flv
+王宝强系列,https://www.goodiptv.club/huya/30080251#https://www.goodiptv.club/huya/30080251#http://cfss.cc/cdn/huya/30080251.flv
+007动作大片系列,https://www.goodiptv.club/huya/21059585#https://www.goodiptv.club/huya/21059585#http://cfss.cc/cdn/huya/21059585.flv
+古天乐系列,https://www.goodiptv.club/huya/29982675#https://www.goodiptv.club/huya/29982675#http://cfss.cc/cdn/huya/29982675.flv
+葛优系列,https://www.goodiptv.club/huya/29982661#https://www.goodiptv.club/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
+张家辉系列,https://www.goodiptv.club/huya/21241807#https://www.goodiptv.club/huya/21241807#http://cfss.cc/cdn/huya/21241807.flv
+敢死队,https://www.goodiptv.club/huya/23864973#https://www.goodiptv.club/huya/23864973#http://cfss.cc/cdn/huya/23864973.flv
+一起同过窗,https://www.goodiptv.club/huya/30080228#https://www.goodiptv.club/huya/30080228#http://cfss.cc/cdn/huya/30080228.flv
+猎罪图鉴,https://www.goodiptv.club/huya/11601962#https://www.goodiptv.club/huya/11601962#http://cfss.cc/cdn/huya/11601962.flv
+漫长的季节,https://www.goodiptv.club/huya/11342393#https://www.goodiptv.club/huya/11342393#http://cfss.cc/cdn/huya/11342393.flv
+乡村爱情,https://www.goodiptv.club/huya/30080255#https://www.goodiptv.club/huya/30080255#http://cfss.cc/cdn/huya/30080255.flv
+怪侠欧阳德,https://www.goodiptv.club/huya/29982629#https://www.goodiptv.club/huya/29982629#http://cfss.cc/cdn/huya/29982629.flv
+情满四合院,https://www.goodiptv.club/huya/11342426#https://www.goodiptv.club/huya/11342426#http://cfss.cc/cdn/huya/11342426.flv
+铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396#https://www.goodiptv.club/huya/11342396#http://cfss.cc/cdn/huya/11342396.flv#https://www.goodiptv.club/huya/25701671#https://www.goodiptv.club/huya/25701671#http://cfss.cc/cdn/huya/25701671.flv
+康熙微服私访记,https://www.goodiptv.club/huya/11342418#https://www.goodiptv.club/huya/11342418#http://cfss.cc/cdn/huya/11342418.flv
+康熙大帝,https://www.goodiptv.club/huya/11352940#https://www.goodiptv.club/huya/11352940#http://cfss.cc/cdn/huya/11352940.flv
+穆桂英挂帅,https://www.goodiptv.club/huya/30080248#https://www.goodiptv.club/huya/30080248#http://cfss.cc/cdn/huya/30080248.flv
+新九品芝麻官,https://www.goodiptv.club/huya/29465891#https://www.goodiptv.club/huya/29465891#http://cfss.cc/cdn/huya/29465891.flv
+绝代双骄,https://www.goodiptv.club/huya/29982627#https://www.goodiptv.club/huya/29982627#http://cfss.cc/cdn/huya/29982627.flv
+江湖小子,https://www.goodiptv.club/huya/29465890#https://www.goodiptv.club/huya/29465890#http://cfss.cc/cdn/huya/29465890.flv
+东游记,https://www.goodiptv.club/huya/20969135#https://www.goodiptv.club/huya/20969135#http://cfss.cc/cdn/huya/20969135.flv
+芈月传,https://www.goodiptv.club/huya/26355775#https://www.goodiptv.club/huya/26355775#http://cfss.cc/cdn/huya/26355775.flv
+新水浒传,https://www.goodiptv.club/huya/11342384#https://www.goodiptv.club/huya/11342384#http://cfss.cc/cdn/huya/11342384.flv
+倚天屠龙记-苏有朋,https://www.goodiptv.club/huya/11342403#https://www.goodiptv.club/huya/11342403#http://cfss.cc/cdn/huya/11342403.flv
+倚天屠龙记-邓超,https://www.goodiptv.club/huya/30080143#https://www.goodiptv.club/huya/30080143#http://cfss.cc/cdn/huya/30080143.flv
+倚天屠龙记-吴启华,https://www.goodiptv.club/huya/21241819#https://www.goodiptv.club/huya/21241819#http://cfss.cc/cdn/huya/21241819.flv
+笑傲江湖--李亚鹏,https://www.goodiptv.club/huya/26355790#https://www.goodiptv.club/huya/26355790#http://cfss.cc/cdn/huya/26355790.flv
+笑傲江湖-霍建华,https://www.goodiptv.club/huya/26355858#https://www.goodiptv.club/huya/26355858#http://cfss.cc/cdn/huya/26355858.flv
+笑傲江湖-吕颂贤,https://www.goodiptv.club/huya/20985791#https://www.goodiptv.club/huya/20985791#http://cfss.cc/cdn/huya/20985791.flv
+鹿鼎记-黄晓明,https://www.goodiptv.club/huya/11342388#https://www.goodiptv.club/huya/11342388#http://cfss.cc/cdn/huya/11342388.flv
+鹿鼎记-陈小春,https://www.goodiptv.club/huya/23650774#https://www.goodiptv.club/huya/23650774#http://cfss.cc/cdn/huya/23650774.flv
+鹿鼎记-梁朝伟,https://www.goodiptv.club/huya/21059597#https://www.goodiptv.club/huya/21059597#http://cfss.cc/cdn/huya/21059597.flv
+射雕英雄传-张智霖,https://www.goodiptv.club/huya/20969099#https://www.goodiptv.club/huya/20969099#http://cfss.cc/cdn/huya/20969099.flv
+神雕侠侣-陈妍希,https://www.goodiptv.club/huya/11352964#https://www.goodiptv.club/huya/11352964#http://cfss.cc/cdn/huya/11352964.flv
+神雕侠侣-刘德华,https://www.goodiptv.club/huya/30080191#https://www.goodiptv.club/huya/30080191#http://cfss.cc/cdn/huya/30080191.flv
+雪山飞狐-黄日华,https://www.goodiptv.club/huya/23734176#https://www.goodiptv.club/huya/23734176#http://cfss.cc/cdn/huya/23734176.flv
+03版天龙八部,https://www.goodiptv.club/huya/20985816#https://www.goodiptv.club/huya/20985816#http://cfss.cc/cdn/huya/20985816.flv
+89版侠客行,https://www.goodiptv.club/huya/29982656#https://www.goodiptv.club/huya/29982656#http://cfss.cc/cdn/huya/29982656.flv
+95版武则天,https://www.goodiptv.club/huya/20969136#https://www.goodiptv.club/huya/20969136#http://cfss.cc/cdn/huya/20969136.flv
+大染坊,https://www.goodiptv.club/huya/11602086#https://www.goodiptv.club/huya/11602086#http://cfss.cc/cdn/huya/11602086.flv
+大盛魁,https://www.goodiptv.club/huya/30292086#https://www.goodiptv.club/huya/30292086#http://cfss.cc/cdn/huya/30292086.flv
+龙门镖局,https://www.goodiptv.club/huya/11352874#https://www.goodiptv.club/huya/11352874#http://cfss.cc/cdn/huya/11352874.flv
+小李飞刀,https://www.goodiptv.club/huya/11342417#https://www.goodiptv.club/huya/11342417#http://cfss.cc/cdn/huya/11342417.flv
+花姑子,https://www.goodiptv.club/huya/21059575#https://www.goodiptv.club/huya/21059575#http://cfss.cc/cdn/huya/21059575.flv
+宝莲灯,https://www.goodiptv.club/huya/21059563#https://www.goodiptv.club/huya/21059563#http://cfss.cc/cdn/huya/21059563.flv
+天地传说之宝莲灯,https://www.goodiptv.club/huya/24517063#https://www.goodiptv.club/huya/24517063#http://cfss.cc/cdn/huya/24517063.flv
+济公,https://www.goodiptv.club/huya/29982613#https://www.goodiptv.club/huya/29982613#http://cfss.cc/cdn/huya/29982613.flv
+活佛济公,https://www.goodiptv.club/huya/29465878#https://www.goodiptv.club/huya/29465878#http://cfss.cc/cdn/huya/29465878.flv
+活佛济公1-3,https://www.goodiptv.club/huya/26355765#https://www.goodiptv.club/huya/26355765#http://cfss.cc/cdn/huya/26355765.flv
+活佛济公3,https://www.goodiptv.club/huya/23903123#https://www.goodiptv.club/huya/23903123#http://cfss.cc/cdn/huya/23903123.flv
+医馆笑传,https://www.goodiptv.club/huya/11352891#https://www.goodiptv.club/huya/11352891#http://cfss.cc/cdn/huya/11352891.flv
+汉武大帝,https://www.goodiptv.club/huya/26355859#https://www.goodiptv.club/huya/26355859#http://cfss.cc/cdn/huya/26355859.flv
+忽必烈传奇,https://www.goodiptv.club/huya/30344039#https://www.goodiptv.club/huya/30344039#http://cfss.cc/cdn/huya/30344039.flv
+少年张三丰,https://www.goodiptv.club/huya/26355824#https://www.goodiptv.club/huya/26355824#http://cfss.cc/cdn/huya/26355824.flv
+少林寺传奇,https://www.goodiptv.club/huya/30310431#https://www.goodiptv.club/huya/30310431#http://cfss.cc/cdn/huya/30310431.flv
+女医明妃传,https://www.goodiptv.club/huya/26355760#https://www.goodiptv.club/huya/26355760#http://cfss.cc/cdn/huya/26355760.flv
+且试天下,https://www.goodiptv.club/huya/21059630#https://www.goodiptv.club/huya/21059630#http://cfss.cc/cdn/huya/21059630.flv
+天下无双,https://www.goodiptv.club/huya/26355796#https://www.goodiptv.club/huya/26355796#http://cfss.cc/cdn/huya/26355796.flv
+说英雄谁是英雄,https://www.goodiptv.club/huya/11601979#https://www.goodiptv.club/huya/11601979#http://cfss.cc/cdn/huya/11601979.flv
+雪中悍刀行,https://www.goodiptv.club/huya/11336592#https://www.goodiptv.club/huya/11336592#http://cfss.cc/cdn/huya/11336592.flv
+新白娘子传奇,https://www.goodiptv.club/huya/26355768#https://www.goodiptv.club/huya/26355768#http://cfss.cc/cdn/huya/26355768.flv
+流星蝴蝶剑,https://www.goodiptv.club/huya/11342420#https://www.goodiptv.club/huya/11342420#http://cfss.cc/cdn/huya/11342420.flv
+香蜜沉沉烬如霜,https://www.goodiptv.club/huya/30080182#https://www.goodiptv.club/huya/30080182#http://cfss.cc/cdn/huya/30080182.flv
+红高粱,https://www.goodiptv.club/huya/20969131#https://www.goodiptv.club/huya/20969131#http://cfss.cc/cdn/huya/20969131.flv
+乔家的儿女,https://www.goodiptv.club/huya/29982622#https://www.goodiptv.club/huya/29982622#http://cfss.cc/cdn/huya/29982622.flv
+小鱼儿与花无缺,https://www.goodiptv.club/huya/29465867#https://www.goodiptv.club/huya/29465867#http://cfss.cc/cdn/huya/29465867.flv
+超级交通站,https://www.goodiptv.club/huya/11342433#https://www.goodiptv.club/huya/11342433#http://cfss.cc/cdn/huya/11342433.flv
+延禧攻略,https://www.goodiptv.club/huya/26355864#https://www.goodiptv.club/huya/26355864#http://cfss.cc/cdn/huya/26355864.flv
+想见你,https://www.goodiptv.club/huya/22360453#https://www.goodiptv.club/huya/22360453#http://cfss.cc/cdn/huya/22360453.flv
+光荣时代,https://www.goodiptv.club/huya/30080193#https://www.goodiptv.club/huya/30080193#http://cfss.cc/cdn/huya/30080193.flv
+我是大哥大,https://www.goodiptv.club/huya/23734196#https://www.goodiptv.club/huya/23734196#http://cfss.cc/cdn/huya/23734196.flv
+僵尸国度,https://www.goodiptv.club/huya/11352947#https://www.goodiptv.club/huya/11352947#http://cfss.cc/cdn/huya/11352947.flv
+SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://www.goodiptv.club/huya/11352937#http://cfss.cc/cdn/huya/11352937.flv
+雪鹰领主,https://www.goodiptv.club/huya/11352895#https://www.goodiptv.club/huya/11352895#http://cfss.cc/cdn/huya/11352895.flv
+盗墓笔记之怒海潜沙&秦岭神树,https://www.goodiptv.club/huya/11342415#https://www.goodiptv.club/huya/11342415#http://cfss.cc/cdn/huya/11342415.flv
+炎热夏阳柔和直播间,https://www.goodiptv.club/huya/30252446#https://www.goodiptv.club/huya/30252446#http://cfss.cc/cdn/huya/30252446.flv
+越狱完整版1-5季,https://www.goodiptv.club/huya/30782327#https://www.goodiptv.club/huya/30782327#http://cfss.cc/cdn/huya/30782327.flv
+天赐声音5,https://www.goodiptv.club/huya/30080249#https://www.goodiptv.club/huya/30080249#http://cfss.cc/cdn/huya/30080249.flv
+青环1-5,https://www.goodiptv.club/huya/30080246#https://www.goodiptv.club/huya/30080246#http://cfss.cc/cdn/huya/30080246.flv
+老梁故事汇,https://www.goodiptv.club/huya/30298239#https://www.goodiptv.club/huya/30298239#http://cfss.cc/cdn/huya/30298239.flv
+脱口秀,https://www.goodiptv.club/huya/11352875#https://www.goodiptv.club/huya/11352875#http://cfss.cc/cdn/huya/11352875.flv
+王牌综艺,https://www.goodiptv.club/huya/29982625#https://www.goodiptv.club/huya/29982625#http://cfss.cc/cdn/huya/29982625.flv
+欢乐喜剧人第七季,https://www.goodiptv.club/huya/30080194#https://www.goodiptv.club/huya/30080194#http://cfss.cc/cdn/huya/30080194.flv
+中国通史,https://live.188766.xyz/huya/20985822#https://www.goodiptv.club/huya/20985822#http://cfss.cc/cdn/huya/20985822.flv
+宝藏,https://www.goodiptv.club/huya/20985854#https://www.goodiptv.club/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
+重温春晚爆笑经典小品,https://www.goodiptv.club/huya/11602068#https://www.goodiptv.club/huya/11602068#http://cfss.cc/cdn/huya/11602068.flv
+英雄联盟赛事,https://www.goodiptv.club/huya/660000#https://www.goodiptv.club/huya/660000#http://cfss.cc/cdn/huya/660000.flv
+永劫无间赛事,https://www.goodiptv.club/huya/660115#https://www.goodiptv.club/huya/660115#http://cfss.cc/cdn/huya/660115.flv
+王者荣耀赛事,https://www.goodiptv.club/huya/660002#https://www.goodiptv.club/huya/660002#http://cfss.cc/cdn/huya/660002.flv
+穿越火线赛事,https://www.goodiptv.club/huya/660101#https://www.goodiptv.club/huya/660101#http://cfss.cc/cdn/huya/660101.flv
+和平精英官方赛事,https://www.goodiptv.club/huya/660006#https://www.goodiptv.club/huya/660006#http://cfss.cc/cdn/huya/660006.flv
+使命召唤大师赛,https://www.goodiptv.club/huya/11718629#https://www.goodiptv.club/huya/11718629#http://cfss.cc/cdn/huya/11718629.flv
+中式台球,https://www.goodiptv.club/huya/880236#https://www.goodiptv.club/huya/880236#http://cfss.cc/cdn/huya/880236.flv
+斯诺克1,https://www.goodiptv.club/huya/880625#https://www.goodiptv.club/huya/880625#http://cfss.cc/cdn/huya/880625.flv
+斯诺克2,https://www.goodiptv.club/huya/149671#https://www.goodiptv.club/huya/149671#http://cfss.cc/cdn/huya/149671.flv
+斯诺克3,https://www.goodiptv.club/huya/25526883#https://www.goodiptv.club/huya/25526883#http://cfss.cc/cdn/huya/25526883.flv
+斯诺克4,https://www.goodiptv.club/huya/253859#https://www.goodiptv.club/huya/253859#http://cfss.cc/cdn/huya/253859.flv
+羽毛球比赛,https://www.goodiptv.club/huya/30862938#https://www.goodiptv.club/huya/30862938#http://cfss.cc/cdn/huya/30862938.flv
+虎牙乒乓球,https://www.goodiptv.club/huya/18152390#https://www.goodiptv.club/huya/18152390#http://cfss.cc/cdn/huya/18152390.flv
+最强大脑7-12季,https://www.goodiptv.club/huya/29465880#https://www.goodiptv.club/huya/29465880#http://cfss.cc/cdn/huya/29465880.flv
+狼人杀游戏1,https://www.goodiptv.club/huya/28092035#https://www.goodiptv.club/huya/28092035#http://cfss.cc/cdn/huya/28092035.flv
+狼人杀游戏2,https://www.goodiptv.club/huya/30360763#https://www.goodiptv.club/huya/30360763#http://cfss.cc/cdn/huya/30360763.flv
+狼人杀游戏3,https://www.goodiptv.club/huya/24231328#https://www.goodiptv.club/huya/24231328#http://cfss.cc/cdn/huya/24231328.flv
+明星大侦探,https://www.goodiptv.club/huya/20969140#https://www.goodiptv.club/huya/20969140#http://cfss.cc/cdn/huya/20969140.flv
+百家讲坛之易中天品三国,https://www.goodiptv.club/huya/11602032#https://www.goodiptv.club/huya/11602032#http://cfss.cc/cdn/huya/11602032.flv
+奔跑吧，兄弟,https://www.goodiptv.club/huya/29465870#https://www.goodiptv.club/huya/29465870#http://cfss.cc/cdn/huya/29465870.flv
+三国杀游戏1,https://www.goodiptv.club/huya/721954#https://www.goodiptv.club/huya/721954#http://cfss.cc/cdn/huya/721954.flv
+三国杀游戏2,https://www.goodiptv.club/huya/103329#https://www.goodiptv.club/huya/103329#http://cfss.cc/cdn/huya/103329.flv
+三国杀游戏3,https://www.goodiptv.club/huya/769178#https://www.goodiptv.club/huya/769178#http://cfss.cc/cdn/huya/769178.flv
+三国杀游戏4,https://www.goodiptv.club/huya/19562307#https://www.goodiptv.club/huya/19562307#http://cfss.cc/cdn/huya/19562307.flv
+三国杀游戏5,https://www.goodiptv.club/huya/23872019#https://www.goodiptv.club/huya/23872019#http://cfss.cc/cdn/huya/23872019.flv
+三国杀游戏6,https://www.goodiptv.club/huya/24790642#https://www.goodiptv.club/huya/24790642#http://cfss.cc/cdn/huya/24790642.flv
+火影手游1,https://www.goodiptv.club/huya/16327600#https://www.goodiptv.club/huya/16327600#http://cfss.cc/cdn/huya/16327600.flv
+火影手游2,https://www.goodiptv.club/huya/30167478#https://www.goodiptv.club/huya/30167478#http://cfss.cc/cdn/huya/30167478.flv
+火影手游3,https://www.goodiptv.club/huya/660148#https://www.goodiptv.club/huya/660148#http://cfss.cc/cdn/huya/660148.flv
+奥特曼格斗游戏,https://www.goodiptv.club/huya/23322524#https://www.goodiptv.club/huya/23322524#http://cfss.cc/cdn/huya/23322524.flv
+奥特曼：怪兽农场游戏,https://www.goodiptv.club/huya/24723851#https://www.goodiptv.club/huya/24723851#http://cfss.cc/cdn/huya/24723851.flv
+拳皇97-1,https://www.goodiptv.club/huya/10799883#https://www.goodiptv.club/huya/10799883#http://cfss.cc/cdn/huya/10799883.flv
+拳皇97-2,https://www.goodiptv.club/huya/30955971#https://www.goodiptv.club/huya/30955971#http://cfss.cc/cdn/huya/30955971.flv
+拳皇98-1,https://www.goodiptv.club/huya/17167271#https://www.goodiptv.club/huya/17167271#http://cfss.cc/cdn/huya/17167271.flv
+拳皇98-2,https://www.goodiptv.club/huya/24723921#https://www.goodiptv.club/huya/24723921#http://cfss.cc/cdn/huya/24723921.flv
+壹车的直播间,https://www.goodiptv.club/huya/20969124#https://www.goodiptv.club/huya/20969124#http://cfss.cc/cdn/huya/20969124.flv
+让人痴迷的F1赛车,https://www.goodiptv.club/huya/23734243#https://www.goodiptv.club/huya/23734243#http://cfss.cc/cdn/huya/23734243.flv
 
 
 ❤️斗鱼影院,#genre#
-片源多多1,https://live.ottiptv.cc/douyu/7623292#https://live.188766.xyz/douyu/7623292
-片源多多2,https://live.ottiptv.cc/douyu/7476264#https://live.188766.xyz/douyu/7476264
-片源多多3,https://live.ottiptv.cc/douyu/2073#https://live.188766.xyz/douyu/2073
-经典随便放,https://live.ottiptv.cc/douyu/12169420#https://live.188766.xyz/douyu/12169420
-随便播,https://live.ottiptv.cc/douyu/6588759#https://live.188766.xyz/douyu/6588759
-随机连播,https://live.ottiptv.cc/douyu/6369954#https://live.188766.xyz/douyu/6369954
-港剧1,https://live.ottiptv.cc/douyu/4290711#https://live.188766.xyz/douyu/4290711
-港剧2,https://live.ottiptv.cc/douyu/5522351#https://live.188766.xyz/douyu/5522351
-港剧3,https://live.ottiptv.cc/douyu/5261342#https://live.188766.xyz/douyu/5261342
-港剧4,https://live.ottiptv.cc/douyu/11247280#https://live.188766.xyz/douyu/11247280
-港剧5,https://live.ottiptv.cc/douyu/5061550#https://live.188766.xyz/douyu/5061550
-电视剧、电影,https://live.ottiptv.cc/douyu/9838414#https://live.188766.xyz/douyu/9838414
-影视剧,https://live.ottiptv.cc/douyu/9242659#https://live.188766.xyz/douyu/9242659
-贝贝影视,https://live.ottiptv.cc/douyu/431460#https://live.188766.xyz/douyu/431460
-橙記-弹幕看剧间,https://live.ottiptv.cc/douyu/4549169#https://live.188766.xyz/douyu/4549169
-铁甲影院--庆余年,https://live.ottiptv.cc/douyu/1274132#https://live.188766.xyz/douyu/1274132
-庆余年,https://live.ottiptv.cc/douyu/7812810#https://live.188766.xyz/douyu/7812810
-庆余年,https://live.ottiptv.cc/douyu/329876#https://live.188766.xyz/douyu/329876
-经典老剧,https://live.ottiptv.cc/douyu/12015111#https://live.188766.xyz/douyu/12015111
-老剧,https://live.ottiptv.cc/douyu/8543072#https://live.188766.xyz/douyu/8543072
-岁月经典,https://live.ottiptv.cc/douyu/11756388#https://live.188766.xyz/douyu/11756388
-【怡影吧】❤️经典剧集❤️,https://live.ottiptv.cc/douyu/8507544#https://live.188766.xyz/douyu/8507544
-【暧昧】犯我大汉者虽远必诛,https://live.ottiptv.cc/douyu/3134490#https://live.188766.xyz/douyu/3134490
-迷路的挂件直播间,https://live.ottiptv.cc/douyu/12210085#https://live.188766.xyz/douyu/12210085
-爱画画的奶糖直播间,https://live.ottiptv.cc/douyu/4346416#https://live.188766.xyz/douyu/4346416
-傲娇的超级赛亚人直播间,https://live.ottiptv.cc/douyu/4373285#https://live.188766.xyz/douyu/4373285
-光之镇魂曲的特摄动漫直播间,https://live.ottiptv.cc/douyu/12684513#https://live.188766.xyz/douyu/12684513
-烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#https://live.188766.xyz/douyu/11649079
-【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://live.188766.xyz/douyu/323876
-小毅喜剧剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://live.188766.xyz/douyu/11851549
-小毅喜剧剧场--快乐星球1-3,https://live.ottiptv.cc/douyu/1446150#https://live.188766.xyz/douyu/1446150
-小毅喜剧剧场--成长的烦恼,https://live.ottiptv.cc/douyu/12080172#https://live.188766.xyz/douyu/12080172
-【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://live.188766.xyz/douyu/11849873
-【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#https://live.188766.xyz/douyu/1226741
-小猪忧版剧院,https://live.ottiptv.cc/douyu/10297898#https://live.188766.xyz/douyu/10297898
-看看老电影,https://live.ottiptv.cc/douyu/585642#https://live.188766.xyz/douyu/585642
-下饭神剧,https://live.ottiptv.cc/douyu/3700024#https://live.188766.xyz/douyu/3700024
-胡八一冲冲冲的直播间,https://live.ottiptv.cc/douyu/9292503#https://live.188766.xyz/douyu/9292503
-胡八一胖子促发剧情,https://live.ottiptv.cc/douyu/5635000#https://live.188766.xyz/douyu/5635000
-国产青春-动作-喜剧,https://live.ottiptv.cc/douyu/5423#https://live.188766.xyz/douyu/5423
-4K❤电影院❤喜剧悬疑文艺科幻灾难动,https://live.ottiptv.cc/douyu/12192607#https://live.188766.xyz/douyu/12192607
-宅男冰狗直播间,https://live.ottiptv.cc/douyu/1369700#https://live.188766.xyz/douyu/1369700
-深夜D你上高速,https://live.ottiptv.cc/douyu/7882691#https://live.188766.xyz/douyu/7882691
-深夜D你去看剧,https://live.ottiptv.cc/douyu/12434419#https://live.188766.xyz/douyu/12434419
-【刀刀de食堂】点播台,https://live.ottiptv.cc/douyu/6733133#https://live.188766.xyz/douyu/6733133
-荒野大镖客,https://live.ottiptv.cc/douyu/5982597#https://live.188766.xyz/douyu/5982597
-奇兮兮悄陌直播间,https://live.ottiptv.cc/douyu/953193#https://live.188766.xyz/douyu/953193
-【小白影院】60帧 蓝光影院,https://live.ottiptv.cc/douyu/322360#https://live.188766.xyz/douyu/322360
-科幻片,https://live.ottiptv.cc/douyu/10183347#https://live.188766.xyz/douyu/10183347
-豆瓣高分,https://live.ottiptv.cc/douyu/8770422#https://live.188766.xyz/douyu/8770422
-✨神乐✨欧美 电影 科幻 动作 经典喜剧,https://live.ottiptv.cc/douyu/20415#https://live.188766.xyz/douyu/20415
-【港剧/动作】武侠 经典 古装,https://live.ottiptv.cc/douyu/2793084#https://live.188766.xyz/douyu/2793084
-【变种人】除掉任何阻碍我们的人,https://live.ottiptv.cc/douyu/9651304#https://live.188766.xyz/douyu/9651304
-【神乐】华语 经典 电影 沈腾 周杰伦,https://live.ottiptv.cc/douyu/85894#https://live.188766.xyz/douyu/85894
-回忆青春剧场,https://live.ottiptv.cc/douyu/12590736#https://live.188766.xyz/douyu/12590736
-电影天堂,https://live.ottiptv.cc/douyu/3811092#https://live.188766.xyz/douyu/3811092
-酷炫短剧场,https://live.ottiptv.cc/douyu/36337#https://live.188766.xyz/douyu/36337
-悍匪电影,https://live.ottiptv.cc/douyu/922564#https://live.188766.xyz/douyu/922564
-亚洲功夫影片,https://live.ottiptv.cc/douyu/11849283#https://live.188766.xyz/douyu/11849283
-林正英.周星驰.欧美经典片,https://live.ottiptv.cc/douyu/433055#https://live.188766.xyz/douyu/433055
-童年记忆,https://live.ottiptv.cc/douyu/73354#https://live.188766.xyz/douyu/73354
-动作喜剧,https://live.ottiptv.cc/douyu/12421816#https://live.188766.xyz/douyu/12421816
-❤️怡寶❤️影院,https://live.ottiptv.cc/douyu/434971#https://live.188766.xyz/douyu/434971
-喜剧电影专场1,https://live.ottiptv.cc/douyu/9292492#https://live.188766.xyz/douyu/9292492
-喜剧电影专场2,https://live.ottiptv.cc/douyu/9824094#https://live.188766.xyz/douyu/9824094
-【蓝翔】60帧原画电影 华语喜剧,https://live.ottiptv.cc/douyu/276200#https://live.188766.xyz/douyu/276200
-dx雾黎直播间,https://live.ottiptv.cc/douyu/10935839#https://live.188766.xyz/douyu/10935839
-漫威主线剧情最佳电影,https://live.ottiptv.cc/douyu/11673725#https://live.188766.xyz/douyu/11673725
-伊太刀刀的直播间,https://live.ottiptv.cc/douyu/747764#https://live.188766.xyz/douyu/747764
-译制国语影片,https://live.ottiptv.cc/douyu/2436390#https://live.188766.xyz/douyu/2436390
-小毅影院,https://live.ottiptv.cc/douyu/6906628#https://live.188766.xyz/douyu/6906628
-奇光喜剧剧场,https://live.ottiptv.cc/douyu/8009547#https://live.188766.xyz/douyu/8009547
-经典剧场,https://live.ottiptv.cc/douyu/4246519#https://live.188766.xyz/douyu/4246519
-米尼影院,https://live.ottiptv.cc/douyu/7642724#https://live.188766.xyz/douyu/7642724
-特辑电影,https://live.ottiptv.cc/douyu/3637778#https://live.188766.xyz/douyu/3637778
-【贝爷影厅】欧美 科幻 动作 经典 电影,https://live.ottiptv.cc/douyu/252802#https://live.188766.xyz/douyu/252802
-好剧看不停,https://live.ottiptv.cc/douyu/9388938#https://live.188766.xyz/douyu/9388938
-追梦凌宝的直播间,https://live.ottiptv.cc/douyu/1377142#https://live.188766.xyz/douyu/1377142
-【静静】经典影视剧,https://live.ottiptv.cc/douyu/5668371#https://live.188766.xyz/douyu/5668371
-经典高分电影,https://live.ottiptv.cc/douyu/7254536#https://live.188766.xyz/douyu/7254536
-漫威主线剧情,https://live.ottiptv.cc/douyu/6140589#https://live.188766.xyz/douyu/6140589
-一起看新手主播,https://live.ottiptv.cc/douyu/12453761#https://live.188766.xyz/douyu/12453761
-箩卜君直播间,https://live.ottiptv.cc/douyu/7495810#https://live.188766.xyz/douyu/7495810
-【贝爷MAX厅】60帧电影 科幻 动作,https://live.ottiptv.cc/douyu/4332#https://live.188766.xyz/douyu/4332
-Hi欣影厅,https://live.ottiptv.cc/douyu/11996166#https://live.188766.xyz/douyu/11996166
-吃米滴虫,https://live.ottiptv.cc/douyu/315457#https://live.188766.xyz/douyu/315457
-经典影视,https://live.ottiptv.cc/douyu/6091425#https://live.188766.xyz/douyu/6091425
-小鬼影院点播台,https://live.ottiptv.cc/douyu/3928#https://live.188766.xyz/douyu/3928
-【神 剧】的直播间,https://live.ottiptv.cc/douyu/3439096#https://live.188766.xyz/douyu/3439096
-天龙八部、连城诀轮播,https://live.ottiptv.cc/douyu/8166878#https://live.188766.xyz/douyu/8166878
-经典武侠剧,https://live.ottiptv.cc/douyu/11784023#https://live.188766.xyz/douyu/11784023
-金庸武侠剧场,https://live.ottiptv.cc/douyu/9285904#https://live.188766.xyz/douyu/9285904
-李小龙系列,https://live.ottiptv.cc/douyu/8721095#https://live.188766.xyz/douyu/8721095
-家有儿女,https://live.ottiptv.cc/douyu/11827530#https://live.188766.xyz/douyu/11827530
-爱情公寓,https://live.ottiptv.cc/douyu/6863367#https://live.188766.xyz/douyu/6863367#https://live.ottiptv.cc/douyu/4105989#https://live.188766.xyz/douyu/4105989
-太平天国,https://live.ottiptv.cc/douyu/12068394#https://live.188766.xyz/douyu/12068394
-任志飞直播间,https://live.ottiptv.cc/douyu/12501387#https://live.188766.xyz/douyu/12501387
-士兵突击,https://live.ottiptv.cc/douyu/10348728#https://live.188766.xyz/douyu/10348728
-4K超高清影视剧场,https://live.ottiptv.cc/douyu/12632716#https://live.188766.xyz/douyu/12632716
-林正英【久久】下饭电视剧,https://live.ottiptv.cc/douyu/8371123#https://live.188766.xyz/douyu/8371123
-kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://live.188766.xyz/douyu/4579455
-肖胜350的直播间,https://live.ottiptv.cc/douyu/7338853#https://live.188766.xyz/douyu/7338853
-LR1245直播间,https://live.ottiptv.cc/douyu/12534632#https://live.188766.xyz/douyu/12534632
-【默鱼】陪你一起看剧,https://live.ottiptv.cc/douyu/11922242#https://live.188766.xyz/douyu/11922242
-西游记续集,https://live.ottiptv.cc/douyu/3113309#https://live.188766.xyz/douyu/3113309
-西游记港剧,https://live.ottiptv.cc/douyu/10198644#https://live.188766.xyz/douyu/10198644
-射雕英雄传,https://live.ottiptv.cc/douyu/12143858#https://live.188766.xyz/douyu/12143858
-欢乐时光经典剧场,https://live.ottiptv.cc/douyu/755851#https://live.188766.xyz/douyu/755851
-鹿鼎记-陈小春,https://live.ottiptv.cc/douyu/12128227#https://live.188766.xyz/douyu/12128227
-新三国,https://live.ottiptv.cc/douyu/428402#https://live.188766.xyz/douyu/428402#https://live.ottiptv.cc/douyu/12253936#https://live.188766.xyz/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#https://live.188766.xyz/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#https://live.188766.xyz/douyu/12180551#https://live.ottiptv.cc/douyu/10906963#https://live.188766.xyz/douyu/10906963
-三国演义94版,https://live.ottiptv.cc/douyu/12463728#https://live.188766.xyz/douyu/12463728
-神话,https://live.ottiptv.cc/douyu/5448413#https://live.188766.xyz/douyu/5448413
-康熙微服私访记,https://live.ottiptv.cc/douyu/1006179#https://live.188766.xyz/douyu/1006179
-网神影厅,https://live.ottiptv.cc/douyu/508118#https://live.188766.xyz/douyu/508118
-燕双鹰专场,https://live.ottiptv.cc/douyu/11931032#https://live.188766.xyz/douyu/11931032
-神剧,https://live.ottiptv.cc/douyu/5875025#https://live.188766.xyz/douyu/5875025
-神探狄仁杰,https://live.ottiptv.cc/douyu/12442176#https://live.188766.xyz/douyu/12442176#https://live.ottiptv.cc/douyu/11391949#https://live.188766.xyz/douyu/11391949#https://live.188766.xyz/douyu/12183882#https://live.ottiptv.cc/douyu/12183882#https://live.ottiptv.cc/douyu/6027991#https://live.188766.xyz/douyu/6027991#https://live.ottiptv.cc/douyu/12655359#https://live.188766.xyz/douyu/12655359
-大秦帝国,https://live.ottiptv.cc/douyu/9388931#https://live.188766.xyz/douyu/9388931
-顺才少爷,https://live.ottiptv.cc/douyu/10084875#https://live.188766.xyz/douyu/10084875
-炊事班的故事,https://live.ottiptv.cc/douyu/319576#https://live.188766.xyz/douyu/319576
-和平饭店,https://live.ottiptv.cc/douyu/9650782#https://live.188766.xyz/douyu/9650782
-新剧,https://live.ottiptv.cc/douyu/12552495#https://live.188766.xyz/douyu/12552495
-火影手游1,https://live.ottiptv.cc/douyu/11425422#https://live.188766.xyz/douyu/11425422
-火影手游2,https://live.ottiptv.cc/douyu/12267530#https://live.188766.xyz/douyu/12267530
-火影手游3,https://live.ottiptv.cc/douyu/921393#https://live.188766.xyz/douyu/921393
-火影手游4,https://live.ottiptv.cc/douyu/10363686#https://live.188766.xyz/douyu/10363686
-火影手游5,https://live.ottiptv.cc/douyu/12188319#https://live.188766.xyz/douyu/12188319
-狼人杀官方赛事,https://live.ottiptv.cc/douyu/4615959#https://live.188766.xyz/douyu/4615959
-三角洲行动,https://live.ottiptv.cc/douyu/1485743#https://live.188766.xyz/douyu/1485743
-开心麻花---沈腾、马丽经典小品专场,https://live.ottiptv.cc/douyu/10153463#https://live.188766.xyz/douyu/10153463
-宋小宝经典小品,https://live.ottiptv.cc/douyu/9817729#https://live.188766.xyz/douyu/9817729
-贾玲经典小品,https://live.ottiptv.cc/douyu/10419541#https://live.188766.xyz/douyu/10419541
-欢乐小饭米粒儿,https://live.ottiptv.cc/douyu/9403690#https://live.188766.xyz/douyu/9403690
-经典小品,https://live.ottiptv.cc/douyu/9067836#https://live.188766.xyz/douyu/9067836
-许君聪经典小品的直播间,https://live.ottiptv.cc/douyu/10419558#https://live.188766.xyz/douyu/10419558
-搞笑天堂岛,https://live.ottiptv.cc/douyu/6916081#https://live.188766.xyz/douyu/6916081
-多多看车--交通事故,https://live.ottiptv.cc/douyu/4921957#https://live.188766.xyz/douyu/4921957
-开车大神--交通事故,https://live.ottiptv.cc/douyu/9759970#https://live.188766.xyz/douyu/9759970
-备胎说车,https://live.ottiptv.cc/douyu/3783046#https://live.188766.xyz/douyu/3783046
-三国杀游戏1,https://live.ottiptv.cc/douyu/11958868#https://live.188766.xyz/douyu/11958868
-三国杀游戏2,https://live.ottiptv.cc/douyu/7529411#https://live.188766.xyz/douyu/7529411
-象棋1,https://live.ottiptv.cc/douyu/7453312#https://live.188766.xyz/douyu/7453312
-象棋2,https://live.ottiptv.cc/douyu/851040#https://live.188766.xyz/douyu/851040
-JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://live.188766.xyz/douyu/488743
-拳皇97,https://live.ottiptv.cc/douyu/8387733#https://live.188766.xyz/douyu/8387733
-阿七点歌台,https://live.ottiptv.cc/douyu/3186217#https://live.188766.xyz/douyu/3186217
-音乐MV,https://live.ottiptv.cc/douyu/3870925#https://live.188766.xyz/douyu/3870925
-戏曲,https://live.ottiptv.cc/douyu/12091975#https://live.188766.xyz/douyu/12091975
+片源多多1,https://www.goodiptv.club/douyu/7623292#https://live.188766.xyz/douyu/7623292
+片源多多2,https://www.goodiptv.club/douyu/7476264#https://live.188766.xyz/douyu/7476264
+片源多多3,https://www.goodiptv.club/douyu/2073#https://live.188766.xyz/douyu/2073
+经典随便放,https://www.goodiptv.club/douyu/12169420#https://live.188766.xyz/douyu/12169420
+随便播,https://www.goodiptv.club/douyu/6588759#https://live.188766.xyz/douyu/6588759
+随机连播,https://www.goodiptv.club/douyu/6369954#https://live.188766.xyz/douyu/6369954
+港剧1,https://www.goodiptv.club/douyu/4290711#https://live.188766.xyz/douyu/4290711
+港剧2,https://www.goodiptv.club/douyu/5522351#https://live.188766.xyz/douyu/5522351
+港剧3,https://www.goodiptv.club/douyu/5261342#https://live.188766.xyz/douyu/5261342
+港剧4,https://www.goodiptv.club/douyu/11247280#https://live.188766.xyz/douyu/11247280
+港剧5,https://www.goodiptv.club/douyu/5061550#https://live.188766.xyz/douyu/5061550
+电视剧、电影,https://www.goodiptv.club/douyu/9838414#https://live.188766.xyz/douyu/9838414
+影视剧,https://www.goodiptv.club/douyu/9242659#https://live.188766.xyz/douyu/9242659
+贝贝影视,https://www.goodiptv.club/douyu/431460#https://live.188766.xyz/douyu/431460
+橙記-弹幕看剧间,https://www.goodiptv.club/douyu/4549169#https://live.188766.xyz/douyu/4549169
+铁甲影院--庆余年,https://www.goodiptv.club/douyu/1274132#https://live.188766.xyz/douyu/1274132
+庆余年,https://www.goodiptv.club/douyu/7812810#https://live.188766.xyz/douyu/7812810
+庆余年,https://www.goodiptv.club/douyu/329876#https://live.188766.xyz/douyu/329876
+经典老剧,https://www.goodiptv.club/douyu/12015111#https://live.188766.xyz/douyu/12015111
+老剧,https://www.goodiptv.club/douyu/8543072#https://live.188766.xyz/douyu/8543072
+岁月经典,https://www.goodiptv.club/douyu/11756388#https://live.188766.xyz/douyu/11756388
+【怡影吧】❤️经典剧集❤️,https://www.goodiptv.club/douyu/8507544#https://live.188766.xyz/douyu/8507544
+【暧昧】犯我大汉者虽远必诛,https://www.goodiptv.club/douyu/3134490#https://live.188766.xyz/douyu/3134490
+迷路的挂件直播间,https://www.goodiptv.club/douyu/12210085#https://live.188766.xyz/douyu/12210085
+爱画画的奶糖直播间,https://www.goodiptv.club/douyu/4346416#https://live.188766.xyz/douyu/4346416
+傲娇的超级赛亚人直播间,https://www.goodiptv.club/douyu/4373285#https://live.188766.xyz/douyu/4373285
+光之镇魂曲的特摄动漫直播间,https://www.goodiptv.club/douyu/12684513#https://live.188766.xyz/douyu/12684513
+烟雨抚风直播间,https://www.goodiptv.club/douyu/11649079#https://live.188766.xyz/douyu/11649079
+【60帧原画】真的打不服,https://www.goodiptv.club/douyu/323876#https://live.188766.xyz/douyu/323876
+小毅喜剧剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://live.188766.xyz/douyu/11851549
+小毅喜剧剧场--快乐星球1-3,https://www.goodiptv.club/douyu/1446150#https://live.188766.xyz/douyu/1446150
+小毅喜剧剧场--成长的烦恼,https://www.goodiptv.club/douyu/12080172#https://live.188766.xyz/douyu/12080172
+【奇光】终极系列,https://www.goodiptv.club/douyu/11849873#https://live.188766.xyz/douyu/11849873
+【粤语电影】吴孟达 达叔 周星驰 经典,https://www.goodiptv.club/douyu/1226741#https://live.188766.xyz/douyu/1226741
+小猪忧版剧院,https://www.goodiptv.club/douyu/10297898#https://live.188766.xyz/douyu/10297898
+看看老电影,https://www.goodiptv.club/douyu/585642#https://live.188766.xyz/douyu/585642
+下饭神剧,https://www.goodiptv.club/douyu/3700024#https://live.188766.xyz/douyu/3700024
+胡八一冲冲冲的直播间,https://www.goodiptv.club/douyu/9292503#https://live.188766.xyz/douyu/9292503
+胡八一胖子促发剧情,https://www.goodiptv.club/douyu/5635000#https://live.188766.xyz/douyu/5635000
+国产青春-动作-喜剧,https://www.goodiptv.club/douyu/5423#https://live.188766.xyz/douyu/5423
+4K❤电影院❤喜剧悬疑文艺科幻灾难动,https://www.goodiptv.club/douyu/12192607#https://live.188766.xyz/douyu/12192607
+宅男冰狗直播间,https://www.goodiptv.club/douyu/1369700#https://live.188766.xyz/douyu/1369700
+深夜D你上高速,https://www.goodiptv.club/douyu/7882691#https://live.188766.xyz/douyu/7882691
+深夜D你去看剧,https://www.goodiptv.club/douyu/12434419#https://live.188766.xyz/douyu/12434419
+【刀刀de食堂】点播台,https://www.goodiptv.club/douyu/6733133#https://live.188766.xyz/douyu/6733133
+荒野大镖客,https://www.goodiptv.club/douyu/5982597#https://live.188766.xyz/douyu/5982597
+奇兮兮悄陌直播间,https://www.goodiptv.club/douyu/953193#https://live.188766.xyz/douyu/953193
+【小白影院】60帧 蓝光影院,https://www.goodiptv.club/douyu/322360#https://live.188766.xyz/douyu/322360
+科幻片,https://www.goodiptv.club/douyu/10183347#https://live.188766.xyz/douyu/10183347
+豆瓣高分,https://www.goodiptv.club/douyu/8770422#https://live.188766.xyz/douyu/8770422
+✨神乐✨欧美 电影 科幻 动作 经典喜剧,https://www.goodiptv.club/douyu/20415#https://live.188766.xyz/douyu/20415
+【港剧/动作】武侠 经典 古装,https://www.goodiptv.club/douyu/2793084#https://live.188766.xyz/douyu/2793084
+【变种人】除掉任何阻碍我们的人,https://www.goodiptv.club/douyu/9651304#https://live.188766.xyz/douyu/9651304
+【神乐】华语 经典 电影 沈腾 周杰伦,https://www.goodiptv.club/douyu/85894#https://live.188766.xyz/douyu/85894
+回忆青春剧场,https://www.goodiptv.club/douyu/12590736#https://live.188766.xyz/douyu/12590736
+电影天堂,https://www.goodiptv.club/douyu/3811092#https://live.188766.xyz/douyu/3811092
+酷炫短剧场,https://www.goodiptv.club/douyu/36337#https://live.188766.xyz/douyu/36337
+悍匪电影,https://www.goodiptv.club/douyu/922564#https://live.188766.xyz/douyu/922564
+亚洲功夫影片,https://www.goodiptv.club/douyu/11849283#https://live.188766.xyz/douyu/11849283
+林正英.周星驰.欧美经典片,https://www.goodiptv.club/douyu/433055#https://live.188766.xyz/douyu/433055
+童年记忆,https://www.goodiptv.club/douyu/73354#https://live.188766.xyz/douyu/73354
+动作喜剧,https://www.goodiptv.club/douyu/12421816#https://live.188766.xyz/douyu/12421816
+❤️怡寶❤️影院,https://www.goodiptv.club/douyu/434971#https://live.188766.xyz/douyu/434971
+喜剧电影专场1,https://www.goodiptv.club/douyu/9292492#https://live.188766.xyz/douyu/9292492
+喜剧电影专场2,https://www.goodiptv.club/douyu/9824094#https://live.188766.xyz/douyu/9824094
+【蓝翔】60帧原画电影 华语喜剧,https://www.goodiptv.club/douyu/276200#https://live.188766.xyz/douyu/276200
+dx雾黎直播间,https://www.goodiptv.club/douyu/10935839#https://live.188766.xyz/douyu/10935839
+漫威主线剧情最佳电影,https://www.goodiptv.club/douyu/11673725#https://live.188766.xyz/douyu/11673725
+伊太刀刀的直播间,https://www.goodiptv.club/douyu/747764#https://live.188766.xyz/douyu/747764
+译制国语影片,https://www.goodiptv.club/douyu/2436390#https://live.188766.xyz/douyu/2436390
+小毅影院,https://www.goodiptv.club/douyu/6906628#https://live.188766.xyz/douyu/6906628
+奇光喜剧剧场,https://www.goodiptv.club/douyu/8009547#https://live.188766.xyz/douyu/8009547
+经典剧场,https://www.goodiptv.club/douyu/4246519#https://live.188766.xyz/douyu/4246519
+米尼影院,https://www.goodiptv.club/douyu/7642724#https://live.188766.xyz/douyu/7642724
+特辑电影,https://www.goodiptv.club/douyu/3637778#https://live.188766.xyz/douyu/3637778
+【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.goodiptv.club/douyu/252802#https://live.188766.xyz/douyu/252802
+好剧看不停,https://www.goodiptv.club/douyu/9388938#https://live.188766.xyz/douyu/9388938
+追梦凌宝的直播间,https://www.goodiptv.club/douyu/1377142#https://live.188766.xyz/douyu/1377142
+【静静】经典影视剧,https://www.goodiptv.club/douyu/5668371#https://live.188766.xyz/douyu/5668371
+经典高分电影,https://www.goodiptv.club/douyu/7254536#https://live.188766.xyz/douyu/7254536
+漫威主线剧情,https://www.goodiptv.club/douyu/6140589#https://live.188766.xyz/douyu/6140589
+一起看新手主播,https://www.goodiptv.club/douyu/12453761#https://live.188766.xyz/douyu/12453761
+箩卜君直播间,https://www.goodiptv.club/douyu/7495810#https://live.188766.xyz/douyu/7495810
+【贝爷MAX厅】60帧电影 科幻 动作,https://www.goodiptv.club/douyu/4332#https://live.188766.xyz/douyu/4332
+Hi欣影厅,https://www.goodiptv.club/douyu/11996166#https://live.188766.xyz/douyu/11996166
+吃米滴虫,https://www.goodiptv.club/douyu/315457#https://live.188766.xyz/douyu/315457
+经典影视,https://www.goodiptv.club/douyu/6091425#https://live.188766.xyz/douyu/6091425
+小鬼影院点播台,https://www.goodiptv.club/douyu/3928#https://live.188766.xyz/douyu/3928
+【神 剧】的直播间,https://www.goodiptv.club/douyu/3439096#https://live.188766.xyz/douyu/3439096
+天龙八部、连城诀轮播,https://www.goodiptv.club/douyu/8166878#https://live.188766.xyz/douyu/8166878
+经典武侠剧,https://www.goodiptv.club/douyu/11784023#https://live.188766.xyz/douyu/11784023
+金庸武侠剧场,https://www.goodiptv.club/douyu/9285904#https://live.188766.xyz/douyu/9285904
+李小龙系列,https://www.goodiptv.club/douyu/8721095#https://live.188766.xyz/douyu/8721095
+家有儿女,https://www.goodiptv.club/douyu/11827530#https://live.188766.xyz/douyu/11827530
+爱情公寓,https://www.goodiptv.club/douyu/6863367#https://live.188766.xyz/douyu/6863367#https://www.goodiptv.club/douyu/4105989#https://live.188766.xyz/douyu/4105989
+太平天国,https://www.goodiptv.club/douyu/12068394#https://live.188766.xyz/douyu/12068394
+任志飞直播间,https://www.goodiptv.club/douyu/12501387#https://live.188766.xyz/douyu/12501387
+士兵突击,https://www.goodiptv.club/douyu/10348728#https://live.188766.xyz/douyu/10348728
+4K超高清影视剧场,https://www.goodiptv.club/douyu/12632716#https://live.188766.xyz/douyu/12632716
+林正英【久久】下饭电视剧,https://www.goodiptv.club/douyu/8371123#https://live.188766.xyz/douyu/8371123
+kk6506直播间,https://www.goodiptv.club/douyu/4579455#https://live.188766.xyz/douyu/4579455
+肖胜350的直播间,https://www.goodiptv.club/douyu/7338853#https://live.188766.xyz/douyu/7338853
+LR1245直播间,https://www.goodiptv.club/douyu/12534632#https://live.188766.xyz/douyu/12534632
+【默鱼】陪你一起看剧,https://www.goodiptv.club/douyu/11922242#https://live.188766.xyz/douyu/11922242
+西游记续集,https://www.goodiptv.club/douyu/3113309#https://live.188766.xyz/douyu/3113309
+西游记港剧,https://www.goodiptv.club/douyu/10198644#https://live.188766.xyz/douyu/10198644
+射雕英雄传,https://www.goodiptv.club/douyu/12143858#https://live.188766.xyz/douyu/12143858
+欢乐时光经典剧场,https://www.goodiptv.club/douyu/755851#https://live.188766.xyz/douyu/755851
+鹿鼎记-陈小春,https://www.goodiptv.club/douyu/12128227#https://live.188766.xyz/douyu/12128227
+新三国,https://www.goodiptv.club/douyu/428402#https://live.188766.xyz/douyu/428402#https://www.goodiptv.club/douyu/12253936#https://live.188766.xyz/douyu/12253936#https://www.goodiptv.club/douyu/12337487#https://live.188766.xyz/douyu/12337487#https://www.goodiptv.club/douyu/12180551#https://live.188766.xyz/douyu/12180551#https://www.goodiptv.club/douyu/10906963#https://live.188766.xyz/douyu/10906963
+三国演义94版,https://www.goodiptv.club/douyu/12463728#https://live.188766.xyz/douyu/12463728
+神话,https://www.goodiptv.club/douyu/5448413#https://live.188766.xyz/douyu/5448413
+康熙微服私访记,https://www.goodiptv.club/douyu/1006179#https://live.188766.xyz/douyu/1006179
+网神影厅,https://www.goodiptv.club/douyu/508118#https://live.188766.xyz/douyu/508118
+燕双鹰专场,https://www.goodiptv.club/douyu/11931032#https://live.188766.xyz/douyu/11931032
+神剧,https://www.goodiptv.club/douyu/5875025#https://live.188766.xyz/douyu/5875025
+神探狄仁杰,https://www.goodiptv.club/douyu/12442176#https://live.188766.xyz/douyu/12442176#https://www.goodiptv.club/douyu/11391949#https://live.188766.xyz/douyu/11391949#https://live.188766.xyz/douyu/12183882#https://www.goodiptv.club/douyu/12183882#https://www.goodiptv.club/douyu/6027991#https://live.188766.xyz/douyu/6027991#https://www.goodiptv.club/douyu/12655359#https://live.188766.xyz/douyu/12655359
+大秦帝国,https://www.goodiptv.club/douyu/9388931#https://live.188766.xyz/douyu/9388931
+顺才少爷,https://www.goodiptv.club/douyu/10084875#https://live.188766.xyz/douyu/10084875
+炊事班的故事,https://www.goodiptv.club/douyu/319576#https://live.188766.xyz/douyu/319576
+和平饭店,https://www.goodiptv.club/douyu/9650782#https://live.188766.xyz/douyu/9650782
+新剧,https://www.goodiptv.club/douyu/12552495#https://live.188766.xyz/douyu/12552495
+火影手游1,https://www.goodiptv.club/douyu/11425422#https://live.188766.xyz/douyu/11425422
+火影手游2,https://www.goodiptv.club/douyu/12267530#https://live.188766.xyz/douyu/12267530
+火影手游3,https://www.goodiptv.club/douyu/921393#https://live.188766.xyz/douyu/921393
+火影手游4,https://www.goodiptv.club/douyu/10363686#https://live.188766.xyz/douyu/10363686
+火影手游5,https://www.goodiptv.club/douyu/12188319#https://live.188766.xyz/douyu/12188319
+狼人杀官方赛事,https://www.goodiptv.club/douyu/4615959#https://live.188766.xyz/douyu/4615959
+三角洲行动,https://www.goodiptv.club/douyu/1485743#https://live.188766.xyz/douyu/1485743
+开心麻花---沈腾、马丽经典小品专场,https://www.goodiptv.club/douyu/10153463#https://live.188766.xyz/douyu/10153463
+宋小宝经典小品,https://www.goodiptv.club/douyu/9817729#https://live.188766.xyz/douyu/9817729
+贾玲经典小品,https://www.goodiptv.club/douyu/10419541#https://live.188766.xyz/douyu/10419541
+欢乐小饭米粒儿,https://www.goodiptv.club/douyu/9403690#https://live.188766.xyz/douyu/9403690
+经典小品,https://www.goodiptv.club/douyu/9067836#https://live.188766.xyz/douyu/9067836
+许君聪经典小品的直播间,https://www.goodiptv.club/douyu/10419558#https://live.188766.xyz/douyu/10419558
+搞笑天堂岛,https://www.goodiptv.club/douyu/6916081#https://live.188766.xyz/douyu/6916081
+多多看车--交通事故,https://www.goodiptv.club/douyu/4921957#https://live.188766.xyz/douyu/4921957
+开车大神--交通事故,https://www.goodiptv.club/douyu/9759970#https://live.188766.xyz/douyu/9759970
+备胎说车,https://www.goodiptv.club/douyu/3783046#https://live.188766.xyz/douyu/3783046
+三国杀游戏1,https://www.goodiptv.club/douyu/11958868#https://live.188766.xyz/douyu/11958868
+三国杀游戏2,https://www.goodiptv.club/douyu/7529411#https://live.188766.xyz/douyu/7529411
+象棋1,https://www.goodiptv.club/douyu/7453312#https://live.188766.xyz/douyu/7453312
+象棋2,https://www.goodiptv.club/douyu/851040#https://live.188766.xyz/douyu/851040
+JJ斗地主,https://www.goodiptv.club/douyu/488743#https://live.188766.xyz/douyu/488743
+拳皇97,https://www.goodiptv.club/douyu/8387733#https://live.188766.xyz/douyu/8387733
+阿七点歌台,https://www.goodiptv.club/douyu/3186217#https://live.188766.xyz/douyu/3186217
+音乐MV,https://www.goodiptv.club/douyu/3870925#https://live.188766.xyz/douyu/3870925
+戏曲,https://www.goodiptv.club/douyu/12091975#https://live.188766.xyz/douyu/12091975
 
 
 ❤️歪歪影院,#genre#
@@ -2246,65 +2246,65 @@ JJ象棋5,https://live.iill.top/douyin/116886541659
 
 
 ❤️恐怖悬疑影院,#genre#
-林正英恐怖剧集,https://live.ottiptv.cc/douyu/7356023#https://live.188766.xyz/douyu/7356023
-一个只播恐怖片的直播间,https://live.ottiptv.cc/douyu/12068394#https://live.188766.xyz/douyu/12068394
-恐怖电影,https://live.ottiptv.cc/douyu/310926#https://live.188766.xyz/douyu/310926
-【瑶瑶】童年阴影 鬼片 恐怖 惊悚,https://live.ottiptv.cc/douyu/2935323#https://live.188766.xyz/douyu/2935323
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,https://live.ottiptv.cc/douyu/96577#https://live.188766.xyz/douyu/96577
-【马小玲】况天佑~山本,https://live.ottiptv.cc/douyu/9470198#https://live.188766.xyz/douyu/9470198
-经典、恐怖、鬼怪、剧场,https://live.ottiptv.cc/douyu/1165374#https://live.188766.xyz/douyu/1165374
-林正英1,https://live.ottiptv.cc/douyu/12143683#https://live.188766.xyz/douyu/12143683
-林正英2,https://www.goodiptv.club/huya/11342421#https://live.ottiptv.cc/huya/11342421#http://cfss.cc/cdn/huya/11342421.flv
-林正英3,https://live.ottiptv.cc/douyu/7805562#https://live.188766.xyz/douyu/7805562
-林正英4,https://www.goodiptv.club/huya/29978179#https://live.ottiptv.cc/huya/29978179#http://cfss.cc/cdn/huya/29978179.flv
-林正英5,https://live.ottiptv.cc/douyu/10673574#https://live.188766.xyz/douyu/10673574
-林正英6,https://www.goodiptv.club/huya/396734#https://live.ottiptv.cc/huya/396734#http://cfss.cc/cdn/huya/396734.flv
-林正英7,https://live.ottiptv.cc/douyu/12176174#https://live.188766.xyz/douyu/12176174
-林正英8,https://www.goodiptv.club/huya/25256065#https://live.ottiptv.cc/huya/25256065#http://cfss.cc/cdn/huya/25256065.flv
+林正英恐怖剧集,https://www.goodiptv.club/douyu/7356023#https://live.188766.xyz/douyu/7356023
+一个只播恐怖片的直播间,https://www.goodiptv.club/douyu/12068394#https://live.188766.xyz/douyu/12068394
+恐怖电影,https://www.goodiptv.club/douyu/310926#https://live.188766.xyz/douyu/310926
+【瑶瑶】童年阴影 鬼片 恐怖 惊悚,https://www.goodiptv.club/douyu/2935323#https://live.188766.xyz/douyu/2935323
+❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,https://www.goodiptv.club/douyu/96577#https://live.188766.xyz/douyu/96577
+【马小玲】况天佑~山本,https://www.goodiptv.club/douyu/9470198#https://live.188766.xyz/douyu/9470198
+经典、恐怖、鬼怪、剧场,https://www.goodiptv.club/douyu/1165374#https://live.188766.xyz/douyu/1165374
+林正英1,https://www.goodiptv.club/douyu/12143683#https://live.188766.xyz/douyu/12143683
+林正英2,https://www.goodiptv.club/huya/11342421#https://www.goodiptv.club/huya/11342421#http://cfss.cc/cdn/huya/11342421.flv
+林正英3,https://www.goodiptv.club/douyu/7805562#https://live.188766.xyz/douyu/7805562
+林正英4,https://www.goodiptv.club/huya/29978179#https://www.goodiptv.club/huya/29978179#http://cfss.cc/cdn/huya/29978179.flv
+林正英5,https://www.goodiptv.club/douyu/10673574#https://live.188766.xyz/douyu/10673574
+林正英6,https://www.goodiptv.club/huya/396734#https://www.goodiptv.club/huya/396734#http://cfss.cc/cdn/huya/396734.flv
+林正英7,https://www.goodiptv.club/douyu/12176174#https://live.188766.xyz/douyu/12176174
+林正英8,https://www.goodiptv.club/huya/25256065#https://www.goodiptv.club/huya/25256065#http://cfss.cc/cdn/huya/25256065.flv
 林正英9,http://cfss.cc/cdn/yy/1382780025.flv#http://www.douzhicloud.site:35455/yy/1382780025#http://iptv.frp.terry666.xyz:90/yy/1382780025
 林正英10,http://cfss.cc/cdn/yy/1455891197.flv#http://www.douzhicloud.site:35455/yy/1455891197#http://iptv.frp.terry666.xyz:90/yy/1455891197
-林正英11,https://www.goodiptv.club/huya/30830295#https://live.ottiptv.cc/huya/30830295#http://cfss.cc/cdn/huya/30830295.flv
-林正英12,https://www.goodiptv.club/huya/30695684#https://live.ottiptv.cc/huya/30695684#http://cfss.cc/cdn/huya/30695684.flv
-林正英13,https://www.goodiptv.club/huya/30439645#https://live.ottiptv.cc/huya/30439645#http://cfss.cc/cdn/huya/30439645.flv
+林正英11,https://www.goodiptv.club/huya/30830295#https://www.goodiptv.club/huya/30830295#http://cfss.cc/cdn/huya/30830295.flv
+林正英12,https://www.goodiptv.club/huya/30695684#https://www.goodiptv.club/huya/30695684#http://cfss.cc/cdn/huya/30695684.flv
+林正英13,https://www.goodiptv.club/huya/30439645#https://www.goodiptv.club/huya/30439645#http://cfss.cc/cdn/huya/30439645.flv
 林正英14,http://www.douzhicloud.site:35455/yy/1462895099#http://iptv.frp.terry666.xyz:90/yy/1462895099
-林正英15,https://www.goodiptv.club/huya/23865148#https://live.ottiptv.cc/huya/23865148#http://cfss.cc/cdn/huya/23865148.flv
+林正英15,https://www.goodiptv.club/huya/23865148#https://www.goodiptv.club/huya/23865148#http://cfss.cc/cdn/huya/23865148.flv
 林正英16,http://www.douzhicloud.site:35455/yy/1351505899#http://iptv.frp.terry666.xyz:90/yy/1351505899
-林正英17,https://www.goodiptv.club/huya/31133536#https://live.ottiptv.cc/huya/31133536#http://cfss.cc/cdn/huya/31133536.flv
-阴阳路系列,https://www.goodiptv.club/huya/27318871#https://live.ottiptv.cc/huya/27318871#http://cfss.cc/cdn/huya/27318871.flv
+林正英17,https://www.goodiptv.club/huya/31133536#https://www.goodiptv.club/huya/31133536#http://cfss.cc/cdn/huya/31133536.flv
+阴阳路系列,https://www.goodiptv.club/huya/27318871#https://www.goodiptv.club/huya/27318871#http://cfss.cc/cdn/huya/27318871.flv
 经典鬼片3000部,http://www.douzhicloud.site:35455/yy/29460894#http://iptv.frp.terry666.xyz:90/yy/29460894
-恐怖电影 林正英 僵尸 鬼片 经典,https://live.ottiptv.cc/douyu/9275635#https://live.188766.xyz/douyu/9275635
-搞笑恐怖,https://www.goodiptv.club/huya/11601960#https://live.ottiptv.cc/huya/11601960#http://cfss.cc/cdn/huya/11601960.flv
-古墓系列,https://www.goodiptv.club/huya/11352913#https://live.ottiptv.cc/huya/11352913#http://cfss.cc/cdn/huya/11352913.flv
-鬼吹灯系列1,https://www.goodiptv.club/huya/29768105#https://live.ottiptv.cc/huya/29768105#http://cfss.cc/cdn/huya/29768105.flv
-鬼吹灯系列2,https://www.goodiptv.club/huya/11602075#https://live.ottiptv.cc/huya/11602075#http://cfss.cc/cdn/huya/11602075.flv
-鬼吹灯系列3,https://www.goodiptv.club/huya/11601957#https://live.ottiptv.cc/huya/11601957#http://cfss.cc/cdn/huya/11601957.flv
-鬼吹灯系列4,https://www.goodiptv.club/huya/29465863#https://live.ottiptv.cc/huya/29465863#http://cfss.cc/cdn/huya/29465863.flv
-鬼吹灯系列5,https://www.goodiptv.club/huya/30526458#https://live.ottiptv.cc/huya/30526458#http://cfss.cc/cdn/huya/23863809.flv
-盗墓笔记1,https://www.goodiptv.club/huya/29863394#https://live.ottiptv.cc/huya/29863394#http://cfss.cc/cdn/huya/29863394.flv
-盗墓笔记2,https://www.goodiptv.club/huya/20985820#https://live.ottiptv.cc/huya/20985820#http://cfss.cc/cdn/huya/20985820.flv
-鬼经典老片,https://www.goodiptv.club/huya/1463783198#https://live.ottiptv.cc/huya/1463783198#http://cfss.cc/cdn/huya/1463783198.flv
-搞笑奇葩僵尸,https://www.goodiptv.club/huya/11342422#https://live.ottiptv.cc/huya/11342422#http://cfss.cc/cdn/huya/11342422.flv
-鬼片专场,https://live.ottiptv.cc/huya/23796393#https://www.goodiptv.club/huya/23796393#http://cfss.cc/cdn/huya/23796393.flv
-云南虫谷,https://www.goodiptv.club/huya/11352898#https://live.ottiptv.cc/huya/11352898#http://cfss.cc/cdn/huya/11352898.flv
-悬疑电影,https://www.goodiptv.club/huya/26355779#https://live.ottiptv.cc/huya/26355779#http://cfss.cc/cdn/huya/26355779.flv
-奇幻电影,https://www.goodiptv.club/huya/353798#https://live.ottiptv.cc/huya/353798#http://cfss.cc/cdn/huya/353798.flv
-悬疑电影放映厅,https://www.goodiptv.club/huya/29982641#https://live.ottiptv.cc/huya/29982641#http://cfss.cc/cdn/huya/29982641.flv
-恐怖影片,https://www.goodiptv.club/huya/21059561#https://live.ottiptv.cc/huya/21059561#http://cfss.cc/cdn/huya/21059561.flv
-僵尸系列,https://www.goodiptv.club/huya/30513350#https://live.ottiptv.cc/huya/30513350#http://cfss.cc/cdn/huya/30513350.flv
-灵界侦探浦饭幽助,https://www.goodiptv.club/huya/11602034#https://live.ottiptv.cc/huya/11602034#http://cfss.cc/cdn/huya/11602034.flv
-经典系列 一屋开心鬼,https://www.goodiptv.club/huya/353798#https://live.ottiptv.cc/huya/353798#http://cfss.cc/cdn/huya/353798.flv
+恐怖电影 林正英 僵尸 鬼片 经典,https://www.goodiptv.club/douyu/9275635#https://live.188766.xyz/douyu/9275635
+搞笑恐怖,https://www.goodiptv.club/huya/11601960#https://www.goodiptv.club/huya/11601960#http://cfss.cc/cdn/huya/11601960.flv
+古墓系列,https://www.goodiptv.club/huya/11352913#https://www.goodiptv.club/huya/11352913#http://cfss.cc/cdn/huya/11352913.flv
+鬼吹灯系列1,https://www.goodiptv.club/huya/29768105#https://www.goodiptv.club/huya/29768105#http://cfss.cc/cdn/huya/29768105.flv
+鬼吹灯系列2,https://www.goodiptv.club/huya/11602075#https://www.goodiptv.club/huya/11602075#http://cfss.cc/cdn/huya/11602075.flv
+鬼吹灯系列3,https://www.goodiptv.club/huya/11601957#https://www.goodiptv.club/huya/11601957#http://cfss.cc/cdn/huya/11601957.flv
+鬼吹灯系列4,https://www.goodiptv.club/huya/29465863#https://www.goodiptv.club/huya/29465863#http://cfss.cc/cdn/huya/29465863.flv
+鬼吹灯系列5,https://www.goodiptv.club/huya/30526458#https://www.goodiptv.club/huya/30526458#http://cfss.cc/cdn/huya/23863809.flv
+盗墓笔记1,https://www.goodiptv.club/huya/29863394#https://www.goodiptv.club/huya/29863394#http://cfss.cc/cdn/huya/29863394.flv
+盗墓笔记2,https://www.goodiptv.club/huya/20985820#https://www.goodiptv.club/huya/20985820#http://cfss.cc/cdn/huya/20985820.flv
+鬼经典老片,https://www.goodiptv.club/huya/1463783198#https://www.goodiptv.club/huya/1463783198#http://cfss.cc/cdn/huya/1463783198.flv
+搞笑奇葩僵尸,https://www.goodiptv.club/huya/11342422#https://www.goodiptv.club/huya/11342422#http://cfss.cc/cdn/huya/11342422.flv
+鬼片专场,https://www.goodiptv.club/huya/23796393#https://www.goodiptv.club/huya/23796393#http://cfss.cc/cdn/huya/23796393.flv
+云南虫谷,https://www.goodiptv.club/huya/11352898#https://www.goodiptv.club/huya/11352898#http://cfss.cc/cdn/huya/11352898.flv
+悬疑电影,https://www.goodiptv.club/huya/26355779#https://www.goodiptv.club/huya/26355779#http://cfss.cc/cdn/huya/26355779.flv
+奇幻电影,https://www.goodiptv.club/huya/353798#https://www.goodiptv.club/huya/353798#http://cfss.cc/cdn/huya/353798.flv
+悬疑电影放映厅,https://www.goodiptv.club/huya/29982641#https://www.goodiptv.club/huya/29982641#http://cfss.cc/cdn/huya/29982641.flv
+恐怖影片,https://www.goodiptv.club/huya/21059561#https://www.goodiptv.club/huya/21059561#http://cfss.cc/cdn/huya/21059561.flv
+僵尸系列,https://www.goodiptv.club/huya/30513350#https://www.goodiptv.club/huya/30513350#http://cfss.cc/cdn/huya/30513350.flv
+灵界侦探浦饭幽助,https://www.goodiptv.club/huya/11602034#https://www.goodiptv.club/huya/11602034#http://cfss.cc/cdn/huya/11602034.flv
+经典系列 一屋开心鬼,https://www.goodiptv.club/huya/353798#https://www.goodiptv.club/huya/353798#http://cfss.cc/cdn/huya/353798.flv
 关于我和鬼变成家人的那件事,http://www.douzhicloud.site:35455/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv#http://iptv.frp.terry666.xyz:90/yy/1354926671
-老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939#https://live.188766.xyz/douyu/2337939
-活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#https://live.ottiptv.cc/huya/30080183#http://cfss.cc/cdn/huya/30080183.flv
-我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#https://live.ottiptv.cc/huya/21059571#http://cfss.cc/cdn/huya/21059571.flv
-我和僵尸有个约会2,https://live.ottiptv.cc/douyu/8637229#https://live.188766.xyz/douyu/8637229
+老烟斗鬼故事,https://www.goodiptv.club/douyu/2337939#https://live.188766.xyz/douyu/2337939
+活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#https://www.goodiptv.club/huya/30080183#http://cfss.cc/cdn/huya/30080183.flv
+我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#https://www.goodiptv.club/huya/21059571#http://cfss.cc/cdn/huya/21059571.flv
+我和僵尸有个约会2,https://www.goodiptv.club/douyu/8637229#https://live.188766.xyz/douyu/8637229
 惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#http://www.douzhicloud.site:35455/yy/1355052097#http://iptv.frp.terry666.xyz:90/yy/1355052097
-鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#https://live.ottiptv.cc/huya/23728674#http://cfss.cc/cdn/huya/23728674.flv
-海外经典恐怖片,https://www.goodiptv.club/huya/20985852#https://live.ottiptv.cc/huya/20985852#http://cfss.cc/cdn/huya/20985852.flv
+鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#https://www.goodiptv.club/huya/23728674#http://cfss.cc/cdn/huya/23728674.flv
+海外经典恐怖片,https://www.goodiptv.club/huya/20985852#https://www.goodiptv.club/huya/20985852#http://cfss.cc/cdn/huya/20985852.flv
 鬼片恐怖私家影院,http://cfss.cc/cdn/yy/1354209316.flv#http://www.douzhicloud.site:35455/yy/1354209316
 鬼片喜剧/动作港剧,http://www.douzhicloud.site:35455/yy/1355269576#http://iptv.frp.terry666.xyz:90/yy/1355269576
 玄幻道墓,http://www.douzhicloud.site:35455/yy/1459714870#http://cfss.cc/cdn/yy/1459714870.flv
-夜场恐怖片,https://www.goodiptv.club/huya/30522289#https://live.ottiptv.cc/huya/30522289#http://cfss.cc/cdn/huya/30522289.flv
+夜场恐怖片,https://www.goodiptv.club/huya/30522289#https://www.goodiptv.club/huya/30522289#http://cfss.cc/cdn/huya/30522289.flv
 
 
 ❤️西游记,#genre#
