@@ -1033,7 +1033,7 @@ CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
+优优宝贝,http://www.huakangyaoye.cn:8800/rtp/239.16.20.126:11260
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
@@ -1092,7 +1092,7 @@ CETV早期教育,http://fn.122020.xyz:4000/rtp/239.253.92.39:6107
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 
 
-环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
+环球旅游,http://www.huakangyaoye.cn:8800/rtp/239.16.20.131:11310
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
