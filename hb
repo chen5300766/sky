@@ -1636,7 +1636,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 韩国电影,https://www.goodiptv.club/huya/11352884#https://live.metshop.top/huya/11352884#http://cfss.cc/cdn/huya/11352884.flv
 全职高手,https://www.goodiptv.club/huya/11352901#https://live.metshop.top/huya/11352901#http://cfss.cc/cdn/huya/11352901.flv
 太极宗师,https://www.goodiptv.club/huya/11342438#https://live.metshop.top/huya/11342438#http://cfss.cc/cdn/huya/11342438.flv
-小鬼当家系列,https://www.goodiptv.club/huya/0985772#https://live.metshop.top/huya/0985772#http://cfss.cc/cdn/huya/0985772.flv
+小鬼当家系列,https://www.goodiptv.club/huya/20985772#https://live.metshop.top/huya/20985772#http://cfss.cc/cdn/huya/20985772.flv
 武林宗师梁小龙,https://www.goodiptv.club/huya/20985775#https://live.metshop.top/huya/20985775#http://cfss.cc/cdn/huya/20985775.flv
 周星驰系列,https://www.goodiptv.club/huya/11342412#https://live.metshop.top/huya/11342412#http://cfss.cc/cdn/huya/11342412.flv
 周海媚系列,https://www.goodiptv.club/huya/11279247#https://live.metshop.top/huya/11279247#http://cfss.cc/cdn/huya/11279247.flv
