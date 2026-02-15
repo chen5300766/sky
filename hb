@@ -769,7 +769,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 欢笑剧场4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230500/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230553/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230646/1.m3u8
 都市剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
 
-搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
@@ -1372,7 +1371,8 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://live.metshop.
 经典电影,https://www.goodiptv.club/huya/30987504#https://live.metshop.top/huya/30987504#http://cfss.cc/cdn/huya/30987504.flv
 经典高分动作电影系列,https://www.goodiptv.club/huya/31109333#https://live.metshop.top/huya/31109333#http://cfss.cc/cdn/huya/31109333.flv
 香港贺岁片,https://www.goodiptv.club/huya/11601955#https://live.metshop.top/huya/11601955#http://cfss.cc/cdn/huya/11601955.flv
-港片,https://www.goodiptv.club/huya/11602043#https://live.metshop.top/huya/11602043#http://cfss.cc/cdn/huya/11602043.flv
+港片1,https://www.goodiptv.club/huya/11602043#https://live.metshop.top/huya/11602043#http://cfss.cc/cdn/huya/11602043.flv
+港片2,https://www.goodiptv.club/huya/11601971#https://live.metshop.top/huya/11602043#http://cfss.cc/cdn/huya/11601971.flv
 香港喜剧,https://www.goodiptv.club/huya/20969142#https://live.metshop.top/huya/20969142#http://cfss.cc/cdn/huya/20969142.flv
 香港电影经典之大作,https://www.goodiptv.club/huya/30631706#https://live.metshop.top/huya/30631706#http://cfss.cc/cdn/huya/30631706.flv
 香港动作电影,https://www.goodiptv.club/huya/11602055#https://live.metshop.top/11602055#http://cfss.cc/cdn/huya/11602055.flv
