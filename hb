@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-17,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1506,6 +1506,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 家有儿女,https://www.goodiptv.club/huya/11352872#https://live.ottiptv.cc/huya/11352872#http://cfss.cc/cdn/huya/11352872.flv#https://www.goodiptv.club/huya/30523326#https://live.ottiptv.cc/huya/30526426#http://cfss.cc/cdn/huya/30526426.flv#https://www.goodiptv.club/huya/30664021#https://live.ottiptv.cc/huya/30664021#http://cfss.cc/cdn/huya/30664021.flv
 父辈的荣耀,https://www.goodiptv.club/huya/11352893#https://live.ottiptv.cc/huya/11352893#http://cfss.cc/cdn/huya/11352893.flv
 流星花园,https://www.goodiptv.club/huya/26355793#https://live.ottiptv.cc/huya/26355793#http://cfss.cc/cdn/huya/26355793.flv
+斗牛，要不要,https://www.goodiptv.club/huya/20072663#https://live.ottiptv.cc/huya/20072663#http://cfss.cc/cdn/huya/20072663.flv
 埋堆堆官方,https://www.goodiptv.club/huya/30326432#https://live.ottiptv.cc/huya/30326432#http://cfss.cc/cdn/huya/30326432.flv
 特种兵之火凤凰,https://www.goodiptv.club/huya/29982636#https://live.ottiptv.cc/huya/29982636#http://cfss.cc/cdn/huya/29982636.flv
 风筝,https://www.goodiptv.club/huya/30080225#https://live.ottiptv.cc/huya/30080225#http://cfss.cc/cdn/huya/30080225.flv
