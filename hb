@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-18,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -2216,94 +2216,97 @@ JJ斗地主,http://php.404003.xyz/live/yylunbo.php?id=1355501191#http://php.4040
 王者荣耀3,https://www.goodiptv.club/bilibili/27844029
 
 
+
+
+
 ❤️抖音影院,#genre#
-JJ斗地主1,https://live.iill.top/douyin/685317364746
-JJ斗地主2,https://live.iill.top/douyin/348640675261
-武汉欢乐谷,https://live.iill.top/douyin/808453283617
-中央数字电视,https://live.iill.top/douyin/482342971427
-电影频道央影传媒,https://live.iill.top/douyin/208823316033
-1905电影网,https://live.iill.top/douyin/642694139716
-彭荃懒猫围棋,https://live.iill.top/douyin/707246679178
-小U围棋,https://live.iill.top/douyin/700789210803
-星小目围棋,https://live.iill.top/douyin/929059476330
-草根围棋,https://live.iill.top/douyin/157223718969
-心若无尘围棋,https://live.iill.top/douyin/487386449289
-王座围棋,https://live.iill.top/douyin/195425976790
-悠悠围棋,https://live.iill.top/douyin/786576873442
-天龙围棋,https://live.iill.top/douyin/73311988970
-野狐围棋,https://live.iill.top/douyin/64059088895
-秦弈围棋俱乐部,https://live.iill.top/douyin/520034088394
-彭荃懒猫围棋,https://live.iill.top/douyin/986350625094
-象棋大师党斐,https://live.iill.top/douyin/839389806623
-不二象棋,https://live.iill.top/douyin/538578814625
-白雪~中国象棋,https://live.iill.top/douyin/980822437011
-象棋-河南省冠杨湛辉,https://live.iill.top/douyin/264157135182
-象棋棋帝,https://live.iill.top/douyin/392675307646
-象棋比赛天天看,https://live.iill.top/douyin/718875101864
-天天象棋,https://live.iill.top/douyin/162120419867
-熙耀灿体育,https://live.iill.top/douyin/439563615760
-央视网体育,https://live.iill.top/douyin/275322094757
-雷速体育,https://live.iill.top/douyin/208330584029
-铁锤体育,https://live.iill.top/douyin/251293574258
-七星体育,https://live.iill.top/douyin/732456558098
-康旭体育,https://live.iill.top/douyin/290734591289
-云星体育,https://live.iill.top/douyin/464114369315
-骏仁鸿体育,https://live.iill.top/douyin/661429023796
-梦之体育,https://live.iill.top/douyin/193774533462
-篮球直播,https://live.iill.top/douyin/227582120565
-乒乓球比赛1,https://live.iill.top/douyin/827201204680
-乒乓球比赛2,https://live.iill.top/douyin/696457178335
-JJ象棋1,https://live.iill.top/douyin/684219410470
-JJ象棋2,https://live.iill.top/douyin/726291845185
-JJ象棋3,https://live.iill.top/douyin/723244410816
-JJ象棋4,https://live.iill.top/douyin/904741590821
-JJ象棋5,https://live.iill.top/douyin/116886541659
-火影手游1,https://live.iill.top/douyin/905562644497
-火影手游2,https://live.iill.top/douyin/485068417645
-火影手游3,https://live.iill.top/douyin/592592880111
-火影手游4,https://live.iill.top/douyin/934108571935
-火影手游5,https://live.iill.top/douyin/366883864683
-火影手游6,https://live.iill.top/douyin/384269361070
-火影手游7,https://live.iill.top/douyin/716154169507
-火影手游8,https://live.iill.top/douyin/688408945456
-天使之翼游戏1,https://live.iill.top/douyin/833863563743
-天使之翼游戏2,https://live.iill.top/douyin/378274379741
-天使之翼游戏3,https://live.iill.top/douyin/592292493010
-天使之翼游戏4,https://live.iill.top/douyin/106269746347
-三国杀游戏1,https://live.iill.top/douyin/881693080479
-三国杀游戏2,https://live.iill.top/douyin/707617620067
-三国杀游戏3,https://live.iill.top/douyin/680396730113
-三国杀游戏4,https://live.iill.top/douyin/727310431858
-三国杀游戏5,https://live.iill.top/douyin/417940568122
-三国杀游戏6,https://live.iill.top/douyin/309387620378
-王者荣耀1,https://live.iill.top/douyin/680120628677
-王者荣耀2,https://live.iill.top/douyin/759018766444
-王者荣耀3,https://live.iill.top/douyin/770344167056
-王者荣耀4,https://live.iill.top/douyin/317416923097
-王者荣耀5,https://live.iill.top/douyin/502877246398
-王者荣耀6,https://live.iill.top/douyin/526843978131
-红警游戏1,https://live.iill.top/douyin/650011006629
-红警游戏2,https://live.iill.top/douyin/205873667518
-红警游戏3,https://live.iill.top/douyin/642311142678
-红警游戏4,https://live.iill.top/douyin/849217239257
-红警游戏5,https://live.iill.top/douyin/665005990014
-红警游戏6,https://live.iill.top/douyin/248783169107
-黑神话悟空游戏1,https://live.iill.top/douyin/131600101322
-黑神话悟空游戏2,https://live.iill.top/douyin/657110444077
-黑神话悟空游戏3,https://live.iill.top/douyin/874321459385
-英雄联盟,https://live.iill.top/douyin/858402080872
-英雄联盟官方赛事,https://live.iill.top/douyin/913226472246
-逻辑与谎言狼人杀,https://live.iill.top/douyin/581239137637
-交通事故律师余逸飞讲解,https://live.iill.top/douyin/80282153370
-交通事故程律师讲解,https://live.iill.top/douyin/416321692380
-小萌逛北京,https://live.iill.top/douyin/237146238939
-北京浏览小黑,https://live.iill.top/douyin/946685745960
-北京小梁旅行达人,https://live.iill.top/douyin/509851573324
-湖北交投楚天高速,https://live.iill.top/douyin/689634548087
-热干面乐队,https://live.iill.top/douyin/500864881720
-抖音热歌电台,https://live.iill.top/douyin/671962613675
-抖音美好奇妙夜,https://live.iill.top/douyin/926375850872
-驾考一把过,https://live.iill.top/douyin/341263229845
+JJ斗地主1,https://tv1288.xyz/douyin.php?type=rid&rid=685317364746
+JJ斗地主2,https://tv1288.xyz/douyin.php?type=rid&rid=348640675261
+武汉欢乐谷,https://tv1288.xyz/douyin.php?type=rid&rid=808453283617
+中央数字电视,https://tv1288.xyz/douyin.php?type=rid&rid=482342971427
+电影频道央影传媒,https://tv1288.xyz/douyin.php?type=rid&rid=208823316033
+1905电影网,https://tv1288.xyz/douyin.php?type=rid&rid=642694139716
+彭荃懒猫围棋,https://tv1288.xyz/douyin.php?type=rid&rid=707246679178
+小U围棋,https://tv1288.xyz/douyin.php?type=rid&rid=700789210803
+星小目围棋,https://tv1288.xyz/douyin.php?type=rid&rid=929059476330
+草根围棋,https://tv1288.xyz/douyin.php?type=rid&rid=157223718969
+心若无尘围棋,https://tv1288.xyz/douyin.php?type=rid&rid=487386449289
+王座围棋,https://tv1288.xyz/douyin.php?type=rid&rid=195425976790
+悠悠围棋,https://tv1288.xyz/douyin.php?type=rid&rid=786576873442
+天龙围棋,https://tv1288.xyz/douyin.php?type=rid&rid=73311988970
+野狐围棋,https://tv1288.xyz/douyin.php?type=rid&rid=64059088895
+秦弈围棋俱乐部,https://tv1288.xyz/douyin.php?type=rid&rid=520034088394
+彭荃懒猫围棋,https://tv1288.xyz/douyin.php?type=rid&rid=986350625094
+象棋大师党斐,https://tv1288.xyz/douyin.php?type=rid&rid=839389806623
+不二象棋,https://tv1288.xyz/douyin.php?type=rid&rid=538578814625
+白雪~中国象棋,https://tv1288.xyz/douyin.php?type=rid&rid=980822437011
+象棋-河南省冠杨湛辉,https://tv1288.xyz/douyin.php?type=rid&rid=264157135182
+象棋棋帝,https://tv1288.xyz/douyin.php?type=rid&rid=392675307646
+象棋比赛天天看,https://tv1288.xyz/douyin.php?type=rid&rid=718875101864
+天天象棋,https://tv1288.xyz/douyin.php?type=rid&rid=162120419867
+熙耀灿体育,https://tv1288.xyz/douyin.php?type=rid&rid=439563615760
+央视网体育,https://tv1288.xyz/douyin.php?type=rid&rid=275322094757
+雷速体育,https://tv1288.xyz/douyin.php?type=rid&rid=208330584029
+铁锤体育,https://tv1288.xyz/douyin.php?type=rid&rid=251293574258
+七星体育,https://tv1288.xyz/douyin.php?type=rid&rid=732456558098
+康旭体育,https://tv1288.xyz/douyin.php?type=rid&rid=290734591289
+云星体育,https://tv1288.xyz/douyin.php?type=rid&rid=464114369315
+骏仁鸿体育,https://tv1288.xyz/douyin.php?type=rid&rid=661429023796
+梦之体育,https://tv1288.xyz/douyin.php?type=rid&rid=193774533462
+篮球直播,https://tv1288.xyz/douyin.php?type=rid&rid=227582120565
+乒乓球比赛1,https://tv1288.xyz/douyin.php?type=rid&rid=827201204680
+乒乓球比赛2,https://tv1288.xyz/douyin.php?type=rid&rid=696457178335
+JJ象棋1,https://tv1288.xyz/douyin.php?type=rid&rid=684219410470
+JJ象棋2,https://tv1288.xyz/douyin.php?type=rid&rid=726291845185
+JJ象棋3,https://tv1288.xyz/douyin.php?type=rid&rid=723244410816
+JJ象棋4,https://tv1288.xyz/douyin.php?type=rid&rid=904741590821
+JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
+火影手游1,https://tv1288.xyz/douyin.php?type=rid&rid=905562644497
+火影手游2,https://tv1288.xyz/douyin.php?type=rid&rid=485068417645
+火影手游3,https://tv1288.xyz/douyin.php?type=rid&rid=592592880111
+火影手游4,https://tv1288.xyz/douyin.php?type=rid&rid=934108571935
+火影手游5,https://tv1288.xyz/douyin.php?type=rid&rid=366883864683
+火影手游6,https://tv1288.xyz/douyin.php?type=rid&rid=384269361070
+火影手游7,https://tv1288.xyz/douyin.php?type=rid&rid=716154169507
+火影手游8,https://tv1288.xyz/douyin.php?type=rid&rid=688408945456
+天使之翼游戏1,https://tv1288.xyz/douyin.php?type=rid&rid=833863563743
+天使之翼游戏2,https://tv1288.xyz/douyin.php?type=rid&rid=378274379741
+天使之翼游戏3,https://tv1288.xyz/douyin.php?type=rid&rid=592292493010
+天使之翼游戏4,https://tv1288.xyz/douyin.php?type=rid&rid=106269746347
+三国杀游戏1,https://tv1288.xyz/douyin.php?type=rid&rid=881693080479
+三国杀游戏2,https://tv1288.xyz/douyin.php?type=rid&rid=707617620067
+三国杀游戏3,https://tv1288.xyz/douyin.php?type=rid&rid=680396730113
+三国杀游戏4,https://tv1288.xyz/douyin.php?type=rid&rid=727310431858
+三国杀游戏5,https://tv1288.xyz/douyin.php?type=rid&rid=417940568122
+三国杀游戏6,https://tv1288.xyz/douyin.php?type=rid&rid=309387620378
+王者荣耀1,https://tv1288.xyz/douyin.php?type=rid&rid=680120628677
+王者荣耀2,https://tv1288.xyz/douyin.php?type=rid&rid=759018766444
+王者荣耀3,https://tv1288.xyz/douyin.php?type=rid&rid=770344167056
+王者荣耀4,https://tv1288.xyz/douyin.php?type=rid&rid=317416923097
+王者荣耀5,https://tv1288.xyz/douyin.php?type=rid&rid=502877246398
+王者荣耀6,https://tv1288.xyz/douyin.php?type=rid&rid=526843978131
+红警游戏1,https://tv1288.xyz/douyin.php?type=rid&rid=650011006629
+红警游戏2,https://tv1288.xyz/douyin.php?type=rid&rid=205873667518
+红警游戏3,https://tv1288.xyz/douyin.php?type=rid&rid=642311142678
+红警游戏4,https://tv1288.xyz/douyin.php?type=rid&rid=849217239257
+红警游戏5,https://tv1288.xyz/douyin.php?type=rid&rid=665005990014
+红警游戏6,https://tv1288.xyz/douyin.php?type=rid&rid=248783169107
+黑神话悟空游戏1,https://tv1288.xyz/douyin.php?type=rid&rid=131600101322
+黑神话悟空游戏2,https://tv1288.xyz/douyin.php?type=rid&rid=657110444077
+黑神话悟空游戏3,https://tv1288.xyz/douyin.php?type=rid&rid=874321459385
+英雄联盟,https://tv1288.xyz/douyin.php?type=rid&rid=858402080872
+英雄联盟官方赛事,https://tv1288.xyz/douyin.php?type=rid&rid=913226472246
+逻辑与谎言狼人杀,https://tv1288.xyz/douyin.php?type=rid&rid=581239137637
+交通事故律师余逸飞讲解,https://tv1288.xyz/douyin.php?type=rid&rid=80282153370
+交通事故程律师讲解,https://tv1288.xyz/douyin.php?type=rid&rid=416321692380
+小萌逛北京,https://tv1288.xyz/douyin.php?type=rid&rid=237146238939
+北京浏览小黑,https://tv1288.xyz/douyin.php?type=rid&rid=946685745960
+北京小梁旅行达人,https://tv1288.xyz/douyin.php?type=rid&rid=509851573324
+湖北交投楚天高速,https://tv1288.xyz/douyin.php?type=rid&rid=689634548087
+热干面乐队,https://tv1288.xyz/douyin.php?type=rid&rid=500864881720
+抖音热歌电台,https://tv1288.xyz/douyin.php?type=rid&rid=671962613675
+抖音美好奇妙夜,https://tv1288.xyz/douyin.php?type=rid&rid=926375850872
+驾考一把过,https://tv1288.xyz/douyin.php?type=rid&rid=341263229845
 
 
 
