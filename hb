@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-19,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-21,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -14,16 +14,16 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 
-北京卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.111:5140
-北京卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.112:5140
-东方卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.119:5140
-广东卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.114:5140
-深圳卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.113:5140
-湖南卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.116:5140
-山东卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.120:5140
-四川卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.115:5140
-浙江卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.118:5140
-江苏卫视4K,http://ch3829.myds.me:4022/rtp/239.94.0.117:5140
+北京卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.111:5140
+北京卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.112:5140
+东方卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.119:5140
+广东卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.114:5140
+深圳卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.113:5140
+湖南卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.116:5140
+山东卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.120:5140
+四川卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.115:5140
+浙江卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.118:5140
+江苏卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.117:5140
 
 
 北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.2:5146
@@ -419,8 +419,8 @@ CCTV13新闻,http://111.48.34.138/000000001000PLTV/88888888/224/3221230493/1.m3u
 CCTV14少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230446/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
 CCTV15音乐,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
-CCTV16奥林匹克,	http://otangtang.com:38848/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://haoyu.myds.me:24022/rtp/239.3.1.184:8001
+CCTV16奥林匹克,	http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
@@ -716,7 +716,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://qwsw.duckdns.org:2222/rtp/239.94.1.152:5140
-天元围棋,http://ch3829.myds.me:4022/rtp/239.94.1.152:5140
+天元围棋,http://home.sunruilin.com:4443/rtp/239.94.1.152:5140
 天元围棋,http://home.fusen.work:8888/rtp/239.253.93.211:6389
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://yanshifen.top:8889/rtp/239.253.43.98:5146
@@ -730,7 +730,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 爱体育,http://pve.iszbd.com:4022/rtp/225.0.4.53:7980
-爱体育,http://ch3829.myds.me:4022/rtp/239.94.1.44:5140
+爱体育,http://home.sunruilin.com:4443/rtp/239.94.1.44:5140
 爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.44:5140
 爱体育,http://yanshifen.top:8889/rtp/239.77.1.116:5146
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
@@ -799,7 +799,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
 
-峨眉电影,http://ch3829.myds.me:4022/rtp/239.94.0.103:5140
+峨眉电影,http://home.sunruilin.com:4443/rtp/239.94.0.103:5140
 峨眉电影,http://qwsw.duckdns.org:2222/rtp/239.94.0.103:5140
 峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
 峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
@@ -807,7 +807,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 峨眉电影,http://www.alphauncle.com:2715/rtp/239.0.0.9:5140
 
 
-红色影院,http://ch3829.myds.me:4022/rtp/239.94.1.48:5140
+红色影院,http://home.sunruilin.com:4443/rtp/239.94.1.48:5140
 红色影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.48:5140
 红色影院,http://www.yanbingg.com:1888/rtp/239.94.1.48:5140
 红色影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.48:5140
@@ -818,43 +818,43 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-IPTV影视,http://otangtang.com:38848/rtp/239.3.1.88:4120
-IPTV4K超清,http://otangtang.com:38848/rtp/239.3.1.249:8001
-IPTV淘剧场,http://otangtang.com:38848/rtp/239.3.1.95:8001
-IPTV淘电影,http://otangtang.com:38848/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://otangtang.com:38848/rtp/239.3.1.100:8001
-IPTV淘BABY,http://otangtang.com:38848/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://otangtang.com:38848/rtp/239.3.1.102:8001
-IPTV星影,http://otangtang.com:38848/rtp/239.3.1.94:4120
-IPTV城市剧场,http://otangtang.com:38848/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://otangtang.com:38848/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://otangtang.com:38848/rtp/239.3.1.90:4120
-IPTV古装剧场,http://otangtang.com:38848/rtp/239.3.1.69:4120
-IPTV热播剧场,http://otangtang.com:38848/rtp/239.3.1.194:9020
-IPTV经典电影,http://otangtang.com:38848/rtp/239.3.1.195:9024
-IPTV爱上4K,http://otangtang.com:38848/rtp/239.3.1.236:2000
-IPTV精选,http://otangtang.com:38848/rtp/239.3.1.74:4120
-IPTV家庭影院,http://otangtang.com:38848/rtp/239.3.1.93:4120
+IPTV影视,http://nas.wsw.fun:8168/rtp/239.3.1.88:4120
+IPTV4K超清,http://nas.wsw.fun:8168/rtp/239.3.1.249:8001
+IPTV淘剧场,http://nas.wsw.fun:8168/rtp/239.3.1.95:8001
+IPTV淘电影,http://nas.wsw.fun:8168/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://nas.wsw.fun:8168/rtp/239.3.1.100:8001
+IPTV淘BABY,http://nas.wsw.fun:8168/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://nas.wsw.fun:8168/rtp/239.3.1.102:8001
+IPTV星影,http://nas.wsw.fun:8168/rtp/239.3.1.94:4120
+IPTV城市剧场,http://nas.wsw.fun:8168/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://nas.wsw.fun:8168/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://nas.wsw.fun:8168/rtp/239.3.1.90:4120
+IPTV古装剧场,http://nas.wsw.fun:8168/rtp/239.3.1.69:4120
+IPTV热播剧场,http://nas.wsw.fun:8168/rtp/239.3.1.194:9020
+IPTV经典电影,http://nas.wsw.fun:8168/rtp/239.3.1.195:9024
+IPTV爱上4K,http://nas.wsw.fun:8168/rtp/239.3.1.236:2000
+IPTV精选,http://nas.wsw.fun:8168/rtp/239.3.1.74:4120
+IPTV家庭影院,http://nas.wsw.fun:8168/rtp/239.3.1.93:4120
 
 
 
-IPTV影视,http://haoyu.myds.me:24022/rtp/239.3.1.88:4120
-IPTV4K超清,http://haoyu.myds.me:24022/rtp/239.3.1.249:8001
-IPTV淘剧场,http://haoyu.myds.me:24022/rtp/239.3.1.95:8001
-IPTV淘电影,http://haoyu.myds.me:24022/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://haoyu.myds.me:24022/rtp/239.3.1.100:8001
-IPTV淘BABY,http://haoyu.myds.me:24022/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://haoyu.myds.me:24022/rtp/239.3.1.102:8001
-IPTV星影,http://haoyu.myds.me:24022/rtp/239.3.1.94:4120
-IPTV城市剧场,http://haoyu.myds.me:24022/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://haoyu.myds.me:24022/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://haoyu.myds.me:24022/rtp/239.3.1.90:4120
-IPTV古装剧场,http://haoyu.myds.me:24022/rtp/239.3.1.69:4120
-IPTV热播剧场,http://haoyu.myds.me:24022/rtp/239.3.1.194:9020
-IPTV经典电影,http://haoyu.myds.me:24022/rtp/239.3.1.195:9024
-IPTV爱上4K,http://haoyu.myds.me:24022/rtp/239.3.1.236:2000
-IPTV精选,http://haoyu.myds.me:24022/rtp/239.3.1.74:4120
-IPTV家庭影院,http://haoyu.myds.me:24022/rtp/239.3.1.93:4120
+IPTV影视,http://www.fjxzl.top:23234/rtp/239.3.1.88:4120
+IPTV4K超清,http://www.fjxzl.top:23234/rtp/239.3.1.249:8001
+IPTV淘剧场,http://www.fjxzl.top:23234/rtp/239.3.1.95:8001
+IPTV淘电影,http://www.fjxzl.top:23234/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://www.fjxzl.top:23234/rtp/239.3.1.100:8001
+IPTV淘BABY,http://www.fjxzl.top:23234/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://www.fjxzl.top:23234/rtp/239.3.1.102:8001
+IPTV星影,http://www.fjxzl.top:23234/rtp/239.3.1.94:4120
+IPTV城市剧场,http://www.fjxzl.top:23234/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://www.fjxzl.top:23234/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://www.fjxzl.top:23234/rtp/239.3.1.90:4120
+IPTV古装剧场,http://www.fjxzl.top:23234/rtp/239.3.1.69:4120
+IPTV热播剧场,http://www.fjxzl.top:23234/rtp/239.3.1.194:9020
+IPTV经典电影,http://www.fjxzl.top:23234/rtp/239.3.1.195:9024
+IPTV爱上4K,http://www.fjxzl.top:23234/rtp/239.3.1.236:2000
+IPTV精选,http://www.fjxzl.top:23234/rtp/239.3.1.74:4120
+IPTV家庭影院,http://www.fjxzl.top:23234/rtp/239.3.1.93:4120
 
 
 IPTV影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
@@ -896,8 +896,8 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
 
 
-全球大片,http://ch3829.myds.me:4022/rtp/239.94.1.24:5140
-华语影院,http://ch3829.myds.me:4022/rtp/239.94.1.22:5140
+全球大片,http://home.sunruilin.com:4443/rtp/239.94.1.24:5140
+华语影院,http://home.sunruilin.com:4443/rtp/239.94.1.22:5140
 
 全球大片,http://qwsw.duckdns.org:2222/rtp/239.94.1.24:5140
 华语影院,http://qwsw.duckdns.org:2222/rtp/239.94.1.22:5140
@@ -920,21 +920,21 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 📡iHOT影院,#genre#
-iHOT爱体育,http://ch3829.myds.me:4022/rtp/239.94.1.143:5140
-iHOT爱动漫,http://ch3829.myds.me:4022/rtp/239.94.1.141:5140
-iHOT爱历史,http://ch3829.myds.me:4022/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://ch3829.myds.me:4022/rtp/239.94.1.130:5140
-iHOT爱幼教,http://ch3829.myds.me:4022/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://ch3829.myds.me:4022/rtp/239.94.1.136:5140
-iHOT爱旅行,http://ch3829.myds.me:4022/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://ch3829.myds.me:4022/rtp/239.94.1.128:5140
-iHOT爱玩具,http://ch3829.myds.me:4022/rtp/239.94.1.140:5140
-iHOT爱科幻,http://ch3829.myds.me:4022/rtp/239.94.1.131:5140
-iHOT爱谍战,http://ch3829.myds.me:4022/rtp/239.94.1.134:5140
-iHOT爱赛车,http://ch3829.myds.me:4022/rtp/239.94.1.144:5140
-iHOT爱院线,http://ch3829.myds.me:4022/rtp/239.94.1.132:5140
+iHOT爱体育,http://home.sunruilin.com:4443/rtp/239.94.1.143:5140
+iHOT爱动漫,http://home.sunruilin.com:4443/rtp/239.94.1.141:5140
+iHOT爱历史,http://home.sunruilin.com:4443/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://home.sunruilin.com:4443/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://home.sunruilin.com:4443/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://home.sunruilin.com:4443/rtp/239.94.1.130:5140
+iHOT爱幼教,http://home.sunruilin.com:4443/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://home.sunruilin.com:4443/rtp/239.94.1.136:5140
+iHOT爱旅行,http://home.sunruilin.com:4443/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://home.sunruilin.com:4443/rtp/239.94.1.128:5140
+iHOT爱玩具,http://home.sunruilin.com:4443/rtp/239.94.1.140:5140
+iHOT爱科幻,http://home.sunruilin.com:4443/rtp/239.94.1.131:5140
+iHOT爱谍战,http://home.sunruilin.com:4443/rtp/239.94.1.134:5140
+iHOT爱赛车,http://home.sunruilin.com:4443/rtp/239.94.1.144:5140
+iHOT爱院线,http://home.sunruilin.com:4443/rtp/239.94.1.132:5140
 
 
 iHOT爱体育,http://qwsw.duckdns.org:2222/rtp/239.94.1.143:5140
@@ -1024,16 +1024,16 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 
-IPTV少儿动画,http://otangtang.com:38848/rtp/239.3.1.199:9000
-IPTV少儿动画,http://haoyu.myds.me:24022/rtp/239.3.1.199:9000
+IPTV少儿动画,http://nas.wsw.fun:8168/rtp/239.3.1.199:9000
+IPTV少儿动画,http://www.fjxzl.top:23234/rtp/239.3.1.199:9000
 IPTV少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
 
-IPTV宝宝动画,http://otangtang.com:38848/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://haoyu.myds.me:24022/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://nas.wsw.fun:8168/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://www.fjxzl.top:23234/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
 
-IPTV早教,http://otangtang.com:38848/rtp/239.3.1.79:4120
-IPTV早教,http://haoyu.myds.me:24022/rtp/239.3.1.79:4120
+IPTV早教,http://nas.wsw.fun:8168/rtp/239.3.1.79:4120
+IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
@@ -1064,18 +1064,18 @@ CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-中国交通,http://otangtang.com:38848/rtp/239.3.1.188:8001
-好学生,http://otangtang.com:38848/rtp/239.3.1.81:4120
-鉴赏,http://otangtang.com:38848/rtp/239.3.1.82:4120
-墨宝,http://otangtang.com:38848/rtp/239.3.1.83:4120
-军事,http://otangtang.com:38848/rtp/239.3.1.76:4120
+中国交通,http://nas.wsw.fun:8168/rtp/239.3.1.188:8001
+好学生,http://nas.wsw.fun:8168/rtp/239.3.1.81:4120
+鉴赏,http://nas.wsw.fun:8168/rtp/239.3.1.82:4120
+墨宝,http://nas.wsw.fun:8168/rtp/239.3.1.83:4120
+军事,http://nas.wsw.fun:8168/rtp/239.3.1.76:4120
 
 
-中国交通,http://haoyu.myds.me:24022/rtp/239.3.1.188:8001
-好学生,http://haoyu.myds.me:24022/rtp/239.3.1.81:4120
-鉴赏,http://haoyu.myds.me:24022/rtp/239.3.1.82:4120
-墨宝,http://haoyu.myds.me:24022/rtp/239.3.1.83:4120
-军事,http://haoyu.myds.me:24022/rtp/239.3.1.76:4120
+中国交通,http://www.fjxzl.top:23234/rtp/239.3.1.188:8001
+好学生,http://www.fjxzl.top:23234/rtp/239.3.1.81:4120
+鉴赏,http://www.fjxzl.top:23234/rtp/239.3.1.82:4120
+墨宝,http://www.fjxzl.top:23234/rtp/239.3.1.83:4120
+军事,http://www.fjxzl.top:23234/rtp/239.3.1.76:4120
 
 
 中国交通,http://home.zgnc.fun:8822/rtp/239.3.1.188:8001
@@ -1088,7 +1088,7 @@ CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
-中国天气,http://ch3829.myds.me:4022/rtp/239.94.1.167:5140
+中国天气,http://home.sunruilin.com:4443/rtp/239.94.1.167:5140
 中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
@@ -1105,12 +1105,12 @@ CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 环球旅游,http://home.teijiu.cn:4022/rtp/233.50.202.31:5140
 环球旅游,http://dx.yanbingg.com:1888/rtp/239.94.1.147:5140
 环球旅游,http://qwsw.duckdns.org:2222/rtp/239.94.1.147:5140
-环球旅游,http://ch3829.myds.me:4022/rtp/239.94.1.147:5140
+环球旅游,http://home.sunruilin.com:4443/rtp/239.94.1.147:5140
 环球旅游,http://www.yanbingg.com:1888/rtp/239.94.1.147:5140
 
 
 求索纪录,http://qwsw.duckdns.org:2222/rtp/239.94.1.142:5140
-求索纪录,http://ch3829.myds.me:4022/rtp/239.94.1.142:5140
+求索纪录,http://home.sunruilin.com:4443/rtp/239.94.1.142:5140
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
@@ -1127,10 +1127,10 @@ CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
 家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
 家庭理财,http://dx.yanbingg.com:1888/rtp/239.94.1.50:5140
-家庭理财,http://ch3829.myds.me:4022/rtp/239.94.1.50:5140
+家庭理财,http://home.sunruilin.com:4443/rtp/239.94.1.50:5140
 
 
-爱宠宠物,http://ch3829.myds.me:4022/rtp/239.94.1.145:5140
+爱宠宠物,http://home.sunruilin.com:4443/rtp/239.94.1.145:5140
 爱宠宠物,http://qwsw.duckdns.org:2222/rtp/239.94.1.145:5140
 爱宠宠物,http://www.yanbingg.com:1888/rtp/239.94.1.145:5140
 爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
