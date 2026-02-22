@@ -451,8 +451,8 @@ CCTV文化精品,http://yanshifen.top:8889/rtp/239.253.43.13:5146
 CCTV风云剧场,http://www.liyajun.top:7088/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
 
-CCTV风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
-CCTV文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
+CCTV风云剧场,http://lj.kuail8.com:4022/rtp/239.253.92.22:6073
+CCTV文化精品,http://lj.kuail8.com:4022/rtp/239.253.92.25:6104
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -472,7 +472,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://home.fusen.work:8888/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://www.qfly9236.cn:8888/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
 
 
@@ -1039,7 +1039,7 @@ IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 CETV早期教育,http://home.fusen.work:8888/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
-CETV早期教育,http://www.qfly9236.cn:8888/rtp/239.253.92.39:6107
+CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 
 
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
