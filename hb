@@ -448,6 +448,9 @@ CCTV文化精品,http://home.fusen.work:8888/rtp/239.253.92.25:6104
 CCTV风云剧场,http://yanshifen.top:8889/rtp/239.253.43.16:5146
 CCTV文化精品,http://yanshifen.top:8889/rtp/239.253.43.13:5146
 
+CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
+CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
+
 CCTV风云剧场,http://www.liyajun.top:7088/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
 
@@ -471,6 +474,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
 中央新影-发现之旅,http://home.fusen.work:8888/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
@@ -719,6 +723,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://home.sunruilin.com:4443/rtp/239.94.1.152:5140
 天元围棋,http://home.fusen.work:8888/rtp/239.253.93.211:6389
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
+天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
 天元围棋,http://yanshifen.top:8889/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
@@ -733,6 +738,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 爱体育,http://home.sunruilin.com:4443/rtp/239.94.1.44:5140
 爱体育,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.44:5140
 爱体育,http://yanshifen.top:8889/rtp/239.77.1.116:5146
+爱体育,http://line1.huase.ltd:8888/rtp/239.77.1.116:5146
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
 爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
@@ -1036,6 +1042,7 @@ IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://home.fusen.work:8888/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
@@ -1112,6 +1119,7 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 求索纪录,http://home.sunruilin.com:4443/rtp/239.94.1.142:5140
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
+求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
 求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
