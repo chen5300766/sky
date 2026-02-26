@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-25,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-26,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -923,6 +923,16 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
 影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
 影视剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
+
+
+综艺节目,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?tv.sohu.blog
+古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?tv.sohu.blog
+军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?tv.sohu.blog
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?tv.sohu.blog
+家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?tv.sohu.blog
+爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?tv.sohu.blog
+泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?tv.sohu.blog
+
 
 
 📡iHOT影院,#genre#
