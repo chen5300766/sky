@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-26,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-2-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -442,6 +442,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
+CCTV风云剧场,http://www.andy-nas.top:8623/rtp/239.76.254.50:9000
+CCTV文化精品,http://www.andy-nas.top:8623/rtp/239.76.254.56:9000
+
 CCTV风云剧场,http://home.fusen.work:8888/rtp/239.253.92.22:6073
 CCTV文化精品,http://home.fusen.work:8888/rtp/239.253.92.25:6104
 
@@ -720,6 +723,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
+天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
 天元围棋,http://home.sunruilin.com:4443/rtp/239.94.1.152:5140
 天元围棋,http://home.fusen.work:8888/rtp/239.253.93.211:6389
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
@@ -1052,7 +1056,7 @@ IPTV早教,http://nas.wsw.fun:8168/rtp/239.3.1.79:4120
 IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
-
+CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
 CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://home.fusen.work:8888/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
@@ -1105,13 +1109,13 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://www.andy-nas.top:8623/rtp/239.76.253.61:9000
 中国天气,http://home.sunruilin.com:4443/rtp/239.94.1.167:5140
 中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://dx.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
-中国天气,http://www.0000505.xyz:8888/rtp/239.76.253.61:9000
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
