@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-2-28,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -1188,7 +1188,7 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 
 ❤️动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://live.ottiptv.cc/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
-火影疾风传1,http://php.404003.xyz/live/yylunbo.php?id=1459675153#http://cfss.cc/cdn/yy/1459675153.flv
+火影疾风传1,https://live.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
 火影忍者,https://www.goodiptv.club/huya/29465866#https://live.ottiptv.cc/huya/29465866#http://cfss.cc/cdn/huya/23734243.flv
 成龙历险记,https://www.goodiptv.club/douyu/2287949#https://live.ottiptv.cc/huya/11352946#https://isus.cc/php/douyu.php?id=2287949#https://www.goodiptv.club/huya/11352946#https://live.ottiptv.cc/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
@@ -1265,14 +1265,14 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#https://live.ottiptv.cc/huya/29982655#http://cfss.cc/cdn/huya/29982655.flv
 守护甜心,https://www.goodiptv.club/huya/24314166#https://live.ottiptv.cc/huya/24314166#http://cfss.cc/cdn/huya/24314166.flv
 山止月的直播间,https://www.goodiptv.club/douyu/12538016#https://isus.cc/php/douyu.php?id=12538016
-灌篮高手,http://cfss.cc/cdn/yy/1356243352.flv#http://php.404003.xyz/live/yylunbo.php?id=1356243352
-灌篮高手,http://php.404003.xyz/live/yylunbo.php?id=1382735626#http://iptv.frp.terry666.xyz:90/yy/1382735626
-妖神记,http://php.404003.xyz/live/yylunbo.php?id=1382745171#http://cfss.cc/cdn/yy/1382745171.flv
-妖神记-全集,http://php.404003.xyz/live/yylunbo.php?id=1382735551#http://iptv.frp.terry666.xyz:90/yy/1382735551
-星际穿越：虫洞冒险,http://php.404003.xyz/live/yylunbo.php?id=1354930945#http://cfss.cc/cdn/yy/1354930945.flv
+灌篮高手,http://cfss.cc/cdn/yy/1356243352.flv#https://live.ottiptv.cc/yy/1356243352
+灌篮高手,https://live.ottiptv.cc/yy/1382735626#http://iptv.frp.terry666.xyz:90/yy/1382735626
+妖神记,https://live.ottiptv.cc/yy/1382745171#http://cfss.cc/cdn/yy/1382745171.flv
+妖神记-全集,https://live.ottiptv.cc/yy/1382735551#http://iptv.frp.terry666.xyz:90/yy/1382735551
+星际穿越：虫洞冒险,https://live.ottiptv.cc/yy/1354930945#http://cfss.cc/cdn/yy/1354930945.flv
 全职高手动画,https://www.goodiptv.club/huya/21059628#https://live.ottiptv.cc/huya/21059628#http://cfss.cc/cdn/huya/21059628.flv
 双城之战--英雄联盟超燃动画,https://www.goodiptv.club/huya/23903196#https://live.ottiptv.cc/huya/23903196#http://cfss.cc/cdn/huya/23903196.flv
-熊出没之探险日记,http://php.404003.xyz/live/yylunbo.php?id=1382745122#http://cfss.cc/cdn/yy/1382745122.flv#http://php.404003.xyz/live/yylunbo.php?id=1354930977
+熊出没之探险日记,https://live.ottiptv.cc/yy/1382745122#http://cfss.cc/cdn/yy/1382745122.flv#https://live.ottiptv.cc/yy/1354930977
 奇光动漫剧场,https://www.goodiptv.club/douyu/12560807#https://isus.cc/php/douyu.php?id=12560807
 迪迦奥特曼,https://www.goodiptv.club/huya/21059569#https://live.ottiptv.cc/huya/21059569#http://cfss.cc/cdn/huya/21059569.flv
 星辰变,https://www.goodiptv.club/huya/24514506#https://live.ottiptv.cc/huya/24514506#http://cfss.cc/cdn/huya/24514506.flv
@@ -1280,10 +1280,10 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 经典动漫电影,https://www.goodiptv.club/huya/24884368#https://live.ottiptv.cc/huya/24884368#http://cfss.cc/cdn/huya/24884368.flv
 合家欢动画片,https://www.goodiptv.club/huya/11601958#https://live.ottiptv.cc/huya/11601958#http://cfss.cc/cdn/huya/11601958.flv
 诛仙--国漫,https://www.goodiptv.club/huya/23728595#https://live.ottiptv.cc/huya/23728595#http://cfss.cc/cdn/huya/23728595.flv
-宇宙护卫队--国漫,http://php.404003.xyz/live/yylunbo.php?id=1382736837#http://iptv.frp.terry666.xyz:90/yy/1382736837
-萌鸡小队,http://php.404003.xyz/live/yylunbo.php?id=1382736904#http://iptv.frp.terry666.xyz:90/yy/1382736904
+宇宙护卫队--国漫,https://live.ottiptv.cc/yy/1382736837#http://iptv.frp.terry666.xyz:90/yy/1382736837
+萌鸡小队,https://live.ottiptv.cc/yy/1382736904#http://iptv.frp.terry666.xyz:90/yy/1382736904
 动画片,https://www.goodiptv.club/douyu/12626455#https://isus.cc/php/douyu.php?id=12626455
-动漫,http://php.404003.xyz/live/yylunbo.php?id=26664495#http://iptv.frp.terry666.xyz:90/yy/26664495
+动漫,https://live.ottiptv.cc/yy/26664495#http://iptv.frp.terry666.xyz:90/yy/26664495
 吞噬星空,https://www.goodiptv.club/huya/23902242#https://live.ottiptv.cc/huya/23902242#http://cfss.cc/cdn/huya/23902242.flv
 游戏王,https://www.goodiptv.club/huya/20985856#https://live.ottiptv.cc/huya/20985856#http://cfss.cc/cdn/huya/20985856.flv
 游戏王,https://www.goodiptv.club/huya/20969126#https://live.ottiptv.cc/huya/20969126#http://cfss.cc/cdn/huya/20969126.flv
@@ -1955,240 +1955,240 @@ JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php
 
 
 ❤️歪歪影院,#genre#
-康熙微服私访记1,http://php.404003.xyz/live/yylunbo.php?id=1352811698#http://iptv.frp.terry666.xyz:90/yy/1352811698
-康熙微服私访记3,http://cfss.cc/cdn/yy/1356373644.flv#http://php.404003.xyz/live/yylunbo.php?id=1356373644#http://iptv.frp.terry666.xyz:90/yy/1356373644
-康熙微服私访记4,http://cfss.cc/cdn/yy/1355635293.flv#http://php.404003.xyz/live/yylunbo.php?id=1355635293#http://iptv.frp.terry666.xyz:90/yy/1355635293
-鹿鼎记--陈小春,http://php.404003.xyz/live/yylunbo.php?id=1382704650#http://iptv.frp.terry666.xyz:90/yy/1382704650
-鹿鼎记--陈小春,http://php.404003.xyz/live/yylunbo.php?id=28265277#http://iptv.frp.terry666.xyz:90/yy/28265277
-鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#http://php.404003.xyz/live/yylunbo.php?id=1460463356#http://iptv.frp.terry666.xyz:90/yy/1460463356
-鹿鼎记--周星驰,http://php.404003.xyz/live/yylunbo.php?id=1354658049#http://iptv.frp.terry666.xyz:90/yy/1354658049
-铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#http://php.404003.xyz/live/yylunbo.php?id=1382781415#http://iptv.frp.terry666.xyz:90/yy/1382781415
-铜齿铁牙纪晓岚,http://php.404003.xyz/live/yylunbo.php?id=1354143978#http://iptv.frp.terry666.xyz:90/yy/1354143978
-康熙王朝,http://php.404003.xyz/live/yylunbo.php?id=1382851583#http://iptv.frp.terry666.xyz:90/yy/1382851583
-神雕侠侣粤语--古天乐,http://php.404003.xyz/live/yylunbo.php?id=1354926637#http://iptv.frp.terry666.xyz:90/yy/1354926637
-神雕侠侣--古天乐,http://php.404003.xyz/live/yylunbo.php?id=1351762426#http://iptv.frp.terry666.xyz:90/yy/1351762426
-83版射雕英雄传,http://php.404003.xyz/live/yylunbo.php?id=1354210357#http://iptv.frp.terry666.xyz:90/yy/1354210357
-天龙八部--黄日华,http://php.404003.xyz/live/yylunbo.php?id=1351814644#http://iptv.frp.terry666.xyz:90/yy/1351814644
-笑傲江湖---李亚鹏版,http://php.404003.xyz/live/yylunbo.php?id=1354282410#http://iptv.frp.terry666.xyz:90/yy/1354282410
-寻秦记,http://php.404003.xyz/live/yylunbo.php?id=1382749900#http://iptv.frp.terry666.xyz:90/yy/1382749900
-大明王朝,http://cfss.cc/cdn/yy/1382768483.flv#http://php.404003.xyz/live/yylunbo.php?id=1382768483#http://iptv.frp.terry666.xyz:90/yy/1382768483
-深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736906#http://iptv.frp.terry666.xyz:90/yy/1382736906
-特种兵之利刃出鞘-1,http://cfss.cc/cdn/yy/1382773686.flv#http://php.404003.xyz/live/yylunbo.php?id=1382773686#http://iptv.frp.terry666.xyz:90/yy/1382773686
-特种兵之利刃出鞘-2,http://cfss.cc/cdn/yy/1454835388.flv#http://php.404003.xyz/live/yylunbo.php?id=1454835388#http://iptv.frp.terry666.xyz:90/yy/1454835388
-另类猪妖爆笑逆袭,http://php.404003.xyz/live/yylunbo.php?id=1354936155#http://iptv.frp.terry666.xyz:90/yy/1354936155
-悬疑武侠电影—九门,http://cfss.cc/cdn/yy/1382828768.flv#http://php.404003.xyz/live/yylunbo.php?id=1382828768#http://iptv.frp.terry666.xyz:90/yy/1382828768
-楼奴,http://php.404003.xyz/live/yylunbo.php?id=1382736832#http://iptv.frp.terry666.xyz:90/yy/1382736832
-战胜心魔-当怪物来了,http://cfss.cc/cdn/yy/1382749910.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749910#http://iptv.frp.terry666.xyz:90/yy/1382749910
-超燃警匪片,http://cfss.cc/cdn/yy/1382735576.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735576#http://iptv.frp.terry666.xyz:90/yy/1382735576
-读心神探,http://php.404003.xyz/live/yylunbo.php?id=1382851589#http://cfss.cc/cdn/yy/1382851589.flv#http://iptv.frp.terry666.xyz:90/yy/1382851589
-亮剑,http://cfss.cc/cdn/yy/1453810838.flv#http://php.404003.xyz/live/yylunbo.php?id=1453810838#http://iptv.frp.terry666.xyz:90/yy/1453810838
-亮剑2,http://cfss.cc/cdn/yy/1460662397.flv#http://php.404003.xyz/live/yylunbo.php?id=1460662397#http://iptv.frp.terry666.xyz:90/yy/1460662397
-亮剑,http://php.404003.xyz/live/yylunbo.php?id=1356043643#http://iptv.frp.terry666.xyz:90/yy/1356043643
-亮剑,http://php.404003.xyz/live/yylunbo.php?id=1352946111#http://iptv.frp.terry666.xyz:90/yy/1352946111
-特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#http://php.404003.xyz/live/yylunbo.php?id=1508456184#http://iptv.frp.terry666.xyz:90/yy/1508456184
-闯关东,http://cfss.cc/cdn/yy/1354689861.flv#http://php.404003.xyz/live/yylunbo.php?id=1354689861#http://iptv.frp.terry666.xyz:90/yy/1354689861
-父母爱情,http://php.404003.xyz/live/yylunbo.php?id=1382851594#http://iptv.frp.terry666.xyz:90/yy/1382851594
-父母爱情,http://php.404003.xyz/live/yylunbo.php?id=1354926650#http://iptv.frp.terry666.xyz:90/yy/1354926650
-非常保镖,http://php.404003.xyz/live/yylunbo.php?id=1382736903#http://iptv.frp.terry666.xyz:90/yy/1382736903
-大染坊,http://cfss.cc/cdn/yy/1353215589.flv#http://php.404003.xyz/live/yylunbo.php?id=1353215589#http://iptv.frp.terry666.xyz:90/yy/1353215589
-珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936234#http://iptv.frp.terry666.xyz:90/yy/1354936234
-飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
-古惑仔,http://php.404003.xyz/live/yylunbo.php?id=1458015189#http://iptv.frp.terry666.xyz:90/yy/1458015189
-古惑仔,http://php.404003.xyz/live/yylunbo.php?id=1370293254#http://iptv.frp.terry666.xyz:90/yy/1370293254
-伪装者,http://php.404003.xyz/live/yylunbo.php?id=1382851593#http://iptv.frp.terry666.xyz:90/yy/1382851593
-地下交通站,http://php.404003.xyz/live/yylunbo.php?id=1353428972#http://iptv.frp.terry666.xyz:90/yy/1353428972#http://php.404003.xyz/live/yylunbo.php?id=1382736795#http://iptv.frp.terry666.xyz:90/yy/1382736795
-特种兵之火凤凰,http://cfss.cc/cdn/yy/1463088777.flv#http://php.404003.xyz/live/yylunbo.php?id=1463088777#http://iptv.frp.terry666.xyz:90/yy/1463088777
-大侦探霍桑,http://cfss.cc/cdn/yy/1382737886.flv#http://php.404003.xyz/live/yylunbo.php?id=1382737886#http://iptv.frp.terry666.xyz:90/yy/1382737886
-神探狄仁杰第一部,http://php.404003.xyz/live/yylunbo.php?id=1382851575#http://php.404003.xyz/live/yylunbo.php?id=1354930934#http://iptv.frp.terry666.xyz:90/yy/1354930934
-神探狄仁杰第二部,http://php.404003.xyz/live/yylunbo.php?id=1382851146#http://iptv.frp.terry666.xyz:90/yy/1382851146#http://php.404003.xyz/live/yylunbo.php?id=1382736907#http://iptv.frp.terry666.xyz:90/yy/1382736907
-神探狄仁杰1-5部,http://cfss.cc/cdn/yy/1382705592.flv#http://php.404003.xyz/live/yylunbo.php?id=1382705592#http://iptv.frp.terry666.xyz:90/yy/1382705592
-燕双鹰,http://php.404003.xyz/live/yylunbo.php?id=1352227153#http://iptv.frp.terry666.xyz:90/yy/1352227153
-蚁人,http://php.404003.xyz/live/yylunbo.php?id=1382736913#http://iptv.frp.terry666.xyz:90/yy/1382736913
-哈利波特全集,http://php.404003.xyz/live/yylunbo.php?id=1382745105#http://iptv.frp.terry666.xyz:90/yy/1382745105
-终结者,http://cfss.cc/cdn/yy/1382736851.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736851#http://iptv.frp.terry666.xyz:90/yy/1382736851
-大进军全集,http://php.404003.xyz/live/yylunbo.php?id=1382745083#http://iptv.frp.terry666.xyz:90/yy/1382745083
-铁道游击队,http://php.404003.xyz/live/yylunbo.php?id=1507704566#http://iptv.frp.terry666.xyz:90/yy/1507704566
-超炫科幻大片,http://cfss.cc/cdn/yy/1382736840.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736840#http://iptv.frp.terry666.xyz:90/yy/1382736840
-科幻片1,http://php.404003.xyz/live/yylunbo.php?id=1382745114#http://iptv.frp.terry666.xyz:90/yy/1382745114
-科幻片2,http://php.404003.xyz/live/yylunbo.php?id=1354930897#http://iptv.frp.terry666.xyz:90/yy/1354930897
-复仇者联盟全季,http://php.404003.xyz/live/yylunbo.php?id=1354936167#http://php.404003.xyz/live/yylunbo.php?id=1354936167#http://iptv.frp.terry666.xyz:90/yy/1354936167
-九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936116#http://iptv.frp.terry666.xyz:90/yy/1354936116
-笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#http://php.404003.xyz/live/yylunbo.php?id=1382851576#http://iptv.frp.terry666.xyz:90/yy/1382851576
-我爱我家,http://iptv.frp.terry666.xyz:90/yy/1382851580#http://php.404003.xyz/live/yylunbo.php?id=1382851580
-血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936136#http://iptv.frp.terry666.xyz:90/yy/1354936136
-不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749890#http://iptv.frp.terry666.xyz:90/yy/1382749890
-港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736816#http://iptv.frp.terry666.xyz:90/yy/1382736816
-港片,http://cfss.cc/cdn/yy/1382736917.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736917#http://iptv.frp.terry666.xyz:90/yy/1382736917
-高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#http://php.404003.xyz/live/yylunbo.php?id=1382851586#http://iptv.frp.terry666.xyz:90/yy/1382851586
-举起手来,http://php.404003.xyz/live/yylunbo.php?id=1382736877#http://iptv.frp.terry666.xyz:90/yy/1382736877
-案发现场,http://php.404003.xyz/live/yylunbo.php?id=22089862#http://cfss.cc/cdn/yy/22089862.flv#http://iptv.frp.terry666.xyz:90/yy/22089862
-风筝,http://php.404003.xyz/live/yylunbo.php?id=1382828770#http://iptv.frp.terry666.xyz:90/yy/1382828770
-小欢喜,http://php.404003.xyz/live/yylunbo.php?id=1382737888#http://iptv.frp.terry666.xyz:90/yy/1382737888
-炊事班的故事,http://php.404003.xyz/live/yylunbo.php?id=1382736886#http://iptv.frp.terry666.xyz:90/yy/1382736886
-炊事班的故事第一部,http://php.404003.xyz/live/yylunbo.php?id=1382749901#http://iptv.frp.terry666.xyz:90/yy/1382749901
-炊事班的故事第二部,http://php.404003.xyz/live/yylunbo.php?id=1382736885#http://iptv.frp.terry666.xyz:90/yy/1382736885
-炊事班的故事第三部,http://php.404003.xyz/live/yylunbo.php?id=1382736716#http://iptv.frp.terry666.xyz:90/yy/1382736716
-正阳门下,http://php.404003.xyz/live/yylunbo.php?id=1354931580#http://iptv.frp.terry666.xyz:90/yy/1354931580
-武林客栈,http://php.404003.xyz/live/yylunbo.php?id=1382773728#http://iptv.frp.terry666.xyz:90/yy/1382773728
-武林外传,http://php.404003.xyz/live/yylunbo.php?id=1355652820#http://iptv.frp.terry666.xyz:90/yy/1355652820
-娘亲舅大,http://php.404003.xyz/live/yylunbo.php?id=1354932360#http://iptv.frp.terry666.xyz:90/yy/1354932360
-情满四合院,http://php.404003.xyz/live/yylunbo.php?id=1382851524#http://php.404003.xyz/live/yylunbo.php?id=1382736848#http://php.404003.xyz/live/yylunbo.php?id=1382745089#http://php.404003.xyz/live/yylunbo.php?id=1382735541
-北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#http://php.404003.xyz/live/yylunbo.php?id=1382744423#http://iptv.frp.terry666.xyz:90/yy/1382744423
-陈情令,http://php.404003.xyz/live/yylunbo.php?id=1382745121#http://iptv.frp.terry666.xyz:90/yy/1382745121
-速度与激情全集,http://php.404003.xyz/live/yylunbo.php?id=1382749892#http://iptv.frp.terry666.xyz:90/yy/1382749892
-速度与激情全集,http://php.404003.xyz/live/yylunbo.php?id=1382736911#http://iptv.frp.terry666.xyz:90/yy/1382736911
-封神：祸商,http://php.404003.xyz/live/yylunbo.php?id=1354932407#http://iptv.frp.terry666.xyz:90/yy/1354932407
-倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#http://php.404003.xyz/live/yylunbo.php?id=1414846486#http://iptv.frp.terry666.xyz:90/yy/1414846486
-少年包青天,http://php.404003.xyz/live/yylunbo.php?id=1356043677#http://iptv.frp.terry666.xyz:90/yy/1356043677
-少年包青天第三部,http://php.404003.xyz/live/yylunbo.php?id=1382736814#http://iptv.frp.terry666.xyz:90/yy/1382736814
-少年包青天第三部,http://php.404003.xyz/live/yylunbo.php?id=1382851540#http://iptv.frp.terry666.xyz:90/yy/1382851540
-宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#http://php.404003.xyz/live/yylunbo.php?id=1354931631#http://iptv.frp.terry666.xyz:90/yy/1354931631
-欢天喜地七仙女,http://cfss.cc/cdn/yy/1382735553.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735553#http://iptv.frp.terry666.xyz:90/yy/1382735553
-新白娘子传奇,http://php.404003.xyz/live/yylunbo.php?id=1508902755#http://iptv.frp.terry666.xyz:90/yy/1508902755
-聊斋志异,http://cfss.cc/cdn/yy/1382736975.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736975#http://iptv.frp.terry666.xyz:90/yy/1382736975
-寻秦记-穿越剧,http://cfss.cc/cdn/yy/1382851591.flv#http://php.404003.xyz/live/yylunbo.php?id=1382851591#http://iptv.frp.terry666.xyz:90/yy/1382851591
-仙剑奇侠传,http://php.404003.xyz/live/yylunbo.php?id=1382749903#http://iptv.frp.terry666.xyz:90/yy/1382749903
-蜀山传：剑仙传奇,http://php.404003.xyz/live/yylunbo.php?id=1382736825#http://iptv.frp.terry666.xyz:90/yy/1382736825
-隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#http://php.404003.xyz/live/yylunbo.php?id=1355102749#http://iptv.frp.terry666.xyz:90/yy/1355102749
-新水浒传,http://php.404003.xyz/live/yylunbo.php?id=1353873252#http://iptv.frp.terry666.xyz:90/yy/1353873252
-新三国,http://php.404003.xyz/live/yylunbo.php?id=1382851415#http://php.404003.xyz/live/yylunbo.php?id=1461396681#http://php.404003.xyz/live/yylunbo.php?id=1382851459
-94版三国演义,http://php.404003.xyz/live/yylunbo.php?id=1354936241#http://iptv.frp.terry666.xyz:90/yy/1354936241
-94版三国演义,http://php.404003.xyz/live/yylunbo.php?id=1354930932#http://iptv.frp.terry666.xyz:90/yy/1354930932
-98版水浒传,http://php.404003.xyz/live/yylunbo.php?id=1382702247#http://iptv.frp.terry666.xyz:90/yy/1382702247
-98版水浒传,http://php.404003.xyz/live/yylunbo.php?id=1353852605#http://iptv.frp.terry666.xyz:90/yy/1353852605
-济公,http://php.404003.xyz/live/yylunbo.php?id=1355265814#http://iptv.frp.terry666.xyz:90/yy/1355265814
-龙凤店传奇,http://php.404003.xyz/live/yylunbo.php?id=1414853673#http://iptv.frp.terry666.xyz:90/yy/1414853673
-富贵,http://php.404003.xyz/live/yylunbo.php?id=1354926537#http://iptv.frp.terry666.xyz:90/yy/1354926537
-大汉贤后卫子夫,http://php.404003.xyz/live/yylunbo.php?id=1382735569#http://iptv.frp.terry666.xyz:90/yy/1382735569
-锦衣卫之残阳如血,http://php.404003.xyz/live/yylunbo.php?id=1382736882#http://iptv.frp.terry666.xyz:90/yy/1382736882
-雪中悍刀行,http://php.404003.xyz/live/yylunbo.php?id=1462996362#http://iptv.frp.terry666.xyz:90/yy/1462996362
-香港院线大片,http://php.404003.xyz/live/yylunbo.php?id=1354936242#http://iptv.frp.terry666.xyz:90/yy/1354936242
-西游记后传,http://cfss.cc/cdn/yy/1353392400.flv#http://php.404003.xyz/live/yylunbo.php?id=1353392400#http://iptv.frp.terry666.xyz:90/yy/1353392400
-西游记后传,http://php.404003.xyz/live/yylunbo.php?id=1382736846#http://iptv.frp.terry666.xyz:90/yy/1382736846
-古装剧1,http://php.404003.xyz/live/yylunbo.php?id=1356158015#http://iptv.frp.terry666.xyz:90/yy/1356158015
-古装剧2,http://cfss.cc/cdn/yy/1354936134.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936134#http://iptv.frp.terry666.xyz:90/yy/1354936134
-1930年代经典电影,http://php.404003.xyz/live/yylunbo.php?id=1356363815#http://iptv.frp.terry666.xyz:90/yy/1356363815
-仙灵儿,http://cfss.cc/cdn/yy/1382736887.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736887#http://iptv.frp.terry666.xyz:90/yy/1382736887
-穿越时空的爱恋,http://cfss.cc/cdn/yy/1382735567.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735567#http://iptv.frp.terry666.xyz:90/yy/1382735567
-调音师-旋律奇遇,http://cfss.cc/cdn/yy/1382749911.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749911#http://iptv.frp.terry666.xyz:90/yy/1382749911
-玄幻电影,http://cfss.cc/cdn/yy/1455460998.flv#http://php.404003.xyz/live/yylunbo.php?id=1455460998#http://iptv.frp.terry666.xyz:90/yy/1455460998
-经典电影电视剧,http://cfss.cc/cdn/yy/1356213622.flv#http://php.404003.xyz/live/yylunbo.php?id=1356213622#http://iptv.frp.terry666.xyz:90/yy/1356213622
-国外院线动作大片,http://php.404003.xyz/live/yylunbo.php?id=1382735570#http://iptv.frp.terry666.xyz:90/yy/1382735570
-飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
-爱丽丝梦游仙境2,http://cfss.cc/cdn/yy/1382735559.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735559#http://iptv.frp.terry666.xyz:90/yy/1382735559
-宫锁珠帘,http://cfss.cc/cdn/yy/1354926666.flv#http://php.404003.xyz/live/yylunbo.php?id=1354926666#http://iptv.frp.terry666.xyz:90/yy/1354926666
-老卓电影,http://cfss.cc/cdn/yy/1354770516.flv#http://php.404003.xyz/live/yylunbo.php?id=1354770516#http://iptv.frp.terry666.xyz:90/yy/1354770516
-火蓝刀锋,http://cfss.cc/cdn/yy/1458239444.flv#http://php.404003.xyz/live/yylunbo.php?id=1458239444#http://iptv.frp.terry666.xyz:90/yy/1458239444
-狂飙,http://php.404003.xyz/live/yylunbo.php?id=1354790484#http://iptv.frp.terry666.xyz:90/yy/1354790484
-谈判专家,http://cfss.cc/cdn/yy/1382735560.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735560#http://iptv.frp.terry666.xyz:90/yy/1382735560
-鉴证实录2,http://php.404003.xyz/live/yylunbo.php?id=1356341389#http://iptv.frp.terry666.xyz:90/yy/1356341389
-猛兽列车,http://php.404003.xyz/live/yylunbo.php?id=1414853669#http://iptv.frp.terry666.xyz:90/yy/1414853669
-史诗级科幻电影-阿凡达,http://php.404003.xyz/live/yylunbo.php?id=1382735577#http://iptv.frp.terry666.xyz:90/yy/1382735577
-电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735571#http://iptv.frp.terry666.xyz:90/yy/1382735571
-详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#http://php.404003.xyz/live/yylunbo.php?id=1382851137#http://iptv.frp.terry666.xyz:90/yy/1382851137
-超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#http://php.404003.xyz/live/yylunbo.php?id=1354932441#http://iptv.frp.terry666.xyz:90/yy/1354932441
-古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#http://php.404003.xyz/live/yylunbo.php?id=1382881708#http://iptv.frp.terry666.xyz:90/yy/1382881708
-经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#http://php.404003.xyz/live/yylunbo.php?id=1354806550#http://iptv.frp.terry666.xyz:90/yy/1354806550
-铁道游击队,http://cfss.cc/cdn/yy/1453955779.flv#http://php.404003.xyz/live/yylunbo.php?id=1453955779#http://iptv.frp.terry666.xyz:90/yy/1453955779
-憨豆先生-经典喜剧,http://cfss.cc/cdn/yy/1354936239.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936239#http://iptv.frp.terry666.xyz:90/yy/1354936239
-憨豆先生勇闯美国,http://cfss.cc/cdn/yy/1382745190.flv#http://php.404003.xyz/live/yylunbo.php?id=1382745190#http://iptv.frp.terry666.xyz:90/yy/1382745190
-最佳下饭小甜剧,http://php.404003.xyz/live/yylunbo.php?id=1382741637#http://iptv.frp.terry666.xyz:90/yy/1382741637
-天蓬元帅,http://php.404003.xyz/live/yylunbo.php?id=1354930189#http://iptv.frp.terry666.xyz:90/yy/1354930189
-陈翔六点半之拳王妈妈,http://php.404003.xyz/live/yylunbo.php?id=1382851602#http://iptv.frp.terry666.xyz:90/yy//1382851602
-学生兵,http://php.404003.xyz/live/yylunbo.php?id=1354658003#http://cfss.cc/cdn/yy/1354658003.flv#http://iptv.frp.terry666.xyz:90/yy/1354658003
-武林外传,http://php.404003.xyz/live/yylunbo.php?id=21092633#http://iptv.frp.terry666.xyz:90/yy/21092633
-生存密码,http://php.404003.xyz/live/yylunbo.php?id=1414864186#http://cfss.cc/cdn/yy/1414864186.flv#http://iptv.frp.terry666.xyz:90/yy/1414864186
-好先生,http://php.404003.xyz/live/yylunbo.php?id=79382500#http://iptv.frp.terry666.xyz:90/yy/79382500
-法证先锋,http://php.404003.xyz/live/yylunbo.php?id=1354930939#http://iptv.frp.terry666.xyz:90/yy/1354930939
-老酒馆,http://php.404003.xyz/live/yylunbo.php?id=1382736872#http://cfss.cc/cdn/yy/1382736872.flv#http://iptv.frp.terry666.xyz:90/yy/1382736872
-李连杰功夫片,http://cfss.cc/cdn/yy/74613175.flv#http://php.404003.xyz/live/yylunbo.php?id=74613175#http://iptv.frp.terry666.xyz:90/yy/74613175
-国外动作大片,http://cfss.cc/cdn/yy/1382735540.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735540#http://iptv.frp.terry666.xyz:90/yy/1382735540
-国内动作大片1,http://cfss.cc/cdn/yy/1382749917.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749917#http://iptv.frp.terry666.xyz:90/yy/1382749917
-国内动作大片2,http://cfss.cc/cdn/yy/1382745176.flv#http://php.404003.xyz/live/yylunbo.php?id=1382745176#http://iptv.frp.terry666.xyz:90/yy/1382745176
-经典港片动作搞笑,http://php.404003.xyz/live/yylunbo.php?id=1459869766#http://iptv.frp.terry666.xyz:90/yy/1459869766
-儿童大冒险--丛林历险记,http://php.404003.xyz/live/yylunbo.php?id=1382736897#http://iptv.frp.terry666.xyz:90/yy/1382736897
-萌萌爱追剧,http://php.404003.xyz/live/yylunbo.php?id=1382745093#http://iptv.frp.terry666.xyz:90/yy/1382745093
-高分喜剧,http://php.404003.xyz/live/yylunbo.php?id=1354936157#http://iptv.frp.terry666.xyz:90/yy/1354936157
-狄仁杰系列,http://cfss.cc/cdn/yy/1354932438.flv#http://php.404003.xyz/live/yylunbo.php?id=1354932438#http://iptv.frp.terry666.xyz:90/yy/1354932438
-经典武侠电影,http://php.404003.xyz/live/yylunbo.php?id=1382749944#http://iptv.frp.terry666.xyz:90/yy/1382749944
-怪兽片合集,http://php.404003.xyz/live/yylunbo.php?id=1354930181#http://iptv.frp.terry666.xyz:90/yy/1354930181
-电影放映,http://cfss.cc/cdn/yy/1354936229.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936229#http://iptv.frp.terry666.xyz:90/yy/1354936229
-动作电影,http://cfss.cc/cdn/yy/1382736809.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736809#http://iptv.frp.terry666.xyz:90/yy/1382736809
-经典电影重温,http://php.404003.xyz/live/yylunbo.php?id=1382793140#http://php.404003.xyz/live/yylunbo.php?id=1382793140#http://iptv.frp.terry666.xyz:90/yy/1382793140
-精彩科幻片,http://cfss.cc/cdn/yy/1382736723.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736723#http://iptv.frp.terry666.xyz:90/yy/1382736723
-精彩动作电影,http://cfss.cc/cdn/yy/1382736823.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736823#http://iptv.frp.terry666.xyz:90/yy/1382736823
-热血动作电影,http://php.404003.xyz/live/yylunbo.php?id=1382736804#http://iptv.frp.terry666.xyz:90/yy/1382736804
-国产大片电影,http://php.404003.xyz/live/yylunbo.php?id=1354926655#http://iptv.frp.terry666.xyz:90/yy/1354926655
-高分电影,http://php.404003.xyz/live/yylunbo.php?id=1355171357#http://iptv.frp.terry666.xyz:90/yy/1355171357
-科幻电影,http://cfss.cc/cdn/yy/1354936170.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936170#http://iptv.frp.terry666.xyz:90/yy/1354936170
-喜剧爱情电影,http://php.404003.xyz/live/yylunbo.php?id=1382745181#http://iptv.frp.terry666.xyz:90/yy/1382745181
-影视剧,http://php.404003.xyz/live/yylunbo.php?id=1354825244#http://iptv.frp.terry666.xyz:90/yy/1354825244
-赌神系列,http://cfss.cc/cdn/yy/1354889044.flv#http://php.404003.xyz/live/yylunbo.php?id=1354889044#http://iptv.frp.terry666.xyz:90/yy/1354889044
-小鬼当家,http://cfss.cc/cdn/yy/1354658064.flv#http://php.404003.xyz/live/yylunbo.php?id=1354658064#http://iptv.frp.terry666.xyz:90/yy/1354658064
-神奇动物：邓布利多谜团,http://cfss.cc/cdn/yy/1354930984.flv#http://php.404003.xyz/live/yylunbo.php?id=1354930984#http://iptv.frp.terry666.xyz:90/yy/1354930984
-白鹿原,http://cfss.cc/cdn/yy/1354931488.flv#http://php.404003.xyz/live/yylunbo.php?id=1354931488#http://iptv.frp.terry666.xyz:90/yy/1354931488
-降魔传-神魔大战,http://php.404003.xyz/live/yylunbo.php?id=1354932371#http://iptv.frp.terry666.xyz:90/yy/1354932371#http://cfss.cc/cdn/yy/1354932371.flv
-村里有情况,http://php.404003.xyz/live/yylunbo.php?id=1382749940#http://iptv.frp.terry666.xyz:90/yy/1382749940#http://cfss.cc/cdn/yy/1382749940.flv
-欢喜冤家的爱情,http://php.404003.xyz/live/yylunbo.php?id=1354936191#http://iptv.frp.terry666.xyz:90/yy/1354936191#http://cfss.cc/cdn/yy/1354936191.flv
-东北奇缘-江湖情缘,http://cfss.cc/cdn/yy/1354936238.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936238#http://iptv.frp.terry666.xyz:90/yy/1354936238
-霹雳火,http://cfss.cc/cdn/yy/1382736895.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736895#http://iptv.frp.terry666.xyz:90/yy/1382736895
-守护长城之战,http://cfss.cc/cdn/yy/1382736896.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736896#http://iptv.frp.terry666.xyz:90/yy/1382736896
-暮光之城,http://php.404003.xyz/live/yylunbo.php?id=1382745179#http://iptv.frp.terry666.xyz:90/yy/1382745179
-剧组情缘,http://cfss.cc/cdn/yy/1382749888.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749888#http://iptv.frp.terry666.xyz:90/yy/1382749888
-【周星驰】搞笑电影,http://cfss.cc/cdn/yy/38670875.flv#http://php.404003.xyz/live/yylunbo.php?id=38670875#http://iptv.frp.terry666.xyz:90/yy/38670875
-极品芝麻官/英伦犯罪喜剧,http://cfss.cc/cdn/yy/1354658051.flv#http://php.404003.xyz/live/yylunbo.php?id=1354658051#http://iptv.frp.terry666.xyz:90/yy/1354658051
-国外高分大片,http://cfss.cc/cdn/yy/1382736867.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736867#http://iptv.frp.terry666.xyz:90/yy/1382736867
-破案 悬疑 港剧,http://php.404003.xyz/live/yylunbo.php?id=1382800083#http://iptv.frp.terry666.xyz:90/yy/1382800083
-高分港剧合集,http://php.404003.xyz/live/yylunbo.php?id=1382735542#http://iptv.frp.terry666.xyz:90/yy/1382735542
-捉妖战记：江湖除魔,http://php.404003.xyz/live/yylunbo.php?id=1382736865#http://iptv.frp.terry666.xyz:90/yy/1382736865
-搞笑经典电影,http://php.404003.xyz/live/yylunbo.php?id=1351537467#http://iptv.frp.terry666.xyz:90/yy/1351537467
-变形金刚,http://php.404003.xyz/live/yylunbo.php?id=1382736803#http://iptv.frp.terry666.xyz:90/yy/1382736803
-金庸剧场,http://php.404003.xyz/live/yylunbo.php?id=1356043609#http://iptv.frp.terry666.xyz:90/yy/1356043609
-真心英雄-无畏前行,http://php.404003.xyz/live/yylunbo.php?id=1354889042#http://iptv.frp.terry666.xyz:90/yy/1354889042
-洪金宝福星系列,http://php.404003.xyz/live/yylunbo.php?id=1354924839#http://iptv.frp.terry666.xyz:90/yy/1354924839
-成龙系列1,http://php.404003.xyz/live/yylunbo.php?id=1354888751#http://iptv.frp.terry666.xyz:90/yy/1354888751
-成龙系列2,http://cfss.cc/cdn/yy/1382736841.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736841#http://iptv.frp.terry666.xyz:90/yy/1382736841
-达叔系列,http://php.404003.xyz/live/yylunbo.php?id=1354888728#http://iptv.frp.terry666.xyz:90/yy/1354888728
-甄子丹系列,http://php.404003.xyz/live/yylunbo.php?id=1382736890#http://iptv.frp.terry666.xyz:90/yy/1382736890
-洪金宝系列,http://php.404003.xyz/live/yylunbo.php?id=1354888743#http://iptv.frp.terry666.xyz:90/yy/1354888743
-精武英雄-李连杰,http://php.404003.xyz/live/yylunbo.php?id=1382736873#http://iptv.frp.terry666.xyz:90/yy/1382736873
-叶问全集,http://php.404003.xyz/live/yylunbo.php?id=1382828771#http://iptv.frp.terry666.xyz:90/yy/1382828771
-东海龙棺,http://php.404003.xyz/live/yylunbo.php?id=1354930968#http://iptv.frp.terry666.xyz:90/yy/1354930968
-经典大片合集,http://php.404003.xyz/live/yylunbo.php?id=1382749895#http://iptv.frp.terry666.xyz:90/yy/1382749895
-风靡全球的谍战片,http://cfss.cc/cdn/yy/1382736817.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736817#http://iptv.frp.terry666.xyz:90/yy/1382736817
-我的超人女友,http://cfss.cc/cdn/yy/1382736893.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736893#http://iptv.frp.terry666.xyz:90/yy/1382736893
-超级英雄系列1,http://cfss.cc/cdn/yy/1382745091.flv#http://php.404003.xyz/live/yylunbo.php?id=1382745091#http://iptv.frp.terry666.xyz:90/yy/1382745091
-超级英雄系列2,http://cfss.cc/cdn/yy/1354932402.flv#http://php.404003.xyz/live/yylunbo.php?id=1354932402#http://iptv.frp.terry666.xyz:90/yy/1354932402
-冒牌天神1-2,http://php.404003.xyz/live/yylunbo.php?id=1354936210#http://iptv.frp.terry666.xyz:90/yy/1354936210
-河伯的新娘：奇幻爱情,http://php.404003.xyz/live/yylunbo.php?id=1354936249#http://iptv.frp.terry666.xyz:90/yy/1354936249
-西游之双圣战神,http://cfss.cc/cdn/yy/1354936199.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936199#http://iptv.frp.terry666.xyz:90/yy/1354936199
-爱拆车,http://cfss.cc/cdn/yy/54886912.flv#http://php.404003.xyz/live/yylunbo.php?id=54886912#http://iptv.frp.terry666.xyz:90/yy/54886912
-66车讯,http://cfss.cc/cdn/yy/1382571192.flv#http://php.404003.xyz/live/yylunbo.php?id=1382571192#http://iptv.frp.terry666.xyz:90/yy/1382571192
-掼蛋精英赛,http://cfss.cc/cdn/yy/1356356563.flv#http://php.404003.xyz/live/yylunbo.php?id=1356356563#http://iptv.frp.terry666.xyz:90/yy/1356356563
-世界掼蛋巡回赛,http://cfss.cc/cdn/yy/1356367255.flv#http://php.404003.xyz/live/yylunbo.php?id=1356367255#http://iptv.frp.terry666.xyz:90/yy/1356367255
-象棋挑战赛,http://cfss.cc/cdn/yy/80266434.flv#http://php.404003.xyz/live/yylunbo.php?id=80266434#http://iptv.frp.terry666.xyz:90/yy/80266434
-YY象棋,http://cfss.cc/cdn/yy/72940885.flv#http://php.404003.xyz/live/yylunbo.php?id=72940885#http://iptv.frp.terry666.xyz:90/yy/72940885
-JJ象棋,http://cfss.cc/cdn/yy/1382735030.flv#http://php.404003.xyz/live/yylunbo.php?id=1382735030#http://iptv.frp.terry666.xyz:90/yy/1382735030
-象棋-棋行天下,http://php.404003.xyz/live/yylunbo.php?id=1355709463#http://iptv.frp.terry666.xyz:90/yy/1355709463
-JJ斗地主,http://php.404003.xyz/live/yylunbo.php?id=1355501191#http://php.404003.xyz/live/yylunbo.php?id=1354650274#http://iptv.frp.terry666.xyz:90/yy/1354650274
-天天象棋官方,http://cfss.cc/cdn/yy/1354650216.flv#http://php.404003.xyz/live/yylunbo.php?id=1354650216#http://iptv.frp.terry666.xyz:90/yy/1354650216
-百家讲坛之女皇武则天,http://cfss.cc/cdn/yy/1354889015.flv#http://php.404003.xyz/live/yylunbo.php?id=1354889015#http://iptv.frp.terry666.xyz:90/yy/1354889015
-百家讲坛之明太祖朱元璋,http://cfss.cc/cdn/yy/1354936149.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936149#http://iptv.frp.terry666.xyz:90/yy/1354936149
-百家讲坛之红楼梦,http://cfss.cc/cdn/yy/1382741639.flv#http://php.404003.xyz/live/yylunbo.php?id=1382741639#http://iptv.frp.terry666.xyz:90/yy/1382741639
-赵本山爆笑小品,http://cfss.cc/cdn/yy/1354936217.flv#http://php.404003.xyz/live/yylunbo.php?id=1354936217#http://iptv.frp.terry666.xyz:90/yy/1354936217
-本山选谁上,http://cfss.cc/cdn/yy/1382749878.flv#http://php.404003.xyz/live/yylunbo.php?id=1382749878#http://iptv.frp.terry666.xyz:90/yy/1382749878
-本山快乐营,http://cfss.cc/cdn/yy/1382736718.flv#http://php.404003.xyz/live/yylunbo.php?id=1382736718#http://iptv.frp.terry666.xyz:90/yy/1382736718
-赵本山搞笑小品,http://cfss.cc/cdn/yy/1355923243.flv#http://php.404003.xyz/live/yylunbo.php?id=1355923243#http://iptv.frp.terry666.xyz:90/yy/1355923243
-宋小宝小品合集,http://php.404003.xyz/live/yylunbo.php?id=1354931577#http://iptv.frp.terry666.xyz:90/yy/1354931577
-宋小宝小品,http://php.404003.xyz/live/yylunbo.php?id=1354936198#http://iptv.frp.terry666.xyz:90/yy/1354936198
-贾玲春晚小品,http://php.404003.xyz/live/yylunbo.php?id=1382736720#http://iptv.frp.terry666.xyz:90/yy/1382736720
-24小时好剧不停,http://cfss.cc/cdn/yy/56109958.flv#http://php.404003.xyz/live/yylunbo.php?id=56109958#http://iptv.frp.terry666.xyz:90/yy/56109958
-荒野求生实录,http://cfss.cc/cdn/yy/1355244170.flv#http://php.404003.xyz/live/yylunbo.php?id=1355244170#http://iptv.frp.terry666.xyz:90/yy/1355244170
-短剧大集合,http://cfss.cc/cdn/yy/1414815109.flv#http://php.404003.xyz/live/yylunbo.php?id=1414815109#http://iptv.frp.terry666.xyz:90/yy/1414815109
-短剧连连看,http://cfss.cc/cdn/yy/1414864184.flv#http://php.404003.xyz/live/yylunbo.php?id=1414864184#http://iptv.frp.terry666.xyz:90/yy/1414864184
-王者荣耀1,http://cfss.cc/cdn/yy/78678200.flv#http://php.404003.xyz/live/yylunbo.php?id=78678200#http://iptv.frp.terry666.xyz:90/yy/78678200
-王者荣耀2,http://cfss.cc/cdn/yy/1450827522.flv#http://php.404003.xyz/live/yylunbo.php?id=1450827522#http://iptv.frp.terry666.xyz:90/yy/1450827522
-王者荣耀3,http://cfss.cc/cdn/yy/1355082782.flv#http://php.404003.xyz/live/yylunbo.php?id=1355082782#http://iptv.frp.terry666.xyz:90/yy/1355082782
+康熙微服私访记1,https://live.ottiptv.cc/yy/1352811698#http://iptv.frp.terry666.xyz:90/yy/1352811698
+康熙微服私访记3,http://cfss.cc/cdn/yy/1356373644.flv#https://live.ottiptv.cc/yy/1356373644#http://iptv.frp.terry666.xyz:90/yy/1356373644
+康熙微服私访记4,http://cfss.cc/cdn/yy/1355635293.flv#https://live.ottiptv.cc/yy/1355635293#http://iptv.frp.terry666.xyz:90/yy/1355635293
+鹿鼎记--陈小春,https://live.ottiptv.cc/yy/1382704650#http://iptv.frp.terry666.xyz:90/yy/1382704650
+鹿鼎记--陈小春,https://live.ottiptv.cc/yy/28265277#http://iptv.frp.terry666.xyz:90/yy/28265277
+鹿鼎记--陈小春,http://cfss.cc/cdn/yy/1460463356.flv#https://live.ottiptv.cc/yy/1460463356#http://iptv.frp.terry666.xyz:90/yy/1460463356
+鹿鼎记--周星驰,https://live.ottiptv.cc/yy/1354658049#http://iptv.frp.terry666.xyz:90/yy/1354658049
+铜齿铁牙纪晓岚,http://cfss.cc/cdn/yy/1382781415.flv#https://live.ottiptv.cc/yy/1382781415#http://iptv.frp.terry666.xyz:90/yy/1382781415
+铜齿铁牙纪晓岚,https://live.ottiptv.cc/yy/1354143978#http://iptv.frp.terry666.xyz:90/yy/1354143978
+康熙王朝,https://live.ottiptv.cc/yy/1382851583#http://iptv.frp.terry666.xyz:90/yy/1382851583
+神雕侠侣粤语--古天乐,https://live.ottiptv.cc/yy/1354926637#http://iptv.frp.terry666.xyz:90/yy/1354926637
+神雕侠侣--古天乐,https://live.ottiptv.cc/yy/1351762426#http://iptv.frp.terry666.xyz:90/yy/1351762426
+83版射雕英雄传,https://live.ottiptv.cc/yy/1354210357#http://iptv.frp.terry666.xyz:90/yy/1354210357
+天龙八部--黄日华,https://live.ottiptv.cc/yy/1351814644#http://iptv.frp.terry666.xyz:90/yy/1351814644
+笑傲江湖---李亚鹏版,https://live.ottiptv.cc/yy/1354282410#http://iptv.frp.terry666.xyz:90/yy/1354282410
+寻秦记,https://live.ottiptv.cc/yy/1382749900#http://iptv.frp.terry666.xyz:90/yy/1382749900
+大明王朝,http://cfss.cc/cdn/yy/1382768483.flv#https://live.ottiptv.cc/yy/1382768483#http://iptv.frp.terry666.xyz:90/yy/1382768483
+深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://live.ottiptv.cc/yy/1382736906#http://iptv.frp.terry666.xyz:90/yy/1382736906
+特种兵之利刃出鞘-1,http://cfss.cc/cdn/yy/1382773686.flv#https://live.ottiptv.cc/yy/1382773686#http://iptv.frp.terry666.xyz:90/yy/1382773686
+特种兵之利刃出鞘-2,http://cfss.cc/cdn/yy/1454835388.flv#https://live.ottiptv.cc/yy/1454835388#http://iptv.frp.terry666.xyz:90/yy/1454835388
+另类猪妖爆笑逆袭,https://live.ottiptv.cc/yy/1354936155#http://iptv.frp.terry666.xyz:90/yy/1354936155
+悬疑武侠电影—九门,http://cfss.cc/cdn/yy/1382828768.flv#https://live.ottiptv.cc/yy/1382828768#http://iptv.frp.terry666.xyz:90/yy/1382828768
+楼奴,https://live.ottiptv.cc/yy/1382736832#http://iptv.frp.terry666.xyz:90/yy/1382736832
+战胜心魔-当怪物来了,http://cfss.cc/cdn/yy/1382749910.flv#https://live.ottiptv.cc/yy/1382749910#http://iptv.frp.terry666.xyz:90/yy/1382749910
+超燃警匪片,http://cfss.cc/cdn/yy/1382735576.flv#https://live.ottiptv.cc/yy/1382735576#http://iptv.frp.terry666.xyz:90/yy/1382735576
+读心神探,https://live.ottiptv.cc/yy/1382851589#http://cfss.cc/cdn/yy/1382851589.flv#http://iptv.frp.terry666.xyz:90/yy/1382851589
+亮剑,http://cfss.cc/cdn/yy/1453810838.flv#https://live.ottiptv.cc/yy/1453810838#http://iptv.frp.terry666.xyz:90/yy/1453810838
+亮剑2,http://cfss.cc/cdn/yy/1460662397.flv#https://live.ottiptv.cc/yy/1460662397#http://iptv.frp.terry666.xyz:90/yy/1460662397
+亮剑,https://live.ottiptv.cc/yy/1356043643#http://iptv.frp.terry666.xyz:90/yy/1356043643
+亮剑,https://live.ottiptv.cc/yy/1352946111#http://iptv.frp.terry666.xyz:90/yy/1352946111
+特种兵系列,http://cfss.cc/cdn/yy/1508456184.flv#https://live.ottiptv.cc/yy/1508456184#http://iptv.frp.terry666.xyz:90/yy/1508456184
+闯关东,http://cfss.cc/cdn/yy/1354689861.flv#https://live.ottiptv.cc/yy/1354689861#http://iptv.frp.terry666.xyz:90/yy/1354689861
+父母爱情,https://live.ottiptv.cc/yy/1382851594#http://iptv.frp.terry666.xyz:90/yy/1382851594
+父母爱情,https://live.ottiptv.cc/yy/1354926650#http://iptv.frp.terry666.xyz:90/yy/1354926650
+非常保镖,https://live.ottiptv.cc/yy/1382736903#http://iptv.frp.terry666.xyz:90/yy/1382736903
+大染坊,http://cfss.cc/cdn/yy/1353215589.flv#https://live.ottiptv.cc/yy/1353215589#http://iptv.frp.terry666.xyz:90/yy/1353215589
+珍珠港,http://cfss.cc/cdn/yy/1354936234.flv#https://live.ottiptv.cc/yy/1354936234#http://iptv.frp.terry666.xyz:90/yy/1354936234
+飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://live.ottiptv.cc/yy/1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
+古惑仔,https://live.ottiptv.cc/yy/1458015189#http://iptv.frp.terry666.xyz:90/yy/1458015189
+古惑仔,https://live.ottiptv.cc/yy/1370293254#http://iptv.frp.terry666.xyz:90/yy/1370293254
+伪装者,https://live.ottiptv.cc/yy/1382851593#http://iptv.frp.terry666.xyz:90/yy/1382851593
+地下交通站,https://live.ottiptv.cc/yy/1353428972#http://iptv.frp.terry666.xyz:90/yy/1353428972#https://live.ottiptv.cc/yy/1382736795#http://iptv.frp.terry666.xyz:90/yy/1382736795
+特种兵之火凤凰,http://cfss.cc/cdn/yy/1463088777.flv#https://live.ottiptv.cc/yy/1463088777#http://iptv.frp.terry666.xyz:90/yy/1463088777
+大侦探霍桑,http://cfss.cc/cdn/yy/1382737886.flv#https://live.ottiptv.cc/yy/1382737886#http://iptv.frp.terry666.xyz:90/yy/1382737886
+神探狄仁杰第一部,https://live.ottiptv.cc/yy/1382851575#https://live.ottiptv.cc/yy/1354930934#http://iptv.frp.terry666.xyz:90/yy/1354930934
+神探狄仁杰第二部,https://live.ottiptv.cc/yy/1382851146#http://iptv.frp.terry666.xyz:90/yy/1382851146#https://live.ottiptv.cc/yy/1382736907#http://iptv.frp.terry666.xyz:90/yy/1382736907
+神探狄仁杰1-5部,http://cfss.cc/cdn/yy/1382705592.flv#https://live.ottiptv.cc/yy/1382705592#http://iptv.frp.terry666.xyz:90/yy/1382705592
+燕双鹰,https://live.ottiptv.cc/yy/1352227153#http://iptv.frp.terry666.xyz:90/yy/1352227153
+蚁人,https://live.ottiptv.cc/yy/1382736913#http://iptv.frp.terry666.xyz:90/yy/1382736913
+哈利波特全集,https://live.ottiptv.cc/yy/1382745105#http://iptv.frp.terry666.xyz:90/yy/1382745105
+终结者,http://cfss.cc/cdn/yy/1382736851.flv#https://live.ottiptv.cc/yy/1382736851#http://iptv.frp.terry666.xyz:90/yy/1382736851
+大进军全集,https://live.ottiptv.cc/yy/1382745083#http://iptv.frp.terry666.xyz:90/yy/1382745083
+铁道游击队,https://live.ottiptv.cc/yy/1507704566#http://iptv.frp.terry666.xyz:90/yy/1507704566
+超炫科幻大片,http://cfss.cc/cdn/yy/1382736840.flv#https://live.ottiptv.cc/yy/1382736840#http://iptv.frp.terry666.xyz:90/yy/1382736840
+科幻片1,https://live.ottiptv.cc/yy/1382745114#http://iptv.frp.terry666.xyz:90/yy/1382745114
+科幻片2,https://live.ottiptv.cc/yy/1354930897#http://iptv.frp.terry666.xyz:90/yy/1354930897
+复仇者联盟全季,https://live.ottiptv.cc/yy/1354936167#https://live.ottiptv.cc/yy/1354936167#http://iptv.frp.terry666.xyz:90/yy/1354936167
+九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#https://live.ottiptv.cc/yy/1354936116#http://iptv.frp.terry666.xyz:90/yy/1354936116
+笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://live.ottiptv.cc/yy/1382851576#http://iptv.frp.terry666.xyz:90/yy/1382851576
+我爱我家,http://iptv.frp.terry666.xyz:90/yy/1382851580#https://live.ottiptv.cc/yy/1382851580
+血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#https://live.ottiptv.cc/yy/1354936136#http://iptv.frp.terry666.xyz:90/yy/1354936136
+不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.ottiptv.cc/yy/1382749890#http://iptv.frp.terry666.xyz:90/yy/1382749890
+港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.ottiptv.cc/yy/1382736816#http://iptv.frp.terry666.xyz:90/yy/1382736816
+港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.ottiptv.cc/yy/1382736917#http://iptv.frp.terry666.xyz:90/yy/1382736917
+高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#https://live.ottiptv.cc/yy/1382851586#http://iptv.frp.terry666.xyz:90/yy/1382851586
+举起手来,https://live.ottiptv.cc/yy/1382736877#http://iptv.frp.terry666.xyz:90/yy/1382736877
+案发现场,https://live.ottiptv.cc/yy/22089862#http://cfss.cc/cdn/yy/22089862.flv#http://iptv.frp.terry666.xyz:90/yy/22089862
+风筝,https://live.ottiptv.cc/yy/1382828770#http://iptv.frp.terry666.xyz:90/yy/1382828770
+小欢喜,https://live.ottiptv.cc/yy/1382737888#http://iptv.frp.terry666.xyz:90/yy/1382737888
+炊事班的故事,https://live.ottiptv.cc/yy/1382736886#http://iptv.frp.terry666.xyz:90/yy/1382736886
+炊事班的故事第一部,https://live.ottiptv.cc/yy/1382749901#http://iptv.frp.terry666.xyz:90/yy/1382749901
+炊事班的故事第二部,https://live.ottiptv.cc/yy/1382736885#http://iptv.frp.terry666.xyz:90/yy/1382736885
+炊事班的故事第三部,https://live.ottiptv.cc/yy/1382736716#http://iptv.frp.terry666.xyz:90/yy/1382736716
+正阳门下,https://live.ottiptv.cc/yy/1354931580#http://iptv.frp.terry666.xyz:90/yy/1354931580
+武林客栈,https://live.ottiptv.cc/yy/1382773728#http://iptv.frp.terry666.xyz:90/yy/1382773728
+武林外传,https://live.ottiptv.cc/yy/1355652820#http://iptv.frp.terry666.xyz:90/yy/1355652820
+娘亲舅大,https://live.ottiptv.cc/yy/1354932360#http://iptv.frp.terry666.xyz:90/yy/1354932360
+情满四合院,https://live.ottiptv.cc/yy/1382851524#https://live.ottiptv.cc/yy/1382736848#https://live.ottiptv.cc/yy/1382745089#https://live.ottiptv.cc/yy/1382735541
+北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#https://live.ottiptv.cc/yy/1382744423#http://iptv.frp.terry666.xyz:90/yy/1382744423
+陈情令,https://live.ottiptv.cc/yy/1382745121#http://iptv.frp.terry666.xyz:90/yy/1382745121
+速度与激情全集,https://live.ottiptv.cc/yy/1382749892#http://iptv.frp.terry666.xyz:90/yy/1382749892
+速度与激情全集,https://live.ottiptv.cc/yy/1382736911#http://iptv.frp.terry666.xyz:90/yy/1382736911
+封神：祸商,https://live.ottiptv.cc/yy/1354932407#http://iptv.frp.terry666.xyz:90/yy/1354932407
+倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.ottiptv.cc/yy/1414846486#http://iptv.frp.terry666.xyz:90/yy/1414846486
+少年包青天,https://live.ottiptv.cc/yy/1356043677#http://iptv.frp.terry666.xyz:90/yy/1356043677
+少年包青天第三部,https://live.ottiptv.cc/yy/1382736814#http://iptv.frp.terry666.xyz:90/yy/1382736814
+少年包青天第三部,https://live.ottiptv.cc/yy/1382851540#http://iptv.frp.terry666.xyz:90/yy/1382851540
+宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.ottiptv.cc/yy/1354931631#http://iptv.frp.terry666.xyz:90/yy/1354931631
+欢天喜地七仙女,http://cfss.cc/cdn/yy/1382735553.flv#https://live.ottiptv.cc/yy/1382735553#http://iptv.frp.terry666.xyz:90/yy/1382735553
+新白娘子传奇,https://live.ottiptv.cc/yy/1508902755#http://iptv.frp.terry666.xyz:90/yy/1508902755
+聊斋志异,http://cfss.cc/cdn/yy/1382736975.flv#https://live.ottiptv.cc/yy/1382736975#http://iptv.frp.terry666.xyz:90/yy/1382736975
+寻秦记-穿越剧,http://cfss.cc/cdn/yy/1382851591.flv#https://live.ottiptv.cc/yy/1382851591#http://iptv.frp.terry666.xyz:90/yy/1382851591
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903#http://iptv.frp.terry666.xyz:90/yy/1382749903
+蜀山传：剑仙传奇,https://live.ottiptv.cc/yy/1382736825#http://iptv.frp.terry666.xyz:90/yy/1382736825
+隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#http://iptv.frp.terry666.xyz:90/yy/1355102749
+新水浒传,https://live.ottiptv.cc/yy/1353873252#http://iptv.frp.terry666.xyz:90/yy/1353873252
+新三国,https://live.ottiptv.cc/yy/1382851415#https://live.ottiptv.cc/yy/1461396681#https://live.ottiptv.cc/yy/1382851459
+94版三国演义,https://live.ottiptv.cc/yy/1354936241#http://iptv.frp.terry666.xyz:90/yy/1354936241
+94版三国演义,https://live.ottiptv.cc/yy/1354930932#http://iptv.frp.terry666.xyz:90/yy/1354930932
+98版水浒传,https://live.ottiptv.cc/yy/1382702247#http://iptv.frp.terry666.xyz:90/yy/1382702247
+98版水浒传,https://live.ottiptv.cc/yy/1353852605#http://iptv.frp.terry666.xyz:90/yy/1353852605
+济公,https://live.ottiptv.cc/yy/1355265814#http://iptv.frp.terry666.xyz:90/yy/1355265814
+龙凤店传奇,https://live.ottiptv.cc/yy/1414853673#http://iptv.frp.terry666.xyz:90/yy/1414853673
+富贵,https://live.ottiptv.cc/yy/1354926537#http://iptv.frp.terry666.xyz:90/yy/1354926537
+大汉贤后卫子夫,https://live.ottiptv.cc/yy/1382735569#http://iptv.frp.terry666.xyz:90/yy/1382735569
+锦衣卫之残阳如血,https://live.ottiptv.cc/yy/1382736882#http://iptv.frp.terry666.xyz:90/yy/1382736882
+雪中悍刀行,https://live.ottiptv.cc/yy/1462996362#http://iptv.frp.terry666.xyz:90/yy/1462996362
+香港院线大片,https://live.ottiptv.cc/yy/1354936242#http://iptv.frp.terry666.xyz:90/yy/1354936242
+西游记后传,http://cfss.cc/cdn/yy/1353392400.flv#https://live.ottiptv.cc/yy/1353392400#http://iptv.frp.terry666.xyz:90/yy/1353392400
+西游记后传,https://live.ottiptv.cc/yy/1382736846#http://iptv.frp.terry666.xyz:90/yy/1382736846
+古装剧1,https://live.ottiptv.cc/yy/1356158015#http://iptv.frp.terry666.xyz:90/yy/1356158015
+古装剧2,http://cfss.cc/cdn/yy/1354936134.flv#https://live.ottiptv.cc/yy/1354936134#http://iptv.frp.terry666.xyz:90/yy/1354936134
+1930年代经典电影,https://live.ottiptv.cc/yy/1356363815#http://iptv.frp.terry666.xyz:90/yy/1356363815
+仙灵儿,http://cfss.cc/cdn/yy/1382736887.flv#https://live.ottiptv.cc/yy/1382736887#http://iptv.frp.terry666.xyz:90/yy/1382736887
+穿越时空的爱恋,http://cfss.cc/cdn/yy/1382735567.flv#https://live.ottiptv.cc/yy/1382735567#http://iptv.frp.terry666.xyz:90/yy/1382735567
+调音师-旋律奇遇,http://cfss.cc/cdn/yy/1382749911.flv#https://live.ottiptv.cc/yy/1382749911#http://iptv.frp.terry666.xyz:90/yy/1382749911
+玄幻电影,http://cfss.cc/cdn/yy/1455460998.flv#https://live.ottiptv.cc/yy/1455460998#http://iptv.frp.terry666.xyz:90/yy/1455460998
+经典电影电视剧,http://cfss.cc/cdn/yy/1356213622.flv#https://live.ottiptv.cc/yy/1356213622#http://iptv.frp.terry666.xyz:90/yy/1356213622
+国外院线动作大片,https://live.ottiptv.cc/yy/1382735570#http://iptv.frp.terry666.xyz:90/yy/1382735570
+飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://live.ottiptv.cc/yy/1382735547#http://iptv.frp.terry666.xyz:90/yy/1382735547
+爱丽丝梦游仙境2,http://cfss.cc/cdn/yy/1382735559.flv#https://live.ottiptv.cc/yy/1382735559#http://iptv.frp.terry666.xyz:90/yy/1382735559
+宫锁珠帘,http://cfss.cc/cdn/yy/1354926666.flv#https://live.ottiptv.cc/yy/1354926666#http://iptv.frp.terry666.xyz:90/yy/1354926666
+老卓电影,http://cfss.cc/cdn/yy/1354770516.flv#https://live.ottiptv.cc/yy/1354770516#http://iptv.frp.terry666.xyz:90/yy/1354770516
+火蓝刀锋,http://cfss.cc/cdn/yy/1458239444.flv#https://live.ottiptv.cc/yy/1458239444#http://iptv.frp.terry666.xyz:90/yy/1458239444
+狂飙,https://live.ottiptv.cc/yy/1354790484#http://iptv.frp.terry666.xyz:90/yy/1354790484
+谈判专家,http://cfss.cc/cdn/yy/1382735560.flv#https://live.ottiptv.cc/yy/1382735560#http://iptv.frp.terry666.xyz:90/yy/1382735560
+鉴证实录2,https://live.ottiptv.cc/yy/1356341389#http://iptv.frp.terry666.xyz:90/yy/1356341389
+猛兽列车,https://live.ottiptv.cc/yy/1414853669#http://iptv.frp.terry666.xyz:90/yy/1414853669
+史诗级科幻电影-阿凡达,https://live.ottiptv.cc/yy/1382735577#http://iptv.frp.terry666.xyz:90/yy/1382735577
+电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#https://live.ottiptv.cc/yy/1382735571#http://iptv.frp.terry666.xyz:90/yy/1382735571
+详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#http://iptv.frp.terry666.xyz:90/yy/1382851137
+超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#https://live.ottiptv.cc/yy/1354932441#http://iptv.frp.terry666.xyz:90/yy/1354932441
+古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#https://live.ottiptv.cc/yy/1382881708#http://iptv.frp.terry666.xyz:90/yy/1382881708
+经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#https://live.ottiptv.cc/yy/1354806550#http://iptv.frp.terry666.xyz:90/yy/1354806550
+铁道游击队,http://cfss.cc/cdn/yy/1453955779.flv#https://live.ottiptv.cc/yy/1453955779#http://iptv.frp.terry666.xyz:90/yy/1453955779
+憨豆先生-经典喜剧,http://cfss.cc/cdn/yy/1354936239.flv#https://live.ottiptv.cc/yy/1354936239#http://iptv.frp.terry666.xyz:90/yy/1354936239
+憨豆先生勇闯美国,http://cfss.cc/cdn/yy/1382745190.flv#https://live.ottiptv.cc/yy/1382745190#http://iptv.frp.terry666.xyz:90/yy/1382745190
+最佳下饭小甜剧,https://live.ottiptv.cc/yy/1382741637#http://iptv.frp.terry666.xyz:90/yy/1382741637
+天蓬元帅,https://live.ottiptv.cc/yy/1354930189#http://iptv.frp.terry666.xyz:90/yy/1354930189
+陈翔六点半之拳王妈妈,https://live.ottiptv.cc/yy/1382851602#http://iptv.frp.terry666.xyz:90/yy//1382851602
+学生兵,https://live.ottiptv.cc/yy/1354658003#http://cfss.cc/cdn/yy/1354658003.flv#http://iptv.frp.terry666.xyz:90/yy/1354658003
+武林外传,https://live.ottiptv.cc/yy/21092633#http://iptv.frp.terry666.xyz:90/yy/21092633
+生存密码,https://live.ottiptv.cc/yy/1414864186#http://cfss.cc/cdn/yy/1414864186.flv#http://iptv.frp.terry666.xyz:90/yy/1414864186
+好先生,https://live.ottiptv.cc/yy/79382500#http://iptv.frp.terry666.xyz:90/yy/79382500
+法证先锋,https://live.ottiptv.cc/yy/1354930939#http://iptv.frp.terry666.xyz:90/yy/1354930939
+老酒馆,https://live.ottiptv.cc/yy/1382736872#http://cfss.cc/cdn/yy/1382736872.flv#http://iptv.frp.terry666.xyz:90/yy/1382736872
+李连杰功夫片,http://cfss.cc/cdn/yy/74613175.flv#https://live.ottiptv.cc/yy/74613175#http://iptv.frp.terry666.xyz:90/yy/74613175
+国外动作大片,http://cfss.cc/cdn/yy/1382735540.flv#https://live.ottiptv.cc/yy/1382735540#http://iptv.frp.terry666.xyz:90/yy/1382735540
+国内动作大片1,http://cfss.cc/cdn/yy/1382749917.flv#https://live.ottiptv.cc/yy/1382749917#http://iptv.frp.terry666.xyz:90/yy/1382749917
+国内动作大片2,http://cfss.cc/cdn/yy/1382745176.flv#https://live.ottiptv.cc/yy/1382745176#http://iptv.frp.terry666.xyz:90/yy/1382745176
+经典港片动作搞笑,https://live.ottiptv.cc/yy/1459869766#http://iptv.frp.terry666.xyz:90/yy/1459869766
+儿童大冒险--丛林历险记,https://live.ottiptv.cc/yy/1382736897#http://iptv.frp.terry666.xyz:90/yy/1382736897
+萌萌爱追剧,https://live.ottiptv.cc/yy/1382745093#http://iptv.frp.terry666.xyz:90/yy/1382745093
+高分喜剧,https://live.ottiptv.cc/yy/1354936157#http://iptv.frp.terry666.xyz:90/yy/1354936157
+狄仁杰系列,http://cfss.cc/cdn/yy/1354932438.flv#https://live.ottiptv.cc/yy/1354932438#http://iptv.frp.terry666.xyz:90/yy/1354932438
+经典武侠电影,https://live.ottiptv.cc/yy/1382749944#http://iptv.frp.terry666.xyz:90/yy/1382749944
+怪兽片合集,https://live.ottiptv.cc/yy/1354930181#http://iptv.frp.terry666.xyz:90/yy/1354930181
+电影放映,http://cfss.cc/cdn/yy/1354936229.flv#https://live.ottiptv.cc/yy/1354936229#http://iptv.frp.terry666.xyz:90/yy/1354936229
+动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.ottiptv.cc/yy/1382736809#http://iptv.frp.terry666.xyz:90/yy/1382736809
+经典电影重温,https://live.ottiptv.cc/yy/1382793140#https://live.ottiptv.cc/yy/1382793140#http://iptv.frp.terry666.xyz:90/yy/1382793140
+精彩科幻片,http://cfss.cc/cdn/yy/1382736723.flv#https://live.ottiptv.cc/yy/1382736723#http://iptv.frp.terry666.xyz:90/yy/1382736723
+精彩动作电影,http://cfss.cc/cdn/yy/1382736823.flv#https://live.ottiptv.cc/yy/1382736823#http://iptv.frp.terry666.xyz:90/yy/1382736823
+热血动作电影,https://live.ottiptv.cc/yy/1382736804#http://iptv.frp.terry666.xyz:90/yy/1382736804
+国产大片电影,https://live.ottiptv.cc/yy/1354926655#http://iptv.frp.terry666.xyz:90/yy/1354926655
+高分电影,https://live.ottiptv.cc/yy/1355171357#http://iptv.frp.terry666.xyz:90/yy/1355171357
+科幻电影,http://cfss.cc/cdn/yy/1354936170.flv#https://live.ottiptv.cc/yy/1354936170#http://iptv.frp.terry666.xyz:90/yy/1354936170
+喜剧爱情电影,https://live.ottiptv.cc/yy/1382745181#http://iptv.frp.terry666.xyz:90/yy/1382745181
+影视剧,https://live.ottiptv.cc/yy/1354825244#http://iptv.frp.terry666.xyz:90/yy/1354825244
+赌神系列,http://cfss.cc/cdn/yy/1354889044.flv#https://live.ottiptv.cc/yy/1354889044#http://iptv.frp.terry666.xyz:90/yy/1354889044
+小鬼当家,http://cfss.cc/cdn/yy/1354658064.flv#https://live.ottiptv.cc/yy/1354658064#http://iptv.frp.terry666.xyz:90/yy/1354658064
+神奇动物：邓布利多谜团,http://cfss.cc/cdn/yy/1354930984.flv#https://live.ottiptv.cc/yy/1354930984#http://iptv.frp.terry666.xyz:90/yy/1354930984
+白鹿原,http://cfss.cc/cdn/yy/1354931488.flv#https://live.ottiptv.cc/yy/1354931488#http://iptv.frp.terry666.xyz:90/yy/1354931488
+降魔传-神魔大战,https://live.ottiptv.cc/yy/1354932371#http://iptv.frp.terry666.xyz:90/yy/1354932371#http://cfss.cc/cdn/yy/1354932371.flv
+村里有情况,https://live.ottiptv.cc/yy/1382749940#http://iptv.frp.terry666.xyz:90/yy/1382749940#http://cfss.cc/cdn/yy/1382749940.flv
+欢喜冤家的爱情,https://live.ottiptv.cc/yy/1354936191#http://iptv.frp.terry666.xyz:90/yy/1354936191#http://cfss.cc/cdn/yy/1354936191.flv
+东北奇缘-江湖情缘,http://cfss.cc/cdn/yy/1354936238.flv#https://live.ottiptv.cc/yy/1354936238#http://iptv.frp.terry666.xyz:90/yy/1354936238
+霹雳火,http://cfss.cc/cdn/yy/1382736895.flv#https://live.ottiptv.cc/yy/1382736895#http://iptv.frp.terry666.xyz:90/yy/1382736895
+守护长城之战,http://cfss.cc/cdn/yy/1382736896.flv#https://live.ottiptv.cc/yy/1382736896#http://iptv.frp.terry666.xyz:90/yy/1382736896
+暮光之城,https://live.ottiptv.cc/yy/1382745179#http://iptv.frp.terry666.xyz:90/yy/1382745179
+剧组情缘,http://cfss.cc/cdn/yy/1382749888.flv#https://live.ottiptv.cc/yy/1382749888#http://iptv.frp.terry666.xyz:90/yy/1382749888
+【周星驰】搞笑电影,http://cfss.cc/cdn/yy/38670875.flv#https://live.ottiptv.cc/yy/38670875#http://iptv.frp.terry666.xyz:90/yy/38670875
+极品芝麻官/英伦犯罪喜剧,http://cfss.cc/cdn/yy/1354658051.flv#https://live.ottiptv.cc/yy/1354658051#http://iptv.frp.terry666.xyz:90/yy/1354658051
+国外高分大片,http://cfss.cc/cdn/yy/1382736867.flv#https://live.ottiptv.cc/yy/1382736867#http://iptv.frp.terry666.xyz:90/yy/1382736867
+破案 悬疑 港剧,https://live.ottiptv.cc/yy/1382800083#http://iptv.frp.terry666.xyz:90/yy/1382800083
+高分港剧合集,https://live.ottiptv.cc/yy/1382735542#http://iptv.frp.terry666.xyz:90/yy/1382735542
+捉妖战记：江湖除魔,https://live.ottiptv.cc/yy/1382736865#http://iptv.frp.terry666.xyz:90/yy/1382736865
+搞笑经典电影,https://live.ottiptv.cc/yy/1351537467#http://iptv.frp.terry666.xyz:90/yy/1351537467
+变形金刚,https://live.ottiptv.cc/yy/1382736803#http://iptv.frp.terry666.xyz:90/yy/1382736803
+金庸剧场,https://live.ottiptv.cc/yy/1356043609#http://iptv.frp.terry666.xyz:90/yy/1356043609
+真心英雄-无畏前行,https://live.ottiptv.cc/yy/1354889042#http://iptv.frp.terry666.xyz:90/yy/1354889042
+洪金宝福星系列,https://live.ottiptv.cc/yy/1354924839#http://iptv.frp.terry666.xyz:90/yy/1354924839
+成龙系列1,https://live.ottiptv.cc/yy/1354888751#http://iptv.frp.terry666.xyz:90/yy/1354888751
+成龙系列2,http://cfss.cc/cdn/yy/1382736841.flv#https://live.ottiptv.cc/yy/1382736841#http://iptv.frp.terry666.xyz:90/yy/1382736841
+达叔系列,https://live.ottiptv.cc/yy/1354888728#http://iptv.frp.terry666.xyz:90/yy/1354888728
+甄子丹系列,https://live.ottiptv.cc/yy/1382736890#http://iptv.frp.terry666.xyz:90/yy/1382736890
+洪金宝系列,https://live.ottiptv.cc/yy/1354888743#http://iptv.frp.terry666.xyz:90/yy/1354888743
+精武英雄-李连杰,https://live.ottiptv.cc/yy/1382736873#http://iptv.frp.terry666.xyz:90/yy/1382736873
+叶问全集,https://live.ottiptv.cc/yy/1382828771#http://iptv.frp.terry666.xyz:90/yy/1382828771
+东海龙棺,https://live.ottiptv.cc/yy/1354930968#http://iptv.frp.terry666.xyz:90/yy/1354930968
+经典大片合集,https://live.ottiptv.cc/yy/1382749895#http://iptv.frp.terry666.xyz:90/yy/1382749895
+风靡全球的谍战片,http://cfss.cc/cdn/yy/1382736817.flv#https://live.ottiptv.cc/yy/1382736817#http://iptv.frp.terry666.xyz:90/yy/1382736817
+我的超人女友,http://cfss.cc/cdn/yy/1382736893.flv#https://live.ottiptv.cc/yy/1382736893#http://iptv.frp.terry666.xyz:90/yy/1382736893
+超级英雄系列1,http://cfss.cc/cdn/yy/1382745091.flv#https://live.ottiptv.cc/yy/1382745091#http://iptv.frp.terry666.xyz:90/yy/1382745091
+超级英雄系列2,http://cfss.cc/cdn/yy/1354932402.flv#https://live.ottiptv.cc/yy/1354932402#http://iptv.frp.terry666.xyz:90/yy/1354932402
+冒牌天神1-2,https://live.ottiptv.cc/yy/1354936210#http://iptv.frp.terry666.xyz:90/yy/1354936210
+河伯的新娘：奇幻爱情,https://live.ottiptv.cc/yy/1354936249#http://iptv.frp.terry666.xyz:90/yy/1354936249
+西游之双圣战神,http://cfss.cc/cdn/yy/1354936199.flv#https://live.ottiptv.cc/yy/1354936199#http://iptv.frp.terry666.xyz:90/yy/1354936199
+爱拆车,http://cfss.cc/cdn/yy/54886912.flv#https://live.ottiptv.cc/yy/54886912#http://iptv.frp.terry666.xyz:90/yy/54886912
+66车讯,http://cfss.cc/cdn/yy/1382571192.flv#https://live.ottiptv.cc/yy/1382571192#http://iptv.frp.terry666.xyz:90/yy/1382571192
+掼蛋精英赛,http://cfss.cc/cdn/yy/1356356563.flv#https://live.ottiptv.cc/yy/1356356563#http://iptv.frp.terry666.xyz:90/yy/1356356563
+世界掼蛋巡回赛,http://cfss.cc/cdn/yy/1356367255.flv#https://live.ottiptv.cc/yy/1356367255#http://iptv.frp.terry666.xyz:90/yy/1356367255
+象棋挑战赛,http://cfss.cc/cdn/yy/80266434.flv#https://live.ottiptv.cc/yy/80266434#http://iptv.frp.terry666.xyz:90/yy/80266434
+YY象棋,http://cfss.cc/cdn/yy/72940885.flv#https://live.ottiptv.cc/yy/72940885#http://iptv.frp.terry666.xyz:90/yy/72940885
+JJ象棋,http://cfss.cc/cdn/yy/1382735030.flv#https://live.ottiptv.cc/yy/1382735030#http://iptv.frp.terry666.xyz:90/yy/1382735030
+象棋-棋行天下,https://live.ottiptv.cc/yy/1355709463#http://iptv.frp.terry666.xyz:90/yy/1355709463
+JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/1354650274#http://iptv.frp.terry666.xyz:90/yy/1354650274
+天天象棋官方,http://cfss.cc/cdn/yy/1354650216.flv#https://live.ottiptv.cc/yy/1354650216#http://iptv.frp.terry666.xyz:90/yy/1354650216
+百家讲坛之女皇武则天,http://cfss.cc/cdn/yy/1354889015.flv#https://live.ottiptv.cc/yy/1354889015#http://iptv.frp.terry666.xyz:90/yy/1354889015
+百家讲坛之明太祖朱元璋,http://cfss.cc/cdn/yy/1354936149.flv#https://live.ottiptv.cc/yy/1354936149#http://iptv.frp.terry666.xyz:90/yy/1354936149
+百家讲坛之红楼梦,http://cfss.cc/cdn/yy/1382741639.flv#https://live.ottiptv.cc/yy/1382741639#http://iptv.frp.terry666.xyz:90/yy/1382741639
+赵本山爆笑小品,http://cfss.cc/cdn/yy/1354936217.flv#https://live.ottiptv.cc/yy/1354936217#http://iptv.frp.terry666.xyz:90/yy/1354936217
+本山选谁上,http://cfss.cc/cdn/yy/1382749878.flv#https://live.ottiptv.cc/yy/1382749878#http://iptv.frp.terry666.xyz:90/yy/1382749878
+本山快乐营,http://cfss.cc/cdn/yy/1382736718.flv#https://live.ottiptv.cc/yy/1382736718#http://iptv.frp.terry666.xyz:90/yy/1382736718
+赵本山搞笑小品,http://cfss.cc/cdn/yy/1355923243.flv#https://live.ottiptv.cc/yy/1355923243#http://iptv.frp.terry666.xyz:90/yy/1355923243
+宋小宝小品合集,https://live.ottiptv.cc/yy/1354931577#http://iptv.frp.terry666.xyz:90/yy/1354931577
+宋小宝小品,https://live.ottiptv.cc/yy/1354936198#http://iptv.frp.terry666.xyz:90/yy/1354936198
+贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720#http://iptv.frp.terry666.xyz:90/yy/1382736720
+24小时好剧不停,http://cfss.cc/cdn/yy/56109958.flv#https://live.ottiptv.cc/yy/56109958#http://iptv.frp.terry666.xyz:90/yy/56109958
+荒野求生实录,http://cfss.cc/cdn/yy/1355244170.flv#https://live.ottiptv.cc/yy/1355244170#http://iptv.frp.terry666.xyz:90/yy/1355244170
+短剧大集合,http://cfss.cc/cdn/yy/1414815109.flv#https://live.ottiptv.cc/yy/1414815109#http://iptv.frp.terry666.xyz:90/yy/1414815109
+短剧连连看,http://cfss.cc/cdn/yy/1414864184.flv#https://live.ottiptv.cc/yy/1414864184#http://iptv.frp.terry666.xyz:90/yy/1414864184
+王者荣耀1,http://cfss.cc/cdn/yy/78678200.flv#https://live.ottiptv.cc/yy/78678200#http://iptv.frp.terry666.xyz:90/yy/78678200
+王者荣耀2,http://cfss.cc/cdn/yy/1450827522.flv#https://live.ottiptv.cc/yy/1450827522#http://iptv.frp.terry666.xyz:90/yy/1450827522
+王者荣耀3,http://cfss.cc/cdn/yy/1355082782.flv#https://live.ottiptv.cc/yy/1355082782#http://iptv.frp.terry666.xyz:90/yy/1355082782
 
 
 
@@ -2346,17 +2346,17 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 林正英6,https://www.goodiptv.club/huya/396734#https://live.ottiptv.cc/huya/396734#http://cfss.cc/cdn/huya/396734.flv
 林正英7,https://www.goodiptv.club/douyu/12176174#https://isus.cc/php/douyu.php?id=12176174
 林正英8,https://www.goodiptv.club/huya/25256065#https://live.ottiptv.cc/huya/25256065#http://cfss.cc/cdn/huya/25256065.flv
-林正英9,http://cfss.cc/cdn/yy/1382780025.flv#http://php.404003.xyz/live/yylunbo.php?id=1382780025#http://iptv.frp.terry666.xyz:90/yy/1382780025
-林正英10,http://cfss.cc/cdn/yy/1455891197.flv#http://php.404003.xyz/live/yylunbo.php?id=1455891197#http://iptv.frp.terry666.xyz:90/yy/1455891197
+林正英9,http://cfss.cc/cdn/yy/1382780025.flv#https://live.ottiptv.cc/yy/1382780025#http://iptv.frp.terry666.xyz:90/yy/1382780025
+林正英10,http://cfss.cc/cdn/yy/1455891197.flv#https://live.ottiptv.cc/yy/1455891197#http://iptv.frp.terry666.xyz:90/yy/1455891197
 林正英11,https://www.goodiptv.club/huya/30830295#https://live.ottiptv.cc/huya/30830295#http://cfss.cc/cdn/huya/30830295.flv
 林正英12,https://www.goodiptv.club/huya/30695684#https://live.ottiptv.cc/huya/30695684#http://cfss.cc/cdn/huya/30695684.flv
 林正英13,https://www.goodiptv.club/huya/30439645#https://live.ottiptv.cc/huya/30439645#http://cfss.cc/cdn/huya/30439645.flv
-林正英14,http://php.404003.xyz/live/yylunbo.php?id=1462895099#http://iptv.frp.terry666.xyz:90/yy/1462895099
+林正英14,https://live.ottiptv.cc/yy/1462895099#http://iptv.frp.terry666.xyz:90/yy/1462895099
 林正英15,https://www.goodiptv.club/huya/23865148#https://live.ottiptv.cc/huya/23865148#http://cfss.cc/cdn/huya/23865148.flv
-林正英16,http://php.404003.xyz/live/yylunbo.php?id=1351505899#http://iptv.frp.terry666.xyz:90/yy/1351505899
+林正英16,https://live.ottiptv.cc/yy/1351505899#http://iptv.frp.terry666.xyz:90/yy/1351505899
 林正英17,https://www.goodiptv.club/huya/31133536#https://live.ottiptv.cc/huya/31133536#http://cfss.cc/cdn/huya/31133536.flv
 阴阳路系列,https://www.goodiptv.club/huya/27318871#https://live.ottiptv.cc/huya/27318871#http://cfss.cc/cdn/huya/27318871.flv
-经典鬼片3000部,http://php.404003.xyz/live/yylunbo.php?id=29460894#http://iptv.frp.terry666.xyz:90/yy/29460894
+经典鬼片3000部,https://live.ottiptv.cc/yy/29460894#http://iptv.frp.terry666.xyz:90/yy/29460894
 恐怖电影 林正英 僵尸 鬼片 经典,https://www.goodiptv.club/douyu/9275635#https://isus.cc/php/douyu.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#https://live.ottiptv.cc/huya/11601960#http://cfss.cc/cdn/huya/11601960.flv
 古墓系列,https://www.goodiptv.club/huya/11352913#https://live.ottiptv.cc/huya/11352913#http://cfss.cc/cdn/huya/11352913.flv
@@ -2378,17 +2378,17 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 僵尸系列,https://www.goodiptv.club/huya/30513350#https://live.ottiptv.cc/huya/30513350#http://cfss.cc/cdn/huya/30513350.flv
 灵界侦探浦饭幽助,https://www.goodiptv.club/huya/11602034#https://live.ottiptv.cc/huya/11602034#http://cfss.cc/cdn/huya/11602034.flv
 经典系列 一屋开心鬼,https://www.goodiptv.club/huya/353798#https://live.ottiptv.cc/huya/353798#http://cfss.cc/cdn/huya/353798.flv
-关于我和鬼变成家人的那件事,http://php.404003.xyz/live/yylunbo.php?id=1354926671#http://cfss.cc/cdn/yy/1354926671.flv#http://iptv.frp.terry666.xyz:90/yy/1354926671
+关于我和鬼变成家人的那件事,https://live.ottiptv.cc/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv#http://iptv.frp.terry666.xyz:90/yy/1354926671
 老烟斗鬼故事,https://www.goodiptv.club/douyu/2337939#https://isus.cc/php/douyu.php?id=2337939
 活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#https://live.ottiptv.cc/huya/30080183#http://cfss.cc/cdn/huya/30080183.flv
 我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#https://live.ottiptv.cc/huya/21059571#http://cfss.cc/cdn/huya/21059571.flv
 我和僵尸有个约会2,https://www.goodiptv.club/douyu/8637229#https://isus.cc/php/douyu.php?id=8637229
-惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#http://php.404003.xyz/live/yylunbo.php?id=1355052097#http://iptv.frp.terry666.xyz:90/yy/1355052097
+惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#https://live.ottiptv.cc/yy/1355052097#http://iptv.frp.terry666.xyz:90/yy/1355052097
 鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#https://live.ottiptv.cc/huya/23728674#http://cfss.cc/cdn/huya/23728674.flv
 海外经典恐怖片,https://www.goodiptv.club/huya/20985852#https://live.ottiptv.cc/huya/20985852#http://cfss.cc/cdn/huya/20985852.flv
-鬼片恐怖私家影院,http://cfss.cc/cdn/yy/1354209316.flv#http://php.404003.xyz/live/yylunbo.php?id=1354209316
-鬼片喜剧/动作港剧,http://php.404003.xyz/live/yylunbo.php?id=1355269576#http://iptv.frp.terry666.xyz:90/yy/1355269576
-玄幻道墓,http://php.404003.xyz/live/yylunbo.php?id=1459714870#http://cfss.cc/cdn/yy/1459714870.flv
+鬼片恐怖私家影院,http://cfss.cc/cdn/yy/1354209316.flv#https://live.ottiptv.cc/yy/1354209316
+鬼片喜剧/动作港剧,https://live.ottiptv.cc/yy/1355269576#http://iptv.frp.terry666.xyz:90/yy/1355269576
+玄幻道墓,https://live.ottiptv.cc/yy/1459714870#http://cfss.cc/cdn/yy/1459714870.flv
 夜场恐怖片,https://www.goodiptv.club/huya/30522289#https://live.ottiptv.cc/huya/30522289#http://cfss.cc/cdn/huya/30522289.flv
 
 
