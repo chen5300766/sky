@@ -2305,9 +2305,9 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 三国杀游戏4,https://tv1288.xyz/douyin.php?type=rid&rid=727310431858
 三国杀游戏5,https://tv1288.xyz/douyin.php?type=rid&rid=417940568122
 三国杀游戏6,https://tv1288.xyz/douyin.php?type=rid&rid=309387620378
-王者荣耀1,https://tv1288.xyz/douyin.php?type=rid&rid=680120628677
-王者荣耀2,https://tv1288.xyz/douyin.php?type=rid&rid=759018766444
-王者荣耀3,https://tv1288.xyz/douyin.php?type=rid&rid=770344167056
+王者荣耀1,https://tv1288.xyz/douyin.php?type=rid&rid=301807997354
+王者荣耀2,https://tv1288.xyz/douyin.php?type=rid&rid=942418165673
+王者荣耀3,https://tv1288.xyz/douyin.php?type=rid&rid=34701249511
 王者荣耀4,https://tv1288.xyz/douyin.php?type=rid&rid=317416923097
 王者荣耀5,https://tv1288.xyz/douyin.php?type=rid&rid=502877246398
 王者荣耀6,https://tv1288.xyz/douyin.php?type=rid&rid=526843978131
