@@ -1209,6 +1209,7 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 龍組队长天昊直播间,https://www.goodiptv.club/douyu/1487654#https://isus.cc/php/douyu.php?id=1487654
 骑士不让播了，先随便播下吧,https://www.goodiptv.club/douyu/1218414#https://isus.cc/php/douyu.php?id=1218414
 茶啊二中,https://www.goodiptv.club/huya/11213191#https://live.ottiptv.cc/huya/11213191#https://isus.cc/php/douyu.php?id=2925610#https://www.goodiptv.club/douyu/2925610
+茶啊二中,https://www.goodiptv.club/huya/26355818#https://live.ottiptv.cc/huya/26355818
 航海王,https://www.goodiptv.club/huya/16913382#https://live.ottiptv.cc/huya/16913382#http://cfss.cc/cdn/huya/16913382.flv
 龙珠超,https://www.goodiptv.club/huya/11601966#https://live.ottiptv.cc/huya/11601966#http://cfss.cc/cdn/huya/11601966.flv
 樱桃小丸子,https://www.goodiptv.club/huya/11342394#https://live.ottiptv.cc/huya/11342394#http://cfss.cc/cdn/huya/11342394.flv
@@ -1292,8 +1293,7 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 童年的回忆,https://www.goodiptv.club/huya/20969112#https://live.ottiptv.cc/huya/20969112#http://cfss.cc/cdn/huya/20969112.flv
 大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#https://live.ottiptv.cc/huya/20969114#http://cfss.cc/cdn/huya/20969114.flv
 钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#https://live.ottiptv.cc/huya/20985859#http://cfss.cc/cdn/huya/20985859.flv
-无敌叶宁,https://www.goodiptv.club/huya/11352954#https://live.ottiptv.cc/huya/11352954#http://cfss.cc/cdn/huya/11352954.flv
-游戏电影,https://www.goodiptv.club/huya/20985870#https://live.ottiptv.cc/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
+ 游戏电影,https://www.goodiptv.club/huya/20985870#https://live.ottiptv.cc/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
 假面骑士,https://www.goodiptv.club/huya/20985813#https://live.ottiptv.cc/huya/20985813#http://cfss.cc/cdn/huya/20985813.flv
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#https://live.ottiptv.cc/huya/20969113#http://cfss.cc/cdn/huya/20969113.flv
 葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#https://live.ottiptv.cc/huya/20985834#http://cfss.cc/cdn/huya/20985834.flv
@@ -1303,10 +1303,14 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 第一神拳,https://www.goodiptv.club/huya/26355789#https://live.ottiptv.cc/huya/26355789#http://cfss.cc/cdn/huya/26355789.flv
 高达动画,https://www.goodiptv.club/huya/23863809#https://live.ottiptv.cc/huya/23863809#http://cfss.cc/cdn/huya/23863809.flv
 西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
+紫川——戎马一生 归去何从,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
 
 
 ❤️虎牙影院,#genre#
+田园生活分享的直播间,https://www.goodiptv.club/huya/20969145#https://live.ottiptv.cc/huya/20969145#http://cfss.cc/cdn/huya/20969145.flv
 异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841#http://cfss.cc/cdn/huya/20985841.flv
+AlfarisRawk的直播间,https://www.goodiptv.club/huya/20985803#https://live.ottiptv.cc/huya/20985803#http://cfss.cc/cdn/huya/20985803.flv
+lorre的直播间,https://www.goodiptv.club/huya/20985803#https://live.ottiptv.cc/huya/20985842#http://cfss.cc/cdn/huya/20985842.flv
 大神级现场的直播间,https://www.goodiptv.club/huya/21241817#https://live.ottiptv.cc/huya/21241817#http://cfss.cc/cdn/huya/21241817.flv
 亚运体育7号台的直播间,https://www.goodiptv.club/huya/136154#https://live.ottiptv.cc/huya/136154#http://cfss.cc/cdn/huya/136154.flv
 甄学唠嗑家的直播间,https://www.goodiptv.club/huya/30080159#https://live.ottiptv.cc/huya/30080159#http://cfss.cc/cdn/huya/30080159.flv
@@ -1662,6 +1666,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 太极宗师,https://www.goodiptv.club/huya/11342438#https://live.ottiptv.cc/huya/11342438#http://cfss.cc/cdn/huya/11342438.flv
 小鬼当家系列,https://www.goodiptv.club/huya/20985772#https://live.ottiptv.cc/huya/20985772#http://cfss.cc/cdn/huya/20985772.flv
 武林宗师梁小龙,https://www.goodiptv.club/huya/20985775#https://live.ottiptv.cc/huya/20985775#http://cfss.cc/cdn/huya/20985775.flv
+功夫巨星梁小龙,https://www.goodiptv.club/huya/20985775#https://live.ottiptv.cc/huya/21059528#http://cfss.cc/cdn/huya/21059528.flv
 周星驰系列,https://www.goodiptv.club/huya/11342412#https://live.ottiptv.cc/huya/11342412#http://cfss.cc/cdn/huya/11342412.flv
 周海媚系列,https://www.goodiptv.club/huya/11279247#https://live.ottiptv.cc/huya/11279247#http://cfss.cc/cdn/huya/11279247.flv
 沈腾系列,https://www.goodiptv.club/huya/11601968#https://live.ottiptv.cc/huya/11601968#http://cfss.cc/cdn/huya/11601968.flv
@@ -1682,7 +1687,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 王宝强系列,https://www.goodiptv.club/huya/30080251#https://live.ottiptv.cc/huya/30080251#http://cfss.cc/cdn/huya/30080251.flv
 007动作大片系列,https://www.goodiptv.club/huya/21059585#https://live.ottiptv.cc/huya/21059585#http://cfss.cc/cdn/huya/21059585.flv
 古天乐系列,https://www.goodiptv.club/huya/29982675#https://live.ottiptv.cc/huya/29982675#http://cfss.cc/cdn/huya/29982675.flv
-葛优系列,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
 张家辉系列,https://www.goodiptv.club/huya/21241807#https://live.ottiptv.cc/huya/21241807#http://cfss.cc/cdn/huya/21241807.flv
 敢死队,https://www.goodiptv.club/huya/23864973#https://live.ottiptv.cc/huya/23864973#http://cfss.cc/cdn/huya/23864973.flv
 一起同过窗,https://www.goodiptv.club/huya/30080228#https://live.ottiptv.cc/huya/30080228#http://cfss.cc/cdn/huya/30080228.flv
@@ -1748,6 +1752,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 延禧攻略,https://www.goodiptv.club/huya/26355864#https://live.ottiptv.cc/huya/26355864#http://cfss.cc/cdn/huya/26355864.flv
 想见你,https://www.goodiptv.club/huya/22360453#https://live.ottiptv.cc/huya/22360453#http://cfss.cc/cdn/huya/22360453.flv
 光荣时代,https://www.goodiptv.club/huya/30080193#https://live.ottiptv.cc/huya/30080193#http://cfss.cc/cdn/huya/30080193.flv
+碧血长空,https://www.goodiptv.club/huya/21059633#https://live.ottiptv.cc/huya/21059633#http://cfss.cc/cdn/huya/21059633.flv
+闯关东,https://www.goodiptv.club/huya/11352954#https://live.ottiptv.cc/huya/11352954#http://cfss.cc/cdn/huya/11352954.flv
 我是大哥大,https://www.goodiptv.club/huya/23734196#https://live.ottiptv.cc/huya/23734196#http://cfss.cc/cdn/huya/23734196.flv
 僵尸国度,https://www.goodiptv.club/huya/11352947#https://live.ottiptv.cc/huya/11352947#http://cfss.cc/cdn/huya/11352947.flv
 SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/huya/11352937#http://cfss.cc/cdn/huya/11352937.flv
