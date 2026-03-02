@@ -2249,6 +2249,7 @@ JJ斗地主1,https://tv1288.xyz/douyin.php?type=rid&rid=685317364746
 JJ斗地主2,https://tv1288.xyz/douyin.php?type=rid&rid=348640675261
 武汉欢乐谷,https://tv1288.xyz/douyin.php?type=rid&rid=808453283617
 中央数字电视,https://tv1288.xyz/douyin.php?type=rid&rid=482342971427
+环球网,https://tv1288.xyz/douyin.php?type=rid&rid=262746510236
 电影频道央影传媒,https://tv1288.xyz/douyin.php?type=rid&rid=208823316033
 1905电影网,https://tv1288.xyz/douyin.php?type=rid&rid=642694139716
 彭荃懒猫围棋,https://tv1288.xyz/douyin.php?type=rid&rid=707246679178
