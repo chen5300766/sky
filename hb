@@ -1883,9 +1883,6 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 影视剧,https://www.goodiptv.club/douyu/9242659#https://isus.cc/php/douyu.php?id=9242659
 贝贝影视,https://www.goodiptv.club/douyu/431460#https://isus.cc/php/douyu.php?id=431460
 橙記-弹幕看剧间,https://www.goodiptv.club/douyu/4549169#https://isus.cc/php/douyu.php?id=4549169
-铁甲影院--庆余年,https://www.goodiptv.club/douyu/1274132#https://isus.cc/php/douyu.php?id=1274132
-庆余年,https://www.goodiptv.club/douyu/7812810#https://isus.cc/php/douyu.php?id=7812810
-庆余年,https://www.goodiptv.club/douyu/329876#https://isus.cc/php/douyu.php?id=329876
 经典老剧,https://www.goodiptv.club/douyu/12015111#https://isus.cc/php/douyu.php?id=12015111
 老剧,https://www.goodiptv.club/douyu/8543072#https://isus.cc/php/douyu.php?id=8543072
 岁月经典,https://www.goodiptv.club/douyu/11756388#https://isus.cc/php/douyu.php?id=11756388
@@ -1895,6 +1892,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 爱画画的奶糖直播间,https://www.goodiptv.club/douyu/4346416#https://isus.cc/php/douyu.php?id=4346416
 傲娇的超级赛亚人直播间,https://www.goodiptv.club/douyu/4373285#https://isus.cc/php/douyu.php?id=4373285
 光之镇魂曲的特摄动漫直播间,https://www.goodiptv.club/douyu/12684513#https://isus.cc/php/douyu.php?id=12684513
+郁闷的粉色布袋馍直播间,https://www.goodiptv.club/douyu/12800979#https://isus.cc/php/douyu.php?id=12800979
 烟雨抚风直播间,https://www.goodiptv.club/douyu/11649079#https://isus.cc/php/douyu.php?id=11649079
 【60帧原画】真的打不服,https://www.goodiptv.club/douyu/323876#https://isus.cc/php/douyu.php?id=323876
 小毅喜剧剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549
@@ -1941,6 +1939,7 @@ dx雾黎直播间,https://www.goodiptv.club/douyu/10935839#https://isus.cc/php/d
 小毅影院,https://www.goodiptv.club/douyu/6906628#https://isus.cc/php/douyu.php?id=6906628
 奇光喜剧剧场,https://www.goodiptv.club/douyu/8009547#https://isus.cc/php/douyu.php?id=8009547
 经典剧场,https://www.goodiptv.club/douyu/4246519#https://isus.cc/php/douyu.php?id=4246519
+经典高清剧集,https://www.goodiptv.club/douyu/7582564#https://isus.cc/php/douyu.php?id=7582564
 米尼影院,https://www.goodiptv.club/douyu/7642724#https://isus.cc/php/douyu.php?id=7642724
 特辑电影,https://www.goodiptv.club/douyu/3637778#https://isus.cc/php/douyu.php?id=3637778
 【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.goodiptv.club/douyu/252802#https://isus.cc/php/douyu.php?id=252802
@@ -1960,6 +1959,9 @@ Hi欣影厅,https://www.goodiptv.club/douyu/11996166#https://isus.cc/php/douyu.p
 天龙八部、连城诀轮播,https://www.goodiptv.club/douyu/8166878#https://isus.cc/php/douyu.php?id=8166878
 经典武侠剧,https://www.goodiptv.club/douyu/11784023#https://isus.cc/php/douyu.php?id=11784023
 金庸武侠剧场,https://www.goodiptv.club/douyu/9285904#https://isus.cc/php/douyu.php?id=9285904
+铁甲影院--庆余年,https://www.goodiptv.club/douyu/1274132#https://isus.cc/php/douyu.php?id=1274132
+庆余年,https://www.goodiptv.club/douyu/7812810#https://isus.cc/php/douyu.php?id=7812810
+庆余年,https://www.goodiptv.club/douyu/329876#https://isus.cc/php/douyu.php?id=329876
 李小龙系列,https://www.goodiptv.club/douyu/8721095#https://isus.cc/php/douyu.php?id=8721095
 家有儿女,https://www.goodiptv.club/douyu/11827530#https://isus.cc/php/douyu.php?id=11827530
 爱情公寓,https://www.goodiptv.club/douyu/6863367#https://isus.cc/php/douyu.php?id=6863367#https://www.goodiptv.club/douyu/4105989#https://isus.cc/php/douyu.php?id=4105989
