@@ -744,6 +744,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
+天元围棋,http://111.8.242.103:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
