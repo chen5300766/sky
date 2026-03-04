@@ -449,6 +449,9 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV风云剧场,http://www.andy-nas.top:8623/rtp/239.76.254.50:9000
 CCTV文化精品,http://www.andy-nas.top:8623/rtp/239.76.254.56:9000
 
+CCTV风云剧场,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.22:6073
+CCTV文化精品,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.25:6104
+
 CCTV风云剧场,http://lj.kuail8.cn:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://lj.kuail8.cn:4022/rtp/239.253.92.25:6104
 
@@ -477,6 +480,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
+中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://lj.kuail8.com:4022/rtp/239.253.92.27:6106
@@ -490,6 +494,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
+中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -740,6 +745,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
+天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://yanshifen.top:8889/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
@@ -1105,6 +1111,7 @@ CETV早期教育,http://lj.kuail8.cn:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
+CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
