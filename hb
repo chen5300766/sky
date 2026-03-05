@@ -482,6 +482,10 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
+中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
+中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
+中央新影-中学生,http://home.660888.xyz:4000/rtp/225.0.4.184:7980
+中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
 中央新影-中学生,http://yanshifen.top:8889/rtp/rtp/239.77.1.195:5146
