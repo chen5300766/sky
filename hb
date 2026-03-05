@@ -838,6 +838,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 
+湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
+湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
+
 
 陕西西部电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
