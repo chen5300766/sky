@@ -1098,7 +1098,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 📡NewTV影院,#genre#
 NewTV潮妈辣婆,https://live.264788.xyz/channel/newtvchaomalapo?stream_id=373dc1a7ed2f30ff161d0aa009efe0c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV爱情喜剧,https://live.264788.xyz/channel/newtvaiqingxiju?stream_id=5409a712c46c74c62b796b6e71dccfe5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
-NewTV金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?stream_id=43901d8594f9175e2080a872c79c644d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV谍战大剧,https://live.264788.xyz/channel/newtvjinpaizongyi?stream_id=43901d8594f9175e2080a872c79c644d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV家庭剧场,https://live.264788.xyz/channel/newtvjiatingjuchang?stream_id=efbaeb2bed935e415ce873493d680b45&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV古装剧场,https://live.264788.xyz/channel/newtvguzhuangjuchang?stream_id=fe57f31007301638ab1e66e5aac2bd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?stream_id=ba9c17224a0f72d56e854bedb03ec3f6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
