@@ -450,6 +450,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
@@ -1090,6 +1093,25 @@ iHOT爱科幻,http://dx.yanbingg.com:1888/rtp/239.94.1.131:5140
 iHOT爱谍战,http://dx.yanbingg.com:1888/rtp/239.94.1.134:5140
 iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
 iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
+
+
+📡NewTV影院,#genre#
+NewTV潮妈辣婆,https://live.264788.xyz/channel/newtvchaomalapo?stream_id=373dc1a7ed2f30ff161d0aa009efe0c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV爱情喜剧,https://live.264788.xyz/channel/newtvaiqingxiju?stream_id=5409a712c46c74c62b796b6e71dccfe5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV金牌综艺,https://live.264788.xyz/channel/newtvjinpaizongyi?stream_id=43901d8594f9175e2080a872c79c644d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV家庭剧场,https://live.264788.xyz/channel/newtvjiatingjuchang?stream_id=efbaeb2bed935e415ce873493d680b45&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV古装剧场,https://live.264788.xyz/channel/newtvguzhuangjuchang?stream_id=fe57f31007301638ab1e66e5aac2bd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?stream_id=ba9c17224a0f72d56e854bedb03ec3f6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV动作电影,https://live.264788.xyz/channel/newtvdongzuodianying?stream_id=d47fa96df8dd3b823df74ec7bce69762&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV中国功夫,https://live.264788.xyz/channel/newtvzhongguogongfu?stream_id=2a34411a5db55e083a9703c68b4631f1&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV精品体育,https://live.264788.xyz/channel/newtvjingpintiyu?stream_id=b79f8f836c237ffa8206a23e3ee30f69&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV精品萌宠,https://live.264788.xyz/channel/newtvjingpinmengchong?stream_id=c5f8cac2fab939f3ece4a4c3c448b296&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV精品大剧,https://live.264788.xyz/channel/newtvjingpindaju?stream_id=7ef610a183e65ce2790f87bef94b382d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV精品纪录,https://live.264788.xyz/channel/newtvjingpinjilu?stream_id=7c48dbee82b50c887a88e1af1a42a478&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV军旅剧场,https://live.264788.xyz/channel/newtvjunlvjuchang?stream_id=1f94df7f1519dcd9b251fdd123aed370&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV军事评论,https://live.264788.xyz/channel/newtvjunshipinglun?stream_id=a694f8f761babe86d913e89859ab006e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV炫舞未来,https://live.264788.xyz/channel/newtvxuanwuweilai?stream_id=02499628646d02febfaa95d1f3d55538&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+NewTV怡伴健康,https://live.264788.xyz/channel/newtvyibanjiankang?stream_id=1da43ff46833eb553695c5b0ee29ea36&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
 
 📡动漫卡通,#genre#
