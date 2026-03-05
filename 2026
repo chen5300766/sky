@@ -3,7 +3,7 @@
 此电视源,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 自家观看,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 更新日期,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-2026-3-2,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📽4K测试频道,#genre#
@@ -151,6 +151,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 
+
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -161,7 +162,8 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+凤凰电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226420/index.m3u8
+星卫电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
@@ -1142,14 +1144,16 @@ CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/9918000100000005000000000
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 
-
+湖南经视,http://nn.7x9d.cn/地方台8563/湖南2.php?id=280
+湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
+湖南都市,http://nn.7x9d.cn/地方台8563/湖南2.php?id=346
+湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
+湖南爱晚,http://nn.7x9d.cn/地方台8563/湖南2.php?id=261
+湖南娱乐,http://nn.7x9d.cn/地方台8563/湖南2.php?id=344
 
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-
-
-
 
 长沙县新闻综合,http://xsds.b.dingtoo.com/AppName/StreamName.m3u8
 茶陵新闻综合,http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
