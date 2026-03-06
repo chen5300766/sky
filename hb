@@ -346,7 +346,7 @@ CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 CCTV16奥林匹克4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
-
+CCTV16奥林匹克4K,http://47.100.29.86:21212/9299?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
 📡央视精选,#genre#
 CCTV世界地理,http://111.48.34.138/000000001000PLTV/88888888/224/3221230072/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230486/1.m3u8
@@ -359,6 +359,9 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+
+CCTV风云剧场,http://47.100.29.86:21212/9092?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV文化精品,http://47.100.29.86:21212/9095?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
@@ -505,6 +508,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
+农林卫视,http://47.100.29.86:21212/9069?virtualDomain=ZTE_EPG16.live_hls.zte.com
 农林卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
 农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
@@ -1168,6 +1172,8 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 探索亚洲,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
 国家地理,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
+
+中华特产,http://47.100.29.86:21212/9145?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
 
 📡百视通系列,#genre#
