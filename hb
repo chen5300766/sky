@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-3-5,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-6,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -12,103 +12,14 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 
-北京卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.111:5140
-北京卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.112:5140
-东方卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.119:5140
-广东卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.114:5140
-深圳卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.113:5140
-湖南卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.116:5140
-山东卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.120:5140
-四川卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.115:5140
-浙江卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.118:5140
-江苏卫视4K,http://home.sunruilin.com:4443/rtp/239.94.0.117:5140
+湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
 
 
-北京卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.111:5140
-北京卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.112:5140
-东方卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.119:5140
-广东卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.114:5140
-深圳卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.113:5140
-湖南卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.116:5140
-山东卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.120:5140
-四川卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.115:5140
-浙江卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.118:5140
-江苏卫视4K,http://wan1.tangwudi.cc:47859/rtp/239.94.0.117:5140
-
-
-北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.2:5146
-北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.3:5146
-北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.153:5146
-北京卫视4K,http://yanshifen.top:8889/rtp/239.77.0.233:5146
-北京卫视4K,http://yanshifen.top:8889/rtp/239.77.1.13:5146
-东方卫视4K,http://yanshifen.top:8889/rtp/239.77.0.59:5146
-广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.27:5146
-广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.65:5146
-广东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.66:5146
-深圳卫视4K,http://yanshifen.top:8889/rtp/239.77.0.67:5146
-深圳卫视4K,http://yanshifen.top:8889/rtp/239.77.1.14:5146
-湖南卫视4K,http://yanshifen.top:8889/rtp/239.77.0.56:5146
-山东卫视4K,http://yanshifen.top:8889/rtp/239.77.0.61:5146
-四川卫视4K,http://yanshifen.top:8889/rtp/239.77.0.60:5146
-浙江卫视4K,http://yanshifen.top:8889/rtp/239.77.0.58:5146
-江苏卫视4K,http://yanshifen.top:8889/rtp/239.77.0.57:5146
-
-
-北京卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.111:5140
-北京卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.112:5140
-东方卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.119:5140
-广东卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.114:5140
-深圳卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.113:5140
-湖南卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.116:5140
-山东卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.120:5140
-四川卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.115:5140
-浙江卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.118:5140
-江苏卫视4K,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.117:5140
-
-
-北京卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.111:5140
-北京卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.112:5140
-东方卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.119:5140
-广东卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.114:5140
-深圳卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.113:5140
-湖南卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.116:5140
-山东卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.120:5140
-四川卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.115:5140
-浙江卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.118:5140
-江苏卫视4K,http://www.yanbingg.com:1888/rtp/239.94.0.117:5140
-
-
-北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.111:5140
-北京卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.112:5140
-东方卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.119:5140
-广东卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.114:5140
-深圳卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.113:5140
-湖南卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.116:5140
-山东卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.120:5140
-四川卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.115:5140
-浙江卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.118:5140
-江苏卫视4K,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.117:5140
-
-
-北京卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.111:5140
-北京卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.112:5140
-东方卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.119:5140
-广东卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.114:5140
-深圳卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.113:5140
-湖南卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.116:5140
-山东卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.120:5140
-四川卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.115:5140
-浙江卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.118:5140
-江苏卫视4K,http://dx.yanbingg.com:1888/rtp/239.94.0.117:5140
-
-
-CCTV16奥林匹克4K,http://yanshifen.top:8889/rtp/239.77.0.165:5146
-CCTV16奥林匹克4K,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.249:11136
-CCTV16奥林匹克4K,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
-CCTV16奥林匹克4K,http://www.zhangkx717.cn:9999/rtp/239.69.1.249:11136
-CCTV16奥林匹克4K,http://www.alihomes.top:8188/rtp/239.254.96.170:8206
 
 
 📡稳定源,#genre#
@@ -417,7 +328,6 @@ CCTV2财经,http://111.48.34.138/000000001000PLTV/88888888/224/3221229893/1.m3u8
 CCTV3综艺,http://111.48.34.138/000000001000PLTV/88888888/224/3221230150/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230394/1.m3u8
 CCTV4国际,http://111.48.34.138/000000001000PLTV/88888888/224/3221229862/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230489/1.m3u8
 CCTV5体育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230165/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230400/1.m3u8
-CCTV5体育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
 CCTV5+体育赛事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230455/1.m3u8
 CCTV6电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230154/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230451/1.m3u8
 CCTV7军事农业,http://111.48.34.138/000000001000PLTV/88888888/224/3221229895/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230442/1.m3u8
@@ -435,7 +345,7 @@ CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
-
+CCTV16奥林匹克4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
 
 
 📡央视精选,#genre#
