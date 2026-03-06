@@ -509,7 +509,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 农林卫视,http://47.100.29.86:21212/9069?virtualDomain=ZTE_EPG16.live_hls.zte.com
-农林卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
 农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
 农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
@@ -756,12 +755,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 
-凤凰电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226420/index.m3u8
-星卫电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
-
-
-
-重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -778,7 +771,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
 
 
-陕西西部电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
@@ -1190,9 +1182,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
 爱宠宠物,http://dx.yanbingg.com:1888/rtp/239.94.1.145:5140
 
-
-探索亚洲,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
-国家地理,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
 
 中华特产,http://47.100.29.86:21212/9145?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
