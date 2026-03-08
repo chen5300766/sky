@@ -1191,7 +1191,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
 
 
-家庭理财,http://jxyxnk.x3322.net:4022/rtp/239.252.220.217:5140
 家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
 家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
