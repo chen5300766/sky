@@ -367,6 +367,9 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
+CCTV央视精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
+
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
@@ -662,6 +665,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 武术世界,http://111.48.34.138/000000001000PLTV/88888888/224/3221230549/1.m3u8
 快乐垂钓,http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
 
+茶频道,http://jxyxnk.x3322.net:4022/rtp/239.252.220.160:5140
 茶频道,http://cpanel.lwfz.fun:8800/rtp/239.16.20.68:10680
 茶频道,http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
 
@@ -1078,8 +1082,10 @@ CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
+
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
+优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
@@ -1096,6 +1102,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
 财富天下,http://qwsw.duckdns.org:2222//rtp/239.94.1.42:5140
 财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
 财富天下,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.42:5140
@@ -1139,6 +1146,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://www.andy-nas.top:8623/rtp/239.76.253.61:9000
 中国天气,http://qwsw.duckdns.org:2222/rtp/239.94.1.167:5140
 中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
@@ -1155,6 +1163,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
+环球旅游,http://jxyxnk.x3322.net:4022/rtp/239.252.220.218:5140
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://home.teijiu.cn:4022/rtp/233.50.202.31:5140
@@ -1182,12 +1191,14 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
 
 
+家庭理财,http://jxyxnk.x3322.net:4022/rtp/239.252.220.217:5140
 家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
 家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
 家庭理财,http://dx.yanbingg.com:1888/rtp/239.94.1.50:5140
 家庭理财,http://qwsw.duckdns.org:2222/rtp/239.94.1.50:5140
 家庭理财,http://wan1.tangwudi.cc:47859/rtp/239.94.1.50:5140
+
 
 爱宠宠物,http://qwsw.duckdns.org:2222/rtp/239.94.1.145:5140
 爱宠宠物,http://wan1.tangwudi.cc:47859/rtp/239.94.1.145:5140
