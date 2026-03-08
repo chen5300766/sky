@@ -367,10 +367,6 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
-
-CCTV风云剧场,http://47.100.29.86:21212/9092?virtualDomain=ZTE_EPG16.live_hls.zte.com
-CCTV文化精品,http://47.100.29.86:21212/9095?virtualDomain=ZTE_EPG16.live_hls.zte.com
-
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
@@ -508,7 +504,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
-农林卫视,http://47.100.29.86:21212/9069?virtualDomain=ZTE_EPG16.live_hls.zte.com
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
 农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
 农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
@@ -1198,9 +1193,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 爱宠宠物,http://www.yanbingg.com:1888/rtp/239.94.1.145:5140
 爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
 爱宠宠物,http://dx.yanbingg.com:1888/rtp/239.94.1.145:5140
-
-
-中华特产,http://47.100.29.86:21212/9145?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
 
 📡百视通系列,#genre#
