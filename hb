@@ -1152,6 +1152,8 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+
 
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
@@ -1193,6 +1195,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 爱宠宠物,http://www.yanbingg.com:1888/rtp/239.94.1.145:5140
 爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
 爱宠宠物,http://dx.yanbingg.com:1888/rtp/239.94.1.145:5140
+
+
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 
 📡百视通系列,#genre#
