@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-3-8,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -680,6 +680,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 五星体育,http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+五星体育,http://47.100.29.86:22222/df4k.php?id=1605
+五星体育,http://192.151.150.154/live/wxtyhd.m3u8
+五星体育,http://abc.sohu.blog/df4k.php?id=1605
 
 
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
