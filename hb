@@ -1377,6 +1377,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 高达动画,https://www.goodiptv.club/huya/23863809#https://live.ottiptv.cc/huya/23863809#http://cfss.cc/cdn/huya/23863809.flv
 西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
 紫川——戎马一生 归去何从,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
+eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ottiptv.cc/huya/20985862#http://cfss.cc/cdn/huya/20985862.flv
 
 
 ❤️虎牙影院,#genre#
