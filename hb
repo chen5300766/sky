@@ -1996,6 +1996,7 @@ LR1245直播间,https://www.goodiptv.club/douyu/12534632#https://isus.cc/php/dou
 射雕英雄传,https://www.goodiptv.club/douyu/12143858#https://isus.cc/php/douyu.php?id=12143858
 欢乐时光经典剧场,https://www.goodiptv.club/douyu/755851#https://isus.cc/php/douyu.php?id=755851
 鹿鼎记-陈小春,https://www.goodiptv.club/douyu/12128227#https://isus.cc/php/douyu.php?id=12128227
+水浒传,https://www.goodiptv.club/douyu/6785471#https://isus.cc/php/douyu.php?id=6785471
 新三国,https://www.goodiptv.club/douyu/428402#https://isus.cc/php/douyu.php?id=428402#https://www.goodiptv.club/douyu/12253936#https://isus.cc/php/douyu.php?id=12253936#https://www.goodiptv.club/douyu/12337487#https://isus.cc/php/douyu.php?id=12337487#https://www.goodiptv.club/douyu/12180551#https://isus.cc/php/douyu.php?id=12180551#https://www.goodiptv.club/douyu/10906963#https://isus.cc/php/douyu.php?id=10906963
 三国演义94版,https://www.goodiptv.club/douyu/12463728#https://isus.cc/php/douyu.php?id=12463728
 神话,https://www.goodiptv.club/douyu/5448413#https://isus.cc/php/douyu.php?id=5448413
