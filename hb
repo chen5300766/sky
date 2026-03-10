@@ -2069,6 +2069,7 @@ JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php
 天龙八部--黄日华,https://live.ottiptv.cc/yy/1351814644#https://live.metshop.top/yy/1351814644
 笑傲江湖---李亚鹏版,https://live.ottiptv.cc/yy/1354282410#https://live.metshop.top/yy/1354282410
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619#https://live.metshop.top/yy/1352475619
+隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#https://live.metshop.top/yy/1355102749
 寻秦记,https://live.ottiptv.cc/yy/1382749900#https://live.metshop.top/yy/1382749900
 大明王朝,http://cfss.cc/cdn/yy/1382768483.flv#https://live.ottiptv.cc/yy/1382768483#https://live.metshop.top/yy/1382768483
 深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://live.ottiptv.cc/yy/1382736906#https://live.metshop.top/yy/1382736906
@@ -2153,7 +2154,6 @@ JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php
 寻秦记-穿越剧,http://cfss.cc/cdn/yy/1382851591.flv#https://live.ottiptv.cc/yy/1382851591#https://live.metshop.top/yy/1382851591
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903#https://live.metshop.top/yy/1382749903
 蜀山传：剑仙传奇,https://live.ottiptv.cc/yy/1382736825#https://live.metshop.top/yy/1382736825
-隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#https://live.metshop.top/yy/1355102749
 新水浒传,https://live.ottiptv.cc/yy/1353873252#https://live.metshop.top/yy/1353873252
 新三国,https://live.ottiptv.cc/yy/1382851415#https://live.ottiptv.cc/yy/1461396681#https://live.ottiptv.cc/yy/1382851459
 94版三国演义,https://live.ottiptv.cc/yy/1354936241#https://live.metshop.top/yy/1354936241
