@@ -2068,6 +2068,7 @@ JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php
 83版射雕英雄传,https://live.ottiptv.cc/yy/1354210357#https://live.metshop.top/yy/1354210357
 天龙八部--黄日华,https://live.ottiptv.cc/yy/1351814644#https://live.metshop.top/yy/1351814644
 笑傲江湖---李亚鹏版,https://live.ottiptv.cc/yy/1354282410#https://live.metshop.top/yy/1354282410
+隋唐英雄传,https://live.ottiptv.cc/yy/1352475619#https://live.metshop.top/yy/1352475619
 寻秦记,https://live.ottiptv.cc/yy/1382749900#https://live.metshop.top/yy/1382749900
 大明王朝,http://cfss.cc/cdn/yy/1382768483.flv#https://live.ottiptv.cc/yy/1382768483#https://live.metshop.top/yy/1382768483
 深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://live.ottiptv.cc/yy/1382736906#https://live.metshop.top/yy/1382736906
@@ -2265,6 +2266,7 @@ JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php
 冒牌天神1-2,https://live.ottiptv.cc/yy/1354936210#https://live.metshop.top/yy/1354936210
 河伯的新娘：奇幻爱情,https://live.ottiptv.cc/yy/1354936249#https://live.metshop.top/yy/1354936249
 西游之双圣战神,http://cfss.cc/cdn/yy/1354936199.flv#https://live.ottiptv.cc/yy/1354936199#https://live.metshop.top/yy/1354936199
+真实案件系列,https://live.ottiptv.cc/yy/1382671124#https://live.metshop.top/yy/1382671124
 爱拆车,http://cfss.cc/cdn/yy/54886912.flv#https://live.ottiptv.cc/yy/54886912#https://live.metshop.top/yy/54886912
 66车讯,http://cfss.cc/cdn/yy/1382571192.flv#https://live.ottiptv.cc/yy/1382571192#https://live.metshop.top/yy/1382571192
 掼蛋精英赛,http://cfss.cc/cdn/yy/1356356563.flv#https://live.ottiptv.cc/yy/1356356563#https://live.metshop.top/yy/1356356563
