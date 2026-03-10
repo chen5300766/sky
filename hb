@@ -442,6 +442,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 央广购物,http://111.48.34.138/000000001000PLTV/88888888/224/3221230412/1.m3u8
 聚鲨环球精选,http://111.48.34.138/000000001000PLTV/88888888/224/3221230596/1.m3u8
 优购物,http://111.48.34.138/000000001000PLTV/88888888/224/3221230627/1.m3u8
+
+快乐购,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLGMPP360.m3u8
 快乐购,http://111.48.34.138/000000001000PLTV/88888888/224/3221230635/1.m3u8
 
 
@@ -782,6 +784,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
+
+湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
+湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
