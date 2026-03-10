@@ -1366,7 +1366,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 童年的回忆,https://www.goodiptv.club/huya/20969112#https://live.ottiptv.cc/huya/20969112#http://cfss.cc/cdn/huya/20969112.flv
 大头儿子小头爸爸,https://www.goodiptv.club/huya/20969114#https://live.ottiptv.cc/huya/20969114#http://cfss.cc/cdn/huya/20969114.flv
 钢之炼金术师FA,https://www.goodiptv.club/huya/20985859#https://live.ottiptv.cc/huya/20985859#http://cfss.cc/cdn/huya/20985859.flv
- 游戏电影,https://www.goodiptv.club/huya/20985870#https://live.ottiptv.cc/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
+游戏电影,https://www.goodiptv.club/huya/20985870#https://live.ottiptv.cc/huya/20985870#http://cfss.cc/cdn/huya/20985870.flv
 假面骑士,https://www.goodiptv.club/huya/20985813#https://live.ottiptv.cc/huya/20985813#http://cfss.cc/cdn/huya/20985813.flv
 反叛的鲁路修：中二少年的叛逆史诗,https://www.goodiptv.club/huya/20969113#https://live.ottiptv.cc/huya/20969113#http://cfss.cc/cdn/huya/20969113.flv
 葫芦娃兄弟,https://www.goodiptv.club/huya/20985834#https://live.ottiptv.cc/huya/20985834#http://cfss.cc/cdn/huya/20985834.flv
