@@ -938,6 +938,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 黑莓电影,https://live.264788.xyz/channel/heimeidianying?stream_id=aab004fb9a1ea1ac66a7d77d35c1a039&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+黑莓电影,http://47.100.29.86:20009/sxyd/3221225775.m3u8
 
 
 📡iHOT影院,#genre#
@@ -1114,6 +1115,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 黑莓动画,https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bdad8eedfdd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+黑莓动画,http://47.100.29.86:20009/sxyd/3221225772.m3u8
 
 
 📡数字电视,#genre#
