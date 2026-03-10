@@ -1045,6 +1045,31 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 📡NewTV影院,#genre#
+NewTV爱情喜剧,http://47.100.29.86:20009/sxyd/3221225852.m3u8
+NewTV海外剧场,http://47.100.29.86:20009/sxyd/3221226040.m3u8
+NewTV东北热剧,http://47.100.29.86:20009/sxyd/3221226055.m3u8
+NewTV动作电影,http://47.100.29.86:20009/sxyd/3221226034.m3u8
+NewTV古装剧场,http://47.100.29.86:20009/sxyd/3221225843.m3u8
+NewTV家庭剧场,http://47.100.29.86:20009/sxyd/3221225834.m3u8
+NewTV精品大剧,http://47.100.29.86:20009/sxyd/3221225766.m3u8
+NewTV军旅剧场,http://47.100.29.86:20009/sxyd/3221225846.m3u8
+NewTV欢乐剧场,http://47.100.29.86:20009/sxyd/3221226052.m3u8
+NewTV惊悚悬疑,http://47.100.29.86:20009/sxyd/3221225796.m3u8
+NewTV潮妈辣婆,http://47.100.29.86:20009/sxyd/3221226046.m3u8
+NewTV精品纪录,http://47.100.29.86:20009/sxyd/3221225831.m3u8
+NewTV精品萌宠,http://47.100.29.86:20009/sxyd/3221225912.m3u8
+NewTV精品体育,http://47.100.29.86:20009/sxyd/3221225861.m3u8
+NewTV军事评论,http://47.100.29.86:20009/sxyd/3221225778.m3u8
+NewTV魅力潇湘,http://47.100.29.86:20009/sxyd/3221225790.m3u8
+NewTV明星大片,http://47.100.29.86:20009/sxyd/3221225837.m3u8
+NewTV农业致富,http://47.100.29.86:20009/sxyd/3221226037.m3u8
+NewTV武搏世界,http://47.100.29.86:20009/sxyd/3221225787.m3u8
+NewTV炫舞未来,http://47.100.29.86:20009/sxyd/3221225840.m3u8
+NewTV中国功夫,http://47.100.29.86:20009/sxyd/3221226043.m3u8
+NewTV怡伴健康,http://47.100.29.86:20009/sxyd/3221225849.m3u8
+NewTV金牌综艺,http://47.100.29.86:20009/sxyd/3221225769.m3u8
+
+
 NewTV潮妈辣婆,https://live.264788.xyz/channel/newtvchaomalapo?stream_id=373dc1a7ed2f30ff161d0aa009efe0c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV爱情喜剧,https://live.264788.xyz/channel/newtvaiqingxiju?stream_id=5409a712c46c74c62b796b6e71dccfe5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 NewTV谍战大剧,https://live.264788.xyz/channel/newtvjinpaizongyi?stream_id=43901d8594f9175e2080a872c79c644d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
