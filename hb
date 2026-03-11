@@ -197,46 +197,6 @@ HOY TV,http://r.jdshipin.com/sFw4S
 澳视卫星,http://r.jdshipin.com/QFhCq
 
 
-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-无线功夫,https://cdn6.101.qzz.io/163189/yzwx
-翡翠台4K,https://cdn6.101.qzz.io/163189/fct4k
-翡翠台,https://cdn6.101.qzz.io/163189/fct
-TVBplus,https://cdn6.101.qzz.io/163189/tvbp
-HOY 77,https://cdn6.101.qzz.io/163189/hoy
-
-
-
-八度空间,http://cdn6.163189.xyz/163189/8tv
-翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
-CH5,http://cdn6.163189.xyz/163189/ch5
-
-
-中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
-东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
-
-
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-东森新闻美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-
-
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
@@ -319,12 +279,6 @@ RTHK-32,http://rihou.cc:555/tv/[PL]RTHK-32
 CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
-
-
-纬来电影,https://tv.zubo.cc.cd/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
-龙华偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
-采昌影剧,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
-龙华经典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
 
 
 
