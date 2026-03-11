@@ -369,8 +369,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
 
-CCTV风云剧场,http://8.138.7.223/tv/ysp2.php?id=20
-
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
