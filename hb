@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-3-10,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -368,6 +368,11 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
+
+CCTV风云剧场,http://8.138.7.223/tv/ysp2.php?id=20
+
+CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -951,6 +956,9 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?tv.sohu.blog
 
 
+黑莓电影,https://live.264788.xyz/channel/heimeidianying?stream_id=aab004fb9a1ea1ac66a7d77d35c1a039&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+
+
 📡iHOT影院,#genre#
 iHOT爱体育,http://tzd.seak.bid:9999/rtp/239.94.1.143:5140
 iHOT爱动漫,http://tzd.seak.bid:9999/rtp/239.94.1.141:5140
@@ -1103,6 +1111,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
+
+
+黑莓动画,https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bdad8eedfdd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
 
 📡数字电视,#genre#
