@@ -500,13 +500,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
+大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
+大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
 大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
 大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
-大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 
 
 农林卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
@@ -897,6 +898,10 @@ IPTV精选,http://home.zgnc.fun:8822/rtp/239.3.1.74:4120
 IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
+邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
+邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
+邵氏动作,http://192.151.150.154/live/lbssdz.m3u8
+邵氏喜剧,http://192.151.150.154/live/lbssxj.m3u8
 
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
