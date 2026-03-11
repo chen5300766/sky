@@ -369,6 +369,8 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
+
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
 
@@ -706,6 +708,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://abc.sohu.blog/df4k.php?id=1605
 
 
+广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 
@@ -766,7 +769,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-
+劲爆体育,http://112.92.129.96:9898/hls/139/index.m3u8
 
 
 📡电视影院,#genre#
@@ -785,6 +788,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
 重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -1165,6 +1169,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
+中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://www.andy-nas.top:8623/rtp/239.76.253.61:9000
 中国天气,http://tzd.seak.bid:9999/rtp/239.94.1.167:5140
@@ -1177,6 +1182,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://112.92.129.96:9898/hls/107/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
@@ -1223,6 +1229,8 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
+
+纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
 
 
 📡百视通系列,#genre#
