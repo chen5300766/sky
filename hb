@@ -503,11 +503,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
-大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
-大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
-大湾区卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.215:5146
-大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
-大湾区卫视,http://www.96335.top:4566/rtp/239.81.0.32:4056
 
 
 农林卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
@@ -910,12 +905,9 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
-精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
-精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
-精彩影视,http://www.96335.top:4566/rtp/239.81.0.152:4056
 精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
 精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
 精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
@@ -1175,11 +1167,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://tzd.seak.bid:9999/rtp/239.94.1.167:5140
 中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
 中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
-中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://dx.yanbingg.com:1888/rtp/239.94.1.167:5140
 中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
-中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -1205,12 +1195,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
 求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
-求索纪录,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.153:4056
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
-求索纪录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
-求索纪录,http://www.96335.top:4566/rtp/239.81.0.153:4056
 求索纪录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
