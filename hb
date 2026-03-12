@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-2026-3-11,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+2026-3-12,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 
 
 📡4K测试,#genre#
@@ -325,6 +325,9 @@ CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&pl
 
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
+CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
+CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
+
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
 
@@ -366,7 +369,7 @@ CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http:
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
-
+中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://ethan2023.synology.me:6011/rtp/225.0.4.184:7980
 中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
@@ -383,6 +386,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 
+中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
@@ -459,6 +463,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
+大湾区卫视,http://183.57.248.89:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
@@ -668,6 +674,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
+天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
 天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
 天元围棋,http://tzd.seak.bid:9999/rtp/239.94.1.152:5140
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
@@ -687,6 +694,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 爱体育,http://ethan2023.synology.me:6011/rtp/225.0.4.53:7980
+爱体育,http://hello.ejoydom.com:9999/rtp/239.77.1.116:5146
 爱体育,http://pve.iszbd.com:4022/rtp/225.0.4.53:7980
 爱体育,http://tzd.seak.bid:9999/rtp/239.94.1.44:5140
 爱体育,http://wan1.tangwudi.cc:47859/rtp/239.94.1.44:5140
@@ -1051,6 +1059,7 @@ IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
 CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
+CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
 CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://lj.kuail8.cn:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
@@ -1124,6 +1133,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
+中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://www.andy-nas.top:8623/rtp/239.76.253.61:9000
 中国天气,http://tzd.seak.bid:9999/rtp/239.94.1.167:5140
@@ -1154,6 +1164,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.142:5140
 求索纪录,http://tzd.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
+求索记录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
 求索纪录,http://ethan2023.synology.me:6011/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
