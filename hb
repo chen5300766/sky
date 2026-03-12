@@ -1910,7 +1910,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 小毅剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549
 小毅剧场--快乐星球1-5,https://www.goodiptv.club/douyu/12805939#https://isus.cc/php/douyu.php?id=12805939
 小毅剧场--快乐星球1-3,https://www.goodiptv.club/douyu/1446150#https://isus.cc/php/douyu.php?id=1446150
-小毅剧场--顺财少爷,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
+小毅剧场--搞笑一家人,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
 小毅剧场--憨豆先生,https://www.goodiptv.club/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285
 【奇光】终极系列,https://www.goodiptv.club/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,https://www.goodiptv.club/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741
