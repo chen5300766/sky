@@ -346,8 +346,8 @@ CCTV文化精品,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.25:6104
 CCTV风云剧场,http://lj.kuail8.cn:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://lj.kuail8.cn:4022/rtp/239.253.92.25:6104
 
-CCTV风云剧场,http://yanshifen.top:8889/rtp/239.253.43.16:5146
-CCTV文化精品,http://yanshifen.top:8889/rtp/239.253.43.13:5146
+CCTV风云剧场,http://wmh.synology.me:6633/rtp/239.253.43.16:5146
+CCTV文化精品,http://wmh.synology.me:6633/rtp/239.253.43.13:5146
 
 CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
 CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
@@ -380,7 +380,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
-中央新影-中学生,http://yanshifen.top:8889/rtp/rtp/239.77.1.195:5146
+中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
 中央新影-中学生,http://111.48.34.138/000000001000PLTV/88888888/224/3221230602/1.m3u8
 
 
@@ -389,7 +389,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://yanshifen.top:8889/rtp/239.77.1.112:5146
+中央新影-发现之旅,http://wmh.synology.me:6633/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
@@ -682,7 +682,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
 天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://yanshifen.top:8889/rtp/239.253.43.98:5146
+天元围棋,http://wmh.synology.me:6633/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
 天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
@@ -699,7 +699,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 爱体育,http://tzd.seak.bid:9999/rtp/239.94.1.44:5140
 爱体育,http://wan1.tangwudi.cc:47859/rtp/239.94.1.44:5140
 爱体育,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.44:5140
-爱体育,http://yanshifen.top:8889/rtp/239.77.1.116:5146
+爱体育,http://wmh.synology.me:6633/rtp/239.77.1.116:5146
 爱体育,http://line1.huase.ltd:8888/rtp/239.77.1.116:5146
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
@@ -1084,7 +1084,7 @@ CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
 CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
 CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://lj.kuail8.cn:4022/rtp/239.253.92.39:6107
-CETV早期教育,http://yanshifen.top:8889/rtp/239.77.0.180:5146
+CETV早期教育,http://wmh.synology.me:6633/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
@@ -1196,7 +1196,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索记录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
 求索纪录,http://ethan2023.synology.me:6011/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
-求索纪录,http://yanshifen.top:8889/rtp/239.77.0.21:5146
+求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
 求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
@@ -1907,9 +1907,11 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 郁闷的粉色布袋馍直播间,https://www.goodiptv.club/douyu/12800979#https://isus.cc/php/douyu.php?id=12800979
 烟雨抚风直播间,https://www.goodiptv.club/douyu/11649079#https://isus.cc/php/douyu.php?id=11649079
 【60帧原画】真的打不服,https://www.goodiptv.club/douyu/323876#https://isus.cc/php/douyu.php?id=323876
-小毅喜剧剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549
-小毅喜剧剧场--快乐星球1-3,https://www.goodiptv.club/douyu/1446150#https://isus.cc/php/douyu.php?id=1446150
-小毅喜剧剧场--成长的烦恼,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
+小毅剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549
+小毅剧场--快乐星球1-5,https://www.goodiptv.club/douyu/12805939#https://isus.cc/php/douyu.php?id=12805939
+小毅剧场--快乐星球1-3,https://www.goodiptv.club/douyu/1446150#https://isus.cc/php/douyu.php?id=1446150
+小毅剧场--顺财少爷,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
+小毅剧场--憨豆先生,https://www.goodiptv.club/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285
 【奇光】终极系列,https://www.goodiptv.club/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873
 【粤语电影】吴孟达 达叔 周星驰 经典,https://www.goodiptv.club/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741
 小猪忧版剧院,https://www.goodiptv.club/douyu/10297898#https://isus.cc/php/douyu.php?id=10297898
@@ -1950,6 +1952,7 @@ dx雾黎直播间,https://www.goodiptv.club/douyu/10935839#https://isus.cc/php/d
 译制国语影片,https://www.goodiptv.club/douyu/2436390#https://isus.cc/php/douyu.php?id=2436390
 小毅影院,https://www.goodiptv.club/douyu/6906628#https://isus.cc/php/douyu.php?id=6906628
 奇光喜剧剧场,https://www.goodiptv.club/douyu/8009547#https://isus.cc/php/douyu.php?id=8009547
+怀旧情怀经典古装,https://www.goodiptv.club/douyu/1023277#https://isus.cc/php/douyu.php?id=1023277
 经典剧场,https://www.goodiptv.club/douyu/4246519#https://isus.cc/php/douyu.php?id=4246519
 经典高清剧集,https://www.goodiptv.club/douyu/7582564#https://isus.cc/php/douyu.php?id=7582564
 米尼影院,https://www.goodiptv.club/douyu/7642724#https://isus.cc/php/douyu.php?id=7642724
