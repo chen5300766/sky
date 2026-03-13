@@ -59,125 +59,6 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 
 
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-
-
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-中天新闻,http://php.jdshipin.com:8880/smt.php?id=ctinews
-华视 CTS,http://php.jdshipin.com:8880/smt.php?id=ctshd_twn
-Mecca Live,http://php.jdshipin.com:8880/smt.php?id=quran_mido
-民视,http://php.jdshipin.com:8880/smt.php?id=ftvhd_taiwan
-中天娱乐,http://php.jdshipin.com:8880/smt.php?id=ctient
-TVB Asia,http://php.jdshipin.com:8880/smt.php?id=Tvbasia
-TVBS,http://php.jdshipin.com:8880/smt.php?id=tvbs
-龙祥电影,http://php.jdshipin.com:8880/smt.php?id=lungxiangtime_twn
-纬来电影,http://php.jdshipin.com:8880/smt.php?id=videolandmovie
-纬来日本,http://php.jdshipin.com:8880/smt.php?id=videolandjapan
-纬来体育,http://php.jdshipin.com:8880/smt.php?id=videolandsport
-ELta体育壹,http://php.jdshipin.com:8880/smt.php?id=eltasport1_twn
-东森综合,http://php.jdshipin.com:8880/smt.php?id=ettvzhonghe
-东森超视,http://php.jdshipin.com:8880/smt.php?id=ettvsuper
-东森电影,http://php.jdshipin.com:8880/smt.php?id=ettvmovie
-VIUTV粤,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-VIUTV英,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-
-
-凤凰香港,http://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰资讯,http://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰中文,http://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-无线星河,smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线华丽,smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-无线新闻,smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-无线翡翠,smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线千禧,smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-翡翠台,smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-华丽翡翠,smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-TVB星河,smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线娱乐,smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-天映频道,smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映经典,smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-Astro AOD,smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-Astro AEC,smt.1678520.xyz/smt3.2.1.php?id=AEC
-爱奇艺,smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-Astro QJ,smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-Astro欢喜台,smt.1678520.xyz/smt3.2.1.php?id=Huahee
-八度空间,smt.1678520.xyz/smt3.2.1.php?id=TV8
-美亚电影,http://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-RTHK32,http://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
-RTHK31,http://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
-中天新闻,http://smt.1678520.xyz/smt3.2.1.php?id=ctinews
-华视 CTS,http://smt.1678520.xyz/smt3.2.1.php?id=ctshd_twn
-Mecca Live,http://smt.1678520.xyz/smt3.2.1.php?id=quran_mido
-民视,http://smt.1678520.xyz/smt3.2.1.php?id=ftvhd_taiwan
-中天娱乐,http://smt.1678520.xyz/smt3.2.1.php?id=ctient
-TVB Asia,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbasia
-TVBS,http://smt.1678520.xyz/smt3.2.1.php?id=tvbs
-龙祥电影,http://smt.1678520.xyz/smt3.2.1.php?id=lungxiangtime_twn
-纬来电影,http://smt.1678520.xyz/smt3.2.1.php?id=videolandmovie
-纬来日本,http://smt.1678520.xyz/smt3.2.1.php?id=videolandjapan
-纬来体育,http://smt.1678520.xyz/smt3.2.1.php?id=videolandsport
-ELta体育壹,http://smt.1678520.xyz/smt3.2.1.php?id=eltasport1_twn
-东森综合,http://smt.1678520.xyz/smt3.2.1.php?id=ettvzhonghe
-东森超视,http://smt.1678520.xyz/smt3.2.1.php?id=ettvsuper
-东森电影,http://smt.1678520.xyz/smt3.2.1.php?id=ettvmovie
-VIUTV粤,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-VIUTV英,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
-
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -490,17 +371,16 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
-
-海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 海峡卫视,http://r.jdshipin.com/WtYt3
-
+海峡卫视,http://8.138.7.223/tv/xxqg.php?id=hxws
+海峡卫视,http://8.138.7.223/tv/hxws.m3u8
+海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
 
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 
 
 📡湖北省,#genre#
