@@ -305,6 +305,7 @@ CCTV16奥林匹克,http://zb.hexuntong.net:8188/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://www.9kds.com/cn/cctv/cctv16.m3u8
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -324,6 +325,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
+
+CCTV风云剧场,http://www.9kds.com/cn/cctv/fyjc.m3u8 
+CCTV文化精品,http://www.9kds.com/cn/cctv/yswhjp.m3u8
 
 CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
 CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
@@ -369,6 +373,8 @@ CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http:
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
+
+中央新影-中学生,http://www.9kds.com/cn/cctv/zxs.m3u8 
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://ethan2023.synology.me:6011/rtp/225.0.4.184:7980
@@ -385,7 +391,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-
+中央新影-发现之旅,http://www.9kds.com/cn/cctv/fxzl.m3u8
 中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
