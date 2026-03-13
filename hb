@@ -640,15 +640,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 
-重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
 重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
