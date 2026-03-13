@@ -1090,7 +1090,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.142:5140
 求索纪录,http://tzd.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
-求索记录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
+求索纪录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
 求索纪录,http://ethan2023.synology.me:6011/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
