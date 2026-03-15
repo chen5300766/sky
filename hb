@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-13,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-15,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K源,#genre#
@@ -260,7 +260,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
-中央新影-中学生,http://ethan2023.synology.me:6011/rtp/225.0.4.184:7980
+中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
@@ -527,14 +527,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 快乐垂钓,http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
 
 
-快乐垂钓,http://ethan2023.synology.me:6011/rtp/225.0.4.213:7980
+快乐垂钓,http://www.smilehome.top:4022/rtp/225.0.4.213:7980
 快乐垂钓,http://nas.iszbd.com:4022/rtp/225.0.4.213:7980
 快乐垂钓,http://game.x3322.net:8899/rtp/225.0.4.213:7980
 快乐垂钓,http://home.660888.xyz:4000/rtp/225.0.4.213:7980
 快乐垂钓,http://pve.iszbd.com:4022/rtp/225.0.4.213:7980
 
 
-茶频道,http://ethan2023.synology.me:6011/rtp/225.0.4.233:7980
+茶频道,http://www.smilehome.top:4022/rtp/225.0.4.233:7980
 茶频道,http://nas.iszbd.com:4022/rtp/225.0.4.233:7980
 茶频道,http://game.x3322.net:8899/rtp/225.0.4.233:7980
 茶频道,http://home.660888.xyz:4000/rtp/225.0.4.233:7980
@@ -585,7 +585,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-爱体育,http://ethan2023.synology.me:6011/rtp/225.0.4.53:7980
+爱体育,http://www.smilehome.top:4022/rtp/225.0.4.53:7980
 爱体育,http://hello.ejoydom.com:9999/rtp/239.77.1.116:5146
 爱体育,http://pve.iszbd.com:4022/rtp/225.0.4.53:7980
 爱体育,http://tzd.seak.bid:9999/rtp/239.94.1.44:5140
@@ -604,7 +604,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 足球体育,http://pve.iszbd.com:4022/rtp/225.0.4.167:7980
 足球体育,http://wddpmpc.sosos.run:4022/rtp/239.110.205.25:9846
-足球体育,http://ethan2023.synology.me:6011/rtp/225.0.4.167:7980
+足球体育,http://www.smilehome.top:4022/rtp/225.0.4.167:7980
 足球体育,http://www.gaolao.top:8008/rtp/239.110.205.25:9846
 足球体育,http://www.alihomes.top:8188/rtp/239.254.96.146:7998
 足球体育,http://game.x3322.net:8899/rtp/225.0.4.167:7980
@@ -815,7 +815,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://home.660888.xyz:4000/rtp/225.0.4.163:7980
-影视剧,http://ethan2023.synology.me:6011/rtp/225.0.4.163:7980
+影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
 影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
 影视剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
@@ -987,7 +987,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
-优优宝贝,http://ethan2023.synology.me:6011/rtp/225.0.4.126:7980
+优优宝贝,http://www.smilehome.top:4022/rtp/225.0.4.126:7980
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
@@ -1091,7 +1091,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://tzd.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
 求索纪录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
-求索纪录,http://ethan2023.synology.me:6011/rtp/225.0.4.232:7980
+求索纪录,http://www.smilehome.top:4022/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
 求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
