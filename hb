@@ -830,7 +830,7 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?tv.sohu.blog
 
 
-黑莓电影,http://47.100.29.86:20009/sxm/hmdy.m3u8
+黑莓电影,https://www.9kds.com/cn/newtv/hmdy.m3u8
 黑莓电影,https://live.264788.xyz/channel/heimeidianying?stream_id=aab004fb9a1ea1ac66a7d77d35c1a039&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
 
@@ -937,6 +937,25 @@ iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
 iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
+📡newTV影院,#genre#
+newTV中国功夫,https://www.9kds.com/cn/newtv/zggf.m3u8
+newTV军事评论,https://www.9kds.com/cn/newtv/jspl.m3u8
+newTV军旅剧场,https://www.9kds.com/cn/newtv/jljc.m3u8
+newTV农业致富,https://www.9kds.com/cn/newtv/nyzf.m3u8
+newTV动作电影,https://www.9kds.com/cn/newtv/dzdy.m3u8
+newTV古装剧场,https://www.9kds.com/cn/newtv/gzjc.m3u8
+newTV家庭剧场,https://www.9kds.com/cn/newtv/jtjc.m3u8
+newTV惊悚悬疑,https://www.9kds.com/cn/newtv/jsxy.m3u8
+newTV潮妈辣婆,https://www.9kds.com/cn/newtv/cmlp.m3u8
+newTV炫舞未来,https://www.9kds.com/cn/newtv/xwwl.m3u8
+newTV烽烟剧场,https://www.9kds.com/cn/newtv/fyjc.m3u8
+newTV爱情喜剧,https://www.9kds.com/cn/newtv/aqxj.m3u8
+newTV精品体育,https://www.9kds.com/cn/newtv/jpty.m3u8
+newTV精品大剧,https://www.9kds.com/cn/newtv/jpdj.m3u8
+newTV精品萌宠,https://www.9kds.com/cn/newtv/jpmc.m3u8
+newTV谍战大剧,https://www.9kds.com/cn/newtv/dzdj.m3u8
+
+
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -994,7 +1013,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
 
 
-黑莓动画,http://47.100.29.86:20009/sxm/hmdh.m3u8
+黑莓动画,https://www.9kds.com/cn/newtv/hmdh.m3u8
 黑莓动画,https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bdad8eedfdd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 
 
