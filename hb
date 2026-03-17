@@ -13,6 +13,10 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
+湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
+
 浙江卫视4K,http://www.taoli.website:23234/rtp/239.3.1.114:3004
 浙江卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.114:3004
 浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
