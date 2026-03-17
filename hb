@@ -10,7 +10,6 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
