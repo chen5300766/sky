@@ -42,10 +42,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.113:3003
 江苏卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.113:3003
 
-浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
-浙江卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.114:3004
-浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
-浙江卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.114:3004
 
 北京卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
 北京卫视4K,rtsp://111.48.34.237:1554/170000004112/HBGD1099046553413197824376375621
