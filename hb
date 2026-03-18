@@ -1286,6 +1286,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
 紫川——戎马一生 归去何从,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
 eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ottiptv.cc/huya/20985862#http://cfss.cc/cdn/huya/20985862.flv
+鬼面之刃,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
 
 
 ❤️虎牙影院,#genre#
@@ -1573,7 +1574,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 华胥引之绝爱之城,https://www.goodiptv.club/huya/22129776#https://live.ottiptv.cc/huya/22129776#http://cfss.cc/cdn/huya/22129776.flv
 金枝欲孽,https://www.goodiptv.club/huya/29465847#https://live.ottiptv.cc/huya/29465847#http://cfss.cc/cdn/huya/29465847.flv
 海派甜心,https://www.goodiptv.club/huya/11342436#https://live.ottiptv.cc/huya/11342436#http://cfss.cc/cdn/huya/11342436.flv
-情深深雨蒙蒙,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
 小别离的真相,https://www.goodiptv.club/huya/29465848#https://live.ottiptv.cc/huya/29465848#http://cfss.cc/cdn/huya/29465848.flv
 父母爱情,https://www.goodiptv.club/huya/24648646#https://live.ottiptv.cc/huya/24648646#http://cfss.cc/cdn/huya/24648646.flv
 篮球火,https://www.goodiptv.club/huya/20985781#https://live.ottiptv.cc/huya/20985781#http://cfss.cc/cdn/huya/20985781.flv
