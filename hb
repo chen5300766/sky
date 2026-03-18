@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-17,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-18,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -1453,7 +1453,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 枪战电影,https://www.goodiptv.club/huya/21059579#https://live.ottiptv.cc/huya/21059579#http://cfss.cc/cdn/huya/21059579.flv
 古装武侠电影,https://www.goodiptv.club/huya/26355770#https://live.ottiptv.cc/huya/26355770#http://cfss.cc/cdn/huya/26355770.flv
 谍影重重 黑客帝国 烧脑系列,https://www.goodiptv.club/huya/11352917#https://live.ottiptv.cc/huya/11352917#http://cfss.cc/cdn/huya/11352917.flv
-唐探系列电影合集,https://www.goodiptv.club/huya/20969137#https://live.ottiptv.cc/huya/20969137#http://cfss.cc/cdn/huya/20969137.flv
+超级英雄合集,https://www.goodiptv.club/huya/20969137#https://live.ottiptv.cc/huya/20969137#http://cfss.cc/cdn/huya/20969137.flv
 全女剧集,https://www.goodiptv.club/huya/29982605#https://live.ottiptv.cc/huya/29982605#http://cfss.cc/cdn/huya/29982605.flv
 奇幻电影放映厅,https://www.goodiptv.club/huya/26355847#https://live.ottiptv.cc/huya/26355847#http://cfss.cc/cdn/huya/26355847.flv
 冒险电影放映厅,https://www.goodiptv.club/huya/21059566#https://live.ottiptv.cc/huya/21059566#http://cfss.cc/cdn/huya/21059566.flv
@@ -1516,6 +1516,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 流星花园,https://www.goodiptv.club/huya/26355793#https://live.ottiptv.cc/huya/26355793#http://cfss.cc/cdn/huya/26355793.flv
 斗牛，要不要,https://www.goodiptv.club/huya/20072663#https://live.ottiptv.cc/huya/20072663#http://cfss.cc/cdn/huya/20072663.flv
 埋堆堆官方,https://www.goodiptv.club/huya/30326432#https://live.ottiptv.cc/huya/30326432#http://cfss.cc/cdn/huya/30326432.flv
+子华神的神探剧,https://www.goodiptv.club/huya/30080163#https://live.ottiptv.cc/huya/30080163#http://cfss.cc/cdn/huya/30080163.flv
 特种兵之火凤凰,https://www.goodiptv.club/huya/29982636#https://live.ottiptv.cc/huya/29982636#http://cfss.cc/cdn/huya/29982636.flv
 风筝,https://www.goodiptv.club/huya/30080225#https://live.ottiptv.cc/huya/30080225#http://cfss.cc/cdn/huya/30080225.flv
 欢颜,https://www.goodiptv.club/huya/29982606#https://live.ottiptv.cc/huya/29982606#http://cfss.cc/cdn/huya/29982606.flv
