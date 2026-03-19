@@ -513,7 +513,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-69b7adceccbc5ea8f2cc6f34b34171af
 嘉鱼新闻综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90997969c48171e39b738519231accac
 通山综合,https://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-47936ec27159c1f2b4e1ddfd4c2caa46
-黄石新闻综合,https://44721-live.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3031.m3u8?auth_key=1767537823-0-0-0359a7b4335b1ec5e8ab16c3ca5a52b6&extra_key=Uihowqr--_fCfU1AlQ6869rx69mrmx-uGtqIecanYqh9V6eufcMfvoCYe4frDg97Jdpc1tFkxMRSR9K92f97hI7B0zgRDz3a_Y1kTZ-UawqVjJ_vyP6_ES1hoPFcvezhDIk44uEvAQ8Q3odEvjtnWc7rgcFT9hG9Bpu-I4VHMW0
 
 
 潜江综合,https://p2hs.vzan.com/slowlive/481008854192202056/live.m3u8
