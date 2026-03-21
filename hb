@@ -567,7 +567,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://218.78.179.62:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://shdx.zubo.cc.cd:7088/rtp/233.18.204.58:5140
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
