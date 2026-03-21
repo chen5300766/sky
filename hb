@@ -210,7 +210,7 @@ CCTV16奥林匹克,http://www.taoli.website:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
-
+CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -266,6 +266,9 @@ CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
 
 CCTV风云剧场,http://lj.kuail8.com:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://lj.kuail8.com:4022/rtp/239.253.92.25:6104
+
+CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
+CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
@@ -1017,6 +1020,7 @@ CETV早期教育,http://wmh.synology.me:6633/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
+CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
@@ -1036,6 +1040,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.231:5140
 财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
 财富天下,http://tzd.seak.bid:9999//rtp/239.94.1.42:5140
 财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
