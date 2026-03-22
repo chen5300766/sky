@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-21,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-22,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -233,6 +233,9 @@ CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
 CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
 CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
+
+CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
+CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
