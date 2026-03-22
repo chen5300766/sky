@@ -211,6 +211,7 @@ CCTV16奥林匹克,http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
+CCTV16奥林匹克,http://woshiysy2.synology.me:4999/rtp/233.18.204.82:5140
 
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
@@ -234,6 +235,8 @@ CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
 CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
 
+CCTV风云剧场,http://woshiysy2.synology.me:4999/rtp/233.18.204.183:5140
+CCTV文化精品,http://woshiysy2.synology.me:4999/rtp/233.18.204.186:5140
 
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
@@ -572,6 +575,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
+五星体育,http://woshiysy2.synology.me:4999/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://shdx.zubo.cc.cd:7088/rtp/233.18.204.58:5140
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
@@ -1022,6 +1026,7 @@ CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
 CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
+CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
@@ -1041,6 +1046,7 @@ CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://woshiysy2.synology.me:4999/rtp/233.18.204.231:5140
 财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.231:5140
 财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
 财富天下,http://tzd.seak.bid:9999//rtp/239.94.1.42:5140
