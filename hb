@@ -234,8 +234,6 @@ CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
 CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
 
-CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
-CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
 CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
 CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
