@@ -1324,6 +1324,7 @@ eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ot
 
 
 ❤️虎牙影院,#genre#
+愤怒的洋羊的直播间,https://www.goodiptv.club/huya/20985857#https://live.ottiptv.cc/huya/20985857#http://cfss.cc/cdn/huya/20985857.flv
 田园生活分享的直播间,https://www.goodiptv.club/huya/20969145#https://live.ottiptv.cc/huya/20969145#http://cfss.cc/cdn/huya/20969145.flv
 异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841#http://cfss.cc/cdn/huya/20985841.flv
 AlfarisRawk的直播间,https://www.goodiptv.club/huya/20985803#https://live.ottiptv.cc/huya/20985803#http://cfss.cc/cdn/huya/20985803.flv
@@ -1592,6 +1593,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 陆小凤传奇,https://www.goodiptv.club/huya/20985865#https://live.ottiptv.cc/huya/20985865#http://cfss.cc/cdn/huya/20985865.flv
 公主嫁到,https://www.goodiptv.club/huya/20969101#https://live.ottiptv.cc/huya/20969101#http://cfss.cc/cdn/huya/20969101.flv
 错点鸳鸯·戏点鸳鸯,https://www.goodiptv.club/huya/20985827#https://live.ottiptv.cc/huya/20985827#http://cfss.cc/cdn/huya/20985827.flv
+少年英雄方世玉,https://www.goodiptv.club/huya/26355831#https://live.ottiptv.cc/huya/26355831#http://cfss.cc/cdn/huya/26355831.flv
 少林寺传奇,https://www.goodiptv.club/huya/20985806#https://live.ottiptv.cc/huya/20985806#http://cfss.cc/cdn/huya/20985806.flv
 华灯初上,https://www.goodiptv.club/huya/20985793#https://live.ottiptv.cc/huya/20985793#http://cfss.cc/cdn/huya/20985793.flv
 三国演义,https://www.goodiptv.club/huya/11602081#https://live.ottiptv.cc/huya/11602081#http://cfss.cc/cdn/huya/11602081.flv
