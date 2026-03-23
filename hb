@@ -232,6 +232,9 @@ CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&pl
 
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
+CCTV风云剧场,http://www.zlizi.cn:4023/rtp/239.76.254.50:9000
+CCTV文化精品,http://www.zlizi.cn:4023/rtp/239.76.254.56:9000
+
 CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
 CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
 
@@ -589,6 +592,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
 天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
+天元围棋,http://www.zlizi.cn:4023/rtp/239.76.253.2:9000
 天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
 天元围棋,http://tzd.seak.bid:9999/rtp/239.94.1.152:5140
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
@@ -676,8 +680,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
+湖南电视剧,http://www.zlizi.cn:4023/rtp/239.76.252.118:9000
+湖南电影,http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
 
 湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
 湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
@@ -1015,6 +1019,7 @@ IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
+CETV早期教育,http://www.zlizi.cn:4023/rtp/239.76.254.202:9000
 CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
 CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
@@ -1107,6 +1112,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 
 
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
+中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
