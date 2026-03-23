@@ -17,6 +17,16 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
 
+北京卫视4K,http://www.zlizi.cn:4023/rtp/239.76.253.150:9000
+东方卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.224:9000
+广东卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.138:9000
+深圳卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.137:9000
+湖南卫视4K,http://www.zlizi.cn:4023/rtp/239.76.253.214:9000
+山东卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.228:9000
+四川卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.234:9000
+浙江卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.222:9000
+江苏卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.216:9000
+
 浙江卫视4K,http://www.taoli.website:23234/rtp/239.3.1.114:3004
 浙江卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.114:3004
 浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
