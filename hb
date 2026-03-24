@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-23,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-24,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -28,25 +28,25 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 浙江卫视4K,http://www.taoli.website:23234/rtp/239.3.1.114:3004
 浙江卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.114:3004
-浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
+浙江卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.114:3004
 浙江卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.114:3004
 
 湖南卫视4K,http://www.taoli.website:23234/rtp/239.3.1.112:3002
 湖南卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.112:3002
-湖南卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.112:3002
+湖南卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.112:3002
 湖南卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.112:3002
 
-山东卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.144:3005
+山东卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.144:3005
 山东卫视4K,http://www.taoli.website:23234/rtp/239.3.1.144:3005
 山东卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.144:3005
 山东卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.144:3005
 
-四川卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.131:3001
+四川卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.131:3001
 四川卫视4K,http://www.taoli.website:23234/rtp/239.3.1.131:3001
 四川卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.131:3001
 四川卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.131:3001
 
-江苏卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.113:3003
+江苏卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.113:3003
 江苏卫视4K,http://www.taoli.website:23234/rtp/239.3.1.113:3003
 江苏卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.113:3003
 江苏卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.113:3003
@@ -217,7 +217,7 @@ CCTV15音乐,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u
 CCTV16奥林匹克,	http://superpostmail.3322.org:1193/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.taoli.website:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://home.zgnc.fun:8821/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
 CCTV16奥林匹克,http://woshiysy2.synology.me:4999/rtp/233.18.204.82:5140
@@ -789,23 +789,23 @@ IPTV家庭影院,http://nas.wsw.fun:8168/rtp/239.3.1.93:4120
 
 
 
-IPTV影视,http://www.fjxzl.top:23234/rtp/239.3.1.88:4120
-IPTV4K超清,http://www.fjxzl.top:23234/rtp/239.3.1.249:8001
-IPTV淘剧场,http://www.fjxzl.top:23234/rtp/239.3.1.95:8001
-IPTV淘电影,http://www.fjxzl.top:23234/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://www.fjxzl.top:23234/rtp/239.3.1.100:8001
-IPTV淘BABY,http://www.fjxzl.top:23234/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://www.fjxzl.top:23234/rtp/239.3.1.102:8001
-IPTV星影,http://www.fjxzl.top:23234/rtp/239.3.1.94:4120
-IPTV城市剧场,http://www.fjxzl.top:23234/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://www.fjxzl.top:23234/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://www.fjxzl.top:23234/rtp/239.3.1.90:4120
-IPTV古装剧场,http://www.fjxzl.top:23234/rtp/239.3.1.69:4120
-IPTV热播剧场,http://www.fjxzl.top:23234/rtp/239.3.1.194:9020
-IPTV经典电影,http://www.fjxzl.top:23234/rtp/239.3.1.195:9024
-IPTV爱上4K,http://www.fjxzl.top:23234/rtp/239.3.1.236:2000
-IPTV精选,http://www.fjxzl.top:23234/rtp/239.3.1.74:4120
-IPTV家庭影院,http://www.fjxzl.top:23234/rtp/239.3.1.93:4120
+IPTV影视,http://home.zgnc.fun:8821/rtp/239.3.1.88:4120
+IPTV4K超清,http://home.zgnc.fun:8821/rtp/239.3.1.249:8001
+IPTV淘剧场,http://home.zgnc.fun:8821/rtp/239.3.1.95:8001
+IPTV淘电影,http://home.zgnc.fun:8821/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://home.zgnc.fun:8821/rtp/239.3.1.100:8001
+IPTV淘BABY,http://home.zgnc.fun:8821/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://home.zgnc.fun:8821/rtp/239.3.1.102:8001
+IPTV星影,http://home.zgnc.fun:8821/rtp/239.3.1.94:4120
+IPTV城市剧场,http://home.zgnc.fun:8821/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://home.zgnc.fun:8821/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://home.zgnc.fun:8821/rtp/239.3.1.90:4120
+IPTV古装剧场,http://home.zgnc.fun:8821/rtp/239.3.1.69:4120
+IPTV热播剧场,http://home.zgnc.fun:8821/rtp/239.3.1.194:9020
+IPTV经典电影,http://home.zgnc.fun:8821/rtp/239.3.1.195:9024
+IPTV爱上4K,http://home.zgnc.fun:8821/rtp/239.3.1.236:2000
+IPTV精选,http://home.zgnc.fun:8821/rtp/239.3.1.74:4120
+IPTV家庭影院,http://home.zgnc.fun:8821/rtp/239.3.1.93:4120
 
 
 IPTV影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
@@ -1012,19 +1012,19 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 IPTV少儿动画,http://superpostmail.3322.org:1193/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.taoli.website:23234/rtp/239.3.1.199:9000
 IPTV少儿动画,http://nas.wsw.fun:8168/rtp/239.3.1.199:9000
-IPTV少儿动画,http://www.fjxzl.top:23234/rtp/239.3.1.199:9000
+IPTV少儿动画,http://home.zgnc.fun:8821/rtp/239.3.1.199:9000
 IPTV少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://superpostmail.3322.org:1193/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.taoli.website:23234/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://nas.wsw.fun:8168/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://www.fjxzl.top:23234/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://home.zgnc.fun:8821/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
 
 IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
 IPTV早教,http://www.taoli.website:23234/rtp/239.3.1.79:4120
 IPTV早教,http://nas.wsw.fun:8168/rtp/239.3.1.79:4120
-IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
+IPTV早教,http://home.zgnc.fun:8821/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
 
@@ -1103,11 +1103,11 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 军事,http://nas.wsw.fun:8168/rtp/239.3.1.76:4120
 
 
-中国交通,http://www.fjxzl.top:23234/rtp/239.3.1.188:8001
-好学生,http://www.fjxzl.top:23234/rtp/239.3.1.81:4120
-鉴赏,http://www.fjxzl.top:23234/rtp/239.3.1.82:4120
-墨宝,http://www.fjxzl.top:23234/rtp/239.3.1.83:4120
-军事,http://www.fjxzl.top:23234/rtp/239.3.1.76:4120
+中国交通,http://home.zgnc.fun:8821/rtp/239.3.1.188:8001
+好学生,http://home.zgnc.fun:8821/rtp/239.3.1.81:4120
+鉴赏,http://home.zgnc.fun:8821/rtp/239.3.1.82:4120
+墨宝,http://home.zgnc.fun:8821/rtp/239.3.1.83:4120
+军事,http://home.zgnc.fun:8821/rtp/239.3.1.76:4120
 
 
 中国交通,http://home.zgnc.fun:8822/rtp/239.3.1.188:8001
