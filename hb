@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-24,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-25,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -388,6 +388,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 
 
+凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8
+凤凰卫视,http://120.238.5.44:1698/hls/86/index.m3u8
+凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
+
+
+
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
@@ -395,6 +401,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://183.57.248.89:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
@@ -595,6 +602,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
+广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 
@@ -679,8 +687,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
-重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
@@ -1137,6 +1145,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 新视觉,http://112.92.129.96:9898/hls/107/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
