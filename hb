@@ -27,28 +27,28 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 江苏卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.216:9000
 
 浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
-浙江卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.114:3004
+浙江卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.114:3004
 浙江卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.114:3004
 浙江卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.114:3004
 
 湖南卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.112:3002
-湖南卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.112:3002
+湖南卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.112:3002
 湖南卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.112:3002
 湖南卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.112:3002
 
 山东卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.144:3005
 山东卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.144:3005
-山东卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.144:3005
+山东卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.144:3005
 山东卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.144:3005
 
 四川卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.131:3001
 四川卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.131:3001
-四川卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.131:3001
+四川卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.131:3001
 四川卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.131:3001
 
 江苏卫视4K,http://home.zgnc.fun:8821/rtp/239.3.1.113:3003
 江苏卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.113:3003
-江苏卫视4K,http://nas.wsw.fun:8168/rtp/239.3.1.113:3003
+江苏卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.113:3003
 江苏卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.113:3003
 
 
@@ -214,9 +214,9 @@ CCTV13新闻,http://111.48.34.138/000000001000PLTV/88888888/224/3221230493/1.m3u
 CCTV14少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230446/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
 CCTV15音乐,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 
-CCTV16奥林匹克,	http://nas.hexuntong.net:8188/rtp/239.3.1.184:8001
+CCTV16奥林匹克,	http://www.hhy123963.cn:8188/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://nas.wsw.fun:8168/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://superpostmail.3322.org:1193/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8821/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
@@ -739,23 +739,23 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-IPTV影视,http://nas.hexuntong.net:8188/rtp/239.3.1.88:4120
-IPTV4K超清,http://nas.hexuntong.net:8188/rtp/239.3.1.249:8001
-IPTV淘剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.95:8001
-IPTV淘电影,http://nas.hexuntong.net:8188/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://nas.hexuntong.net:8188/rtp/239.3.1.100:8001
-IPTV淘BABY,http://nas.hexuntong.net:8188/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://nas.hexuntong.net:8188/rtp/239.3.1.102:8001
-IPTV星影,http://nas.hexuntong.net:8188/rtp/239.3.1.94:4120
-IPTV城市剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.90:4120
-IPTV古装剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.69:4120
-IPTV热播剧场,http://nas.hexuntong.net:8188/rtp/239.3.1.194:9020
-IPTV经典电影,http://nas.hexuntong.net:8188/rtp/239.3.1.195:9024
-IPTV爱上4K,http://nas.hexuntong.net:8188/rtp/239.3.1.236:2000
-IPTV精选,http://nas.hexuntong.net:8188/rtp/239.3.1.74:4120
-IPTV家庭影院,http://nas.hexuntong.net:8188/rtp/239.3.1.93:4120
+IPTV影视,http://www.hhy123963.cn:8188/rtp/239.3.1.88:4120
+IPTV4K超清,http://www.hhy123963.cn:8188/rtp/239.3.1.249:8001
+IPTV淘剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.95:8001
+IPTV淘电影,http://www.hhy123963.cn:8188/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://www.hhy123963.cn:8188/rtp/239.3.1.100:8001
+IPTV淘BABY,http://www.hhy123963.cn:8188/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://www.hhy123963.cn:8188/rtp/239.3.1.102:8001
+IPTV星影,http://www.hhy123963.cn:8188/rtp/239.3.1.94:4120
+IPTV城市剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.90:4120
+IPTV古装剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.69:4120
+IPTV热播剧场,http://www.hhy123963.cn:8188/rtp/239.3.1.194:9020
+IPTV经典电影,http://www.hhy123963.cn:8188/rtp/239.3.1.195:9024
+IPTV爱上4K,http://www.hhy123963.cn:8188/rtp/239.3.1.236:2000
+IPTV精选,http://www.hhy123963.cn:8188/rtp/239.3.1.74:4120
+IPTV家庭影院,http://www.hhy123963.cn:8188/rtp/239.3.1.93:4120
 
 
 IPTV影视,http://www.fjxzl.top:23234/rtp/239.3.1.88:4120
@@ -777,23 +777,23 @@ IPTV精选,http://www.fjxzl.top:23234/rtp/239.3.1.74:4120
 IPTV家庭影院,http://www.fjxzl.top:23234/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://nas.wsw.fun:8168/rtp/239.3.1.88:4120
-IPTV4K超清,http://nas.wsw.fun:8168/rtp/239.3.1.249:8001
-IPTV淘剧场,http://nas.wsw.fun:8168/rtp/239.3.1.95:8001
-IPTV淘电影,http://nas.wsw.fun:8168/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://nas.wsw.fun:8168/rtp/239.3.1.100:8001
-IPTV淘BABY,http://nas.wsw.fun:8168/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://nas.wsw.fun:8168/rtp/239.3.1.102:8001
-IPTV星影,http://nas.wsw.fun:8168/rtp/239.3.1.94:4120
-IPTV城市剧场,http://nas.wsw.fun:8168/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://nas.wsw.fun:8168/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://nas.wsw.fun:8168/rtp/239.3.1.90:4120
-IPTV古装剧场,http://nas.wsw.fun:8168/rtp/239.3.1.69:4120
-IPTV热播剧场,http://nas.wsw.fun:8168/rtp/239.3.1.194:9020
-IPTV经典电影,http://nas.wsw.fun:8168/rtp/239.3.1.195:9024
-IPTV爱上4K,http://nas.wsw.fun:8168/rtp/239.3.1.236:2000
-IPTV精选,http://nas.wsw.fun:8168/rtp/239.3.1.74:4120
-IPTV家庭影院,http://nas.wsw.fun:8168/rtp/239.3.1.93:4120
+IPTV影视,http://superpostmail.3322.org:1193/rtp/239.3.1.88:4120
+IPTV4K超清,http://superpostmail.3322.org:1193/rtp/239.3.1.249:8001
+IPTV淘剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.95:8001
+IPTV淘电影,http://superpostmail.3322.org:1193/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://superpostmail.3322.org:1193/rtp/239.3.1.100:8001
+IPTV淘BABY,http://superpostmail.3322.org:1193/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://superpostmail.3322.org:1193/rtp/239.3.1.102:8001
+IPTV星影,http://superpostmail.3322.org:1193/rtp/239.3.1.94:4120
+IPTV城市剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.90:4120
+IPTV古装剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.69:4120
+IPTV热播剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.194:9020
+IPTV经典电影,http://superpostmail.3322.org:1193/rtp/239.3.1.195:9024
+IPTV爱上4K,http://superpostmail.3322.org:1193/rtp/239.3.1.236:2000
+IPTV精选,http://superpostmail.3322.org:1193/rtp/239.3.1.74:4120
+IPTV家庭影院,http://superpostmail.3322.org:1193/rtp/239.3.1.93:4120
 
 
 
@@ -1017,21 +1017,21 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 
-IPTV少儿动画,http://nas.hexuntong.net:8188/rtp/239.3.1.199:9000
+IPTV少儿动画,http://www.hhy123963.cn:8188/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.fjxzl.top:23234/rtp/239.3.1.199:9000
-IPTV少儿动画,http://nas.wsw.fun:8168/rtp/239.3.1.199:9000
+IPTV少儿动画,http://superpostmail.3322.org:1193/rtp/239.3.1.199:9000
 IPTV少儿动画,http://home.zgnc.fun:8821/rtp/239.3.1.199:9000
 IPTV少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
 
-IPTV宝宝动画,http://nas.hexuntong.net:8188/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://www.hhy123963.cn:8188/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.fjxzl.top:23234/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://nas.wsw.fun:8168/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://superpostmail.3322.org:1193/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://home.zgnc.fun:8821/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
 
-IPTV早教,http://nas.hexuntong.net:8188/rtp/239.3.1.79:4120
+IPTV早教,http://www.hhy123963.cn:8188/rtp/239.3.1.79:4120
 IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
-IPTV早教,http://nas.wsw.fun:8168/rtp/239.3.1.79:4120
+IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8821/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
@@ -1090,11 +1090,11 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-中国交通,http://nas.hexuntong.net:8188/rtp/239.3.1.188:8001
-好学生,http://nas.hexuntong.net:8188/rtp/239.3.1.81:4120
-鉴赏,http://nas.hexuntong.net:8188/rtp/239.3.1.82:4120
-墨宝,http://nas.hexuntong.net:8188/rtp/239.3.1.83:4120
-军事,http://nas.hexuntong.net:8188/rtp/239.3.1.76:4120
+中国交通,http://www.hhy123963.cn:8188/rtp/239.3.1.188:8001
+好学生,http://www.hhy123963.cn:8188/rtp/239.3.1.81:4120
+鉴赏,http://www.hhy123963.cn:8188/rtp/239.3.1.82:4120
+墨宝,http://www.hhy123963.cn:8188/rtp/239.3.1.83:4120
+军事,http://www.hhy123963.cn:8188/rtp/239.3.1.76:4120
 
 
 中国交通,http://www.fjxzl.top:23234/rtp/239.3.1.188:8001
@@ -1104,11 +1104,11 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 军事,http://www.fjxzl.top:23234/rtp/239.3.1.76:4120
 
 
-中国交通,http://nas.wsw.fun:8168/rtp/239.3.1.188:8001
-好学生,http://nas.wsw.fun:8168/rtp/239.3.1.81:4120
-鉴赏,http://nas.wsw.fun:8168/rtp/239.3.1.82:4120
-墨宝,http://nas.wsw.fun:8168/rtp/239.3.1.83:4120
-军事,http://nas.wsw.fun:8168/rtp/239.3.1.76:4120
+中国交通,http://superpostmail.3322.org:1193/rtp/239.3.1.188:8001
+好学生,http://superpostmail.3322.org:1193/rtp/239.3.1.81:4120
+鉴赏,http://superpostmail.3322.org:1193/rtp/239.3.1.82:4120
+墨宝,http://superpostmail.3322.org:1193/rtp/239.3.1.83:4120
+军事,http://superpostmail.3322.org:1193/rtp/239.3.1.76:4120
 
 
 中国交通,http://home.zgnc.fun:8821/rtp/239.3.1.188:8001
