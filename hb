@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-26,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-3-27,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -1573,6 +1573,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 爱情公寓,https://www.goodiptv.club/huya/11336726#https://live.ottiptv.cc/huya/11336726#http://cfss.cc/cdn/huya/11336726.flv
 家有儿女,https://www.goodiptv.club/huya/11352872#https://live.ottiptv.cc/huya/11352872#http://cfss.cc/cdn/huya/11352872.flv#https://www.goodiptv.club/huya/30523326#https://live.ottiptv.cc/huya/30526426#http://cfss.cc/cdn/huya/30526426.flv#https://www.goodiptv.club/huya/30664021#https://live.ottiptv.cc/huya/30664021#http://cfss.cc/cdn/huya/30664021.flv
 父辈的荣耀,https://www.goodiptv.club/huya/11352893#https://live.ottiptv.cc/huya/11352893#http://cfss.cc/cdn/huya/11352893.flv
+公主小妹,https://www.goodiptv.club/huya/21241843#https://live.ottiptv.cc/huya/21241843#http://cfss.cc/cdn/huya/21241843.flv
 流星花园,https://www.goodiptv.club/huya/26355793#https://live.ottiptv.cc/huya/26355793#http://cfss.cc/cdn/huya/26355793.flv
 斗牛，要不要,https://www.goodiptv.club/huya/20072663#https://live.ottiptv.cc/huya/20072663#http://cfss.cc/cdn/huya/20072663.flv
 埋堆堆官方,https://www.goodiptv.club/huya/30326432#https://live.ottiptv.cc/huya/30326432#http://cfss.cc/cdn/huya/30326432.flv
@@ -1887,6 +1888,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 小毅剧场--搞笑一家人,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
 小毅剧场--憨豆先生,https://www.goodiptv.club/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285
 【奇光】终极系列,https://www.goodiptv.club/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873
+【奇光】爱情公寓系列,https://www.goodiptv.club/douyu/12817608#https://isus.cc/php/douyu.php?id=12817608
 【粤语电影】吴孟达 达叔 周星驰 经典,https://www.goodiptv.club/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741
 小猪忧版剧院,https://www.goodiptv.club/douyu/10297898#https://isus.cc/php/douyu.php?id=10297898
 看看老电影,https://www.goodiptv.club/douyu/585642#https://isus.cc/php/douyu.php?id=585642
