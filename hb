@@ -1,8 +1,8 @@
 🐼温馨提示,#genre#
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
-更新日期,https://www.goodiptv.club/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-27,https://www.goodiptv.club/douyu/1770806#https://live.metshop.top/douyu/1770806
+更新日期,http://php.404003.xyz/live/douyuyqk.php?id=40471#https://isus.cc/php/douyu.php?id=40471
+2026-3-29,http://php.404003.xyz/live/douyuyqk.php?id=1770806#https://live.metshop.top/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -12,10 +12,6 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-
-湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
-江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
-北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
 
 北京卫视4K,http://www.zlizi.cn:4023/rtp/239.76.253.150:9000
 东方卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.224:9000
@@ -410,7 +406,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
 
-农林卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
@@ -420,8 +415,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
 海峡卫视,http://r.jdshipin.com/WtYt3
-海峡卫视,http://8.138.7.223/tv/xxqg.php?id=hxws
-海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -682,13 +675,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 1905电影网环球经典,http://129.211.14.102:25000/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&token=www.9kds.com
 1905电影网流金岁月,http://129.211.14.102:25000/1905.php?t=1&id=LIVEOYY31H24H48NE&token=www.9kds.com
 
-1905电影国外,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
-1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy2#http://php.jdshipin.com:8880/1905.php?id=1905dy
-
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
-重温经典,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
@@ -704,7 +693,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
 
 
-陕西西部电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
@@ -729,10 +717,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 红色影院,http://www.yanbingg.com:1888/rtp/239.94.1.48:5140
 红色影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.48:5140
 红色影院,http://dx.yanbingg.com:1888/rtp/239.94.1.48:5140
-
-
-凤凰电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226420/index.m3u8
-星卫电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
 
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
@@ -1230,24 +1214,24 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 火影疾风传1,https://live.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
 火影忍者,https://www.goodiptv.club/huya/29465866#https://live.ottiptv.cc/huya/29465866#http://cfss.cc/cdn/huya/23734243.flv
-成龙历险记,https://www.goodiptv.club/douyu/2287949#https://live.ottiptv.cc/huya/11352946#https://isus.cc/php/douyu.php?id=2287949#https://www.goodiptv.club/huya/11352946#https://live.ottiptv.cc/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
-快来看动画,https://www.goodiptv.club/douyu/12144115#https://isus.cc/php/douyu.php?id=12144115
+成龙历险记,http://php.404003.xyz/live/douyuyqk.php?id=2287949#https://live.ottiptv.cc/huya/11352946#https://isus.cc/php/douyu.php?id=2287949#https://www.goodiptv.club/huya/11352946#https://live.ottiptv.cc/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
+快来看动画,http://php.404003.xyz/live/douyuyqk.php?id=12144115#https://isus.cc/php/douyu.php?id=12144115
 厨神小当家,https://www.goodiptv.club/huya/24257300#https://live.ottiptv.cc/huya/24257300#http://cfss.cc/cdn/huya/24257300.flv
-中华小当家,https://www.goodiptv.club/douyu/8231658#https://isus.cc/php/douyu.php?id=8231658
-【动漫合集】皮克斯、Conan看不停,https://www.goodiptv.club/douyu/7620081#https://isus.cc/php/douyu.php?id=7620081
-【动漫】超燃 怀旧 经典,https://www.goodiptv.club/douyu/1174353#https://isus.cc/php/douyu.php?id=1174353
-草帽丶海贼团的直播间,https://www.goodiptv.club/douyu/997925#https://isus.cc/php/douyu.php?id=997925
+中华小当家,http://php.404003.xyz/live/douyuyqk.php?id=8231658#https://isus.cc/php/douyu.php?id=8231658
+【动漫合集】皮克斯、Conan看不停,http://php.404003.xyz/live/douyuyqk.php?id=7620081#https://isus.cc/php/douyu.php?id=7620081
+【动漫】超燃 怀旧 经典,http://php.404003.xyz/live/douyuyqk.php?id=1174353#https://isus.cc/php/douyu.php?id=1174353
+草帽丶海贼团的直播间,http://php.404003.xyz/live/douyuyqk.php?id=997925#https://isus.cc/php/douyu.php?id=997925
 [剧场版] 海贼王,https://www.goodiptv.club/huya/29982634#https://live.ottiptv.cc/huya/29982634#http://cfss.cc/cdn/huya/29982634.flv
-动漫 热血 老贼 冒险,https://www.goodiptv.club/douyu/6610883#https://isus.cc/php/douyu.php?id=6610883
-【童年往事】仨房间画面同步显示点播1,https://www.goodiptv.club/douyu/1569773#https://isus.cc/php/douyu.php?id=1569773
-【童年往事】仨房间画面同步显示点播2,https://www.goodiptv.club/douyu/7256376#https://isus.cc/php/douyu.php?id=7256376
+动漫 热血 老贼 冒险,http://php.404003.xyz/live/douyuyqk.php?id=6610883#https://isus.cc/php/douyu.php?id=6610883
+【童年往事】仨房间画面同步显示点播1,http://php.404003.xyz/live/douyuyqk.php?id=1569773#https://isus.cc/php/douyu.php?id=1569773
+【童年往事】仨房间画面同步显示点播2,http://php.404003.xyz/live/douyuyqk.php?id=7256376#https://isus.cc/php/douyu.php?id=7256376
 虎牙名侦探柯南,https://www.goodiptv.club/huya/30080148#https://live.ottiptv.cc/huya/30080148#http://cfss.cc/cdn/huya/30080148.flv
-斗鱼名侦探柯南,https://www.goodiptv.club/douyu/5172389#https://isus.cc/php/douyu.php?id=5172389
+斗鱼名侦探柯南,http://php.404003.xyz/live/douyuyqk.php?id=5172389#https://isus.cc/php/douyu.php?id=5172389
 名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#https://live.ottiptv.cc/huya/30080236#http://cfss.cc/cdn/huya/30080236.flv
 汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#https://live.ottiptv.cc/huya/11352879#http://cfss.cc/cdn/huya/11352879.flv
-龍組队长天昊直播间,https://www.goodiptv.club/douyu/1487654#https://isus.cc/php/douyu.php?id=1487654
-骑士不让播了，先随便播下吧,https://www.goodiptv.club/douyu/1218414#https://isus.cc/php/douyu.php?id=1218414
-茶啊二中,https://www.goodiptv.club/huya/11213191#https://live.ottiptv.cc/huya/11213191#https://isus.cc/php/douyu.php?id=2925610#https://www.goodiptv.club/douyu/2925610
+龍組队长天昊直播间,http://php.404003.xyz/live/douyuyqk.php?id=1487654#https://isus.cc/php/douyu.php?id=1487654
+骑士不让播了，先随便播下吧,http://php.404003.xyz/live/douyuyqk.php?id=1218414#https://isus.cc/php/douyu.php?id=1218414
+茶啊二中,https://www.goodiptv.club/huya/11213191#https://live.ottiptv.cc/huya/11213191#https://isus.cc/php/douyu.php?id=2925610#http://php.404003.xyz/live/douyuyqk.php?id=2925610
 茶啊二中,https://www.goodiptv.club/huya/26355818#https://live.ottiptv.cc/huya/26355818
 航海王,https://www.goodiptv.club/huya/16913382#https://live.ottiptv.cc/huya/16913382#http://cfss.cc/cdn/huya/16913382.flv
 龙珠超,https://www.goodiptv.club/huya/11601966#https://live.ottiptv.cc/huya/11601966#http://cfss.cc/cdn/huya/11601966.flv
@@ -1257,16 +1241,16 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 异人动漫,https://www.goodiptv.club/huya/11352869#https://live.ottiptv.cc/huya/11352869#http://cfss.cc/cdn/huya/11352869.flv
 新世纪福音战士,https://www.goodiptv.club/huya/21059570#https://live.ottiptv.cc/huya/21059570#http://cfss.cc/cdn/huya/21059570.flv
 蜡笔小新,https://www.goodiptv.club/huya/11352970#https://live.ottiptv.cc/huya/11352970#http://cfss.cc/cdn/huya/11352970.flv#https://www.goodiptv.club/huya/137834#https://live.ottiptv.cc/huya/137834#http://cfss.cc/cdn/huya/137834.flv
-犬夜叉剧场版,https://www.goodiptv.club/douyu/11906591#https://isus.cc/php/douyu.php?id=11906591
-晓妞动漫花园,https://www.goodiptv.club/douyu/426517#https://isus.cc/php/douyu.php?id=426517
+犬夜叉剧场版,http://php.404003.xyz/live/douyuyqk.php?id=11906591#https://isus.cc/php/douyu.php?id=11906591
+晓妞动漫花园,http://php.404003.xyz/live/douyuyqk.php?id=426517#https://isus.cc/php/douyu.php?id=426517
 网球王子,https://www.goodiptv.club/huya/11352882#https://live.ottiptv.cc/huya/11352882#http://cfss.cc/cdn/huya/11352882.flv
 二次元的世界里有我的梦想和青春,https://www.goodiptv.club/huya/21059614#https://live.ottiptv.cc/huya/21059614#http://cfss.cc/cdn/huya/21059614.flv
 齐神,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
 完美世界,https://www.goodiptv.club/huya/11336579#https://live.ottiptv.cc/huya/11336579#http://cfss.cc/cdn/huya/11336579.flv
 哆啦A梦,https://www.goodiptv.club/huya/11601963#https://live.ottiptv.cc/huya/29982795#https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#http://cfss.cc/cdn/huya/11601963.flv#http://cfss.cc/cdn/huya/29982795.flv
-开心锤锤,https://www.goodiptv.club/douyu/9018297#https://isus.cc/php/douyu.php?id=9018297
+开心锤锤,http://php.404003.xyz/live/douyuyqk.php?id=9018297#https://isus.cc/php/douyu.php?id=9018297
 虎牙四驱兄弟,https://www.goodiptv.club/huya/11352922#https://live.ottiptv.cc/huya/11352922#http://cfss.cc/cdn/huya/11352922.flv
-斗鱼四驱兄弟,https://www.goodiptv.club/douyu/4575356#https://isus.cc/php/douyu.php?id=4575356
+斗鱼四驱兄弟,http://php.404003.xyz/live/douyuyqk.php?id=4575356#https://isus.cc/php/douyu.php?id=4575356
 圣魔大陆,https://www.goodiptv.club/huya/26355828#https://live.ottiptv.cc/huya/26355828#http://cfss.cc/cdn/huya/26355828.flv
 画江湖之不良人,https://www.goodiptv.club/huya/21059565#https://live.ottiptv.cc/huya/21059565#https://www.goodiptv.club/huya/30080218#https://live.ottiptv.cc/huya/30080218#http://cfss.cc/cdn/huya/21059565.flv#http://cfss.cc/cdn/huya/30080218.flv
 不良人1-6动漫,https://www.goodiptv.club/huya/29982595#https://live.ottiptv.cc/huya/29982595#http://cfss.cc/cdn/huya/29982595.flv
@@ -1274,27 +1258,27 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 斗帝萧炎,https://www.goodiptv.club/huya/618917#https://live.ottiptv.cc/huya/618917#http://cfss.cc/cdn/huya/618917.flv
 头文字D动漫,https://www.goodiptv.club/huya/11352889#https://live.ottiptv.cc/huya/11352889#http://cfss.cc/cdn/huya/11352889.flv
 足球小将,https://www.goodiptv.club/huya/11352904#https://live.ottiptv.cc/huya/11352904#http://cfss.cc/cdn/huya/11352904.flv
-海绵宝宝,https://isus.cc/php/douyu.php?id=7528160#https://isus.cc/php/douyu.php?id=3949681#https://www.goodiptv.club/huya/11352919#http://cfss.cc/cdn/huya/11352919.flv#https://isus.cc/php/douyu.php?id=11595245#https://isus.cc/php/douyu.php?id=12311684#https://www.goodiptv.club/douyu/7528160#https://www.goodiptv.club/douyu/3949681#https://www.goodiptv.club/douyu/11595245#https://www.goodiptv.club/douyu/12311684
+海绵宝宝,https://isus.cc/php/douyu.php?id=7528160#https://isus.cc/php/douyu.php?id=3949681#https://www.goodiptv.club/huya/11352919#http://cfss.cc/cdn/huya/11352919.flv#https://isus.cc/php/douyu.php?id=11595245#https://isus.cc/php/douyu.php?id=12311684#http://php.404003.xyz/live/douyuyqk.php?id=7528160#http://php.404003.xyz/live/douyuyqk.php?id=3949681#http://php.404003.xyz/live/douyuyqk.php?id=11595245#http://php.404003.xyz/live/douyuyqk.php?id=12311684
 武林之同福客栈动画版,https://www.goodiptv.club/huya/25749066#https://live.ottiptv.cc/huya/25749066#http://cfss.cc/cdn/huya/25749066.flv
 哪吒传奇,https://www.goodiptv.club/huya/26355782#https://live.ottiptv.cc/huya/26355782#http://cfss.cc/cdn/huya/26355782.flv
-惊悚恐怖动画,https://www.goodiptv.club/douyu/9312460#https://isus.cc/php/douyu.php?id=9312460
+惊悚恐怖动画,http://php.404003.xyz/live/douyuyqk.php?id=9312460#https://isus.cc/php/douyu.php?id=9312460
 魔道祖师,https://www.goodiptv.club/huya/30080217#https://live.ottiptv.cc/huya/30080217#http://cfss.cc/cdn/huya/30080217.flv
 仙逆,https://www.goodiptv.club/huya/30080215#https://live.ottiptv.cc/huya/30080215#http://cfss.cc/cdn/huya/30080215.flv
 动画,https://www.goodiptv.club/huya/29981376#https://live.ottiptv.cc/huya/29981376#http://cfss.cc/cdn/huya/29981376.flv
 少年歌行,https://www.goodiptv.club/huya/29982667#https://live.ottiptv.cc/huya/29982667#http://cfss.cc/cdn/huya/29982667.flv
 一念永恒,https://www.goodiptv.club/huya/30080223#https://live.ottiptv.cc/huya/30080223#http://cfss.cc/cdn/huya/30080223.flv
-小时候看过的怀旧动画片,https://www.goodiptv.club/douyu/7360064#https://isus.cc/php/douyu.php?id=7360064
+小时候看过的怀旧动画片,http://php.404003.xyz/live/douyuyqk.php?id=7360064#https://isus.cc/php/douyu.php?id=7360064
 武庚纪-究极人神之战,https://www.goodiptv.club/huya/26355862#https://live.ottiptv.cc/huya/26355862#http://cfss.cc/cdn/huya/26355862.flv
 刘关张三活宝,https://www.goodiptv.club/huya/29465871#https://live.ottiptv.cc/huya/29465871#http://cfss.cc/cdn/huya/29465871.flv
 全职猎人,https://www.goodiptv.club/huya/30080254#https://live.ottiptv.cc/huya/30080254#http://cfss.cc/cdn/huya/30080254.flv
 黑子的篮球,https://www.goodiptv.club/huya/30080253#https://live.ottiptv.cc/huya/30080253#http://cfss.cc/cdn/huya/30080253.flv
-林小二动画,https://www.goodiptv.club/douyu/11184164#https://isus.cc/php/douyu.php?id=11184164
+林小二动画,http://php.404003.xyz/live/douyuyqk.php?id=11184164#https://isus.cc/php/douyu.php?id=11184164
 迪士尼! 经典动画电影,https://www.goodiptv.club/huya/30080256#https://live.ottiptv.cc/huya/30080256#http://cfss.cc/cdn/huya/30080256.flv
 地灵曲,https://www.goodiptv.club/huya/30080216#https://live.ottiptv.cc/huya/30080216#http://cfss.cc/cdn/huya/30080216.flv
-童年的动画片,https://www.goodiptv.club/douyu/11741459#https://isus.cc/php/douyu.php?id=11741459
+童年的动画片,http://php.404003.xyz/live/douyuyqk.php?id=11741459#https://isus.cc/php/douyu.php?id=11741459
 国风动画电影,https://www.goodiptv.club/huya/30080242#https://live.ottiptv.cc/huya/30080242#http://cfss.cc/cdn/huya/30080242.flv
 怪盗基德,https://www.goodiptv.club/huya/26355804#https://live.ottiptv.cc/huya/26355804#http://cfss.cc/cdn/huya/26355804.flv
-小猪佩奇,https://www.goodiptv.club/douyu/9541736#https://isus.cc/php/douyu.php?id=9541736
+小猪佩奇,http://php.404003.xyz/live/douyuyqk.php?id=9541736#https://isus.cc/php/douyu.php?id=9541736
 喜羊羊灰太狼,https://www.goodiptv.club/huya/23865080#https://live.ottiptv.cc/huya/23865080#http://cfss.cc/cdn/huya/23865080.flv#https://www.goodiptv.club/huya/23699135#https://live.ottiptv.cc/huya/23699135#http://cfss.cc/cdn/huya/23699135.flv
 民调局异闻录,https://www.goodiptv.club/huya/26355820#https://live.ottiptv.cc/huya/26355820#http://cfss.cc/cdn/huya/26355820.flv
 异人之下,https://www.goodiptv.club/huya/11602065#https://live.ottiptv.cc/huya/11602065#http://cfss.cc/cdn/huya/11602065.flv
@@ -1304,7 +1288,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 一念斩千魔，一念诛万仙,https://www.goodiptv.club/huya/21059592#https://live.ottiptv.cc/huya/21059592#http://cfss.cc/cdn/huya/21059592.flv
 瑞克与莫蒂1-5,https://www.goodiptv.club/huya/29982655#https://live.ottiptv.cc/huya/29982655#http://cfss.cc/cdn/huya/29982655.flv
 守护甜心,https://www.goodiptv.club/huya/24314166#https://live.ottiptv.cc/huya/24314166#http://cfss.cc/cdn/huya/24314166.flv
-山止月的直播间,https://www.goodiptv.club/douyu/12538016#https://isus.cc/php/douyu.php?id=12538016
+山止月的直播间,http://php.404003.xyz/live/douyuyqk.php?id=12538016#https://isus.cc/php/douyu.php?id=12538016
 灌篮高手,http://cfss.cc/cdn/yy/1356243352.flv#https://live.ottiptv.cc/yy/1356243352
 灌篮高手,https://live.ottiptv.cc/yy/1382735626#https://live.metshop.top/yy/1382735626
 妖神记,https://live.ottiptv.cc/yy/1382745171#http://cfss.cc/cdn/yy/1382745171.flv
@@ -1313,7 +1297,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 全职高手动画,https://www.goodiptv.club/huya/21059628#https://live.ottiptv.cc/huya/21059628#http://cfss.cc/cdn/huya/21059628.flv
 双城之战--英雄联盟超燃动画,https://www.goodiptv.club/huya/23903196#https://live.ottiptv.cc/huya/23903196#http://cfss.cc/cdn/huya/23903196.flv
 熊出没之探险日记,https://live.ottiptv.cc/yy/1382745122#http://cfss.cc/cdn/yy/1382745122.flv#https://live.ottiptv.cc/yy/1354930977
-奇光动漫剧场,https://www.goodiptv.club/douyu/12560807#https://isus.cc/php/douyu.php?id=12560807
+奇光动漫剧场,http://php.404003.xyz/live/douyuyqk.php?id=12560807#https://isus.cc/php/douyu.php?id=12560807
 迪迦奥特曼,https://www.goodiptv.club/huya/21059569#https://live.ottiptv.cc/huya/21059569#http://cfss.cc/cdn/huya/21059569.flv
 星辰变,https://www.goodiptv.club/huya/24514506#https://live.ottiptv.cc/huya/24514506#http://cfss.cc/cdn/huya/24514506.flv
 最新日本动画片,https://www.goodiptv.club/huya/26355787#https://live.ottiptv.cc/huya/26355787#http://cfss.cc/cdn/huya/26355787.flv
@@ -1322,7 +1306,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 诛仙--国漫,https://www.goodiptv.club/huya/23728595#https://live.ottiptv.cc/huya/23728595#http://cfss.cc/cdn/huya/23728595.flv
 宇宙护卫队--国漫,https://live.ottiptv.cc/yy/1382736837#https://live.metshop.top/yy/1382736837
 萌鸡小队,https://live.ottiptv.cc/yy/1382736904#https://live.metshop.top/yy/1382736904
-动画片,https://www.goodiptv.club/douyu/12626455#https://isus.cc/php/douyu.php?id=12626455
+动画片,http://php.404003.xyz/live/douyuyqk.php?id=12626455#https://isus.cc/php/douyu.php?id=12626455
 动漫,https://live.ottiptv.cc/yy/26664495#https://live.metshop.top/yy/26664495
 吞噬星空,https://www.goodiptv.club/huya/23902242#https://live.ottiptv.cc/huya/23902242#http://cfss.cc/cdn/huya/23902242.flv
 游戏王,https://www.goodiptv.club/huya/20985856#https://live.ottiptv.cc/huya/20985856#http://cfss.cc/cdn/huya/20985856.flv
@@ -1855,161 +1839,161 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 
 
 ❤️斗鱼影院,#genre#
-片源多多1,https://www.goodiptv.club/douyu/7623292#https://isus.cc/php/douyu.php?id=7623292
-片源多多2,https://www.goodiptv.club/douyu/7476264#https://isus.cc/php/douyu.php?id=7476264
-片源多多3,https://www.goodiptv.club/douyu/2073#https://isus.cc/php/douyu.php?id=2073
-经典随便放,https://www.goodiptv.club/douyu/12169420#https://isus.cc/php/douyu.php?id=12169420
-随便播,https://www.goodiptv.club/douyu/6588759#https://isus.cc/php/douyu.php?id=6588759
-随机连播,https://www.goodiptv.club/douyu/6369954#https://isus.cc/php/douyu.php?id=6369954
-港剧1,https://www.goodiptv.club/douyu/4290711#https://isus.cc/php/douyu.php?id=4290711
-港剧2,https://www.goodiptv.club/douyu/5522351#https://isus.cc/php/douyu.php?id=5522351
-港剧3,https://www.goodiptv.club/douyu/5261342#https://isus.cc/php/douyu.php?id=5261342
-港剧4,https://www.goodiptv.club/douyu/11247280#https://isus.cc/php/douyu.php?id=11247280
-港剧5,https://www.goodiptv.club/douyu/5061550#https://isus.cc/php/douyu.php?id=5061550
-电视剧、电影,https://www.goodiptv.club/douyu/9838414#https://isus.cc/php/douyu.php?id=9838414
-影视剧,https://www.goodiptv.club/douyu/9242659#https://isus.cc/php/douyu.php?id=9242659
-贝贝影视,https://www.goodiptv.club/douyu/431460#https://isus.cc/php/douyu.php?id=431460
-橙記-弹幕看剧间,https://www.goodiptv.club/douyu/4549169#https://isus.cc/php/douyu.php?id=4549169
-经典老剧,https://www.goodiptv.club/douyu/12015111#https://isus.cc/php/douyu.php?id=12015111
-老剧,https://www.goodiptv.club/douyu/8543072#https://isus.cc/php/douyu.php?id=8543072
-岁月经典,https://www.goodiptv.club/douyu/11756388#https://isus.cc/php/douyu.php?id=11756388
-【怡影吧】❤️经典剧集❤️,https://www.goodiptv.club/douyu/8507544#https://isus.cc/php/douyu.php?id=8507544
-【暧昧】犯我大汉者虽远必诛,https://www.goodiptv.club/douyu/3134490#https://isus.cc/php/douyu.php?id=3134490
-迷路的挂件直播间,https://www.goodiptv.club/douyu/12210085#https://isus.cc/php/douyu.php?id=12210085
-爱画画的奶糖直播间,https://www.goodiptv.club/douyu/4346416#https://isus.cc/php/douyu.php?id=4346416
-傲娇的超级赛亚人直播间,https://www.goodiptv.club/douyu/4373285#https://isus.cc/php/douyu.php?id=4373285
-光之镇魂曲的特摄动漫直播间,https://www.goodiptv.club/douyu/12684513#https://isus.cc/php/douyu.php?id=12684513
-郁闷的粉色布袋馍直播间,https://www.goodiptv.club/douyu/12800979#https://isus.cc/php/douyu.php?id=12800979
-烟雨抚风直播间,https://www.goodiptv.club/douyu/11649079#https://isus.cc/php/douyu.php?id=11649079
-【60帧原画】真的打不服,https://www.goodiptv.club/douyu/323876#https://isus.cc/php/douyu.php?id=323876
-小毅剧场--家有儿女1-4,https://www.goodiptv.club/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549
-小毅剧场--快乐星球1-5,https://www.goodiptv.club/douyu/12805939#https://isus.cc/php/douyu.php?id=12805939
-小毅剧场--快乐星球1-3,https://www.goodiptv.club/douyu/1446150#https://isus.cc/php/douyu.php?id=1446150
-小毅剧场--搞笑一家人,https://www.goodiptv.club/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172
-小毅剧场--憨豆先生,https://www.goodiptv.club/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285
-【奇光】终极系列,https://www.goodiptv.club/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873
-【奇光】爱情公寓系列,https://www.goodiptv.club/douyu/12817608#https://isus.cc/php/douyu.php?id=12817608
-【粤语电影】吴孟达 达叔 周星驰 经典,https://www.goodiptv.club/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741
-小猪忧版剧院,https://www.goodiptv.club/douyu/10297898#https://isus.cc/php/douyu.php?id=10297898
-看看老电影,https://www.goodiptv.club/douyu/585642#https://isus.cc/php/douyu.php?id=585642
-下饭神剧,https://www.goodiptv.club/douyu/3700024#https://isus.cc/php/douyu.php?id=3700024
-胡八一冲冲冲的直播间,https://www.goodiptv.club/douyu/9292503#https://isus.cc/php/douyu.php?id=9292503
-胡八一胖子促发剧情,https://www.goodiptv.club/douyu/5635000#https://isus.cc/php/douyu.php?id=5635000
-国产青春-动作-喜剧,https://www.goodiptv.club/douyu/5423#https://isus.cc/php/douyu.php?id=5423
-4K❤电影院❤喜剧悬疑文艺科幻灾难动,https://www.goodiptv.club/douyu/12192607#https://isus.cc/php/douyu.php?id=12192607
-宅男冰狗直播间,https://www.goodiptv.club/douyu/1369700#https://isus.cc/php/douyu.php?id=1369700
-深夜D你上高速,https://www.goodiptv.club/douyu/7882691#https://isus.cc/php/douyu.php?id=7882691
-深夜D你去看剧,https://www.goodiptv.club/douyu/12434419#https://isus.cc/php/douyu.php?id=12434419
-【刀刀de食堂】点播台,https://www.goodiptv.club/douyu/6733133#https://isus.cc/php/douyu.php?id=6733133
-荒野大镖客,https://www.goodiptv.club/douyu/5982597#https://isus.cc/php/douyu.php?id=5982597
-奇兮兮悄陌直播间,https://www.goodiptv.club/douyu/953193#https://isus.cc/php/douyu.php?id=953193
-【小白影院】60帧 蓝光影院,https://www.goodiptv.club/douyu/322360#https://isus.cc/php/douyu.php?id=322360
-科幻片,https://www.goodiptv.club/douyu/10183347#https://isus.cc/php/douyu.php?id=10183347
-豆瓣高分,https://www.goodiptv.club/douyu/8770422#https://isus.cc/php/douyu.php?id=8770422
-✨神乐✨欧美 电影 科幻 动作 经典喜剧,https://www.goodiptv.club/douyu/20415#https://isus.cc/php/douyu.php?id=20415
-【港剧/动作】武侠 经典 古装,https://www.goodiptv.club/douyu/2793084#https://isus.cc/php/douyu.php?id=2793084
-【变种人】除掉任何阻碍我们的人,https://www.goodiptv.club/douyu/9651304#https://isus.cc/php/douyu.php?id=9651304
-【神乐】华语 经典 电影 沈腾 周杰伦,https://www.goodiptv.club/douyu/85894#https://isus.cc/php/douyu.php?id=85894
-回忆青春剧场,https://www.goodiptv.club/douyu/12590736#https://isus.cc/php/douyu.php?id=12590736
-电影天堂,https://www.goodiptv.club/douyu/3811092#https://isus.cc/php/douyu.php?id=3811092
-酷炫短剧场,https://www.goodiptv.club/douyu/36337#https://isus.cc/php/douyu.php?id=36337
-悍匪电影,https://www.goodiptv.club/douyu/922564#https://isus.cc/php/douyu.php?id=922564
-亚洲功夫影片,https://www.goodiptv.club/douyu/11849283#https://isus.cc/php/douyu.php?id=11849283
-林正英.周星驰.欧美经典片,https://www.goodiptv.club/douyu/433055#https://isus.cc/php/douyu.php?id=433055
-童年记忆,https://www.goodiptv.club/douyu/73354#https://isus.cc/php/douyu.php?id=73354
-动作喜剧,https://www.goodiptv.club/douyu/12421816#https://isus.cc/php/douyu.php?id=12421816
-❤️怡寶❤️影院,https://www.goodiptv.club/douyu/434971#https://isus.cc/php/douyu.php?id=434971
-喜剧电影专场1,https://www.goodiptv.club/douyu/9292492#https://isus.cc/php/douyu.php?id=9292492
-喜剧电影专场2,https://www.goodiptv.club/douyu/9824094#https://isus.cc/php/douyu.php?id=9824094
-【蓝翔】60帧原画电影 华语喜剧,https://www.goodiptv.club/douyu/276200#https://isus.cc/php/douyu.php?id=276200
-dx雾黎直播间,https://www.goodiptv.club/douyu/10935839#https://isus.cc/php/douyu.php?id=10935839
-漫威主线剧情最佳电影,https://www.goodiptv.club/douyu/11673725#https://isus.cc/php/douyu.php?id=11673725
-伊太刀刀的直播间,https://www.goodiptv.club/douyu/747764#https://isus.cc/php/douyu.php?id=747764
-译制国语影片,https://www.goodiptv.club/douyu/2436390#https://isus.cc/php/douyu.php?id=2436390
-小毅影院,https://www.goodiptv.club/douyu/6906628#https://isus.cc/php/douyu.php?id=6906628
-奇光喜剧剧场,https://www.goodiptv.club/douyu/8009547#https://isus.cc/php/douyu.php?id=8009547
-怀旧情怀经典古装,https://www.goodiptv.club/douyu/1023277#https://isus.cc/php/douyu.php?id=1023277
-经典剧场,https://www.goodiptv.club/douyu/4246519#https://isus.cc/php/douyu.php?id=4246519
-经典高清剧集,https://www.goodiptv.club/douyu/7582564#https://isus.cc/php/douyu.php?id=7582564
-米尼影院,https://www.goodiptv.club/douyu/7642724#https://isus.cc/php/douyu.php?id=7642724
-特辑电影,https://www.goodiptv.club/douyu/3637778#https://isus.cc/php/douyu.php?id=3637778
-【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.goodiptv.club/douyu/252802#https://isus.cc/php/douyu.php?id=252802
-好剧看不停,https://www.goodiptv.club/douyu/9388938#https://isus.cc/php/douyu.php?id=9388938
-追梦凌宝的直播间,https://www.goodiptv.club/douyu/1377142#https://isus.cc/php/douyu.php?id=1377142
-【静静】经典影视剧,https://www.goodiptv.club/douyu/5668371#https://isus.cc/php/douyu.php?id=5668371
-经典高分电影,https://www.goodiptv.club/douyu/7254536#https://isus.cc/php/douyu.php?id=7254536
-漫威主线剧情,https://www.goodiptv.club/douyu/6140589#https://isus.cc/php/douyu.php?id=6140589
-一起看新手主播,https://www.goodiptv.club/douyu/12453761#https://isus.cc/php/douyu.php?id=12453761
-箩卜君直播间,https://www.goodiptv.club/douyu/7495810#https://isus.cc/php/douyu.php?id=7495810
-【贝爷MAX厅】60帧电影 科幻 动作,https://www.goodiptv.club/douyu/4332#https://isus.cc/php/douyu.php?id=4332
-Hi欣影厅,https://www.goodiptv.club/douyu/11996166#https://isus.cc/php/douyu.php?id=11996166
-吃米滴虫,https://www.goodiptv.club/douyu/315457#https://isus.cc/php/douyu.php?id=315457
-经典影视,https://www.goodiptv.club/douyu/6091425#https://isus.cc/php/douyu.php?id=6091425
-小鬼影院点播台,https://www.goodiptv.club/douyu/3928#https://isus.cc/php/douyu.php?id=3928
-【神 剧】的直播间,https://www.goodiptv.club/douyu/3439096#https://isus.cc/php/douyu.php?id=3439096
-天龙八部、连城诀轮播,https://www.goodiptv.club/douyu/8166878#https://isus.cc/php/douyu.php?id=8166878
-经典武侠剧,https://www.goodiptv.club/douyu/11784023#https://isus.cc/php/douyu.php?id=11784023
-金庸武侠剧场,https://www.goodiptv.club/douyu/9285904#https://isus.cc/php/douyu.php?id=9285904
-铁甲影院--庆余年,https://www.goodiptv.club/douyu/1274132#https://isus.cc/php/douyu.php?id=1274132
-庆余年,https://www.goodiptv.club/douyu/7812810#https://isus.cc/php/douyu.php?id=7812810
-庆余年,https://www.goodiptv.club/douyu/329876#https://isus.cc/php/douyu.php?id=329876
-李小龙系列,https://www.goodiptv.club/douyu/8721095#https://isus.cc/php/douyu.php?id=8721095
-家有儿女,https://www.goodiptv.club/douyu/11827530#https://isus.cc/php/douyu.php?id=11827530
-爱情公寓,https://www.goodiptv.club/douyu/6863367#https://isus.cc/php/douyu.php?id=6863367#https://www.goodiptv.club/douyu/4105989#https://isus.cc/php/douyu.php?id=4105989
-太平天国,https://www.goodiptv.club/douyu/12068394#https://isus.cc/php/douyu.php?id=12068394
-任志飞直播间,https://www.goodiptv.club/douyu/12501387#https://isus.cc/php/douyu.php?id=12501387
-士兵突击,https://www.goodiptv.club/douyu/10348728#https://isus.cc/php/douyu.php?id=10348728
-4K超高清影视剧场,https://www.goodiptv.club/douyu/12632716#https://isus.cc/php/douyu.php?id=12632716
-林正英【久久】下饭电视剧,https://www.goodiptv.club/douyu/8371123#https://isus.cc/php/douyu.php?id=8371123
-kk6506直播间,https://www.goodiptv.club/douyu/4579455#https://isus.cc/php/douyu.php?id=4579455
-肖胜350的直播间,https://www.goodiptv.club/douyu/7338853#https://isus.cc/php/douyu.php?id=7338853
-LR1245直播间,https://www.goodiptv.club/douyu/12534632#https://isus.cc/php/douyu.php?id=12534632
-【默鱼】陪你一起看剧,https://www.goodiptv.club/douyu/11922242#https://isus.cc/php/douyu.php?id=11922242
-西游记续集,https://www.goodiptv.club/douyu/3113309#https://isus.cc/php/douyu.php?id=3113309
-西游记港剧,https://www.goodiptv.club/douyu/10198644#https://isus.cc/php/douyu.php?id=10198644
-射雕英雄传,https://www.goodiptv.club/douyu/12143858#https://isus.cc/php/douyu.php?id=12143858
-欢乐时光经典剧场,https://www.goodiptv.club/douyu/755851#https://isus.cc/php/douyu.php?id=755851
-鹿鼎记-陈小春,https://www.goodiptv.club/douyu/12128227#https://isus.cc/php/douyu.php?id=12128227
-水浒传,https://www.goodiptv.club/douyu/6785471#https://isus.cc/php/douyu.php?id=6785471
-新三国,https://www.goodiptv.club/douyu/428402#https://isus.cc/php/douyu.php?id=428402#https://www.goodiptv.club/douyu/12253936#https://isus.cc/php/douyu.php?id=12253936#https://www.goodiptv.club/douyu/12337487#https://isus.cc/php/douyu.php?id=12337487#https://www.goodiptv.club/douyu/12180551#https://isus.cc/php/douyu.php?id=12180551#https://www.goodiptv.club/douyu/10906963#https://isus.cc/php/douyu.php?id=10906963
-三国演义94版,https://www.goodiptv.club/douyu/12463728#https://isus.cc/php/douyu.php?id=12463728
-神话,https://www.goodiptv.club/douyu/5448413#https://isus.cc/php/douyu.php?id=5448413
-康熙微服私访记,https://www.goodiptv.club/douyu/1006179#https://isus.cc/php/douyu.php?id=1006179
-网神影厅,https://www.goodiptv.club/douyu/508118#https://isus.cc/php/douyu.php?id=508118
-燕双鹰专场,https://www.goodiptv.club/douyu/11931032#https://isus.cc/php/douyu.php?id=11931032
-神剧,https://www.goodiptv.club/douyu/5875025#https://isus.cc/php/douyu.php?id=5875025
-神探狄仁杰,https://www.goodiptv.club/douyu/12442176#https://isus.cc/php/douyu.php?id=12442176#https://www.goodiptv.club/douyu/11391949#https://isus.cc/php/douyu.php?id=11391949#https://isus.cc/php/douyu.php?id=12183882#https://www.goodiptv.club/douyu/12183882#https://www.goodiptv.club/douyu/6027991#https://isus.cc/php/douyu.php?id=6027991#https://www.goodiptv.club/douyu/12655359#https://isus.cc/php/douyu.php?id=12655359
-大秦帝国,https://www.goodiptv.club/douyu/9388931#https://isus.cc/php/douyu.php?id=9388931
-顺才少爷,https://www.goodiptv.club/douyu/10084875#https://isus.cc/php/douyu.php?id=10084875
-炊事班的故事,https://www.goodiptv.club/douyu/319576#https://isus.cc/php/douyu.php?id=319576
-和平饭店,https://www.goodiptv.club/douyu/9650782#https://isus.cc/php/douyu.php?id=9650782
-新剧,https://www.goodiptv.club/douyu/12552495#https://isus.cc/php/douyu.php?id=12552495
-火影手游1,https://www.goodiptv.club/douyu/11425422#https://isus.cc/php/douyu.php?id=11425422
-火影手游2,https://www.goodiptv.club/douyu/12267530#https://isus.cc/php/douyu.php?id=12267530
-火影手游3,https://www.goodiptv.club/douyu/921393#https://isus.cc/php/douyu.php?id=921393
-火影手游4,https://www.goodiptv.club/douyu/10363686#https://isus.cc/php/douyu.php?id=10363686
-火影手游5,https://www.goodiptv.club/douyu/12188319#https://isus.cc/php/douyu.php?id=12188319
-狼人杀官方赛事,https://www.goodiptv.club/douyu/4615959#https://isus.cc/php/douyu.php?id=4615959
-三角洲行动,https://www.goodiptv.club/douyu/1485743#https://isus.cc/php/douyu.php?id=1485743
-开心麻花---沈腾、马丽经典小品专场,https://www.goodiptv.club/douyu/10153463#https://isus.cc/php/douyu.php?id=10153463
-宋小宝经典小品,https://www.goodiptv.club/douyu/9817729#https://isus.cc/php/douyu.php?id=9817729
-贾玲经典小品,https://www.goodiptv.club/douyu/10419541#https://isus.cc/php/douyu.php?id=10419541
-欢乐小饭米粒儿,https://www.goodiptv.club/douyu/9403690#https://isus.cc/php/douyu.php?id=9403690
-经典小品,https://www.goodiptv.club/douyu/9067836#https://isus.cc/php/douyu.php?id=9067836
-许君聪经典小品的直播间,https://www.goodiptv.club/douyu/10419558#https://isus.cc/php/douyu.php?id=10419558
-搞笑天堂岛,https://www.goodiptv.club/douyu/6916081#https://isus.cc/php/douyu.php?id=6916081
-多多看车--交通事故,https://www.goodiptv.club/douyu/4921957#https://isus.cc/php/douyu.php?id=4921957
-开车大神--交通事故,https://www.goodiptv.club/douyu/9759970#https://isus.cc/php/douyu.php?id=9759970
-备胎说车,https://www.goodiptv.club/douyu/3783046#https://isus.cc/php/douyu.php?id=3783046
-三国杀游戏1,https://www.goodiptv.club/douyu/11958868#https://isus.cc/php/douyu.php?id=11958868
-三国杀游戏2,https://www.goodiptv.club/douyu/7529411#https://isus.cc/php/douyu.php?id=7529411
-象棋1,https://www.goodiptv.club/douyu/7453312#https://isus.cc/php/douyu.php?id=7453312
-象棋2,https://www.goodiptv.club/douyu/851040#https://isus.cc/php/douyu.php?id=851040
-JJ斗地主,https://www.goodiptv.club/douyu/488743#https://isus.cc/php/douyu.php?id=488743
-拳皇97,https://www.goodiptv.club/douyu/8387733#https://isus.cc/php/douyu.php?id=8387733
-阿七点歌台,https://www.goodiptv.club/douyu/3186217#https://isus.cc/php/douyu.php?id=3186217
-音乐MV,https://www.goodiptv.club/douyu/3870925#https://isus.cc/php/douyu.php?id=3870925
-戏曲,https://www.goodiptv.club/douyu/12091975#https://isus.cc/php/douyu.php?id=12091975
+片源多多1,http://php.404003.xyz/live/douyuyqk.php?id=7623292#https://isus.cc/php/douyu.php?id=7623292
+片源多多2,http://php.404003.xyz/live/douyuyqk.php?id=7476264#https://isus.cc/php/douyu.php?id=7476264
+片源多多3,http://php.404003.xyz/live/douyuyqk.php?id=2073#https://isus.cc/php/douyu.php?id=2073
+经典随便放,http://php.404003.xyz/live/douyuyqk.php?id=12169420#https://isus.cc/php/douyu.php?id=12169420
+随便播,http://php.404003.xyz/live/douyuyqk.php?id=6588759#https://isus.cc/php/douyu.php?id=6588759
+随机连播,http://php.404003.xyz/live/douyuyqk.php?id=6369954#https://isus.cc/php/douyu.php?id=6369954
+港剧1,http://php.404003.xyz/live/douyuyqk.php?id=4290711#https://isus.cc/php/douyu.php?id=4290711
+港剧2,http://php.404003.xyz/live/douyuyqk.php?id=5522351#https://isus.cc/php/douyu.php?id=5522351
+港剧3,http://php.404003.xyz/live/douyuyqk.php?id=5261342#https://isus.cc/php/douyu.php?id=5261342
+港剧4,http://php.404003.xyz/live/douyuyqk.php?id=11247280#https://isus.cc/php/douyu.php?id=11247280
+港剧5,http://php.404003.xyz/live/douyuyqk.php?id=5061550#https://isus.cc/php/douyu.php?id=5061550
+电视剧、电影,http://php.404003.xyz/live/douyuyqk.php?id=9838414#https://isus.cc/php/douyu.php?id=9838414
+影视剧,http://php.404003.xyz/live/douyuyqk.php?id=9242659#https://isus.cc/php/douyu.php?id=9242659
+贝贝影视,http://php.404003.xyz/live/douyuyqk.php?id=431460#https://isus.cc/php/douyu.php?id=431460
+橙記-弹幕看剧间,http://php.404003.xyz/live/douyuyqk.php?id=4549169#https://isus.cc/php/douyu.php?id=4549169
+经典老剧,http://php.404003.xyz/live/douyuyqk.php?id=12015111#https://isus.cc/php/douyu.php?id=12015111
+老剧,http://php.404003.xyz/live/douyuyqk.php?id=8543072#https://isus.cc/php/douyu.php?id=8543072
+岁月经典,http://php.404003.xyz/live/douyuyqk.php?id=11756388#https://isus.cc/php/douyu.php?id=11756388
+【怡影吧】❤️经典剧集❤️,http://php.404003.xyz/live/douyuyqk.php?id=8507544#https://isus.cc/php/douyu.php?id=8507544
+【暧昧】犯我大汉者虽远必诛,http://php.404003.xyz/live/douyuyqk.php?id=3134490#https://isus.cc/php/douyu.php?id=3134490
+迷路的挂件直播间,http://php.404003.xyz/live/douyuyqk.php?id=12210085#https://isus.cc/php/douyu.php?id=12210085
+爱画画的奶糖直播间,http://php.404003.xyz/live/douyuyqk.php?id=4346416#https://isus.cc/php/douyu.php?id=4346416
+傲娇的超级赛亚人直播间,http://php.404003.xyz/live/douyuyqk.php?id=4373285#https://isus.cc/php/douyu.php?id=4373285
+光之镇魂曲的特摄动漫直播间,http://php.404003.xyz/live/douyuyqk.php?id=12684513#https://isus.cc/php/douyu.php?id=12684513
+郁闷的粉色布袋馍直播间,http://php.404003.xyz/live/douyuyqk.php?id=12800979#https://isus.cc/php/douyu.php?id=12800979
+烟雨抚风直播间,http://php.404003.xyz/live/douyuyqk.php?id=11649079#https://isus.cc/php/douyu.php?id=11649079
+【60帧原画】真的打不服,http://php.404003.xyz/live/douyuyqk.php?id=323876#https://isus.cc/php/douyu.php?id=323876
+小毅剧场--家有儿女1-4,http://php.404003.xyz/live/douyuyqk.php?id=11851549#https://isus.cc/php/douyu.php?id=11851549
+小毅剧场--快乐星球1-5,http://php.404003.xyz/live/douyuyqk.php?id=12805939#https://isus.cc/php/douyu.php?id=12805939
+小毅剧场--快乐星球1-3,http://php.404003.xyz/live/douyuyqk.php?id=1446150#https://isus.cc/php/douyu.php?id=1446150
+小毅剧场--搞笑一家人,http://php.404003.xyz/live/douyuyqk.php?id=12080172#https://isus.cc/php/douyu.php?id=12080172
+小毅剧场--憨豆先生,http://php.404003.xyz/live/douyuyqk.php?id=12780285#https://isus.cc/php/douyu.php?id=12780285
+【奇光】终极系列,http://php.404003.xyz/live/douyuyqk.php?id=11849873#https://isus.cc/php/douyu.php?id=11849873
+【奇光】爱情公寓系列,http://php.404003.xyz/live/douyuyqk.php?id=12817608#https://isus.cc/php/douyu.php?id=12817608
+【粤语电影】吴孟达 达叔 周星驰 经典,http://php.404003.xyz/live/douyuyqk.php?id=1226741#https://isus.cc/php/douyu.php?id=1226741
+小猪忧版剧院,http://php.404003.xyz/live/douyuyqk.php?id=10297898#https://isus.cc/php/douyu.php?id=10297898
+看看老电影,http://php.404003.xyz/live/douyuyqk.php?id=585642#https://isus.cc/php/douyu.php?id=585642
+下饭神剧,http://php.404003.xyz/live/douyuyqk.php?id=3700024#https://isus.cc/php/douyu.php?id=3700024
+胡八一冲冲冲的直播间,http://php.404003.xyz/live/douyuyqk.php?id=9292503#https://isus.cc/php/douyu.php?id=9292503
+胡八一胖子促发剧情,http://php.404003.xyz/live/douyuyqk.php?id=5635000#https://isus.cc/php/douyu.php?id=5635000
+国产青春-动作-喜剧,http://php.404003.xyz/live/douyuyqk.php?id=5423#https://isus.cc/php/douyu.php?id=5423
+4K❤电影院❤喜剧悬疑文艺科幻灾难动,http://php.404003.xyz/live/douyuyqk.php?id=12192607#https://isus.cc/php/douyu.php?id=12192607
+宅男冰狗直播间,http://php.404003.xyz/live/douyuyqk.php?id=1369700#https://isus.cc/php/douyu.php?id=1369700
+深夜D你上高速,http://php.404003.xyz/live/douyuyqk.php?id=7882691#https://isus.cc/php/douyu.php?id=7882691
+深夜D你去看剧,http://php.404003.xyz/live/douyuyqk.php?id=12434419#https://isus.cc/php/douyu.php?id=12434419
+【刀刀de食堂】点播台,http://php.404003.xyz/live/douyuyqk.php?id=6733133#https://isus.cc/php/douyu.php?id=6733133
+荒野大镖客,http://php.404003.xyz/live/douyuyqk.php?id=5982597#https://isus.cc/php/douyu.php?id=5982597
+奇兮兮悄陌直播间,http://php.404003.xyz/live/douyuyqk.php?id=953193#https://isus.cc/php/douyu.php?id=953193
+【小白影院】60帧 蓝光影院,http://php.404003.xyz/live/douyuyqk.php?id=322360#https://isus.cc/php/douyu.php?id=322360
+科幻片,http://php.404003.xyz/live/douyuyqk.php?id=10183347#https://isus.cc/php/douyu.php?id=10183347
+豆瓣高分,http://php.404003.xyz/live/douyuyqk.php?id=8770422#https://isus.cc/php/douyu.php?id=8770422
+✨神乐✨欧美 电影 科幻 动作 经典喜剧,http://php.404003.xyz/live/douyuyqk.php?id=20415#https://isus.cc/php/douyu.php?id=20415
+【港剧/动作】武侠 经典 古装,http://php.404003.xyz/live/douyuyqk.php?id=2793084#https://isus.cc/php/douyu.php?id=2793084
+【变种人】除掉任何阻碍我们的人,http://php.404003.xyz/live/douyuyqk.php?id=9651304#https://isus.cc/php/douyu.php?id=9651304
+【神乐】华语 经典 电影 沈腾 周杰伦,http://php.404003.xyz/live/douyuyqk.php?id=85894#https://isus.cc/php/douyu.php?id=85894
+回忆青春剧场,http://php.404003.xyz/live/douyuyqk.php?id=12590736#https://isus.cc/php/douyu.php?id=12590736
+电影天堂,http://php.404003.xyz/live/douyuyqk.php?id=3811092#https://isus.cc/php/douyu.php?id=3811092
+酷炫短剧场,http://php.404003.xyz/live/douyuyqk.php?id=36337#https://isus.cc/php/douyu.php?id=36337
+悍匪电影,http://php.404003.xyz/live/douyuyqk.php?id=922564#https://isus.cc/php/douyu.php?id=922564
+亚洲功夫影片,http://php.404003.xyz/live/douyuyqk.php?id=11849283#https://isus.cc/php/douyu.php?id=11849283
+林正英.周星驰.欧美经典片,http://php.404003.xyz/live/douyuyqk.php?id=433055#https://isus.cc/php/douyu.php?id=433055
+童年记忆,http://php.404003.xyz/live/douyuyqk.php?id=73354#https://isus.cc/php/douyu.php?id=73354
+动作喜剧,http://php.404003.xyz/live/douyuyqk.php?id=12421816#https://isus.cc/php/douyu.php?id=12421816
+❤️怡寶❤️影院,http://php.404003.xyz/live/douyuyqk.php?id=434971#https://isus.cc/php/douyu.php?id=434971
+喜剧电影专场1,http://php.404003.xyz/live/douyuyqk.php?id=9292492#https://isus.cc/php/douyu.php?id=9292492
+喜剧电影专场2,http://php.404003.xyz/live/douyuyqk.php?id=9824094#https://isus.cc/php/douyu.php?id=9824094
+【蓝翔】60帧原画电影 华语喜剧,http://php.404003.xyz/live/douyuyqk.php?id=276200#https://isus.cc/php/douyu.php?id=276200
+dx雾黎直播间,http://php.404003.xyz/live/douyuyqk.php?id=10935839#https://isus.cc/php/douyu.php?id=10935839
+漫威主线剧情最佳电影,http://php.404003.xyz/live/douyuyqk.php?id=11673725#https://isus.cc/php/douyu.php?id=11673725
+伊太刀刀的直播间,http://php.404003.xyz/live/douyuyqk.php?id=747764#https://isus.cc/php/douyu.php?id=747764
+译制国语影片,http://php.404003.xyz/live/douyuyqk.php?id=2436390#https://isus.cc/php/douyu.php?id=2436390
+小毅影院,http://php.404003.xyz/live/douyuyqk.php?id=6906628#https://isus.cc/php/douyu.php?id=6906628
+奇光喜剧剧场,http://php.404003.xyz/live/douyuyqk.php?id=8009547#https://isus.cc/php/douyu.php?id=8009547
+怀旧情怀经典古装,http://php.404003.xyz/live/douyuyqk.php?id=1023277#https://isus.cc/php/douyu.php?id=1023277
+经典剧场,http://php.404003.xyz/live/douyuyqk.php?id=4246519#https://isus.cc/php/douyu.php?id=4246519
+经典高清剧集,http://php.404003.xyz/live/douyuyqk.php?id=7582564#https://isus.cc/php/douyu.php?id=7582564
+米尼影院,http://php.404003.xyz/live/douyuyqk.php?id=7642724#https://isus.cc/php/douyu.php?id=7642724
+特辑电影,http://php.404003.xyz/live/douyuyqk.php?id=3637778#https://isus.cc/php/douyu.php?id=3637778
+【贝爷影厅】欧美 科幻 动作 经典 电影,http://php.404003.xyz/live/douyuyqk.php?id=252802#https://isus.cc/php/douyu.php?id=252802
+好剧看不停,http://php.404003.xyz/live/douyuyqk.php?id=9388938#https://isus.cc/php/douyu.php?id=9388938
+追梦凌宝的直播间,http://php.404003.xyz/live/douyuyqk.php?id=1377142#https://isus.cc/php/douyu.php?id=1377142
+【静静】经典影视剧,http://php.404003.xyz/live/douyuyqk.php?id=5668371#https://isus.cc/php/douyu.php?id=5668371
+经典高分电影,http://php.404003.xyz/live/douyuyqk.php?id=7254536#https://isus.cc/php/douyu.php?id=7254536
+漫威主线剧情,http://php.404003.xyz/live/douyuyqk.php?id=6140589#https://isus.cc/php/douyu.php?id=6140589
+一起看新手主播,http://php.404003.xyz/live/douyuyqk.php?id=12453761#https://isus.cc/php/douyu.php?id=12453761
+箩卜君直播间,http://php.404003.xyz/live/douyuyqk.php?id=7495810#https://isus.cc/php/douyu.php?id=7495810
+【贝爷MAX厅】60帧电影 科幻 动作,http://php.404003.xyz/live/douyuyqk.php?id=4332#https://isus.cc/php/douyu.php?id=4332
+Hi欣影厅,http://php.404003.xyz/live/douyuyqk.php?id=11996166#https://isus.cc/php/douyu.php?id=11996166
+吃米滴虫,http://php.404003.xyz/live/douyuyqk.php?id=315457#https://isus.cc/php/douyu.php?id=315457
+经典影视,http://php.404003.xyz/live/douyuyqk.php?id=6091425#https://isus.cc/php/douyu.php?id=6091425
+小鬼影院点播台,http://php.404003.xyz/live/douyuyqk.php?id=3928#https://isus.cc/php/douyu.php?id=3928
+【神 剧】的直播间,http://php.404003.xyz/live/douyuyqk.php?id=3439096#https://isus.cc/php/douyu.php?id=3439096
+天龙八部、连城诀轮播,http://php.404003.xyz/live/douyuyqk.php?id=8166878#https://isus.cc/php/douyu.php?id=8166878
+经典武侠剧,http://php.404003.xyz/live/douyuyqk.php?id=11784023#https://isus.cc/php/douyu.php?id=11784023
+金庸武侠剧场,http://php.404003.xyz/live/douyuyqk.php?id=9285904#https://isus.cc/php/douyu.php?id=9285904
+铁甲影院--庆余年,http://php.404003.xyz/live/douyuyqk.php?id=1274132#https://isus.cc/php/douyu.php?id=1274132
+庆余年,http://php.404003.xyz/live/douyuyqk.php?id=7812810#https://isus.cc/php/douyu.php?id=7812810
+庆余年,http://php.404003.xyz/live/douyuyqk.php?id=329876#https://isus.cc/php/douyu.php?id=329876
+李小龙系列,http://php.404003.xyz/live/douyuyqk.php?id=8721095#https://isus.cc/php/douyu.php?id=8721095
+家有儿女,http://php.404003.xyz/live/douyuyqk.php?id=11827530#https://isus.cc/php/douyu.php?id=11827530
+爱情公寓,http://php.404003.xyz/live/douyuyqk.php?id=6863367#https://isus.cc/php/douyu.php?id=6863367#http://php.404003.xyz/live/douyuyqk.php?id=4105989#https://isus.cc/php/douyu.php?id=4105989
+太平天国,http://php.404003.xyz/live/douyuyqk.php?id=12068394#https://isus.cc/php/douyu.php?id=12068394
+任志飞直播间,http://php.404003.xyz/live/douyuyqk.php?id=12501387#https://isus.cc/php/douyu.php?id=12501387
+士兵突击,http://php.404003.xyz/live/douyuyqk.php?id=10348728#https://isus.cc/php/douyu.php?id=10348728
+4K超高清影视剧场,http://php.404003.xyz/live/douyuyqk.php?id=12632716#https://isus.cc/php/douyu.php?id=12632716
+林正英【久久】下饭电视剧,http://php.404003.xyz/live/douyuyqk.php?id=8371123#https://isus.cc/php/douyu.php?id=8371123
+kk6506直播间,http://php.404003.xyz/live/douyuyqk.php?id=4579455#https://isus.cc/php/douyu.php?id=4579455
+肖胜350的直播间,http://php.404003.xyz/live/douyuyqk.php?id=7338853#https://isus.cc/php/douyu.php?id=7338853
+LR1245直播间,http://php.404003.xyz/live/douyuyqk.php?id=12534632#https://isus.cc/php/douyu.php?id=12534632
+【默鱼】陪你一起看剧,http://php.404003.xyz/live/douyuyqk.php?id=11922242#https://isus.cc/php/douyu.php?id=11922242
+西游记续集,http://php.404003.xyz/live/douyuyqk.php?id=3113309#https://isus.cc/php/douyu.php?id=3113309
+西游记港剧,http://php.404003.xyz/live/douyuyqk.php?id=10198644#https://isus.cc/php/douyu.php?id=10198644
+射雕英雄传,http://php.404003.xyz/live/douyuyqk.php?id=12143858#https://isus.cc/php/douyu.php?id=12143858
+欢乐时光经典剧场,http://php.404003.xyz/live/douyuyqk.php?id=755851#https://isus.cc/php/douyu.php?id=755851
+鹿鼎记-陈小春,http://php.404003.xyz/live/douyuyqk.php?id=12128227#https://isus.cc/php/douyu.php?id=12128227
+水浒传,http://php.404003.xyz/live/douyuyqk.php?id=6785471#https://isus.cc/php/douyu.php?id=6785471
+新三国,http://php.404003.xyz/live/douyuyqk.php?id=428402#https://isus.cc/php/douyu.php?id=428402#http://php.404003.xyz/live/douyuyqk.php?id=12253936#https://isus.cc/php/douyu.php?id=12253936#http://php.404003.xyz/live/douyuyqk.php?id=12337487#https://isus.cc/php/douyu.php?id=12337487#http://php.404003.xyz/live/douyuyqk.php?id=12180551#https://isus.cc/php/douyu.php?id=12180551#http://php.404003.xyz/live/douyuyqk.php?id=10906963#https://isus.cc/php/douyu.php?id=10906963
+三国演义94版,http://php.404003.xyz/live/douyuyqk.php?id=12463728#https://isus.cc/php/douyu.php?id=12463728
+神话,http://php.404003.xyz/live/douyuyqk.php?id=5448413#https://isus.cc/php/douyu.php?id=5448413
+康熙微服私访记,http://php.404003.xyz/live/douyuyqk.php?id=1006179#https://isus.cc/php/douyu.php?id=1006179
+网神影厅,http://php.404003.xyz/live/douyuyqk.php?id=508118#https://isus.cc/php/douyu.php?id=508118
+燕双鹰专场,http://php.404003.xyz/live/douyuyqk.php?id=11931032#https://isus.cc/php/douyu.php?id=11931032
+神剧,http://php.404003.xyz/live/douyuyqk.php?id=5875025#https://isus.cc/php/douyu.php?id=5875025
+神探狄仁杰,http://php.404003.xyz/live/douyuyqk.php?id=12442176#https://isus.cc/php/douyu.php?id=12442176#http://php.404003.xyz/live/douyuyqk.php?id=11391949#https://isus.cc/php/douyu.php?id=11391949#https://isus.cc/php/douyu.php?id=12183882#http://php.404003.xyz/live/douyuyqk.php?id=12183882#http://php.404003.xyz/live/douyuyqk.php?id=6027991#https://isus.cc/php/douyu.php?id=6027991#http://php.404003.xyz/live/douyuyqk.php?id=12655359#https://isus.cc/php/douyu.php?id=12655359
+大秦帝国,http://php.404003.xyz/live/douyuyqk.php?id=9388931#https://isus.cc/php/douyu.php?id=9388931
+顺才少爷,http://php.404003.xyz/live/douyuyqk.php?id=10084875#https://isus.cc/php/douyu.php?id=10084875
+炊事班的故事,http://php.404003.xyz/live/douyuyqk.php?id=319576#https://isus.cc/php/douyu.php?id=319576
+和平饭店,http://php.404003.xyz/live/douyuyqk.php?id=9650782#https://isus.cc/php/douyu.php?id=9650782
+新剧,http://php.404003.xyz/live/douyuyqk.php?id=12552495#https://isus.cc/php/douyu.php?id=12552495
+火影手游1,http://php.404003.xyz/live/douyuyqk.php?id=11425422#https://isus.cc/php/douyu.php?id=11425422
+火影手游2,http://php.404003.xyz/live/douyuyqk.php?id=12267530#https://isus.cc/php/douyu.php?id=12267530
+火影手游3,http://php.404003.xyz/live/douyuyqk.php?id=921393#https://isus.cc/php/douyu.php?id=921393
+火影手游4,http://php.404003.xyz/live/douyuyqk.php?id=10363686#https://isus.cc/php/douyu.php?id=10363686
+火影手游5,http://php.404003.xyz/live/douyuyqk.php?id=12188319#https://isus.cc/php/douyu.php?id=12188319
+狼人杀官方赛事,http://php.404003.xyz/live/douyuyqk.php?id=4615959#https://isus.cc/php/douyu.php?id=4615959
+三角洲行动,http://php.404003.xyz/live/douyuyqk.php?id=1485743#https://isus.cc/php/douyu.php?id=1485743
+开心麻花---沈腾、马丽经典小品专场,http://php.404003.xyz/live/douyuyqk.php?id=10153463#https://isus.cc/php/douyu.php?id=10153463
+宋小宝经典小品,http://php.404003.xyz/live/douyuyqk.php?id=9817729#https://isus.cc/php/douyu.php?id=9817729
+贾玲经典小品,http://php.404003.xyz/live/douyuyqk.php?id=10419541#https://isus.cc/php/douyu.php?id=10419541
+欢乐小饭米粒儿,http://php.404003.xyz/live/douyuyqk.php?id=9403690#https://isus.cc/php/douyu.php?id=9403690
+经典小品,http://php.404003.xyz/live/douyuyqk.php?id=9067836#https://isus.cc/php/douyu.php?id=9067836
+许君聪经典小品的直播间,http://php.404003.xyz/live/douyuyqk.php?id=10419558#https://isus.cc/php/douyu.php?id=10419558
+搞笑天堂岛,http://php.404003.xyz/live/douyuyqk.php?id=6916081#https://isus.cc/php/douyu.php?id=6916081
+多多看车--交通事故,http://php.404003.xyz/live/douyuyqk.php?id=4921957#https://isus.cc/php/douyu.php?id=4921957
+开车大神--交通事故,http://php.404003.xyz/live/douyuyqk.php?id=9759970#https://isus.cc/php/douyu.php?id=9759970
+备胎说车,http://php.404003.xyz/live/douyuyqk.php?id=3783046#https://isus.cc/php/douyu.php?id=3783046
+三国杀游戏1,http://php.404003.xyz/live/douyuyqk.php?id=11958868#https://isus.cc/php/douyu.php?id=11958868
+三国杀游戏2,http://php.404003.xyz/live/douyuyqk.php?id=7529411#https://isus.cc/php/douyu.php?id=7529411
+象棋1,http://php.404003.xyz/live/douyuyqk.php?id=7453312#https://isus.cc/php/douyu.php?id=7453312
+象棋2,http://php.404003.xyz/live/douyuyqk.php?id=851040#https://isus.cc/php/douyu.php?id=851040
+JJ斗地主,http://php.404003.xyz/live/douyuyqk.php?id=488743#https://isus.cc/php/douyu.php?id=488743
+拳皇97,http://php.404003.xyz/live/douyuyqk.php?id=8387733#https://isus.cc/php/douyu.php?id=8387733
+阿七点歌台,http://php.404003.xyz/live/douyuyqk.php?id=3186217#https://isus.cc/php/douyu.php?id=3186217
+音乐MV,http://php.404003.xyz/live/douyuyqk.php?id=3870925#https://isus.cc/php/douyu.php?id=3870925
+戏曲,http://php.404003.xyz/live/douyuyqk.php?id=12091975#https://isus.cc/php/douyu.php?id=12091975
 
 
 ❤️歪歪影院,#genre#
@@ -2397,20 +2381,20 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 
 
 ❤️恐怖悬疑影院,#genre#
-林正英恐怖剧集,https://www.goodiptv.club/douyu/7356023#https://isus.cc/php/douyu.php?id=7356023
-一个只播恐怖片的直播间,https://www.goodiptv.club/douyu/12068394#https://isus.cc/php/douyu.php?id=12068394
-恐怖电影,https://www.goodiptv.club/douyu/310926#https://isus.cc/php/douyu.php?id=310926
-【瑶瑶】童年阴影 鬼片 恐怖 惊悚,https://www.goodiptv.club/douyu/2935323#https://isus.cc/php/douyu.php?id=2935323
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,https://www.goodiptv.club/douyu/96577#https://isus.cc/php/douyu.php?id=96577
-【马小玲】况天佑~山本,https://www.goodiptv.club/douyu/9470198#https://isus.cc/php/douyu.php?id=9470198
-经典、恐怖、鬼怪、剧场,https://www.goodiptv.club/douyu/1165374#https://isus.cc/php/douyu.php?id=1165374
-林正英1,https://www.goodiptv.club/douyu/12143683#https://isus.cc/php/douyu.php?id=12143683
+林正英恐怖剧集,http://php.404003.xyz/live/douyuyqk.php?id=7356023#https://isus.cc/php/douyu.php?id=7356023
+一个只播恐怖片的直播间,http://php.404003.xyz/live/douyuyqk.php?id=12068394#https://isus.cc/php/douyu.php?id=12068394
+恐怖电影,http://php.404003.xyz/live/douyuyqk.php?id=310926#https://isus.cc/php/douyu.php?id=310926
+【瑶瑶】童年阴影 鬼片 恐怖 惊悚,http://php.404003.xyz/live/douyuyqk.php?id=2935323#https://isus.cc/php/douyu.php?id=2935323
+❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,http://php.404003.xyz/live/douyuyqk.php?id=96577#https://isus.cc/php/douyu.php?id=96577
+【马小玲】况天佑~山本,http://php.404003.xyz/live/douyuyqk.php?id=9470198#https://isus.cc/php/douyu.php?id=9470198
+经典、恐怖、鬼怪、剧场,http://php.404003.xyz/live/douyuyqk.php?id=1165374#https://isus.cc/php/douyu.php?id=1165374
+林正英1,http://php.404003.xyz/live/douyuyqk.php?id=12143683#https://isus.cc/php/douyu.php?id=12143683
 林正英2,https://www.goodiptv.club/huya/11342421#https://live.ottiptv.cc/huya/11342421#http://cfss.cc/cdn/huya/11342421.flv
-林正英3,https://www.goodiptv.club/douyu/7805562#https://isus.cc/php/douyu.php?id=7805562
+林正英3,http://php.404003.xyz/live/douyuyqk.php?id=7805562#https://isus.cc/php/douyu.php?id=7805562
 林正英4,https://www.goodiptv.club/huya/29978179#https://live.ottiptv.cc/huya/29978179#http://cfss.cc/cdn/huya/29978179.flv
-林正英5,https://www.goodiptv.club/douyu/10673574#https://isus.cc/php/douyu.php?id=10673574
+林正英5,http://php.404003.xyz/live/douyuyqk.php?id=10673574#https://isus.cc/php/douyu.php?id=10673574
 林正英6,https://www.goodiptv.club/huya/396734#https://live.ottiptv.cc/huya/396734#http://cfss.cc/cdn/huya/396734.flv
-林正英7,https://www.goodiptv.club/douyu/12176174#https://isus.cc/php/douyu.php?id=12176174
+林正英7,http://php.404003.xyz/live/douyuyqk.php?id=12176174#https://isus.cc/php/douyu.php?id=12176174
 林正英8,https://www.goodiptv.club/huya/25256065#https://live.ottiptv.cc/huya/25256065#http://cfss.cc/cdn/huya/25256065.flv
 林正英9,http://cfss.cc/cdn/yy/1382780025.flv#https://live.ottiptv.cc/yy/1382780025#https://live.metshop.top/yy/1382780025
 林正英10,http://cfss.cc/cdn/yy/1455891197.flv#https://live.ottiptv.cc/yy/1455891197#https://live.metshop.top/yy/1455891197
@@ -2423,7 +2407,7 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 林正英17,https://www.goodiptv.club/huya/31133536#https://live.ottiptv.cc/huya/31133536#http://cfss.cc/cdn/huya/31133536.flv
 阴阳路系列,https://www.goodiptv.club/huya/27318871#https://live.ottiptv.cc/huya/27318871#http://cfss.cc/cdn/huya/27318871.flv
 经典鬼片3000部,https://live.ottiptv.cc/yy/29460894#https://live.metshop.top/yy/29460894
-恐怖电影 林正英 僵尸 鬼片 经典,https://www.goodiptv.club/douyu/9275635#https://isus.cc/php/douyu.php?id=9275635
+恐怖电影 林正英 僵尸 鬼片 经典,http://php.404003.xyz/live/douyuyqk.php?id=9275635#https://isus.cc/php/douyu.php?id=9275635
 搞笑恐怖,https://www.goodiptv.club/huya/11601960#https://live.ottiptv.cc/huya/11601960#http://cfss.cc/cdn/huya/11601960.flv
 古墓系列,https://www.goodiptv.club/huya/11352913#https://live.ottiptv.cc/huya/11352913#http://cfss.cc/cdn/huya/11352913.flv
 鬼吹灯系列1,https://www.goodiptv.club/huya/29768105#https://live.ottiptv.cc/huya/29768105#http://cfss.cc/cdn/huya/29768105.flv
@@ -2445,10 +2429,10 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 灵界侦探浦饭幽助,https://www.goodiptv.club/huya/11602034#https://live.ottiptv.cc/huya/11602034#http://cfss.cc/cdn/huya/11602034.flv
 经典系列 一屋开心鬼,https://www.goodiptv.club/huya/353798#https://live.ottiptv.cc/huya/353798#http://cfss.cc/cdn/huya/353798.flv
 关于我和鬼变成家人的那件事,https://live.ottiptv.cc/yy/1354926671#http://cfss.cc/cdn/yy/1354926671.flv#https://live.metshop.top/yy/1354926671
-老烟斗鬼故事,https://www.goodiptv.club/douyu/2337939#https://isus.cc/php/douyu.php?id=2337939
+老烟斗鬼故事,http://php.404003.xyz/live/douyuyqk.php?id=2337939#https://isus.cc/php/douyu.php?id=2337939
 活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183#https://live.ottiptv.cc/huya/30080183#http://cfss.cc/cdn/huya/30080183.flv
 我和僵尸有个约会1,https://www.goodiptv.club/huya/21059571#https://live.ottiptv.cc/huya/21059571#http://cfss.cc/cdn/huya/21059571.flv
-我和僵尸有个约会2,https://www.goodiptv.club/douyu/8637229#https://isus.cc/php/douyu.php?id=8637229
+我和僵尸有个约会2,http://php.404003.xyz/live/douyuyqk.php?id=8637229#https://isus.cc/php/douyu.php?id=8637229
 惊悚鬼电影,http://cfss.cc/cdn/yy/1355052097.flv#https://live.ottiptv.cc/yy/1355052097#https://live.metshop.top/yy/1355052097
 鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674#https://live.ottiptv.cc/huya/23728674#http://cfss.cc/cdn/huya/23728674.flv
 海外经典恐怖片,https://www.goodiptv.club/huya/20985852#https://live.ottiptv.cc/huya/20985852#http://cfss.cc/cdn/huya/20985852.flv
