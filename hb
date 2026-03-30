@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,http://php.404003.xyz/live/douyuyqk.php?id=40471#https://isus.cc/php/douyu.php?id=40471
-2026-3-30,http://php.404003.xyz/live/douyuyqk.php?id=1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-3-29,http://php.404003.xyz/live/douyuyqk.php?id=1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -559,7 +559,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 快乐垂钓,http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
 
 
-快乐垂钓,https://shyd.695847.xyz/cms001/ch00000090990000001235/index.m3u8
 快乐垂钓,http://www.smilehome.top:4022/rtp/225.0.4.213:7980
 快乐垂钓,http://nas.iszbd.com:4022/rtp/225.0.4.213:7980
 快乐垂钓,http://game.x3322.net:8899/rtp/225.0.4.213:7980
@@ -567,7 +566,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 快乐垂钓,http://pve.iszbd.com:4022/rtp/225.0.4.213:7980
 
 
-茶频道,https://shyd.695847.xyz/cms001/ch00000090990000001234/index.m3u8
 茶频道,http://www.smilehome.top:4022/rtp/225.0.4.233:7980
 茶频道,http://nas.iszbd.com:4022/rtp/225.0.4.233:7980
 茶频道,http://game.x3322.net:8899/rtp/225.0.4.233:7980
@@ -587,7 +585,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
 五星体育,http://woshiysy2.synology.me:4999/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
@@ -1052,7 +1049,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 环球奇观,http://111.48.34.138/000000001000PLTV/88888888/224/3221229716/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230392/1.m3u8
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
-财富天下,https://shyd.695847.xyz/cms001/ch00000090990000001219/index.m3u8
+
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://woshiysy2.synology.me:4999/rtp/233.18.204.231:5140
@@ -1115,7 +1112,6 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
-中国天气,https://shyd.695847.xyz/cms001/ch00000090990000001102/index.m3u8
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
