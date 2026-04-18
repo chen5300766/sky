@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-4-16,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-4-18,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -300,6 +300,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
+中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
 中央新影-中学生,http://iptv6.okoo.cc:8099/rtp/225.0.4.184:7980
 中央新影-中学生,http://home.660888.xyz:4000/rtp/225.0.4.184:7980
 中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
@@ -561,17 +562,19 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 快乐垂钓,http://www.smilehome.top:4022/rtp/225.0.4.213:7980
 快乐垂钓,http://nas.iszbd.com:4022/rtp/225.0.4.213:7980
-快乐垂钓,http://iptv6.okoo.cc:8099/rtp/225.0.4.213:7980
+快乐垂钓,http://game.x3322.net:8899/rtp/225.0.4.213:7980
 快乐垂钓,http://home.660888.xyz:4000/rtp/225.0.4.213:7980
 快乐垂钓,http://pve.iszbd.com:4022/rtp/225.0.4.213:7980
+快乐垂钓,http://iptv6.okoo.cc:8099/rtp/225.0.4.213:7980
 
 
 茶频道,http://www.smilehome.top:4022/rtp/225.0.4.233:7980
 茶频道,http://nas.iszbd.com:4022/rtp/225.0.4.233:7980
-茶频道,http://iptv6.okoo.cc:8099/rtp/225.0.4.233:7980
+茶频道,http://game.x3322.net:8899/rtp/225.0.4.233:7980
 茶频道,http://home.660888.xyz:4000/rtp/225.0.4.233:7980
 茶频道,http://pve.iszbd.com:4022/rtp/225.0.4.233:7980
 茶频道,http://jxyxnk.x3322.net:4022/rtp/239.252.220.160:5140
+茶频道,http://iptv6.okoo.cc:8099/rtp/225.0.4.233:7980
 茶频道,http://cpanel.lwfz.fun:8800/rtp/239.16.20.68:10680
 茶频道,http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
 
@@ -631,6 +634,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
 爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
 爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
+爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
 爱体育,http://iptv6.okoo.cc:8099/rtp/225.0.4.53:7980
 爱体育,http://home.660888.xyz:4000/rtp/225.0.4.53:7980
 爱体育,http://www.alihomes.top:8188/rtp/239.254.96.101:7792
@@ -642,9 +646,10 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 足球体育,http://www.smilehome.top:4022/rtp/225.0.4.167:7980
 足球体育,http://www.gaolao.top:8008/rtp/239.110.205.25:9846
 足球体育,http://www.alihomes.top:8188/rtp/239.254.96.146:7998
-足球体育,http://iptv6.okoo.cc:8099/rtp/225.0.4.167:7980
+足球体育,http://game.x3322.net:8899/rtp/225.0.4.167:7980
 足球体育,http://home.660888.xyz:4000/rtp/225.0.4.167:7980
 足球体育,http://www.stoneshi1984.ren:58120/rtp/239.110.205.25:9846
+足球体育,http://iptv6.okoo.cc:8099/rtp/225.0.4.167:7980
 足球体育,http://4712635.xyz:26000/rtp/239.110.205.25:9846
 足球体育,http://tiger81.i234.me:8888/rtp/239.110.205.25:9846
 
@@ -835,8 +840,9 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
-精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
 精彩影视,http://iptv6.okoo.cc:8099/rtp/225.0.4.231:7980
+精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
+精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
 精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://home2.neumantang.com:8888/rtp/239.0.0.26:5140
@@ -861,8 +867,9 @@ IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
 华语影院,http://dx.yanbingg.com:1888/rtp/239.94.1.22:5140
 
 
-影视剧,http://iptv6.okoo.cc:8099/rtp/225.0.4.163:7980
+影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://home.660888.xyz:4000/rtp/225.0.4.163:7980
+影视剧,http://iptv6.okoo.cc:8099/rtp/225.0.4.163:7980
 影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
 影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
@@ -1039,9 +1046,10 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
 优优宝贝,http://www.smilehome.top:4022/rtp/225.0.4.126:7980
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
-优优宝贝,http://iptv6.okoo.cc:8099/rtp/225.0.4.126:7980
+优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://home.660888.xyz:4000/rtp/225.0.4.126:7980
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
+优优宝贝,http://iptv6.okoo.cc:8099/rtp/225.0.4.126:7980
 
 
 📡数字电视,#genre#
@@ -1157,8 +1165,9 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
-求索纪录,http://iptv6.okoo.cc:8099/rtp/225.0.4.232:7980
+求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
+求索纪录,http://iptv6.okoo.cc:8099/rtp/225.0.4.232:7980
 
 
 家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
@@ -1436,7 +1445,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://live.ottiptv.
 吴镇宇电影,https://www.goodiptv.club/huya/23865096#https://live.ottiptv.cc/huya/23865096#http://cfss.cc/cdn/huya/23865096.flv
 李连杰黄飞鸿系列,http://cfss.cc/cdn/huya/30650512.flv#https://live.ottiptv.cc/huya/30650512
 最新动作大片,https://www.goodiptv.club/huya/23728651#https://live.ottiptv.cc/huya/23728651#http://cfss.cc/cdn/huya/23728651.flv
-《惩罚者》高能复仇名场面连刷,https://www.goodiptv.club/huya/23863882#https://live.ottiptv.cc/huya/23863882#http://cfss.cc/cdn/huya/23863882.flv
+火线三兄弟,https://www.goodiptv.club/huya/23863882#https://live.ottiptv.cc/huya/23863882#http://cfss.cc/cdn/huya/23863882.flv
 经典女神系列,https://www.goodiptv.club/huya/11352909#https://live.ottiptv.cc/huya/11352909#http://cfss.cc/cdn/huya/11352909.flv
 金庸的武侠世界,https://www.goodiptv.club/huya/11342435#https://live.ottiptv.cc/huya/11342435#http://cfss.cc/cdn/huya/11342435.flv
 牙缝多了根青菜的直播间,https://www.goodiptv.club/huya/11352877#https://live.ottiptv.cc/huya/11352877#http://cfss.cc/cdn/huya/11352877.flv
@@ -1486,6 +1495,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 经典悬疑犯罪美剧,https://www.goodiptv.club/huya/20985825#https://live.ottiptv.cc/huya/20985825#http://cfss.cc/cdn/huya/20985825.flv
 热血军营女孩诞生记,https://www.goodiptv.club/huya/21241844#https://live.ottiptv.cc/huya/21241844#http://cfss.cc/cdn/huya/21241844.flv
 霹雳MIT,https://www.goodiptv.club/huya/11352905#https://live.ottiptv.cc/huya/11352905#http://cfss.cc/cdn/huya/11352905.flv
+血色浪漫,https://www.goodiptv.club/huya/21059622#https://live.ottiptv.cc/huya/21059622#http://cfss.cc/cdn/huya/21059622.flv
 经典国产剧,https://www.goodiptv.club/huya/21241786#https://live.ottiptv.cc/huya/21241786#http://cfss.cc/cdn/huya/21241786.flv
 希望的田野,https://www.goodiptv.club/huya/21241831#https://live.ottiptv.cc/huya/21241831#http://cfss.cc/cdn/huya/21241831.flv
 刑侦犯罪心理--超感警探,https://www.goodiptv.club/huya/21241841#https://live.ottiptv.cc/huya/21241841#http://cfss.cc/cdn/huya/21241841.flv
@@ -1552,6 +1562,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 芈月传,https://www.goodiptv.club/huya/30311525#https://live.ottiptv.cc/huya/30311525#http://cfss.cc/cdn/huya/30311525.flv
 旷世真情,https://www.goodiptv.club/huya/30439834#https://live.ottiptv.cc/huya/30439834#http://cfss.cc/cdn/huya/30439834.flv
 盛唐传奇,https://www.goodiptv.club/huya/21059632#https://live.ottiptv.cc/huya/21059632#http://cfss.cc/cdn/huya/21059632.flv
+武媚娘传奇,https://www.goodiptv.club/huya/880207#https://live.ottiptv.cc/huya/880207#http://cfss.cc/cdn/huya/880207.flv
 麻雀,https://www.goodiptv.club/huya/30307160#https://live.ottiptv.cc/huya/30307160#http://cfss.cc/cdn/huya/30307160.flv
 重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#https://live.ottiptv.cc/huya/20985799#http://cfss.cc/cdn/huya/20985799.flv
 爱情公寓,https://www.goodiptv.club/huya/11336726#https://live.ottiptv.cc/huya/11336726#http://cfss.cc/cdn/huya/11336726.flv
@@ -1584,6 +1595,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 好莱坞电影,https://www.goodiptv.club/huya/23734223#https://live.ottiptv.cc/huya/23734223#http://cfss.cc/cdn/huya/23734223.flv
 斗牌传说,https://www.goodiptv.club/huya/26355783#https://live.ottiptv.cc/huya/26355783#http://cfss.cc/cdn/huya/26355783.flv
 死神来了系列,https://www.goodiptv.club/huya/11352903#https://live.ottiptv.cc/huya/11352903#http://cfss.cc/cdn/huya/11352903.flv
+鱿鱼游戏,https://www.goodiptv.club/huya/20969128#https://live.ottiptv.cc/huya/20969128#http://cfss.cc/cdn/huya/20969128flv
 鱿鱼游戏2,https://www.goodiptv.club/huya/30080152#https://live.ottiptv.cc/huya/30080152#http://cfss.cc/cdn/huya/30080152.flv
 坏种,https://www.goodiptv.club/huya/26355802#https://live.ottiptv.cc/huya/26355802#http://cfss.cc/cdn/huya/26355802.flv
 曾少年,https://www.goodiptv.club/huya/20985815#https://live.ottiptv.cc/huya/20985815#http://cfss.cc/cdn/huya/20985815.flv
