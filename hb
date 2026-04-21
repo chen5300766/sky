@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-4-21,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-4-22,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -1054,6 +1054,7 @@ CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 
 
+优优宝贝,http://www.9kds.com/d/henyd.php?id=yybb
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
@@ -1134,6 +1135,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 
 
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
+中国天气,http://www.9kds.com/d/henyd.php?id=zgqt
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
@@ -1155,6 +1157,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
+环球旅游,http://www.9kds.com/d/henyd.php?id=hqly
 环球旅游,http://jxyxnk.x3322.net:4022/rtp/239.252.220.218:5140
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
