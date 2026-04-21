@@ -1354,6 +1354,7 @@ eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ot
 
 
 ❤️虎牙影院,#genre#
+被窝侠的直播间,https://www.goodiptv.club/huya/29465897#https://live.ottiptv.cc/huya/29465897#http://cfss.cc/cdn/huya/29465897.flv
 愤怒的洋羊的直播间,https://www.goodiptv.club/huya/20985857#https://live.ottiptv.cc/huya/20985857#http://cfss.cc/cdn/huya/20985857.flv
 田园生活分享的直播间,https://www.goodiptv.club/huya/20969145#https://live.ottiptv.cc/huya/20969145#http://cfss.cc/cdn/huya/20969145.flv
 异色档案的直播间,https://www.goodiptv.club/huya/20985841#https://live.ottiptv.cc/huya/20985841#http://cfss.cc/cdn/huya/20985841.flv
@@ -1655,7 +1656,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 隋唐演义,https://www.goodiptv.club/huya/30080219#https://live.ottiptv.cc/huya/30080219#http://cfss.cc/cdn/huya/30080219.flv
 倩女幽魂,https://www.goodiptv.club/huya/26355822#https://live.ottiptv.cc/huya/26355822#http://cfss.cc/cdn/huya/26355822.flv
 浴血黑帮1-6,https://www.goodiptv.club/huya/29982659#https://live.ottiptv.cc/huya/29982659#http://cfss.cc/cdn/huya/29982659.flv
-高纬度战栗,https://www.goodiptv.club/huya/29465897#https://live.ottiptv.cc/huya/29465897#http://cfss.cc/cdn/huya/29465897.flv
 鉴证实录,https://www.goodiptv.club/huya/21241769#https://live.ottiptv.cc/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
 外科风云,https://www.goodiptv.club/huya/29982672#https://live.ottiptv.cc/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
@@ -2036,6 +2036,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 神雕侠侣--古天乐,https://live.ottiptv.cc/yy/1351762426#https://yy.zubo.cc.cd/?id=1351762426
 83版射雕英雄传,https://live.ottiptv.cc/yy/1354210357#https://yy.zubo.cc.cd/?id=1354210357
 天龙八部--黄日华,https://live.ottiptv.cc/yy/1351814644#https://yy.zubo.cc.cd/?id=1351814644
+天龙八部--黄日华,https://live.ottiptv.cc/yy/1352300646#https://yy.zubo.cc.cd/?id=1352300646
 笑傲江湖---李亚鹏版,https://live.ottiptv.cc/yy/1354282410#https://yy.zubo.cc.cd/?id=1354282410
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619#https://yy.zubo.cc.cd/?id=1352475619
 隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#https://yy.zubo.cc.cd/?id=1355102749
