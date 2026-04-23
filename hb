@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-4-22,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-4-23,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -1001,6 +1001,34 @@ iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
 iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
+NewTV影院,#genre#
+NewTV家庭剧场,https://www.9kds.com/d/bjyd.php?id=3221226981&kl=www.9kds.com
+NewTV怡伴健康,https://www.9kds.com/d/bjyd.php?id=3221226327&kl=www.9kds.com
+NewTV怡伴健康,https://www.9kds.com/d/bjyd.php?id=3221226984&kl=www.9kds.com
+NewTV惊悚悬疑,https://www.9kds.com/d/bjyd.php?id=3221227013&kl=www.9kds.com
+NewTV明星大片,https://www.9kds.com/d/bjyd.php?id=3221227008&kl=www.9kds.com
+NewTV欢乐剧场,https://www.9kds.com/d/bjyd.php?id=3221226969&kl=www.9kds.com
+NewTV武搏世界,https://www.9kds.com/d/bjyd.php?id=3221226320&kl=www.9kds.com
+NewTV武搏世界,https://www.9kds.com/d/bjyd.php?id=3221226992&kl=www.9kds.com
+NewTV潮妈辣婆,https://www.9kds.com/d/bjyd.php?id=3221226286&kl=www.9kds.com
+NewTV潮妈辣婆,https://www.9kds.com/d/bjyd.php?id=3221226980&kl=www.9kds.com
+NewTV炫舞未来,https://www.9kds.com/d/bjyd.php?id=3221226968&kl=www.9kds.com
+NewTV炫舞未来,https://www.9kds.com/d/bjyd.php?id=3221226248&kl=www.9kds.com
+NewTV爱情喜剧,https://www.9kds.com/d/bjyd.php?id=3221226322&kl=www.9kds.com
+NewTV爱情喜剧,https://www.9kds.com/d/bjyd.php?id=3221226989&kl=www.9kds.com
+NewTV精品体育,https://www.9kds.com/d/bjyd.php?id=3221226328&kl=www.9kds.com
+NewTV精品体育,https://www.9kds.com/d/bjyd.php?id=3221226978&kl=www.9kds.com
+NewTV精品大剧,https://www.9kds.com/d/bjyd.php?id=3221226331&kl=www.9kds.com
+NewTV精品大剧,https://www.9kds.com/d/bjyd.php?id=3221226970&kl=www.9kds.com
+NewTV精品纪录,https://www.9kds.com/d/bjyd.php?id=3221226332&kl=www.9kds.com
+NewTV精品纪录,https://www.9kds.com/d/bjyd.php?id=3221226977&kl=www.9kds.com
+NewTV精品萌宠,https://www.9kds.com/d/bjyd.php?id=3221226976&kl=www.9kds.com
+NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226232&kl=www.9kds.com
+NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226945&kl=www.9kds.com
+NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226348&kl=www.9kds.com
+NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
+
+
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -1072,6 +1100,7 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
 
+财富天下,https://www.9kds.com/d/bjyd.php?id=3221226575&kl=www.9kds.com
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://woshiysy2.synology.me:4999/rtp/233.18.204.231:5140
@@ -1095,6 +1124,8 @@ CETV早期教育,http://woshiysy2.synology.me:4999/rtp/233.18.204.187:5140
 文物宝库,http://111.48.34.138/000000001000PLTV/88888888/224/3221230547/1.m3u8
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
+
+中国交通,https://www.9kds.com/d/bjyd.php?id=3221226891&kl=www.9kds.com
 
 中国交通,http://laiboy.myds.me:58686/rtp/239.3.1.188:8001
 好学生,http://laiboy.myds.me:58686/rtp/239.3.1.81:4120
