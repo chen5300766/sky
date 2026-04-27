@@ -600,6 +600,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
 天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
 天元围棋,http://www.zlizi.cn:4023/rtp/239.76.253.2:9000
@@ -1076,7 +1077,7 @@ IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
 IPTV早教,http://www.x1x.bid:5146/rtp/239.3.1.79:4120
 IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
 
-
+CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.zlizi.cn:4023/rtp/239.76.254.202:9000
 CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
 CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
