@@ -2435,6 +2435,8 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 王者荣耀4,https://tv1288.xyz/douyin.php?type=rid&rid=317416923097
 王者荣耀5,https://tv1288.xyz/douyin.php?type=rid&rid=502877246398
 王者荣耀6,https://tv1288.xyz/douyin.php?type=rid&rid=526843978131
+王者荣耀挑战者杯1,https://tv1288.xyz/douyin.php?type=rid&rid=404211193396
+王者荣耀挑战者杯2,https://tv1288.xyz/douyin.php?type=rid&rid=113363573672
 红警游戏1,https://tv1288.xyz/douyin.php?type=rid&rid=650011006629
 红警游戏2,https://tv1288.xyz/douyin.php?type=rid&rid=205873667518
 红警游戏3,https://tv1288.xyz/douyin.php?type=rid&rid=642311142678
