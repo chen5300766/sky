@@ -2268,6 +2268,8 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 高分港剧合集,https://live.ottiptv.cc/yy/1382735542#https://yy.zubo.cc.cd/?id=1382735542
 捉妖战记：江湖除魔,https://live.ottiptv.cc/yy/1382736865#https://yy.zubo.cc.cd/?id=1382736865
 搞笑经典电影,https://live.ottiptv.cc/yy/1351537467#https://yy.zubo.cc.cd/?id=1351537467
+电影剧场,http://cfss.cc/cdn/yy/1382736853.flv#https://live.ottiptv.cc/yy/1382736853#https://yy.zubo.cc.cd/?id=1382736853
+新木乃伊,http://cfss.cc/cdn/yy/1354936169.flv#https://live.ottiptv.cc/yy/1354936169#https://yy.zubo.cc.cd/?id=1354936169
 变形金刚,https://live.ottiptv.cc/yy/1382736803#https://yy.zubo.cc.cd/?id=1382736803
 金庸剧场,https://live.ottiptv.cc/yy/1356043609#https://yy.zubo.cc.cd/?id=1356043609
 真心英雄-无畏前行,https://live.ottiptv.cc/yy/1354889042#https://yy.zubo.cc.cd/?id=1354889042
@@ -2483,6 +2485,7 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 林正英15,https://www.goodiptv.club/huya/23865148#https://live.ottiptv.cc/huya/23865148#http://cfss.cc/cdn/huya/23865148.flv
 林正英16,https://live.ottiptv.cc/yy/1351505899#https://yy.zubo.cc.cd/?id=1351505899
 林正英17,https://www.goodiptv.club/huya/31133536#https://live.ottiptv.cc/huya/31133536#http://cfss.cc/cdn/huya/31133536.flv
+林正英18,http://cfss.cc/cdn/yy/1414791090.flv#https://live.ottiptv.cc/yy/1414791090#https://yy.zubo.cc.cd/?id=1414791090
 阴阳路系列,https://www.goodiptv.club/huya/27318871#https://live.ottiptv.cc/huya/27318871#http://cfss.cc/cdn/huya/27318871.flv
 经典鬼片3000部,https://live.ottiptv.cc/yy/29460894#https://yy.zubo.cc.cd/?id=29460894
 恐怖电影 林正英 僵尸 鬼片 经典,https://live.ottiptv.cc/douyu/9275635#https://isus.cc/php/douyu.php?id=9275635#https://www.goodiptv.club/douyu/9275635
