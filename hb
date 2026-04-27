@@ -385,10 +385,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8
-凤凰卫视,http://120.238.5.44:1698/hls/86/index.m3u8
+凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8
 凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
 
-
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
@@ -413,6 +415,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
+海峡卫视,https://a3f1b2.kylintv.tv/live/fjstv_iphone.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 
@@ -704,6 +707,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://www.stoneshi1984.ren:58120/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
+
+
+中国电影,https://a3f1b2.kylintv.tv/live/chinamovie_iphone.m3u8
+
 
 四川峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 
