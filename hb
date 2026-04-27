@@ -1624,6 +1624,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 案发现场,https://www.goodiptv.club/huya/20432231#https://live.ottiptv.cc/huya/20432231#http://cfss.cc/cdn/huya/20432231.flv
 十三宗命案,https://www.goodiptv.club/huya/21028268#https://live.ottiptv.cc/huya/21028268#http://cfss.cc/cdn/huya/21028268.flv
 还珠格格3,https://www.goodiptv.club/huya/30080241#https://live.ottiptv.cc/huya/30080241#http://cfss.cc/cdn/huya/30080241.flv
+三生三世,https://www.goodiptv.club/huya/21241797#https://live.ottiptv.cc/huya/21241797#http://cfss.cc/cdn/huya/21241797.flv
+施公案,21610797https://www.goodiptv.club/huya/21610797#https://live.ottiptv.cc/huya/21610797#http://cfss.cc/cdn/huya/21610797.flv
 少年大钦差,https://www.goodiptv.club/huya/21059619#https://live.ottiptv.cc/huya/21059619#http://cfss.cc/cdn/huya/21059619.flv
 芈月传,https://www.goodiptv.club/huya/30311525#https://live.ottiptv.cc/huya/30311525#http://cfss.cc/cdn/huya/30311525.flv
 旷世真情,https://www.goodiptv.club/huya/30439834#https://live.ottiptv.cc/huya/30439834#http://cfss.cc/cdn/huya/30439834.flv
@@ -1947,7 +1949,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 小毅剧场--快乐星球1-5,https://live.ottiptv.cc/douyu/12805939#https://isus.cc/php/douyu.php?id=12805939#https://www.goodiptv.club/douyu/12805939
 小毅剧场--快乐星球1-3,https://live.ottiptv.cc/douyu/1446150#https://isus.cc/php/douyu.php?id=1446150#https://www.goodiptv.club/douyu/1446150
 小毅剧场--搞笑一家人,https://live.ottiptv.cc/douyu/12080172#https://isus.cc/php/douyu.php?id=12080172#https://www.goodiptv.club/douyu/12080172
-小毅剧场--憨豆先生,https://live.ottiptv.cc/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285#https://www.goodiptv.club/douyu/12780285
+小毅剧场--杨光的快乐生活,https://live.ottiptv.cc/douyu/12780285#https://isus.cc/php/douyu.php?id=12780285#https://www.goodiptv.club/douyu/12780285
 【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873#https://www.goodiptv.club/douyu/11849873
 【奇光】爱情公寓系列,https://live.ottiptv.cc/douyu/12817608#https://isus.cc/php/douyu.php?id=12817608#https://www.goodiptv.club/douyu/12817608
 【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741#https://www.goodiptv.club/douyu/1226741
