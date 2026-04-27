@@ -448,14 +448,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 阳新综合,http://nas.lyfkai.cn:19999/rtp/239.69.1.34:9844
 
 
-蔡甸综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.245:11112
-房县综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.192:10794
-阳新综合,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.34:9844
+蔡甸综合,http://wlei.myds.me:52057/rtp/239.69.1.245:11112
+房县综合,http://wlei.myds.me:52057/rtp/239.69.1.192:10794
+阳新综合,http://wlei.myds.me:52057/rtp/239.69.1.34:9844
 
 
-蔡甸综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.245:11112
-房县综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.192:10794
-阳新综合,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.34:9844
+蔡甸综合,http://www.divcloud.top:8899/rtp/239.69.1.245:11112
+房县综合,http://www.divcloud.top:8899/rtp/239.69.1.192:10794
+阳新综合,http://www.divcloud.top:8899/rtp/239.69.1.34:9844
 
 
 蔡甸综合,http://disk99.familyds.com:4022/rtp/239.69.1.245:11112
