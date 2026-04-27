@@ -13,15 +13,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-北京卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
-东方卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
-湖南卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/hnws4K.m3u8
-江苏卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
-浙江卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
-广东卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
-深圳卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
-四川卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
-山东卫视4K,http://183.214.23.27:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
 
 北京卫视4K,http://www.zlizi.cn:4023/rtp/239.76.253.150:9000
 东方卫视4K,http://www.zlizi.cn:4023/rtp/239.76.254.224:9000
@@ -611,7 +602,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
-天元围棋,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
 天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
 天元围棋,http://www.zlizi.cn:4023/rtp/239.76.253.2:9000
@@ -715,7 +705,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
 四川峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
-四川峨眉电影4K,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 
 
 峨眉电影,http://tzd.seak.bid:9999/rtp/239.94.0.103:5140
