@@ -2234,7 +2234,6 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://yy.zubo.cc.cd/?id=1382851137
 百团大战,https://live.ottiptv.cc/yy/1382736871#https://yy.zubo.cc.cd/?id=1382736871
 生死极速救援,https://live.ottiptv.cc/yy/1382736719#https://yy.zubo.cc.cd/?id=1382736719
-绝地生死营救,https://live.ottiptv.cc/yy/1382736719#https://yy.zubo.cc.cd/?id=1382736719
 超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#https://live.ottiptv.cc/yy/1354932441#https://yy.zubo.cc.cd/?id=1354932441
 古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#https://live.ottiptv.cc/yy/1382881708#https://yy.zubo.cc.cd/?id=1382881708
 经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#https://live.ottiptv.cc/yy/1354806550#https://yy.zubo.cc.cd/?id=1354806550
