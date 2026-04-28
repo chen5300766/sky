@@ -17,13 +17,7 @@ YY一起看：https://sub.ottiptv.cc/yylunbo.m3u
 
 虎牙一起看：https://sub.ottiptv.cc/huyayqk.m3u
 
-直播源搜索论坛：
-
-恩山无线论坛：https://www.right.com.cn/forum/
-
-直播源论坛：https://bbs.livecodes.vip
-
-直播源搜索引擎：
+大佬直播源：
 
 https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
 
@@ -55,15 +49,41 @@ https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlis
 
 https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
-https://iptv.hacks.tools/
+搜索引擎：
 
-EPG节目单：https://epg.erw.cc/all.xml
+https://iptvs.hacks.tools/
 
-点播接口：https://iptvindex.com/db.json
+https://www.foodieguide.com/iptvsearch/
 
-直播源托管在Github打不开：网址前增加 https://gh-proxy.com/ 即可
+https://tonkiang.us/
 
-m3u源转txt源：网址前增加 https://fanmingming.com/txt?url= 即可
+https://streamtest.in/logs
+
+https://iptv365.org/
+
+https://iptv.cqshushu.com/?
+
+直播源搜索论坛：
+
+恩山无线论坛：https://www.right.com.cn/forum/
+
+直播源论坛：https://bbs.livecodes.vip
+
+EPG节目单：
+
+https://epg.erw.cc/all.xml
+
+点播接口：
+
+https://iptvindex.com/db.json
+
+直播源托管在Github打不开：
+
+网址前增加 https://gh-proxy.com/ 即可
+
+m3u源转txt源：
+
+网址前增加 https://fanmingming.com/txt?url= 即可
 
 
 RedStar视频播放器：
