@@ -11,11 +11,17 @@
 本仓库仅收集和使用拥有版权授权的直播源，避免传播盗版、非法频道资源，遵守网络版权法规。
 
 
-YY一起看：https://sub.ottiptv.cc/yylunbo.m3u
+YY一起看：
 
-斗鱼一起看：https://sub.ottiptv.cc/douyuyqk.m3u
+https://sub.ottiptv.cc/yylunbo.m3u
 
-虎牙一起看：https://sub.ottiptv.cc/huyayqk.m3u
+斗鱼一起看：
+
+https://sub.ottiptv.cc/douyuyqk.m3u
+
+虎牙一起看：
+
+https://sub.ottiptv.cc/huyayqk.m3u
 
 大佬直播源：
 
