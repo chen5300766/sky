@@ -706,12 +706,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
-湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
-湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
+湖南电影,http://113.241.133.180:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南电视剧,http://www.zlizi.cn:4023/rtp/239.76.252.118:9000
 湖南电影,http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
-
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
@@ -1069,7 +1067,6 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
