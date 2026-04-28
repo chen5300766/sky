@@ -234,6 +234,9 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://183.11.239.36:808/hls/95/index.m3u8
 CCTV文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 
+CCTV风云剧场,	http://gmxw.7766.org:808/hls/95/index.m3u8
+CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
+
 CCTV风云剧场,http://115.190.252.60/gd.php?id=1049
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -297,6 +300,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 
 中央新影-中学生,http://183.11.239.36:808/hls/24/index.m3u8
+中央新影-中学生,http://gmxw.7766.org:808/hls/24/index.m3u8
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
@@ -402,6 +406,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
+大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
@@ -604,6 +609,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
+广东体育	http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 
