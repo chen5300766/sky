@@ -2232,6 +2232,9 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 史诗级科幻电影-阿凡达,https://live.ottiptv.cc/yy/1382735577#https://yy.zubo.cc.cd/?id=1382735577
 电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#https://live.ottiptv.cc/yy/1382735571#https://yy.zubo.cc.cd/?id=1382735571
 详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://yy.zubo.cc.cd/?id=1382851137
+百团大战,https://live.ottiptv.cc/yy/1382736871#https://yy.zubo.cc.cd/?id=1382736871
+生死极速救援,https://live.ottiptv.cc/yy/1382736719#https://yy.zubo.cc.cd/?id=1382736719
+绝地生死营救,https://live.ottiptv.cc/yy/1382736719#https://yy.zubo.cc.cd/?id=1382736719
 超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#https://live.ottiptv.cc/yy/1354932441#https://yy.zubo.cc.cd/?id=1354932441
 古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#https://live.ottiptv.cc/yy/1382881708#https://yy.zubo.cc.cd/?id=1382881708
 经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#https://live.ottiptv.cc/yy/1354806550#https://yy.zubo.cc.cd/?id=1354806550
@@ -2268,11 +2271,13 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 高分电影,https://live.ottiptv.cc/yy/1355171357#https://yy.zubo.cc.cd/?id=1355171357
 科幻电影,http://cfss.cc/cdn/yy/1354936170.flv#https://live.ottiptv.cc/yy/1354936170#https://yy.zubo.cc.cd/?id=1354936170
 喜剧爱情电影,https://live.ottiptv.cc/yy/1382745181#https://yy.zubo.cc.cd/?id=1382745181
-影视剧,https://live.ottiptv.cc/yy/1354825244#https://yy.zubo.cc.cd/?id=1354825244
+影视剧1,https://live.ottiptv.cc/yy/1354825244#https://yy.zubo.cc.cd/?id=1354825244
+影视剧2,https://live.ottiptv.cc/yy/1382735627#https://yy.zubo.cc.cd/?id=1382735627
 赌神系列,http://cfss.cc/cdn/yy/1354889044.flv#https://live.ottiptv.cc/yy/1354889044#https://yy.zubo.cc.cd/?id=1354889044
 小鬼当家,http://cfss.cc/cdn/yy/1354658064.flv#https://live.ottiptv.cc/yy/1354658064#https://yy.zubo.cc.cd/?id=1354658064
 神奇动物：邓布利多谜团,http://cfss.cc/cdn/yy/1354930984.flv#https://live.ottiptv.cc/yy/1354930984#https://yy.zubo.cc.cd/?id=1354930984
 白鹿原,http://cfss.cc/cdn/yy/1354931488.flv#https://live.ottiptv.cc/yy/1354931488#https://yy.zubo.cc.cd/?id=1354931488
+仙医神厨,https://live.ottiptv.cc/yy/1382745106#https://yy.zubo.cc.cd/?id=1382745106
 降魔传-神魔大战,https://live.ottiptv.cc/yy/1354932371#https://yy.zubo.cc.cd/?id=1354932371#http://cfss.cc/cdn/yy/1354932371.flv
 村里有情况,https://live.ottiptv.cc/yy/1382749940#https://yy.zubo.cc.cd/?id=1382749940#http://cfss.cc/cdn/yy/1382749940.flv
 欢喜冤家的爱情,https://live.ottiptv.cc/yy/1354936191#https://yy.zubo.cc.cd/?id=1354936191#http://cfss.cc/cdn/yy/1354936191.flv
