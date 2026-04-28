@@ -10,10 +10,6 @@
 
 本仓库仅收集和使用拥有版权授权的直播源，避免传播盗版、非法频道资源，遵守网络版权法规。
 
-懒人白嫖：
-
-大佬分享直播源：范明明🚀　IPTV-ORG🚀　1888网　iptv-sources🚀　YanG-1989 - Github
-自行搜索：全球优质IPTV直播源搜索　IPTV神器Pro　IPTV Link Search🚀　IPTV频道搜索　电视直播源搜索引擎　Streamtest　恩山无线论坛　狸云直播源社区　iptv365
 
 YY一起看：https://sub.ottiptv.cc/yylunbo.m3u
 
@@ -28,14 +24,21 @@ YY一起看：https://sub.ottiptv.cc/yylunbo.m3u
 直播源论坛：https://bbs.livecodes.vip
 
 直播源搜索引擎：
-
-https://tonkiang.us/
-
-http://live-search.cniptv.top/zbss/index.html
-
-https://iptv.cqshushu.com/index.php
-
-全球优质 IPTV 直播源:
+https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://d.h6room.com/frjzb.txt
+http://bxtv.3a.ink/live.m3u
+https://live.zbds.org/tv/iptv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
 https://iptv.hacks.tools/
 
