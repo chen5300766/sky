@@ -12,21 +12,14 @@
 
 懒人白嫖：
 
-直播源1：https://iptvindex.com/tv.txt
+大佬分享直播源：范明明🚀　IPTV-ORG🚀　1888网　iptv-sources🚀　YanG-1989 - Github
+自行搜索：全球优质IPTV直播源搜索　IPTV神器Pro　IPTV Link Search🚀　IPTV频道搜索　电视直播源搜索引擎　Streamtest　恩山无线论坛　狸云直播源社区　iptv365
 
-直播源2：https://gcore.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+YY一起看：https://sub.ottiptv.cc/yylunbo.m3u
 
-港台1：https://tmxk.pp.ua/smart-cn.m3u
+斗鱼一起看：https://sub.ottiptv.cc/douyuyqk.m3u
 
-港台2：https://tmxk.pp.ua/4gtv-cn.m3u
-
-实时直播生成器🌍| 个性化M3U定制：https://m.iill.top/
-
-YY轮播：https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top 
-
-斗鱼一起看：https://live.freetv.top/douyuyqk.m3u 
-
-虎牙一起看：https://live.freetv.top/huyayqk.m3u 
+虎牙一起看：https://sub.ottiptv.cc/huyayqk.m3u
 
 直播源搜索论坛：
 
