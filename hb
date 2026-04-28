@@ -690,6 +690,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://1.197.203.33:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
