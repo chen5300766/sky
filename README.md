@@ -11,6 +11,10 @@
 本仓库仅收集和使用拥有版权授权的直播源，避免传播盗版、非法频道资源，遵守网络版权法规。
 
 
+实时直播生成器🌍| 个性化M3U定制：
+
+https://live.yang-1989.eu.org/
+
 YY一起看：
 
 https://sub.ottiptv.cc/yylunbo.m3u
