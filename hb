@@ -26,27 +26,27 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 浙江卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.114:3004
 浙江卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.114:3004
 浙江卫视4K,http://www.x1x.bid:5146/rtp/239.3.1.114:3004
-浙江卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.114:3004
+浙江卫视4K,http://vpn.5kong.work:18888/rtp/239.3.1.114:3004
 
 湖南卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.112:3002
 湖南卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.112:3002
 湖南卫视4K,http://www.x1x.bid:5146/rtp/239.3.1.112:3002
-湖南卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.112:3002
+湖南卫视4K,http://vpn.5kong.work:18888/rtp/239.3.1.112:3002
 
 山东卫视4K,http://www.x1x.bid:5146/rtp/239.3.1.144:3005
 山东卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.144:3005
 山东卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.144:3005
-山东卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.144:3005
+山东卫视4K,http://vpn.5kong.work:18888/rtp/239.3.1.144:3005
 
 四川卫视4K,http://www.x1x.bid:5146/rtp/239.3.1.131:3001
 四川卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.131:3001
 四川卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.131:3001
-四川卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.131:3001
+四川卫视4K,http://vpn.5kong.work:18888/rtp/239.3.1.131:3001
 
 江苏卫视4K,http://www.x1x.bid:5146/rtp/239.3.1.113:3003
 江苏卫视4K,http://www.fjxzl.top:23234/rtp/239.3.1.113:3003
 江苏卫视4K,http://superpostmail.3322.org:1193/rtp/239.3.1.113:3003
-江苏卫视4K,http://home.zgnc.fun:8822/rtp/239.3.1.113:3003
+江苏卫视4K,http://vpn.5kong.work:18888/rtp/239.3.1.113:3003
 
 
 北京卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
@@ -211,7 +211,7 @@ CCTV16奥林匹克,	http://laiboy.myds.me:58686/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://superpostmail.3322.org:1193/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://www.x1x.bid:5146/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://home.zgnc.fun:8822/rtp/239.3.1.184:8001
+CCTV16奥林匹克,http://vpn.5kong.work:18888/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
 CCTV16奥林匹克,http://rongrong.me:14022/rtp/233.18.204.82:5140
 
@@ -823,23 +823,23 @@ IPTV精选,http://www.x1x.bid:5146/rtp/239.3.1.74:4120
 IPTV家庭影院,http://www.x1x.bid:5146/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://home.zgnc.fun:8822/rtp/239.3.1.88:4120
-IPTV4K超清,http://home.zgnc.fun:8822/rtp/239.3.1.249:8001
-IPTV淘剧场,http://home.zgnc.fun:8822/rtp/239.3.1.95:8001
-IPTV淘电影,http://home.zgnc.fun:8822/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://home.zgnc.fun:8822/rtp/239.3.1.100:8001
-IPTV淘BABY,http://home.zgnc.fun:8822/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://home.zgnc.fun:8822/rtp/239.3.1.102:8001
-IPTV星影,http://home.zgnc.fun:8822/rtp/239.3.1.94:4120
-IPTV城市剧场,http://home.zgnc.fun:8822/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://home.zgnc.fun:8822/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://home.zgnc.fun:8822/rtp/239.3.1.90:4120
-IPTV古装剧场,http://home.zgnc.fun:8822/rtp/239.3.1.69:4120
-IPTV热播剧场,http://home.zgnc.fun:8822/rtp/239.3.1.194:9020
-IPTV经典电影,http://home.zgnc.fun:8822/rtp/239.3.1.195:9024
-IPTV爱上4K,http://home.zgnc.fun:8822/rtp/239.3.1.236:2000
-IPTV精选,http://home.zgnc.fun:8822/rtp/239.3.1.74:4120
-IPTV家庭影院,http://home.zgnc.fun:8822/rtp/239.3.1.93:4120
+IPTV影视,http://vpn.5kong.work:18888/rtp/239.3.1.88:4120
+IPTV4K超清,http://vpn.5kong.work:18888/rtp/239.3.1.249:8001
+IPTV淘剧场,http://vpn.5kong.work:18888/rtp/239.3.1.95:8001
+IPTV淘电影,http://vpn.5kong.work:18888/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://vpn.5kong.work:18888/rtp/239.3.1.100:8001
+IPTV淘BABY,http://vpn.5kong.work:18888/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://vpn.5kong.work:18888/rtp/239.3.1.102:8001
+IPTV星影,http://vpn.5kong.work:18888/rtp/239.3.1.94:4120
+IPTV城市剧场,http://vpn.5kong.work:18888/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://vpn.5kong.work:18888/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://vpn.5kong.work:18888/rtp/239.3.1.90:4120
+IPTV古装剧场,http://vpn.5kong.work:18888/rtp/239.3.1.69:4120
+IPTV热播剧场,http://vpn.5kong.work:18888/rtp/239.3.1.194:9020
+IPTV经典电影,http://vpn.5kong.work:18888/rtp/239.3.1.195:9024
+IPTV爱上4K,http://vpn.5kong.work:18888/rtp/239.3.1.236:2000
+IPTV精选,http://vpn.5kong.work:18888/rtp/239.3.1.74:4120
+IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 
 
 邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
@@ -1080,19 +1080,19 @@ IPTV少儿动画,http://laiboy.myds.me:58686/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.fjxzl.top:23234/rtp/239.3.1.199:9000
 IPTV少儿动画,http://superpostmail.3322.org:1193/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.x1x.bid:5146/rtp/239.3.1.199:9000
-IPTV少儿动画,http://home.zgnc.fun:8822/rtp/239.3.1.199:9000
+IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://laiboy.myds.me:58686/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.fjxzl.top:23234/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://superpostmail.3322.org:1193/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.x1x.bid:5146/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://home.zgnc.fun:8822/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
 
 IPTV早教,http://laiboy.myds.me:58686/rtp/239.3.1.79:4120
 IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
 IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
 IPTV早教,http://www.x1x.bid:5146/rtp/239.3.1.79:4120
-IPTV早教,http://home.zgnc.fun:8822/rtp/239.3.1.79:4120
+IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
 
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.zlizi.cn:4023/rtp/239.76.254.202:9000
@@ -1184,11 +1184,11 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://www.x1x.bid:5146/rtp/239.3.1.76:4120
 
 
-中国交通,http://home.zgnc.fun:8822/rtp/239.3.1.188:8001
-好学生,http://home.zgnc.fun:8822/rtp/239.3.1.81:4120
-鉴赏,http://home.zgnc.fun:8822/rtp/239.3.1.82:4120
-墨宝,http://home.zgnc.fun:8822/rtp/239.3.1.83:4120
-军事,http://home.zgnc.fun:8822/rtp/239.3.1.76:4120
+中国交通,http://vpn.5kong.work:18888/rtp/239.3.1.188:8001
+好学生,http://vpn.5kong.work:18888/rtp/239.3.1.81:4120
+鉴赏,http://vpn.5kong.work:18888/rtp/239.3.1.82:4120
+墨宝,http://vpn.5kong.work:18888/rtp/239.3.1.83:4120
+军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
 中国交通（湖北）,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
