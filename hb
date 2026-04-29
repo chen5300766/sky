@@ -722,9 +722,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 中国电影,https://a3f1b2.kylintv.tv/live/chinamovie_iphone.m3u8
 
 
-四川峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
-
-
 峨眉电影,http://tzd.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
