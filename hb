@@ -426,7 +426,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http:///hls/11/index.m3u8
 大湾区卫视,https://a3f1b2.kylintv.tv/live/tvs_iphone.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
