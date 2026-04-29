@@ -715,7 +715,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
-重温经典,http:///hls/80/index.m3u8
+重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://1.197.203.33:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1233,7 +1233,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http:///hls/81/index.m3u8
+新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 新视觉,http://112.92.129.96:9898/hls/107/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
