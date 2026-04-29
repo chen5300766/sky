@@ -232,7 +232,7 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://183.11.239.36:808/hls/95/index.m3u8
 CCTV文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 
-CCTV风云剧场,	http://gmxw.7766.org:808/hls/95/index.m3u8
+CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
 CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
 
 CCTV风云剧场,http://115.190.252.60/gd.php?id=1049
