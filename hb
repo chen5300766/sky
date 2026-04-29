@@ -75,9 +75,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 
 
 📡港澳台,#genre#
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -409,6 +407,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
+大湾区卫视,https://a3f1b2.kylintv.tv/live/tvs_iphone.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
