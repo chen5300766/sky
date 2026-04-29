@@ -723,7 +723,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影,https://a3f1b2.kylintv.tv/live/chinamovie_iphone.m3u8
 
-
+峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://tzd.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
@@ -1065,6 +1065,9 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 动漫秀场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230544/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230621/1.m3u8
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
+
+海南少儿,http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
+海南少儿,http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
