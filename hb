@@ -2481,6 +2481,7 @@ JJ象棋5,https://tv1288.xyz/douyin.php?type=rid&rid=116886541659
 热干面乐队,https://tv1288.xyz/douyin.php?type=rid&rid=500864881720
 抖音热歌电台,https://tv1288.xyz/douyin.php?type=rid&rid=671962613675
 抖音美好奇妙夜,https://tv1288.xyz/douyin.php?type=rid&rid=926375850872
+清明上河园,https://tv1288.xyz/douyin.php?type=rid&rid=513025096675
 驾考一把过,https://tv1288.xyz/douyin.php?type=rid&rid=341263229845
 
 
