@@ -195,6 +195,12 @@ CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 
 
+TVB翡翠,http://120.238.5.44:1698/hls/83/index.m3u8
+TVB明珠,http://120.238.5.44:1698/hls/84/index.m3u8
+TVB星河,http://120.238.5.44:1698/hls/88/index.m3u8
+天映经典,http://120.238.5.44:1698/hls/59/index.m3u8
+澳视澳门,http://120.238.5.44:1698/hls/76/index.m3u8
+
 
 📡央视电视台,#genre#
 CCTV1综合,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229660/1.m3u8
@@ -416,10 +422,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
 
+大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
+大湾区卫视,http:///hls/11/index.m3u8
 大湾区卫视,https://a3f1b2.kylintv.tv/live/tvs_iphone.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
@@ -708,7 +715,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
-重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+重温经典,http:///hls/80/index.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://1.197.203.33:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1226,7 +1233,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
+新视觉,http:///hls/81/index.m3u8
 新视觉,http://112.92.129.96:9898/hls/107/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
