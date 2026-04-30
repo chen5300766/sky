@@ -1048,8 +1048,11 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
+海南少儿,http://223.198.242.38:4000/rtp/239.253.64.124:5140
+海南少儿,http://124.66.101.177:4022/rtp/239.254.96.192:8178
 海南少儿,http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
 海南少儿,http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8
+
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
