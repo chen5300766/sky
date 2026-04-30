@@ -1048,6 +1048,7 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
+海南少儿,https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=eee56f101777529331
 海南少儿,http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
 海南少儿,http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8
 
