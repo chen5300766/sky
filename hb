@@ -660,7 +660,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://112.92.129.96:9898/hls/139/index.m3u8
-劲爆体育,http://1.197.203.33:85/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡电视影院,#genre#
