@@ -586,7 +586,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
-五星体育,http://abc.sohu.blog/df4k.php?id=1605
 
 
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
