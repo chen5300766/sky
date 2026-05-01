@@ -184,19 +184,7 @@ CCTV12社会与法,http://111.48.34.138/000000001000PLTV/88888888/224/3221229897
 CCTV13新闻,http://111.48.34.138/000000001000PLTV/88888888/224/3221230493/1.m3u8
 CCTV14少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230446/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
 CCTV15音乐,http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
-
-
-CCTV16奥林匹克,http://112.92.129.96:9898/hls/127/index.m3u8
-CCTV16奥林匹克,http://laiboy.myds.me:58686/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://www.fjxzl.top:23234/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://superpostmail.3322.org:1193/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://www.x1x.bid:5146/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://vpn.5kong.work:18888/rtp/239.3.1.184:8001
-CCTV16奥林匹克,http://cx.shscxzx.cn:8899/rtp/233.18.204.82:5140
-CCTV16奥林匹克,http://rongrong.me:14022/rtp/233.18.204.82:5140
 CCTV16奥林匹克,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
-
-
 CCTV17农业农村,http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 
 
@@ -278,7 +266,6 @@ CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http:
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230626/1.m3u8
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
-
 中央新影-中学生,http://183.11.239.36:808/hls/24/index.m3u8
 中央新影-中学生,http://gmxw.7766.org:808/hls/24/index.m3u8
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
@@ -292,9 +279,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
 中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
-中央新影-中学生,http://111.48.34.138/000000001000PLTV/88888888/224/3221230602/1.m3u8
-中央新影-中学生,rtsp://111.48.34.138:1554/170000004112/HBGD1086708833718050816962827426
-
 
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
@@ -321,10 +305,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 央广购物,http://111.48.34.138/000000001000PLTV/88888888/224/3221230412/1.m3u8
 聚鲨环球精选,http://111.48.34.138/000000001000PLTV/88888888/224/3221230596/1.m3u8
 优购物,http://111.48.34.138/000000001000PLTV/88888888/224/3221230627/1.m3u8
-
 快乐购,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLGMPP360.m3u8
-快乐购,http://111.48.34.138/000000001000PLTV/88888888/224/3221230635/1.m3u8
-
 
 
 📡地方卫视,#genre#
@@ -369,7 +350,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
 凤凰资讯,rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
-
 
 凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8
 凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8
@@ -548,13 +528,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 📡体育天地,#genre#
 武术世界,http://111.48.34.138/000000001000PLTV/88888888/224/3221230549/1.m3u8
 快乐垂钓,http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
-
-快乐垂钓,http://www.smilehome.top:4022/rtp/225.0.4.213:7980
-快乐垂钓,http://nas.iszbd.com:4022/rtp/225.0.4.213:7980
-快乐垂钓,http://game.x3322.net:8899/rtp/225.0.4.213:7980
-快乐垂钓,http://pve.iszbd.com:4022/rtp/225.0.4.213:7980
-
-
 四海钓鱼,http://111.48.34.138/000000001000PLTV/88888888/224/3221230438/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230605/1.m3u8
 汽摩,http://111.48.34.138/000000001000PLTV/88888888/224/3221230076/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230490/1.m3u8
 晴彩青少,http://111.48.34.138/000000001000PLTV/88888888/224/3221230584/1.m3u8
@@ -562,19 +535,16 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩竞技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230371/1.m3u8
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
-
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
-
 
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
 广东体育	http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
-
 
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -599,41 +569,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-爱体育,http://www.smilehome.top:4022/rtp/225.0.4.53:7980
-爱体育,http://hello.ejoydom.com:9999/rtp/239.77.1.116:5146
-爱体育,http://pve.iszbd.com:4022/rtp/225.0.4.53:7980
-爱体育,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.44:5140
-爱体育,http://wan1.tangwudi.cc:47859/rtp/239.94.1.44:5140
-爱体育,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.44:5140
-爱体育,http://wmh.synology.me:6633/rtp/239.77.1.116:5146
-爱体育,http://line1.huase.ltd:8888/rtp/239.77.1.116:5146
-爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.44:5140
-爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.44:5140
-爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.44:5140
-爱体育,http://game.x3322.net:8899/rtp/225.0.4.53:7980
-爱体育,http://www.alihomes.top:8188/rtp/239.254.96.101:7792
-爱体育,http://tzd.seak.bid:9999/rtp/239.94.1.44:5140
-
-
-足球体育,http://pve.iszbd.com:4022/rtp/225.0.4.167:7980
-足球体育,http://wddpmpc.sosos.run:4022/rtp/239.110.205.25:9846
-足球体育,http://www.smilehome.top:4022/rtp/225.0.4.167:7980
-足球体育,http://www.gaolao.top:8008/rtp/239.110.205.25:9846
-足球体育,http://www.alihomes.top:8188/rtp/239.254.96.146:7998
-足球体育,http://game.x3322.net:8899/rtp/225.0.4.167:7980
-足球体育,http://www.stoneshi1984.ren:58120/rtp/239.110.205.25:9846
-足球体育,http://4712635.xyz:26000/rtp/239.110.205.25:9846
-足球体育,http://tiger81.i234.me:8888/rtp/239.110.205.25:9846
-
-
-
-足球频道,http://www.gaolao.top:8008/rtp/239.110.205.89:7920
-足球频道,http://wddpmpc.sosos.run:4022/rtp/239.110.205.89:7920
-足球频道,http://www.stoneshi1984.ren:58120/rtp/239.110.205.89:7920
-足球频道,http://4712635.xyz:26000/rtp/239.110.205.89:7920
-足球频道,http://tiger81.i234.me:8888/rtp/239.110.205.89:7920
-
-
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://112.92.129.96:9898/hls/139/index.m3u8
 劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -645,7 +580,6 @@ CHC家庭影院,http://111.48.34.138/000000001000PLTV/88888888/224/3221230481/1.
 CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.m3u8
 欢笑剧场4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230500/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230553/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230646/1.m3u8
 都市剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
-
 
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
@@ -763,8 +697,6 @@ IPTV爱上4K,http://superpostmail.3322.org:1193/rtp/239.3.1.236:2000
 IPTV精选,http://superpostmail.3322.org:1193/rtp/239.3.1.74:4120
 IPTV家庭影院,http://superpostmail.3322.org:1193/rtp/239.3.1.93:4120
 
-
-
 IPTV影视,http://www.x1x.bid:5146/rtp/239.3.1.88:4120
 IPTV4K超清,http://www.x1x.bid:5146/rtp/239.3.1.249:8001
 IPTV淘剧场,http://www.x1x.bid:5146/rtp/239.3.1.95:8001
@@ -782,7 +714,6 @@ IPTV经典电影,http://www.x1x.bid:5146/rtp/239.3.1.195:9024
 IPTV爱上4K,http://www.x1x.bid:5146/rtp/239.3.1.236:2000
 IPTV精选,http://www.x1x.bid:5146/rtp/239.3.1.74:4120
 IPTV家庭影院,http://www.x1x.bid:5146/rtp/239.3.1.93:4120
-
 
 IPTV影视,http://vpn.5kong.work:18888/rtp/239.3.1.88:4120
 IPTV4K超清,http://vpn.5kong.work:18888/rtp/239.3.1.249:8001
@@ -802,7 +733,6 @@ IPTV爱上4K,http://vpn.5kong.work:18888/rtp/239.3.1.236:2000
 IPTV精选,http://vpn.5kong.work:18888/rtp/239.3.1.74:4120
 IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 
-
 邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
 邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
 邵氏动作,http://192.151.150.154/live/lbssdz.m3u8
@@ -812,7 +742,6 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-
 
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
@@ -824,7 +753,6 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://home2.neumantang.com:8888/rtp/239.0.0.26:5140
-
 
 全球大片,http://tzd.seak.bid:9999/rtp/239.94.1.24:5140
 华语影院,http://tzd.seak.bid:9999/rtp/239.94.1.22:5140
@@ -846,7 +774,6 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 
 全球大片,http://dx.yanbingg.com:1888/rtp/239.94.1.24:5140
 华语影院,http://dx.yanbingg.com:1888/rtp/239.94.1.22:5140
-
 
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
@@ -1025,9 +952,6 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 海南少儿,http://223.198.242.38:4000/rtp/239.253.64.124:5140
 海南少儿,http://124.66.101.177:4022/rtp/239.254.96.192:8178
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
-海南少儿,http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
-海南少儿,http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8
-
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
