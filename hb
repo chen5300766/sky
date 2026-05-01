@@ -1210,6 +1210,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 异人动漫,https://www.goodiptv.club/huya/11352869#https://live.ottiptv.cc/huya/11352869#http://cfss.cc/cdn/huya/11352869.flv
 新世纪福音战士,https://www.goodiptv.club/huya/21059570#https://live.ottiptv.cc/huya/21059570#http://cfss.cc/cdn/huya/21059570.flv
 蜡笔小新,https://www.goodiptv.club/huya/11352970#https://live.ottiptv.cc/huya/11352970#http://cfss.cc/cdn/huya/11352970.flv#https://www.goodiptv.club/huya/137834#https://live.ottiptv.cc/huya/137834#http://cfss.cc/cdn/huya/137834.flv
+蜡笔小新,https://www.goodiptv.club/huya/30362138#https://live.ottiptv.cc/huya/30362138#http://cfss.cc/cdn/huya/30362138.flv
 犬夜叉剧场版,https://live.ottiptv.cc/douyu/11906591#https://isus.cc/php/douyu.php?id=11906591#https://www.goodiptv.club/douyu/11906591
 晓妞动漫花园,https://live.ottiptv.cc/douyu/426517#https://isus.cc/php/douyu.php?id=426517#https://www.goodiptv.club/douyu/426517
 网球王子,https://www.goodiptv.club/huya/11352882#https://live.ottiptv.cc/huya/11352882#http://cfss.cc/cdn/huya/11352882.flv
@@ -1397,6 +1398,7 @@ TVB职场剧大全,https://www.goodiptv.club/huya/23735153#https://live.ottiptv.
 香港贺岁片,https://www.goodiptv.club/huya/11601955#https://live.ottiptv.cc/huya/11601955#http://cfss.cc/cdn/huya/11601955.flv
 港片1,https://www.goodiptv.club/huya/11602043#https://live.ottiptv.cc/huya/11602043#http://cfss.cc/cdn/huya/11602043.flv
 港片2,https://www.goodiptv.club/huya/11601971#https://live.ottiptv.cc/huya/11602043#http://cfss.cc/cdn/huya/11601971.flv
+经典高分动作港片冒险电影系列,https://www.goodiptv.club/huya/30509122#https://live.ottiptv.cc/huya/30509122#http://cfss.cc/cdn/huya/30509122.flv
 香港喜剧,https://www.goodiptv.club/huya/20969142#https://live.ottiptv.cc/huya/20969142#http://cfss.cc/cdn/huya/20969142.flv
 香港电影经典之大作,https://www.goodiptv.club/huya/30631706#https://live.ottiptv.cc/huya/30631706#http://cfss.cc/cdn/huya/30631706.flv
 香港动作电影,https://www.goodiptv.club/huya/11602055#https://live.ottiptv.cc/huya/11602055#http://cfss.cc/cdn/huya/11602055.flv
@@ -1702,6 +1704,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 007动作大片系列,https://www.goodiptv.club/huya/21059585#https://live.ottiptv.cc/huya/21059585#http://cfss.cc/cdn/huya/21059585.flv
 古天乐系列,https://www.goodiptv.club/huya/29982675#https://live.ottiptv.cc/huya/29982675#http://cfss.cc/cdn/huya/29982675.flv
 张家辉系列,https://www.goodiptv.club/huya/21241807#https://live.ottiptv.cc/huya/21241807#http://cfss.cc/cdn/huya/21241807.flv
+周润发-赌神,https://www.goodiptv.club/huya/30631745#https://live.ottiptv.cc/huya/30631745#http://cfss.cc/cdn/huya/30631745.flv
 敢死队,https://www.goodiptv.club/huya/23864973#https://live.ottiptv.cc/huya/23864973#http://cfss.cc/cdn/huya/23864973.flv
 一起同过窗,https://www.goodiptv.club/huya/30080228#https://live.ottiptv.cc/huya/30080228#http://cfss.cc/cdn/huya/30080228.flv
 猎罪图鉴,https://www.goodiptv.club/huya/11601962#https://live.ottiptv.cc/huya/11601962#http://cfss.cc/cdn/huya/11601962.flv
