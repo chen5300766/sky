@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-4-30,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-5-1,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -1036,6 +1036,7 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 
 海南少儿,http://223.198.242.38:4000/rtp/239.253.64.124:5140
 海南少儿,http://124.66.101.177:4022/rtp/239.254.96.192:8178
+海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
 海南少儿,http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8
 
