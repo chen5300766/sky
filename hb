@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-11,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-5-12,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -661,42 +661,42 @@ IPTV精选,http://laiboy.myds.me:58686/rtp/239.3.1.74:4120
 IPTV家庭影院,http://laiboy.myds.me:58686/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://www.fjxzl.top:23234/rtp/239.3.1.88:4120
-IPTV4K超清,http://www.fjxzl.top:23234/rtp/239.3.1.249:8001
-IPTV淘剧场,http://www.fjxzl.top:23234/rtp/239.3.1.95:8001
-IPTV淘电影,http://www.fjxzl.top:23234/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://www.fjxzl.top:23234/rtp/239.3.1.100:8001
-IPTV淘BABY,http://www.fjxzl.top:23234/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://www.fjxzl.top:23234/rtp/239.3.1.102:8001
-IPTV星影,http://www.fjxzl.top:23234/rtp/239.3.1.94:4120
-IPTV城市剧场,http://www.fjxzl.top:23234/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://www.fjxzl.top:23234/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://www.fjxzl.top:23234/rtp/239.3.1.90:4120
-IPTV古装剧场,http://www.fjxzl.top:23234/rtp/239.3.1.69:4120
-IPTV热播剧场,http://www.fjxzl.top:23234/rtp/239.3.1.194:9020
-IPTV经典电影,http://www.fjxzl.top:23234/rtp/239.3.1.195:9024
-IPTV爱上4K,http://www.fjxzl.top:23234/rtp/239.3.1.236:2000
-IPTV精选,http://www.fjxzl.top:23234/rtp/239.3.1.74:4120
-IPTV家庭影院,http://www.fjxzl.top:23234/rtp/239.3.1.93:4120
+IPTV影视,http://lyayun.dedyn.io:61612/rtp/239.3.1.88:4120
+IPTV4K超清,http://lyayun.dedyn.io:61612/rtp/239.3.1.249:8001
+IPTV淘剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.95:8001
+IPTV淘电影,http://lyayun.dedyn.io:61612/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://lyayun.dedyn.io:61612/rtp/239.3.1.100:8001
+IPTV淘BABY,http://lyayun.dedyn.io:61612/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://lyayun.dedyn.io:61612/rtp/239.3.1.102:8001
+IPTV星影,http://lyayun.dedyn.io:61612/rtp/239.3.1.94:4120
+IPTV城市剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.90:4120
+IPTV古装剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.69:4120
+IPTV热播剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.194:9020
+IPTV经典电影,http://lyayun.dedyn.io:61612/rtp/239.3.1.195:9024
+IPTV爱上4K,http://lyayun.dedyn.io:61612/rtp/239.3.1.236:2000
+IPTV精选,http://lyayun.dedyn.io:61612/rtp/239.3.1.74:4120
+IPTV家庭影院,http://lyayun.dedyn.io:61612/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://superpostmail.3322.org:1193/rtp/239.3.1.88:4120
-IPTV4K超清,http://superpostmail.3322.org:1193/rtp/239.3.1.249:8001
-IPTV淘剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.95:8001
-IPTV淘电影,http://superpostmail.3322.org:1193/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://superpostmail.3322.org:1193/rtp/239.3.1.100:8001
-IPTV淘BABY,http://superpostmail.3322.org:1193/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://superpostmail.3322.org:1193/rtp/239.3.1.102:8001
-IPTV星影,http://superpostmail.3322.org:1193/rtp/239.3.1.94:4120
-IPTV城市剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.90:4120
-IPTV古装剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.69:4120
-IPTV热播剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.194:9020
-IPTV经典电影,http://superpostmail.3322.org:1193/rtp/239.3.1.195:9024
-IPTV爱上4K,http://superpostmail.3322.org:1193/rtp/239.3.1.236:2000
-IPTV精选,http://superpostmail.3322.org:1193/rtp/239.3.1.74:4120
-IPTV家庭影院,http://superpostmail.3322.org:1193/rtp/239.3.1.93:4120
+IPTV影视,http://www.photoby.us:28012/rtp/239.3.1.88:4120
+IPTV4K超清,http://www.photoby.us:28012/rtp/239.3.1.249:8001
+IPTV淘剧场,http://www.photoby.us:28012/rtp/239.3.1.95:8001
+IPTV淘电影,http://www.photoby.us:28012/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://www.photoby.us:28012/rtp/239.3.1.100:8001
+IPTV淘BABY,http://www.photoby.us:28012/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://www.photoby.us:28012/rtp/239.3.1.102:8001
+IPTV星影,http://www.photoby.us:28012/rtp/239.3.1.94:4120
+IPTV城市剧场,http://www.photoby.us:28012/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://www.photoby.us:28012/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://www.photoby.us:28012/rtp/239.3.1.90:4120
+IPTV古装剧场,http://www.photoby.us:28012/rtp/239.3.1.69:4120
+IPTV热播剧场,http://www.photoby.us:28012/rtp/239.3.1.194:9020
+IPTV经典电影,http://www.photoby.us:28012/rtp/239.3.1.195:9024
+IPTV爱上4K,http://www.photoby.us:28012/rtp/239.3.1.236:2000
+IPTV精选,http://www.photoby.us:28012/rtp/239.3.1.74:4120
+IPTV家庭影院,http://www.photoby.us:28012/rtp/239.3.1.93:4120
 
 IPTV影视,http://www.x1x.bid:5146/rtp/239.3.1.88:4120
 IPTV4K超清,http://www.x1x.bid:5146/rtp/239.3.1.249:8001
@@ -912,34 +912,6 @@ iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
 iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
-NewTV影院,#genre#
-NewTV家庭剧场,https://www.9kds.com/d/bjyd.php?id=3221226981&kl=www.9kds.com
-NewTV怡伴健康,https://www.9kds.com/d/bjyd.php?id=3221226327&kl=www.9kds.com
-NewTV怡伴健康,https://www.9kds.com/d/bjyd.php?id=3221226984&kl=www.9kds.com
-NewTV惊悚悬疑,https://www.9kds.com/d/bjyd.php?id=3221227013&kl=www.9kds.com
-NewTV明星大片,https://www.9kds.com/d/bjyd.php?id=3221227008&kl=www.9kds.com
-NewTV欢乐剧场,https://www.9kds.com/d/bjyd.php?id=3221226969&kl=www.9kds.com
-NewTV武搏世界,https://www.9kds.com/d/bjyd.php?id=3221226320&kl=www.9kds.com
-NewTV武搏世界,https://www.9kds.com/d/bjyd.php?id=3221226992&kl=www.9kds.com
-NewTV潮妈辣婆,https://www.9kds.com/d/bjyd.php?id=3221226286&kl=www.9kds.com
-NewTV潮妈辣婆,https://www.9kds.com/d/bjyd.php?id=3221226980&kl=www.9kds.com
-NewTV炫舞未来,https://www.9kds.com/d/bjyd.php?id=3221226968&kl=www.9kds.com
-NewTV炫舞未来,https://www.9kds.com/d/bjyd.php?id=3221226248&kl=www.9kds.com
-NewTV爱情喜剧,https://www.9kds.com/d/bjyd.php?id=3221226322&kl=www.9kds.com
-NewTV爱情喜剧,https://www.9kds.com/d/bjyd.php?id=3221226989&kl=www.9kds.com
-NewTV精品体育,https://www.9kds.com/d/bjyd.php?id=3221226328&kl=www.9kds.com
-NewTV精品体育,https://www.9kds.com/d/bjyd.php?id=3221226978&kl=www.9kds.com
-NewTV精品大剧,https://www.9kds.com/d/bjyd.php?id=3221226331&kl=www.9kds.com
-NewTV精品大剧,https://www.9kds.com/d/bjyd.php?id=3221226970&kl=www.9kds.com
-NewTV精品纪录,https://www.9kds.com/d/bjyd.php?id=3221226332&kl=www.9kds.com
-NewTV精品纪录,https://www.9kds.com/d/bjyd.php?id=3221226977&kl=www.9kds.com
-NewTV精品萌宠,https://www.9kds.com/d/bjyd.php?id=3221226976&kl=www.9kds.com
-NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226232&kl=www.9kds.com
-NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226945&kl=www.9kds.com
-NewTV超级体育,https://www.9kds.com/d/bjyd.php?id=3221226348&kl=www.9kds.com
-NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
-
-
 📡动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -963,20 +935,20 @@ NewTV超级电影,https://www.9kds.com/d/bjyd.php?id=3221226233&kl=www.9kds.com
 
 
 IPTV少儿动画,http://laiboy.myds.me:58686/rtp/239.3.1.199:9000
-IPTV少儿动画,http://www.fjxzl.top:23234/rtp/239.3.1.199:9000
-IPTV少儿动画,http://superpostmail.3322.org:1193/rtp/239.3.1.199:9000
+IPTV少儿动画,http://lyayun.dedyn.io:61612/rtp/239.3.1.199:9000
+IPTV少儿动画,http://www.photoby.us:28012/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.x1x.bid:5146/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://laiboy.myds.me:58686/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://www.fjxzl.top:23234/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://superpostmail.3322.org:1193/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://lyayun.dedyn.io:61612/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://www.photoby.us:28012/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.x1x.bid:5146/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
 
 IPTV早教,http://laiboy.myds.me:58686/rtp/239.3.1.79:4120
-IPTV早教,http://www.fjxzl.top:23234/rtp/239.3.1.79:4120
-IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
+IPTV早教,http://lyayun.dedyn.io:61612/rtp/239.3.1.79:4120
+IPTV早教,http://www.photoby.us:28012/rtp/239.3.1.79:4120
 IPTV早教,http://www.x1x.bid:5146/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
 
@@ -1013,7 +985,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
 
-财富天下,https://www.9kds.com/d/bjyd.php?id=3221226575&kl=www.9kds.com
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://rongrong.me:14022/rtp/233.18.204.231:5140
@@ -1039,8 +1010,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-中国交通,https://www.9kds.com/d/bjyd.php?id=3221226891&kl=www.9kds.com
-
 中国交通,http://laiboy.myds.me:58686/rtp/239.3.1.188:8001
 好学生,http://laiboy.myds.me:58686/rtp/239.3.1.81:4120
 鉴赏,http://laiboy.myds.me:58686/rtp/239.3.1.82:4120
@@ -1048,18 +1017,18 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://laiboy.myds.me:58686/rtp/239.3.1.76:4120
 
 
-中国交通,http://www.fjxzl.top:23234/rtp/239.3.1.188:8001
-好学生,http://www.fjxzl.top:23234/rtp/239.3.1.81:4120
-鉴赏,http://www.fjxzl.top:23234/rtp/239.3.1.82:4120
-墨宝,http://www.fjxzl.top:23234/rtp/239.3.1.83:4120
-军事,http://www.fjxzl.top:23234/rtp/239.3.1.76:4120
+中国交通,http://lyayun.dedyn.io:61612/rtp/239.3.1.188:8001
+好学生,http://lyayun.dedyn.io:61612/rtp/239.3.1.81:4120
+鉴赏,http://lyayun.dedyn.io:61612/rtp/239.3.1.82:4120
+墨宝,http://lyayun.dedyn.io:61612/rtp/239.3.1.83:4120
+军事,http://lyayun.dedyn.io:61612/rtp/239.3.1.76:4120
 
 
-中国交通,http://superpostmail.3322.org:1193/rtp/239.3.1.188:8001
-好学生,http://superpostmail.3322.org:1193/rtp/239.3.1.81:4120
-鉴赏,http://superpostmail.3322.org:1193/rtp/239.3.1.82:4120
-墨宝,http://superpostmail.3322.org:1193/rtp/239.3.1.83:4120
-军事,http://superpostmail.3322.org:1193/rtp/239.3.1.76:4120
+中国交通,http://www.photoby.us:28012/rtp/239.3.1.188:8001
+好学生,http://www.photoby.us:28012/rtp/239.3.1.81:4120
+鉴赏,http://www.photoby.us:28012/rtp/239.3.1.82:4120
+墨宝,http://www.photoby.us:28012/rtp/239.3.1.83:4120
+军事,http://www.photoby.us:28012/rtp/239.3.1.76:4120
 
 
 中国交通,http://www.x1x.bid:5146/rtp/239.3.1.188:8001
