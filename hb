@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-12,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
+2026-5-13,https://live.ottiptv.cc/douyu/1770806#https://douyu.zubo.cc.cd/?id=1770806
 
 
 📡4K专区,#genre#
@@ -375,6 +375,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
@@ -788,6 +789,8 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?tv.sohu.blog
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?tv.sohu.blog
 
+黑莓电影,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221225567/1.m3u8
+
 
 📡iHOT影院,#genre#
 iHOT爱体育,http://www.zhms.tk:5050/rtp/239.94.1.143:5140
@@ -919,8 +922,6 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-海南少儿,http://223.198.242.38:4000/rtp/239.253.64.124:5140
-海南少儿,http://124.66.101.177:4022/rtp/239.254.96.192:8178
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
