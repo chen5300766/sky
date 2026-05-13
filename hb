@@ -272,6 +272,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
+中央新影-中学生,http://iptvcun.okoo.cc:8099/rtp/225.0.4.184:7980
 中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
@@ -742,12 +743,14 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
+精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
+精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
 精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
@@ -774,6 +777,8 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 全球大片,http://dx.yanbingg.com:1888/rtp/239.94.1.24:5140
 华语影院,http://dx.yanbingg.com:1888/rtp/239.94.1.22:5140
 
+
+影视剧,http://iptvcun.okoo.cc:8099/rtp/225.0.4.163:7980
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
@@ -974,7 +979,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
-
+优优宝贝,http://iptvcun.okoo.cc:8099/rtp/225.0.4.126:7980
 
 
 📡数字电视,#genre#
@@ -1093,6 +1098,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
+求索纪录,http://iptvcun.okoo.cc:8099/rtp/225.0.4.232:7980
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://www.zhms.tk:5050/rtp/239.94.1.142:5140
 
