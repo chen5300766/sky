@@ -540,6 +540,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
+广东体育,http://113.90.244.120:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.64.147.242:8081/hls/1/index.m3u8
+广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
@@ -929,6 +932,8 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
+
+广东少儿,http://113.90.244.120:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
