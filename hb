@@ -423,14 +423,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 阳新综合,http://wlei.myds.me:52057/rtp/239.69.1.34:9844
 
 
-蔡甸综合,http://www.divcloud.top:8899/rtp/239.69.1.245:11112
-房县综合,http://www.divcloud.top:8899/rtp/239.69.1.192:10794
-阳新综合,http://www.divcloud.top:8899/rtp/239.69.1.34:9844
+蔡甸综合,http://dd.ikhs.cn:8880/rtp/239.69.1.245:11112
+房县综合,http://dd.ikhs.cn:8880/rtp/239.69.1.192:10794
+阳新综合,http://dd.ikhs.cn:8880/rtp/239.69.1.34:9844
 
 
-蔡甸综合,http://disk99.familyds.com:4022/rtp/239.69.1.245:11112
-房县综合,http://disk99.familyds.com:4022/rtp/239.69.1.192:10794
-阳新综合,http://disk99.familyds.com:4022/rtp/239.69.1.34:9844
+蔡甸综合,http://zhangkx717.cn:9999/rtp/239.69.1.245:11112
+房县综合,http://zhangkx717.cn:9999/rtp/239.69.1.192:10794
+阳新综合,http://zhangkx717.cn:9999/rtp/239.69.1.34:9844
 
 
 湖北公共新闻,http://111.48.34.138/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230441/1.m3u8
@@ -701,23 +701,23 @@ IPTV爱上4K,http://www.photoby.us:28012/rtp/239.3.1.236:2000
 IPTV精选,http://www.photoby.us:28012/rtp/239.3.1.74:4120
 IPTV家庭影院,http://www.photoby.us:28012/rtp/239.3.1.93:4120
 
-IPTV影视,http://www.x1x.bid:5146/rtp/239.3.1.88:4120
-IPTV4K超清,http://www.x1x.bid:5146/rtp/239.3.1.249:8001
-IPTV淘剧场,http://www.x1x.bid:5146/rtp/239.3.1.95:8001
-IPTV淘电影,http://www.x1x.bid:5146/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://www.x1x.bid:5146/rtp/239.3.1.100:8001
-IPTV淘BABY,http://www.x1x.bid:5146/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://www.x1x.bid:5146/rtp/239.3.1.102:8001
-IPTV星影,http://www.x1x.bid:5146/rtp/239.3.1.94:4120
-IPTV城市剧场,http://www.x1x.bid:5146/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://www.x1x.bid:5146/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://www.x1x.bid:5146/rtp/239.3.1.90:4120
-IPTV古装剧场,http://www.x1x.bid:5146/rtp/239.3.1.69:4120
-IPTV热播剧场,http://www.x1x.bid:5146/rtp/239.3.1.194:9020
-IPTV经典电影,http://www.x1x.bid:5146/rtp/239.3.1.195:9024
-IPTV爱上4K,http://www.x1x.bid:5146/rtp/239.3.1.236:2000
-IPTV精选,http://www.x1x.bid:5146/rtp/239.3.1.74:4120
-IPTV家庭影院,http://www.x1x.bid:5146/rtp/239.3.1.93:4120
+IPTV影视,http://vpn.famcloud.top:9878/rtp/239.3.1.88:4120
+IPTV4K超清,http://vpn.famcloud.top:9878/rtp/239.3.1.249:8001
+IPTV淘剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.95:8001
+IPTV淘电影,http://vpn.famcloud.top:9878/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://vpn.famcloud.top:9878/rtp/239.3.1.100:8001
+IPTV淘BABY,http://vpn.famcloud.top:9878/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://vpn.famcloud.top:9878/rtp/239.3.1.102:8001
+IPTV星影,http://vpn.famcloud.top:9878/rtp/239.3.1.94:4120
+IPTV城市剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.90:4120
+IPTV古装剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.69:4120
+IPTV热播剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.194:9020
+IPTV经典电影,http://vpn.famcloud.top:9878/rtp/239.3.1.195:9024
+IPTV爱上4K,http://vpn.famcloud.top:9878/rtp/239.3.1.236:2000
+IPTV精选,http://vpn.famcloud.top:9878/rtp/239.3.1.74:4120
+IPTV家庭影院,http://vpn.famcloud.top:9878/rtp/239.3.1.93:4120
 
 IPTV影视,http://vpn.5kong.work:18888/rtp/239.3.1.88:4120
 IPTV4K超清,http://vpn.5kong.work:18888/rtp/239.3.1.249:8001
@@ -946,19 +946,19 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 IPTV少儿动画,http://laiboy.myds.me:58686/rtp/239.3.1.199:9000
 IPTV少儿动画,http://lyayun.dedyn.io:61612/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.photoby.us:28012/rtp/239.3.1.199:9000
-IPTV少儿动画,http://www.x1x.bid:5146/rtp/239.3.1.199:9000
+IPTV少儿动画,http://vpn.famcloud.top:9878/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://laiboy.myds.me:58686/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://lyayun.dedyn.io:61612/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.photoby.us:28012/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://www.x1x.bid:5146/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://vpn.famcloud.top:9878/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
 
 IPTV早教,http://laiboy.myds.me:58686/rtp/239.3.1.79:4120
 IPTV早教,http://lyayun.dedyn.io:61612/rtp/239.3.1.79:4120
 IPTV早教,http://www.photoby.us:28012/rtp/239.3.1.79:4120
-IPTV早教,http://www.x1x.bid:5146/rtp/239.3.1.79:4120
+IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
 
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
@@ -1040,11 +1040,11 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://www.photoby.us:28012/rtp/239.3.1.76:4120
 
 
-中国交通,http://www.x1x.bid:5146/rtp/239.3.1.188:8001
-好学生,http://www.x1x.bid:5146/rtp/239.3.1.81:4120
-鉴赏,http://www.x1x.bid:5146/rtp/239.3.1.82:4120
-墨宝,http://www.x1x.bid:5146/rtp/239.3.1.83:4120
-军事,http://www.x1x.bid:5146/rtp/239.3.1.76:4120
+中国交通,http://vpn.famcloud.top:9878/rtp/239.3.1.188:8001
+好学生,http://vpn.famcloud.top:9878/rtp/239.3.1.81:4120
+鉴赏,http://vpn.famcloud.top:9878/rtp/239.3.1.82:4120
+墨宝,http://vpn.famcloud.top:9878/rtp/239.3.1.83:4120
+军事,http://vpn.famcloud.top:9878/rtp/239.3.1.76:4120
 
 
 中国交通,http://vpn.5kong.work:18888/rtp/239.3.1.188:8001
