@@ -353,9 +353,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8
 凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
 
-凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
-凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
@@ -366,7 +363,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,https://a3f1b2.kylintv.tv/live/tvs_iphone.m3u8
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
@@ -385,7 +381,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
-海峡卫视,https://a3f1b2.kylintv.tv/live/fjstv_iphone.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 
@@ -619,7 +614,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
 
-中国电影,https://a3f1b2.kylintv.tv/live/chinamovie_iphone.m3u8
+中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
