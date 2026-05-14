@@ -2342,6 +2342,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659
 王者荣耀4,https://cdn-3.ttvb.eu.org/douyin/317416923097
 王者荣耀5,https://cdn-3.ttvb.eu.org/douyin/502877246398
 王者荣耀6,https://cdn-3.ttvb.eu.org/douyin/526843978131
+王者荣耀7,https://cdn-3.ttvb.eu.org/douyin/571312126406
 王者荣耀挑战者杯1,https://cdn-3.ttvb.eu.org/douyin/404211193396
 王者荣耀挑战者杯2,https://cdn-3.ttvb.eu.org/douyin/113363573672
 红警游戏1,https://cdn-3.ttvb.eu.org/douyin/650011006629
