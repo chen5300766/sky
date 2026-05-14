@@ -202,6 +202,9 @@ CCTV文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
 CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
 
+CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
+CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
+
 CCTV风云剧场,http://115.190.252.60/gd.php?id=1049
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
