@@ -1163,7 +1163,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://live.ottiptv.cc/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
 火影疾风传1,https://live.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
-火影忍者,https://www.goodiptv.club/huya/29465866#https://live.ottiptv.cc/huya/29465866#http://cfss.cc/cdn/huya/23734243.flv
+火影忍者,https://www.goodiptv.club/huya/29465866#https://live.ottiptv.cc/huya/29465866#http://cfss.cc/cdn/huya/29465866.flv
 成龙历险记,https://live.ottiptv.cc/douyu/2287949#https://live.ottiptv.cc/huya/11352946#https://isus.cc/php/douyu.php?id=2287949#https://www.goodiptv.club/huya/11352946#https://live.ottiptv.cc/huya/11352946#http://cfss.cc/cdn/huya/11352946.flv
 快来看动画,https://live.ottiptv.cc/douyu/12144115#https://isus.cc/php/douyu.php?id=12144115#https://www.goodiptv.club/douyu/12144115
 厨神小当家,https://www.goodiptv.club/huya/24257300#https://live.ottiptv.cc/huya/24257300#http://cfss.cc/cdn/huya/24257300.flv
@@ -1196,7 +1196,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 晓妞动漫花园,https://live.ottiptv.cc/douyu/426517#https://isus.cc/php/douyu.php?id=426517#https://www.goodiptv.club/douyu/426517
 网球王子,https://www.goodiptv.club/huya/11352882#https://live.ottiptv.cc/huya/11352882#http://cfss.cc/cdn/huya/11352882.flv
 二次元的世界里有我的梦想和青春,https://www.goodiptv.club/huya/21059614#https://live.ottiptv.cc/huya/21059614#http://cfss.cc/cdn/huya/21059614.flv
-齐神,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
 完美世界,https://www.goodiptv.club/huya/11336579#https://live.ottiptv.cc/huya/11336579#http://cfss.cc/cdn/huya/11336579.flv
 哆啦A梦,https://www.goodiptv.club/huya/11601963#https://live.ottiptv.cc/huya/29982795#https://www.goodiptv.club/huya/11601963#https://www.goodiptv.club/huya/29982795#http://cfss.cc/cdn/huya/11601963.flv#http://cfss.cc/cdn/huya/29982795.flv
 开心锤锤,https://live.ottiptv.cc/douyu/9018297#https://isus.cc/php/douyu.php?id=9018297#https://www.goodiptv.club/douyu/9018297
@@ -1279,10 +1278,17 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 西游新传奇,https://www.goodiptv.club/huya/20985765#https://live.ottiptv.cc/huya/20985765#http://cfss.cc/cdn/huya/20985765.flv
 紫川——戎马一生 归去何从,https://www.goodiptv.club/huya/29982661#https://live.ottiptv.cc/huya/29982661#http://cfss.cc/cdn/huya/29982661.flv
 eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ottiptv.cc/huya/20985862#http://cfss.cc/cdn/huya/20985862.flv
-鬼面之刃,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
+鬼灭之刃,https://www.goodiptv.club/huya/29982624#https://live.ottiptv.cc/huya/29982624#http://cfss.cc/cdn/huya/29982624.flv
+LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/huya/880203#http://cfss.cc/cdn/huya/880203.flv
+城市猎人动漫,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
+防风少年,https://www.goodiptv.club/huya/11352961#hhttps://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
+
 
 
 ❤️虎牙影院,#genre#
+海星puff的直播间,https://www.goodiptv.club/huya/20432221#https://live.ottiptv.cc/huya/20432221#http://cfss.cc/cdn/huya/20432221.flv
+小虎牙-jPhz6R8hIC的直播间,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
+我叫Laughing哥的直播间,https://www.goodiptv.club/huya/23734243#https://live.ottiptv.cc/huya/23734243#http://cfss.cc/cdn/huya/23734243.flv
 被窝侠的直播间,https://www.goodiptv.club/huya/29465897#https://live.ottiptv.cc/huya/29465897#http://cfss.cc/cdn/huya/29465897.flv
 愤怒的洋羊的直播间,https://www.goodiptv.club/huya/20985857#https://live.ottiptv.cc/huya/20985857#http://cfss.cc/cdn/huya/20985857.flv
 田园生活分享的直播间,https://www.goodiptv.club/huya/20969145#https://live.ottiptv.cc/huya/20969145#http://cfss.cc/cdn/huya/20969145.flv
@@ -1633,12 +1639,12 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 扫黑风暴,https://www.goodiptv.club/huya/11342404#hhttps://live.ottiptv.cc/huya/11342404#http://cfss.cc/cdn/huya/11342404.flv
 摩天大楼,https://www.goodiptv.club/huya/651536#https://live.ottiptv.cc/huya/651536#http://cfss.cc/cdn/huya/651536.flv
 新洛神,https://www.goodiptv.club/huya/21241770#https://live.ottiptv.cc/huya/21241770#http://cfss.cc/cdn/huya/21241770.flv
-港剧,https://www.goodiptv.club/huya/23734256#https://live.ottiptv.cc/huya/23734256#http://cfss.cc/cdn/huya/23734256.flv
+港剧1,https://www.goodiptv.club/huya/23734256#https://live.ottiptv.cc/huya/23734256#http://cfss.cc/cdn/huya/23734256.flv
+港剧2,https://www.goodiptv.club/huya/23903142#https://live.ottiptv.cc/huya/23903142#http://cfss.cc/cdn/huya/23903142.flv
 喜剧片,https://www.goodiptv.club/huya/30771569#https://live.ottiptv.cc/huya/30771569#http://cfss.cc/cdn/huya/30771569.flv
 影视剧,https://www.goodiptv.club/huya/30158546#https://live.ottiptv.cc/huya/30158546#http://cfss.cc/cdn/huya/30158546.flv
 菲菲影视剧,https://www.goodiptv.club/huya/30671959#https://live.ottiptv.cc/huya/30671959#http://cfss.cc/cdn/huya/30671959.flv
 风声,https://www.goodiptv.club/huya/21059605#https://live.ottiptv.cc/huya/21059605#http://cfss.cc/cdn/huya/21059605.flv
-泡沫之夏--徐熙媛,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
 快乐星球,https://www.goodiptv.club/huya/21059600#https://live.ottiptv.cc/huya/21059600#http://cfss.cc/cdn/huya/21059600.flv
 微微一笑很倾城,https://www.goodiptv.club/huya/26355857#https://live.ottiptv.cc/huya/26355857#http://cfss.cc/cdn/huya/26355857.flv
 长大的我们,https://www.goodiptv.club/huya/30080176#https://live.ottiptv.cc/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
@@ -1654,7 +1660,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 终极三国,https://www.goodiptv.club/huya/21059562#https://live.ottiptv.cc/huya/21059562#http://cfss.cc/cdn/huya/21059562.flv
 编辑部的故事,https://www.goodiptv.club/huya/21059591#https://live.ottiptv.cc/huya/21059591#http://cfss.cc/cdn/huya/21059591.flv
 炊事班的故事第三部,https://www.goodiptv.club/huya/19524135#https://live.ottiptv.cc/huya/19524135#http://cfss.cc/cdn/huya/19524135.flv
-特工卡特第一季,https://www.goodiptv.club/huya/11352961#hhttps://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
 韩国电影,https://www.goodiptv.club/huya/11352884#https://live.ottiptv.cc/huya/11352884#http://cfss.cc/cdn/huya/11352884.flv
 全职高手,https://www.goodiptv.club/huya/11352901#https://live.ottiptv.cc/huya/11352901#http://cfss.cc/cdn/huya/11352901.flv
 太极宗师,https://www.goodiptv.club/huya/11342438#https://live.ottiptv.cc/huya/11342438#http://cfss.cc/cdn/huya/11342438.flv
@@ -1804,7 +1809,6 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 拳皇98-1,https://www.goodiptv.club/huya/17167271#https://live.ottiptv.cc/huya/17167271#http://cfss.cc/cdn/huya/17167271.flv
 拳皇98-2,https://www.goodiptv.club/huya/24723921#https://live.ottiptv.cc/huya/24723921#http://cfss.cc/cdn/huya/24723921.flv
 壹车的直播间,https://www.goodiptv.club/huya/20969124#https://live.ottiptv.cc/huya/20969124#http://cfss.cc/cdn/huya/20969124.flv
-让人痴迷的F1赛车,https://www.goodiptv.club/huya/23734243#https://live.ottiptv.cc/huya/23734243#http://cfss.cc/cdn/huya/23734243.flv
 
 
 ❤️斗鱼影院,#genre#
@@ -2103,7 +2107,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 猛兽列车,https://live.ottiptv.cc/yy/1414853669#https://www.goodiptv.club/yy/1414853669
 史诗级科幻电影-阿凡达,https://live.ottiptv.cc/yy/1382735577#https://www.goodiptv.club/yy/1382735577
 电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#https://live.ottiptv.cc/yy/1382735571#https://www.goodiptv.club/yy/1382735571
-详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://www.goodiptv.club/yy/1382851137
+法国版---家有儿女,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://www.goodiptv.club/yy/1382851137
 百团大战,https://live.ottiptv.cc/yy/1382736871#https://www.goodiptv.club/yy/1382736871
 生死极速救援,https://live.ottiptv.cc/yy/1382736719#https://www.goodiptv.club/yy/1382736719
 绝地生死营救,https://live.ottiptv.cc/yy/1354936214#https://www.goodiptv.club/yy/1354936214
