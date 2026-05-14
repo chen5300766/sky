@@ -542,9 +542,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
-广东体育	http://gmxw.7766.org:808/hls/2/index.m3u8
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
+
 
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -572,6 +572,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://112.92.129.96:9898/hls/139/index.m3u8
 劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡电视影院,#genre#
