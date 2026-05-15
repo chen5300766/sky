@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-14,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-15,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -262,6 +262,8 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
+中央新影-中学生,http://106.118.123.141:1234/708869532
+中央新影-中学生,http://171.211.12.81:7788/708869532
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
@@ -275,6 +277,9 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
 中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
 
+
+中央新影-发现之旅,http://106.118.123.141:1234/624878970
+中央新影-发现之旅,http://171.211.12.81:7788/624878970
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
@@ -355,8 +360,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
-
-大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
+大湾区卫视,http://106.118.123.141:1234/608917627
+大湾区卫视,http://171.211.12.81:7788/608917627
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
@@ -365,7 +370,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
-
+农林卫视,http://171.211.12.81:7788/956904896
+农林卫视,http://106.118.123.141:1234/956904896
 农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
@@ -376,8 +382,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 
+
+海峡卫视,http://171.211.12.81:7788/849119120
+海峡卫视,http://106.118.123.141:1234/849119120
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
+
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
@@ -606,6 +616,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
+东方影视,http://106.118.123.141:1234/617290047
+东方影视,http://171.211.12.81:7788/617290047
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
 
@@ -789,6 +801,17 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?tv.sohu.blog
 
 黑莓电影,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221225567/1.m3u8
+
+
+经典香港电影,http://171.211.12.81:7788/625703337
+抗战经典影片,http://171.211.12.81:7788/617432318
+新片放映厅,http://171.211.12.81:7788/619495952
+
+
+经典香港电影,http://106.118.123.141:1234/625703337
+抗战经典影片,http://106.118.123.141:1234/617432318
+新片放映厅,http://106.118.123.141:1234/619495952
+
 
 
 📡iHOT影院,#genre#
@@ -1117,6 +1140,8 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 爱宠宠物,http://www.zhms.tk:5050/rtp/239.94.1.145:5140
 
 
+中华特产,http://171.211.12.81:7788/959986618
+中华特产,http://106.118.123.141:1234/959986618
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
