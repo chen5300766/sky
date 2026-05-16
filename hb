@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-15,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-16,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -590,6 +590,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 1905电影网环球经典,http://129.211.14.102:25000/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&token=www.9kds.com
 1905电影网流金岁月,http://129.211.14.102:25000/1905.php?t=1&id=LIVEOYY31H24H48NE&token=www.9kds.com
 
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
 
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
@@ -642,11 +645,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 红色影院,http://dx.yanbingg.com:1888/rtp/239.94.1.48:5140
 
 
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
-
-IPTV影视,http://laiboy.myds.me:58686/rtp/239.3.1.88:4120
+红色影院,http://laiboy.myds.me:58686/rtp/239.3.1.88:4120
 IPTV4K超清,http://laiboy.myds.me:58686/rtp/239.3.1.249:8001
 IPTV淘剧场,http://laiboy.myds.me:58686/rtp/239.3.1.95:8001
 IPTV淘电影,http://laiboy.myds.me:58686/rtp/239.3.1.250:8001
@@ -665,7 +665,7 @@ IPTV精选,http://laiboy.myds.me:58686/rtp/239.3.1.74:4120
 IPTV家庭影院,http://laiboy.myds.me:58686/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://lyayun.dedyn.io:61612/rtp/239.3.1.88:4120
+红色影院,http://lyayun.dedyn.io:61612/rtp/239.3.1.88:4120
 IPTV4K超清,http://lyayun.dedyn.io:61612/rtp/239.3.1.249:8001
 IPTV淘剧场,http://lyayun.dedyn.io:61612/rtp/239.3.1.95:8001
 IPTV淘电影,http://lyayun.dedyn.io:61612/rtp/239.3.1.250:8001
@@ -684,7 +684,7 @@ IPTV精选,http://lyayun.dedyn.io:61612/rtp/239.3.1.74:4120
 IPTV家庭影院,http://lyayun.dedyn.io:61612/rtp/239.3.1.93:4120
 
 
-IPTV影视,http://www.photoby.us:28012/rtp/239.3.1.88:4120
+红色影院,http://www.photoby.us:28012/rtp/239.3.1.88:4120
 IPTV4K超清,http://www.photoby.us:28012/rtp/239.3.1.249:8001
 IPTV淘剧场,http://www.photoby.us:28012/rtp/239.3.1.95:8001
 IPTV淘电影,http://www.photoby.us:28012/rtp/239.3.1.250:8001
@@ -702,7 +702,7 @@ IPTV爱上4K,http://www.photoby.us:28012/rtp/239.3.1.236:2000
 IPTV精选,http://www.photoby.us:28012/rtp/239.3.1.74:4120
 IPTV家庭影院,http://www.photoby.us:28012/rtp/239.3.1.93:4120
 
-IPTV影视,http://vpn.famcloud.top:9878/rtp/239.3.1.88:4120
+红色影院,http://vpn.famcloud.top:9878/rtp/239.3.1.88:4120
 IPTV4K超清,http://vpn.famcloud.top:9878/rtp/239.3.1.249:8001
 IPTV淘剧场,http://vpn.famcloud.top:9878/rtp/239.3.1.95:8001
 IPTV淘电影,http://vpn.famcloud.top:9878/rtp/239.3.1.250:8001
@@ -720,7 +720,7 @@ IPTV爱上4K,http://vpn.famcloud.top:9878/rtp/239.3.1.236:2000
 IPTV精选,http://vpn.famcloud.top:9878/rtp/239.3.1.74:4120
 IPTV家庭影院,http://vpn.famcloud.top:9878/rtp/239.3.1.93:4120
 
-IPTV影视,http://vpn.5kong.work:18888/rtp/239.3.1.88:4120
+红色影院,http://vpn.5kong.work:18888/rtp/239.3.1.88:4120
 IPTV4K超清,http://vpn.5kong.work:18888/rtp/239.3.1.249:8001
 IPTV淘剧场,http://vpn.5kong.work:18888/rtp/239.3.1.95:8001
 IPTV淘电影,http://vpn.5kong.work:18888/rtp/239.3.1.250:8001
