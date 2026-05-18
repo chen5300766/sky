@@ -787,6 +787,7 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
+影视剧,http://shidai1.dynv6.net:4000/rtp/239.254.96.95:8716
 影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
 影视剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
 
@@ -942,6 +943,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
+海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
 
 广东少儿,http://113.90.244.120:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
