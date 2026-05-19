@@ -2059,6 +2059,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.ottiptv.cc/yy/1382749890#https://www.goodiptv.club/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.ottiptv.cc/yy/1382736816#https://www.goodiptv.club/yy/1382736816
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.ottiptv.cc/yy/1382736917#https://www.goodiptv.club/yy/1382736917
+破案港剧,https://live.ottiptv.cc/yy/1350670730#https://www.goodiptv.club/yy/1350670730
 高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#https://live.ottiptv.cc/yy/1382851586#https://www.goodiptv.club/yy/1382851586
 举起手来,https://live.ottiptv.cc/yy/1382736877#https://www.goodiptv.club/yy/1382736877
 案发现场,https://live.ottiptv.cc/yy/22089862#http://cfss.cc/cdn/yy/22089862.flv#https://www.goodiptv.club/yy/22089862
@@ -2077,11 +2078,13 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 陈情令,https://live.ottiptv.cc/yy/1382745121#https://www.goodiptv.club/yy/1382745121
 速度与激情全集,https://live.ottiptv.cc/yy/1382749892#https://www.goodiptv.club/yy/1382749892
 速度与激情全集,https://live.ottiptv.cc/yy/1382736911#https://www.goodiptv.club/yy/1382736911
+超能英雄护全城,https://live.ottiptv.cc/yy/1382736844#https://www.goodiptv.club/yy/1382736844
 封神：祸商,https://live.ottiptv.cc/yy/1354932407#https://www.goodiptv.club/yy/1354932407
 倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.ottiptv.cc/yy/1414846486#https://www.goodiptv.club/yy/1414846486
 少年包青天,https://live.ottiptv.cc/yy/1356043677#https://www.goodiptv.club/yy/1356043677
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814#https://www.goodiptv.club/yy/1382736814
 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540#https://www.goodiptv.club/yy/1382851540
+新白娘子4K高清,https://live.ottiptv.cc/yy/1508961855#https://www.goodiptv.club/yy/1508961855
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.ottiptv.cc/yy/1354931631#https://www.goodiptv.club/yy/1354931631
 欢天喜地七仙女,http://cfss.cc/cdn/yy/1382735553.flv#https://live.ottiptv.cc/yy/1382735553#https://www.goodiptv.club/yy/1382735553
 新白娘子传奇,https://live.ottiptv.cc/yy/1508902755#https://www.goodiptv.club/yy/1508902755
