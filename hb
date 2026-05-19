@@ -1104,9 +1104,9 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 环球旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
 环球旅游,http://www.yanbingg.com:1888/rtp/239.94.1.147:5140
 环球旅游,http://www.zhms.tk:5050/rtp/239.94.1.147:5140
+环球旅游,http://mp1.negative.top:50000/rtp/233.50.202.31:5140
 
 
-环球旅游	http://mp1.negative.top:50000/rtp/233.50.202.31:5140
 求索纪录,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.142:5140
 求索纪录,http://www.lb5221111.asia:2222/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
