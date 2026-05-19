@@ -2039,7 +2039,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 地下交通站,https://live.ottiptv.cc/yy/1353428972#https://www.goodiptv.club/yy/1353428972#https://live.ottiptv.cc/yy/1382736795#https://www.goodiptv.club/yy/1382736795
 特种兵之火凤凰,http://cfss.cc/cdn/yy/1463088777.flv#https://live.ottiptv.cc/yy/1463088777#https://www.goodiptv.club/yy/1463088777
 大侦探霍桑,http://cfss.cc/cdn/yy/1382737886.flv#https://live.ottiptv.cc/yy/1382737886#https://www.goodiptv.club/yy/1382737886
-神探狄仁杰第一部,https://live.ottiptv.cc/yy/1382851575#https://live.ottiptv.cc/yy/1354930934#https://www.goodiptv.club/yy/1354930934
+神探狄仁杰第一部,https://live.ottiptv.cc/yy/1382851575#https://www.goodiptv.club/yy/1382851575#https://live.ottiptv.cc/yy/1354930934#https://www.goodiptv.club/yy/1354930934
 神探狄仁杰第二部,https://live.ottiptv.cc/yy/1382851146#https://www.goodiptv.club/yy/1382851146#https://live.ottiptv.cc/yy/1382736907#https://www.goodiptv.club/yy/1382736907
 神探狄仁杰1-5部,http://cfss.cc/cdn/yy/1382705592.flv#https://live.ottiptv.cc/yy/1382705592#https://www.goodiptv.club/yy/1382705592
 燕双鹰,https://live.ottiptv.cc/yy/1352227153#https://www.goodiptv.club/yy/1352227153
