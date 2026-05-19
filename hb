@@ -598,7 +598,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-重温经典,http://1.197.203.33:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
@@ -625,7 +625,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
-峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
 峨眉电影,http://www.lb5221111.asia:2222/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
@@ -1139,8 +1140,8 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 爱宠宠物,http://www.zhms.tk:5050/rtp/239.94.1.145:5140
 
 
-中华特产,http://182.103.27.235:1234/959986618
 中华特产,http://14.153.176.89:1234/959986618
+中华特产,http://116.147.148.243:9000/959986618
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
