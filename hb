@@ -31,6 +31,7 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 
 📡稳定源,#genre#
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 档干教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
@@ -618,6 +619,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://www.stoneshi1984.ren:58120/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
+
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
 
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
