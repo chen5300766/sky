@@ -756,7 +756,6 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
-精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
 精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
 精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
