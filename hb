@@ -209,10 +209,7 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
 CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
 
-CCTV风云剧场,http://115.190.252.60/gd.php?id=1049
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
 CCTV风云剧场,http://www.zlizi.cn:4023/rtp/239.76.254.50:9000
 CCTV文化精品,http://www.zlizi.cn:4023/rtp/239.76.254.56:9000
@@ -371,17 +368,13 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://14.153.176.89:1234/608917627
 大湾区卫视,http://182.103.27.235:1234/608917627
-大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
-大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
-大湾区卫视,http://112.92.129.96:9898/hls/8/index.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
 农林卫视,http://182.103.27.235:1234/956904896
 农林卫视,http://14.153.176.89:1234/956904896
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
@@ -549,12 +542,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
-广东体育,http://113.90.244.120:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://113.64.147.242:8081/hls/1/index.m3u8
-广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
-广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
-广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
+
 广东体育,http://r.jdshipin.com/LiYdg
 
 
@@ -581,9 +569,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-劲爆体育,http://112.92.129.96:9898/hls/139/index.m3u8
-劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -604,13 +589,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
-重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
-重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 
 
@@ -637,8 +619,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
-峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
 峨眉电影,http://www.lb5221111.asia:2222/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
@@ -955,7 +935,6 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
 
-广东少儿,http://113.90.244.120:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
@@ -1075,7 +1054,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
-中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
@@ -1093,8 +1071,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
-新视觉,http://112.92.129.96:9898/hls/107/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
@@ -1149,8 +1125,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 中华特产,http://14.153.176.89:1234/959986618
 中华特产,http://116.147.148.243:9000/959986618
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
-
-纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
 
 
 📡百视通系列,#genre#
