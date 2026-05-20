@@ -588,6 +588,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
+1905环球经典,http://39.96.223.196:10002/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261
+1905流金岁月,http://39.96.223.196:10002/1905.php?t=1&id=LIVEOYY31H24H48NE
+
+
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
