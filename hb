@@ -157,6 +157,14 @@ CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 
 
+东森中国,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2003/playlist.m3u8
+民视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4013/playlist.m3u8
+中旺电视,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4010/playlist.m3u8
+TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3u8
+东森美洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2016/playlist.m3u8
+
+
 TVB翡翠,http://120.238.5.44:1698/hls/83/index.m3u8
 TVB明珠,http://120.238.5.44:1698/hls/84/index.m3u8
 TVB星河,http://120.238.5.44:1698/hls/88/index.m3u8
