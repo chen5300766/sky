@@ -286,6 +286,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://14.153.176.89:1234/624878970
 中央新影-发现之旅,http://182.103.27.235:1234/624878970
+中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
@@ -368,6 +369,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://14.153.176.89:1234/608917627
 大湾区卫视,http://182.103.27.235:1234/608917627
+大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
 大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
@@ -543,6 +545,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
+广东体育,http://171.38.149.104:8082/tsfile/live/1006_1.m3u8
+广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 
 
@@ -589,12 +593,18 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+重温经典,http://171.38.149.104:8082/tsfile/live/1031_1.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 
+
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
+
+
+广东影视,http://171.38.149.104:8082/tsfile/live/1043_1.m3u8
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
@@ -730,6 +740,9 @@ IPTV经典电影,http://vpn.5kong.work:18888/rtp/239.3.1.195:9024
 IPTV爱上4K,http://vpn.5kong.work:18888/rtp/239.3.1.236:2000
 IPTV精选,http://vpn.5kong.work:18888/rtp/239.3.1.74:4120
 IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
+
+亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
+欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
 邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
 邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
@@ -931,6 +944,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 动漫秀场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230544/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230621/1.m3u8
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
+广东少儿,http://171.38.149.104:8082/tsfile/live/1034_1.m3u8
 
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
@@ -1054,6 +1068,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
+中国天气,http://171.38.149.104:8082/tsfile/live/1007_1.m3u8
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
@@ -1074,6 +1089,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
+环球旅行,http://171.38.149.104:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://jxyxnk.x3322.net:4022/rtp/239.252.220.218:5140
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
