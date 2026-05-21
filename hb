@@ -1293,6 +1293,7 @@ LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/
 
 
 ❤️虎牙影院,#genre#
+前沿旅行社的直播间,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
 海星puff的直播间,https://www.goodiptv.club/huya/20432221#https://live.ottiptv.cc/huya/20432221#http://cfss.cc/cdn/huya/20432221.flv
 小虎牙-jPhz6R8hIC的直播间,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
 我叫Laughing哥的直播间,https://www.goodiptv.club/huya/23734243#https://live.ottiptv.cc/huya/23734243#http://cfss.cc/cdn/huya/23734243.flv
@@ -1778,7 +1779,6 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 王牌综艺,https://www.goodiptv.club/huya/29982625#https://live.ottiptv.cc/huya/29982625#http://cfss.cc/cdn/huya/29982625.flv
 欢乐喜剧人第七季,https://www.goodiptv.club/huya/30080194#https://live.ottiptv.cc/huya/30080194#http://cfss.cc/cdn/huya/30080194.flv
 中国通史,https://live.ottiptv.cc/huya/20985822#http://cfss.cc/cdn/huya/20985822.flv
-宝藏,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
 重温春晚爆笑经典小品,https://www.goodiptv.club/huya/11602068#https://live.ottiptv.cc/huya/11602068#http://cfss.cc/cdn/huya/11602068.flv
 英雄联盟赛事,https://www.goodiptv.club/huya/660000#https://live.ottiptv.cc/huya/660000#http://cfss.cc/cdn/huya/660000.flv
 永劫无间赛事,https://www.goodiptv.club/huya/660115#https://live.ottiptv.cc/huya/660115#http://cfss.cc/cdn/huya/660115.flv
@@ -1816,6 +1816,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 拳皇98-1,https://www.goodiptv.club/huya/17167271#https://live.ottiptv.cc/huya/17167271#http://cfss.cc/cdn/huya/17167271.flv
 拳皇98-2,https://www.goodiptv.club/huya/24723921#https://live.ottiptv.cc/huya/24723921#http://cfss.cc/cdn/huya/24723921.flv
 壹车的直播间,https://www.goodiptv.club/huya/20969124#https://live.ottiptv.cc/huya/20969124#http://cfss.cc/cdn/huya/20969124.flv
+犯罪案件大合集,https://www.goodiptv.club/huya/26355785#https://live.ottiptv.cc/huya/26355785#http://cfss.cc/cdn/huya/26355785.flv
 
 
 ❤️斗鱼影院,#genre#
