@@ -1832,6 +1832,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 港剧5,https://live.ottiptv.cc/douyu/5061550#https://isus.cc/php/douyu.php?id=5061550#https://www.goodiptv.club/douyu/5061550
 电视剧、电影,https://live.ottiptv.cc/douyu/9838414#https://isus.cc/php/douyu.php?id=9838414#https://www.goodiptv.club/douyu/9838414
 影视剧,https://live.ottiptv.cc/douyu/9242659#https://isus.cc/php/douyu.php?id=9242659#https://www.goodiptv.club/douyu/9242659
+80后的电影情怀,https://live.ottiptv.cc/douyu/491253#https://isus.cc/php/douyu.php?id=491253#https://www.goodiptv.club/douyu/491253
 贝贝影视,https://live.ottiptv.cc/douyu/431460#https://isus.cc/php/douyu.php?id=431460#https://www.goodiptv.club/douyu/431460
 橙記-弹幕看剧间,https://live.ottiptv.cc/douyu/4549169#https://isus.cc/php/douyu.php?id=4549169#https://www.goodiptv.club/douyu/4549169
 经典老剧,https://live.ottiptv.cc/douyu/12015111#https://isus.cc/php/douyu.php?id=12015111#https://www.goodiptv.club/douyu/12015111
