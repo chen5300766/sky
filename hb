@@ -203,6 +203,7 @@ CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
 CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://198.204.228.26/live/ysjp.m3u8
 
 CCTV风云剧场,http://www.zlizi.cn:4023/rtp/239.76.254.50:9000
 CCTV文化精品,http://www.zlizi.cn:4023/rtp/239.76.254.56:9000
