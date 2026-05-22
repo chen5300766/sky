@@ -943,6 +943,8 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 广东少儿,http://171.38.149.104:8082/tsfile/live/1034_1.m3u8
 
+甘肃少儿,http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
 
