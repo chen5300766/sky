@@ -375,6 +375,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 农林卫视,http://223.247.25.205:1234/956904896
 农林卫视,http://60.168.245.208:1234/956904896
+农林卫视,http://110.72.63.74:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
@@ -598,6 +599,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
+广东影视,http://110.72.63.74:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
@@ -749,6 +752,7 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+
 
 精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
@@ -1066,6 +1070,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
+中国天气,http://110.72.63.74:8181/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
