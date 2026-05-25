@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-21,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-25,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -201,6 +201,8 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
 CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
+
+CCTV风云剧场,http://60.219.193.77:9003/hls/68/index.m3u8
 
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -544,6 +546,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://198.204.228.26/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 
+
+天元围棋,http://60.219.193.77:9003/hls/73/index.m3u8
 天元围棋,http://198.204.228.26/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -1010,6 +1014,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
 
+财富天下,http://60.219.193.77:9003/hls/78/index.m3u8
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://rongrong.me:14022/rtp/233.18.204.231:5140
@@ -1070,6 +1075,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
+中国天气,http://60.219.193.77:9003/hls/76/index.m3u8
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
