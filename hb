@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-25,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-26,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -1304,6 +1304,7 @@ LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/
 
 
 ❤️虎牙影院,#genre#
+勞資ヽ尐爺的直播间,https://www.goodiptv.club/huya/11342434#https://live.ottiptv.cc/huya/11342434#http://cfss.cc/cdn/huya/11342434.flv
 前沿旅行社的直播间,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
 海星puff的直播间,https://www.goodiptv.club/huya/20432221#https://live.ottiptv.cc/huya/20432221#http://cfss.cc/cdn/huya/20432221.flv
 小虎牙-jPhz6R8hIC的直播间,https://www.goodiptv.club/huya/11352918#https://live.ottiptv.cc/huya/11352918#http://cfss.cc/cdn/huya/11352918.flv
@@ -1537,6 +1538,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 盛唐传奇,https://www.goodiptv.club/huya/21059632#https://live.ottiptv.cc/huya/21059632#http://cfss.cc/cdn/huya/21059632.flv
 武媚娘传奇,https://www.goodiptv.club/huya/880207#https://live.ottiptv.cc/huya/880207#http://cfss.cc/cdn/huya/880207.flv
 麻雀,https://www.goodiptv.club/huya/30307160#https://live.ottiptv.cc/huya/30307160#http://cfss.cc/cdn/huya/30307160.flv
+上海滩,https://www.goodiptv.club/huya/29465899#https://live.ottiptv.cc/huya/29465899#http://cfss.cc/cdn/huya/29465899.flv
 重温儿时经典-三毛流浪记,https://www.goodiptv.club/huya/20985799#https://live.ottiptv.cc/huya/20985799#http://cfss.cc/cdn/huya/20985799.flv
 爱情公寓,https://www.goodiptv.club/huya/11336726#https://live.ottiptv.cc/huya/11336726#http://cfss.cc/cdn/huya/11336726.flv
 家有儿女,https://www.goodiptv.club/huya/11352872#https://live.ottiptv.cc/huya/11352872#http://cfss.cc/cdn/huya/11352872.flv#https://www.goodiptv.club/huya/30523326#https://live.ottiptv.cc/huya/30526426#http://cfss.cc/cdn/huya/30526426.flv#https://www.goodiptv.club/huya/30664021#https://live.ottiptv.cc/huya/30664021#http://cfss.cc/cdn/huya/30664021.flv
