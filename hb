@@ -252,10 +252,6 @@ CCTV文化精品,http://lj.kuail8.com:4022/rtp/239.253.92.25:6104
 CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
 CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
-CCTV风云剧场,http://home.wscxy.fun:30100/rtp/233.18.204.183:5140
-CCTV文化精品,http://home.wscxy.fun:30100/rtp/233.18.204.186:5140
-
-
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
 CCTV4K,rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
@@ -538,13 +534,15 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩竞技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230371/1.m3u8
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
+
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
-五星体育,http://home.wscxy.fun:30100/rtp/233.18.204.58:5140
+五星体育,http://120.253.150.222:60000/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
+广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
 广东体育,http://198.204.228.26/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 
@@ -600,6 +598,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://198.204.228.26/live/cwjd.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.124:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -609,7 +608,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http://110.72.63.74:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-
+广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
@@ -638,8 +637,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
-东方影视,http://home.wscxy.fun:30100/rtp/233.18.204.4:5140
-
+东方影视,http://120.253.150.222:60000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
@@ -1010,7 +1008,7 @@ CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
-CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
+
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
@@ -1029,11 +1027,11 @@ CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
 
+财富天下,http://120.253.150.222:60000/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://rongrong.me:14022/rtp/233.18.204.231:5140
 财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.231:5140
-财富天下,http://home.wscxy.fun:30100/rtp/233.18.204.231:5140
 财富天下,http://www.zhms.tk:5050//rtp/239.94.1.42:5140
 财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
 财富天下,http:/jgw.ddns.seak.bid:9999//rtp/239.94.1.42:5140
