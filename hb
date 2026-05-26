@@ -552,6 +552,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://60.219.193.77:9003/hls/73/index.m3u8
+天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://198.204.228.26/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -579,6 +580,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.56:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://111.8.242.124:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡电视影院,#genre#
@@ -600,6 +602,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 重温经典,http://198.204.228.26/live/cwjd.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://111.8.242.124:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -616,6 +619,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 湖南电视剧,http://36.158.75.56:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.56:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+湖南电视剧,http://111.8.242.124:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://111.8.242.124:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南电视剧,http://36.158.75.249:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.249:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1089,6 +1095,7 @@ CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
 
 
 中国天气,http://60.219.193.77:9003/hls/76/index.m3u8
+中国天气,http://111.8.242.124:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
