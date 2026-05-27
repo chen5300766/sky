@@ -29,7 +29,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 山东卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
 
 
-
 📡稳定源,#genre#
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 档干教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
@@ -2477,7 +2476,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659
 夜场恐怖片,https://www.goodiptv.club/huya/30522289#https://live.ottiptv.cc/huya/30522289#http://cfss.cc/cdn/huya/30522289.flv
 
 
-❤️西游记,#genre#
+❤️西游记86版,#genre#
 西游记 第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
 西游记 第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
 西游记 第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
@@ -2505,7 +2504,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659
 西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
 
 
-❤️上海滩,#genre#
+❤️上海滩80版,#genre#
 上海滩 第01集,https://vip.ffzy-play1.com/20221101/7793_0936938d/index.m3u8
 上海滩 第02集,https://vip.ffzy-play1.com/20221101/7792_8c33e364/index.m3u8
 上海滩 第03集,https://vip.ffzy-play1.com/20221101/7797_db30e4e5/index.m3u8
@@ -2534,23 +2533,23 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659
 
 
 ❤️天降财神1996,#genre#
-天降财神1996 第01集,https://v6.yuglf.com/202310/26/rEPtC3M3nJ1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第02集,https://v6.yuglf.com/202310/26/D7BNwECYbe1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第03集,https://v6.yuglf.com/202310/26/0FP00gQBx91/video/2000k_1080/hls/index.m3u8
-天降财神1996 第04集,https://v6.yuglf.com/202310/26/R75ncv4F6z1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第05集,https://v6.yuglf.com/202310/26/FdpVA9N4P31/video/2000k_1080/hls/index.m3u8
-天降财神1996 第06集,https://v6.yuglf.com/202310/26/epfnMtj3j81/video/2000k_1080/hls/index.m3u8
-天降财神1996 第07集,https://v6.yuglf.com/202310/26/zhPP8kUkAf1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第08集,https://v6.yuglf.com/202310/26/w4rJ9UbGnM1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第09集,https://v6.yuglf.com/202310/26/zwNcSs1xnR1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第10集,https://v6.yuglf.com/202310/26/dUFCSzsQbb1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第11集,https://v6.yuglf.com/202310/26/htyAxWbMYk1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第12集,https://v6.yuglf.com/202310/26/XPCSSuUYsW1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第13集,https://v6.yuglf.com/202310/26/gys2Z8UK6L1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第14集,https://v6.yuglf.com/202310/26/GzqFM8cfrZ1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第15集,https://v6.yuglf.com/202310/26/v1X9EkmMky1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第16集,https://v6.yuglf.com/202310/26/cs76u7AfdH1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第17集,https://v6.yuglf.com/202310/26/fyEBTN3sZR1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第18集,https://v6.yuglf.com/202310/26/k88tTLTe2m1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第19集,https://v6.yuglf.com/202310/26/cxSANcx4aX1/video/2000k_1080/hls/index.m3u8
-天降财神1996 第20集,https://v6.yuglf.com/202310/26/CXuZSsshPt1/video/2000k_1080/hls/index.m3u8
+天降财神 第01集,https://v6.yuglf.com/202310/26/rEPtC3M3nJ1/video/2000k_1080/hls/index.m3u8
+天降财神 第02集,https://v6.yuglf.com/202310/26/D7BNwECYbe1/video/2000k_1080/hls/index.m3u8
+天降财神 第03集,https://v6.yuglf.com/202310/26/0FP00gQBx91/video/2000k_1080/hls/index.m3u8
+天降财神 第04集,https://v6.yuglf.com/202310/26/R75ncv4F6z1/video/2000k_1080/hls/index.m3u8
+天降财神 第05集,https://v6.yuglf.com/202310/26/FdpVA9N4P31/video/2000k_1080/hls/index.m3u8
+天降财神 第06集,https://v6.yuglf.com/202310/26/epfnMtj3j81/video/2000k_1080/hls/index.m3u8
+天降财神 第07集,https://v6.yuglf.com/202310/26/zhPP8kUkAf1/video/2000k_1080/hls/index.m3u8
+天降财神 第08集,https://v6.yuglf.com/202310/26/w4rJ9UbGnM1/video/2000k_1080/hls/index.m3u8
+天降财神 第09集,https://v6.yuglf.com/202310/26/zwNcSs1xnR1/video/2000k_1080/hls/index.m3u8
+天降财神 第10集,https://v6.yuglf.com/202310/26/dUFCSzsQbb1/video/2000k_1080/hls/index.m3u8
+天降财神 第11集,https://v6.yuglf.com/202310/26/htyAxWbMYk1/video/2000k_1080/hls/index.m3u8
+天降财神 第12集,https://v6.yuglf.com/202310/26/XPCSSuUYsW1/video/2000k_1080/hls/index.m3u8
+天降财神 第13集,https://v6.yuglf.com/202310/26/gys2Z8UK6L1/video/2000k_1080/hls/index.m3u8
+天降财神 第14集,https://v6.yuglf.com/202310/26/GzqFM8cfrZ1/video/2000k_1080/hls/index.m3u8
+天降财神 第15集,https://v6.yuglf.com/202310/26/v1X9EkmMky1/video/2000k_1080/hls/index.m3u8
+天降财神 第16集,https://v6.yuglf.com/202310/26/cs76u7AfdH1/video/2000k_1080/hls/index.m3u8
+天降财神 第17集,https://v6.yuglf.com/202310/26/fyEBTN3sZR1/video/2000k_1080/hls/index.m3u8
+天降财神 第18集,https://v6.yuglf.com/202310/26/k88tTLTe2m1/video/2000k_1080/hls/index.m3u8
+天降财神 第19集,https://v6.yuglf.com/202310/26/cxSANcx4aX1/video/2000k_1080/hls/index.m3u8
+天降财神 第20集,https://v6.yuglf.com/202310/26/CXuZSsshPt1/video/2000k_1080/hls/index.m3u8
