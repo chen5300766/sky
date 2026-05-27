@@ -978,6 +978,8 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://zwebl02.cztv.com/live/channel08720Pnew.m3u8?auth_key=1779868297-6595ef2dcc4b4a9d83a6429138efc6d8-0-83dea20ab31d34ce5e381f7743133606
+
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
 
