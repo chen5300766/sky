@@ -90,7 +90,7 @@ https://iptvindex.com/db.json
 
 直播源托管在Github打不开：
 
-网址前增加 https://gh-proxy.com/ 即可
+网址前增加 https://gh-proxy.com/ 或者 https://ghfast.top/即可
 
 m3u源转txt源：
 
