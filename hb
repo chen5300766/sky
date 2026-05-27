@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-26,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-27,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -572,6 +572,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.56:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -621,6 +622,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 湖南电视剧,http://36.158.75.249:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.249:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+湖南电影,http://cssbyd.imwork.net:8082/hls/18/index.m3u8
 
 湖南电视剧,http://www.zlizi.cn:4023/rtp/239.76.252.118:9000
 湖南电影,http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
