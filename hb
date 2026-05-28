@@ -377,7 +377,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://116.168.13.154:2000/956904896
 农林卫视,http://222.130.32.44:7788/956904896
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-农林卫视,http://110.72.63.74:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
@@ -544,6 +543,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://112.92.128.71:9003/hls/31/index.m3u8
+广东体育,http://183.7.16.192:8081/hls/41/index.m3u8
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
 广东体育,http://198.204.228.26/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -575,6 +575,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
+劲爆体育,http://183.7.16.192:8081/hls/68/index.m3u8
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.56:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -612,7 +613,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http://112.92.128.71:9003/hls/33/index.m3u8
-广东影视,http://110.72.63.74:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.7.16.192:8081/hls/31/index.m3u8
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
