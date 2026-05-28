@@ -1636,7 +1636,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 篮球火,https://www.goodiptv.club/huya/20985781#https://live.ottiptv.cc/huya/20985781#http://cfss.cc/cdn/huya/20985781.flv
 潜行狙击,https://www.goodiptv.club/huya/20985782#https://live.ottiptv.cc/huya/20985782#http://cfss.cc/cdn/huya/20985782.flv
 东北一家人,https://www.goodiptv.club/huya/21059634#https://live.ottiptv.cc/huya/21059634#http://cfss.cc/cdn/huya/21059634.flv
-士兵突击,https://www.goodiptv.club/huya/30704992#https://live.ottiptv.cc/huya/30704992#http://cfss.cc/cdn/huya/30704992.flv
+士兵突击,https://www.goodiptv.club/huya/30704992#https://live.ottiptv.cc/huya/30704992#http://cfss.cc/cdn/huya/30704992.flv#https://www.goodiptv.club/huya/11342430#https://live.ottiptv.cc/huya/11342430#http://cfss.cc/cdn/huya/11342430.flv
 大长今,https://www.goodiptv.club/huya/29982616#https://live.ottiptv.cc/huya/29982616#http://cfss.cc/cdn/huya/29982616.flv
 王子变青蛙,https://www.goodiptv.club/huya/11601964#https://live.ottiptv.cc/huya/11601964#http://cfss.cc/cdn/huya/11601964.flv
 神探狄仁杰/武则天,https://www.goodiptv.club/huya/31147360#https://live.ottiptv.cc/huya/31147360#http://cfss.cc/cdn/huya/31147360.flv
@@ -1653,7 +1653,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 亮剑,https://www.goodiptv.club/huya/30299082#https://live.ottiptv.cc/huya/30299082#http://cfss.cc/cdn/huya/30299082.flv
 借命而生,https://www.goodiptv.club/huya/30080145#https://live.ottiptv.cc/huya/30080145#http://cfss.cc/cdn/huya/30080145.flv
 民兵葛二蛋,https://www.goodiptv.club/huya/11602072#https://live.ottiptv.cc/huya/11602072#http://cfss.cc/cdn/huya/11602072.flv
-士兵突击,https://www.goodiptv.club/huya/11342430#https://live.ottiptv.cc/huya/11342430#http://cfss.cc/cdn/huya/11342430.flv
 庆余年1,https://www.goodiptv.club/huya/11352960#https://live.ottiptv.cc/huya/11352960#http://cfss.cc/cdn/huya/11352960.flv
 庆余年2,https://www.goodiptv.club/huya/23740156#https://live.ottiptv.cc/huya/23740156#http://cfss.cc/cdn/huya/23740156.flv
 神探狄仁杰,https://www.goodiptv.club/huya/11342425#https://live.ottiptv.cc/huya/11342425#http://cfss.cc/cdn/huya/11342425.flv#https://www.goodiptv.club/huya/11352958#https://www.goodiptv.club/huya/11352958#http://cfss.cc/cdn/huya/11352958.flv
@@ -1958,7 +1957,7 @@ Hi欣影厅,https://live.ottiptv.cc/douyu/11996166#https://isus.cc/php/douyu.php
 爱情公寓,https://live.ottiptv.cc/douyu/6863367#https://isus.cc/php/douyu.php?id=6863367#https://www.goodiptv.club/douyu/6863367#https://live.ottiptv.cc/douyu/4105989#https://isus.cc/php/douyu.php?id=4105989#https://www.goodiptv.club/douyu/4105989
 太平天国,https://live.ottiptv.cc/douyu/12068394#https://isus.cc/php/douyu.php?id=12068394#https://www.goodiptv.club/douyu/12068394
 任志飞直播间,https://live.ottiptv.cc/douyu/12501387#https://isus.cc/php/douyu.php?id=12501387#https://www.goodiptv.club/douyu/12501387
-士兵突击,https://live.ottiptv.cc/douyu/10348728#https://isus.cc/php/douyu.php?id=10348728#https://www.goodiptv.club/douyu/10348728
+士兵突击,https://live.ottiptv.cc/douyu/10348728#https://isus.cc/php/douyu.php?id=10348728#https://www.goodiptv.club/douyu/10348728#https://live.ottiptv.cc/douyu/9163452#https://isus.cc/php/douyu.php?id=9163452#https://www.goodiptv.club/douyu/9163452
 4K超高清影视剧场,https://live.ottiptv.cc/douyu/12632716#https://isus.cc/php/douyu.php?id=12632716#https://www.goodiptv.club/douyu/12632716
 林正英【久久】下饭电视剧,https://live.ottiptv.cc/douyu/8371123#https://isus.cc/php/douyu.php?id=8371123#https://www.goodiptv.club/douyu/8371123
 kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://isus.cc/php/douyu.php?id=4579455#https://www.goodiptv.club/douyu/4579455
