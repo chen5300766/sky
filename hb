@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-5-28,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-5-29,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -200,58 +200,15 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://112.92.128.71:9003/hls/22/index.m3u8
 
-CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
-CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV风云剧场,http://198.204.228.26/live/fyjc.m3u8
 CCTV文化精品,http://198.204.228.26/live/ysjp.m3u8
 
-CCTV风云剧场,http://www.zlizi.cn:4023/rtp/239.76.254.50:9000
-CCTV文化精品,http://www.zlizi.cn:4023/rtp/239.76.254.56:9000
-
-CCTV风云剧场,http://hello.ejoydom.com:9999/rtp/239.253.43.16:5146
-CCTV文化精品,http://hello.ejoydom.com:9999/rtp/239.253.43.13:5146
-
-CCTV风云剧场,http://rongrong.me:14022/rtp/233.18.204.183:5140
-CCTV文化精品,http://rongrong.me:14022/rtp/233.18.204.186:5140
-
-CCTV风云剧场,http://jxyxnk.x3322.net:4022/rtp/239.252.219.89:5140
-CCTV文化精品,http://jxyxnk.x3322.net:4022/rtp/239.252.219.81:5140
-
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
-CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
-CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
-
-CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
-CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
-
-CCTV风云剧场,http://www.andy-nas.top:8623/rtp/239.76.254.50:9000
-CCTV文化精品,http://www.andy-nas.top:8623/rtp/239.76.254.56:9000
-
-CCTV风云剧场,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.22:6073
-CCTV文化精品,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.25:6104
-
-CCTV风云剧场,http://lj.kuail8.cn:4022/rtp/239.253.92.22:6073
-CCTV文化精品,http://lj.kuail8.cn:4022/rtp/239.253.92.25:6104
-
-CCTV风云剧场,http://wmh.synology.me:6633/rtp/239.253.43.16:5146
-CCTV文化精品,http://wmh.synology.me:6633/rtp/239.253.43.13:5146
-
-CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
-CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
-
-CCTV风云剧场,http://www.liyajun.top:7088/rtp/239.253.93.251:6429
-CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
-
-CCTV风云剧场,http://lj.kuail8.com:4022/rtp/239.253.92.22:6073
-CCTV文化精品,http://lj.kuail8.com:4022/rtp/239.253.92.25:6104
-
-CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
-CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
@@ -264,36 +221,15 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-老故事,http://111.48.34.138/000000001000PLTV/88888888/224/3221230087/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 
 
-中央新影-中学生,http://222.130.32.44:7788/708869532
+中央新影-中学生,http://8.137.180.215:8899/708869532
 中央新影-中学生,http://116.168.13.154:2000/708869532
-中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
-中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
-中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
-中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
-中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
-中央新影-中学生,http://iptvcun.okoo.cc:8099/rtp/225.0.4.184:7980
-中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
-中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
-中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
 
 
-中央新影-发现之旅,http://222.130.32.44:7788/624878970
+中央新影-发现之旅,http://8.137.180.215:8899/624878970
 中央新影-发现之旅,http://116.168.13.154:2000/624878970
 中央新影-发现之旅,http://198.204.228.26/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
-中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
-中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://wmh.synology.me:6633/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -364,26 +300,18 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 
-大湾区卫视,http://222.130.32.44:7788/608917627
+大湾区卫视,http://8.137.180.215:8899/608917627
 大湾区卫视,http://116.168.13.154:2000/608917627
 大湾区卫视,http://112.92.128.71:9003/hls/32/index.m3u8
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://hello.ejoydom.com:9999/rtp/239.77.0.215:5146
-大湾区卫视,http://jason.25u.com:40222/rtp/239.81.0.32:4056
-大湾区卫视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.32:4056
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
+
 农林卫视,http://116.168.13.154:2000/956904896
-农林卫视,http://222.130.32.44:7788/956904896
+农林卫视,http://8.137.180.215:8899/956904896
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
-农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
-农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
-农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
-农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
-农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
-农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
+
 
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
@@ -553,21 +481,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://198.204.228.26/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
-天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
-天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
-天元围棋,http://www.zlizi.cn:4023/rtp/239.76.253.2:9000
-天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
-天元围棋,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
-天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
-天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
-天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
-天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://wmh.synology.me:6633/rtp/239.253.43.98:5146
-天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
-天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
-天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
-天元围棋,http://www.zhms.tk:5050/rtp/239.94.1.152:5140
+
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -630,15 +544,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 湖南电影,http://cssbyd.imwork.net:8082/hls/18/index.m3u8
 
-湖南电视剧,http://www.zlizi.cn:4023/rtp/239.76.252.118:9000
-湖南电影,http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
-
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
-陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
-陕西西部电影,http://www.stoneshi1984.ren:58120/rtp/239.109.205.217:9706
-陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
-陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
@@ -652,14 +558,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
-峨眉电影,http:/jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
-峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
-峨眉电影,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.103:5140
-峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
-峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
-峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
-峨眉电影,http://www.alphauncle.com:2715/rtp/239.0.0.9:5140
+
 
 
 红色影院,http://www.zhms.tk:5050/rtp/239.94.1.48:5140
@@ -833,9 +732,9 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 新片放映厅,http://116.168.13.154:2000/619495952
 
 
-经典香港电影,http://222.130.32.44:7788/625703337
-抗战经典影片,http://222.130.32.44:7788/617432318
-新片放映厅,http://222.130.32.44:7788/619495952
+经典香港电影,http://8.137.180.215:8899/625703337
+抗战经典影片,http://8.137.180.215:8899/617432318
+新片放映厅,http://8.137.180.215:8899/619495952
 
 
 
@@ -1169,7 +1068,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 爱宠宠物,http://www.zhms.tk:5050/rtp/239.94.1.145:5140
 
 
-中华特产,http://222.130.32.44:7788/959986618
+中华特产,http://8.137.180.215:8899/959986618
 中华特产,http://116.168.13.154:2000/959986618
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
