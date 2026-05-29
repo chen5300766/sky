@@ -500,6 +500,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+劲爆体育,http://36.158.75.239:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
 劲爆体育,http://183.7.16.192:8081/hls/68/index.m3u8
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -526,6 +527,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.56:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://198.204.228.26/live/cwjd.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -548,6 +550,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 湖南电视剧,http://36.158.75.56:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.56:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+湖南电视剧,http://36.158.75.239:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://36.158.75.239:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南电视剧,http://111.8.242.124:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://111.8.242.124:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -996,6 +1001,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
+中国天气,http://36.158.75.239:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://111.8.242.124:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
