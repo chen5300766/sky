@@ -200,6 +200,12 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 
 CCTV风云剧场,http://112.92.128.71:9003/hls/22/index.m3u8
 
+CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
+CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
+
+CCTV风云剧场,http://rongrong.me:14022/rtp/225.1.2.174:5002
+CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
+
 CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
 CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
 
@@ -564,7 +570,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
-
+峨眉电影,http://116.169.44.69:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -914,6 +920,8 @@ IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
 
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
+CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
+CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
@@ -929,6 +937,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://120.253.150.222:60000/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.41:5140
+财富天下,http://rongrong.me:14022/rtp/233.18.204.41:5140
 
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
@@ -992,7 +1002,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
-求索纪录,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.142:5140
+求索纪录,http://www.proservicetech.com.cn:8081/rtp/239.81.0.153:4056
 求索纪录,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
 求索纪录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
@@ -1009,13 +1019,9 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 求索纪录,http://www.zhms.tk:5050/rtp/239.94.1.142:5140
 
 
-家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
-家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
-家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
-家庭理财,http://dx.yanbingg.com:1888/rtp/239.94.1.50:5140
-家庭理财,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.50:5140
-家庭理财,http://wan1.tangwudi.cc:47859/rtp/239.94.1.50:5140
-家庭理财,http://www.zhms.tk:5050/rtp/239.94.1.50:5140
+家庭理财,http://cx.shscxzx.cn:8899/rtp/233.18.204.157:5140
+家庭理财,http://rongrong.me:14022/rtp/233.18.204.157:5140
+
 
 
 爱宠宠物,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.145:5140
