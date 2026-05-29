@@ -787,7 +787,7 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 全球大片,http://www.zhms.tk:5050/rtp/239.94.1.24:5140
 华语影院,http://www.zhms.tk:5050/rtp/239.94.1.22:5140
 
-全球大片,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.24:5140
+全球大片,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.24:5140
 华语影院,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.22:5140
 
 全球大片,http://wan1.tangwudi.cc:47859/rtp/239.94.1.24:5140
