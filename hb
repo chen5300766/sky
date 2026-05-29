@@ -328,6 +328,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 农林卫视,http://116.168.13.154:2000/956904896
 农林卫视,http://8.137.180.215:8899/956904896
+农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 
 
@@ -563,10 +564,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 湖南电影,http://cssbyd.imwork.net:8082/hls/18/index.m3u8
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-
+陕西西部电影,http://tiger81.i234.me:8888/rtp/239.109.205.217:9706
 
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-
 
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.4:5140
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
@@ -578,6 +578,13 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 峨眉电影,http://116.169.44.69:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
+峨眉电影,http:/jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
+峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
+峨眉电影,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.103:5140
+峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
+峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
 
 
 红色影院,http://www.zhms.tk:5050/rtp/239.94.1.48:5140
@@ -590,23 +597,23 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 
 
-红色影院,http://laiboy.myds.me:58686/rtp/239.3.1.88:4120
-IPTV4K超清,http://laiboy.myds.me:58686/rtp/239.3.1.249:8001
-IPTV淘剧场,http://laiboy.myds.me:58686/rtp/239.3.1.95:8001
-IPTV淘电影,http://laiboy.myds.me:58686/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://laiboy.myds.me:58686/rtp/239.3.1.100:8001
-IPTV淘BABY,http://laiboy.myds.me:58686/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://laiboy.myds.me:58686/rtp/239.3.1.102:8001
-IPTV星影,http://laiboy.myds.me:58686/rtp/239.3.1.94:4120
-IPTV城市剧场,http://laiboy.myds.me:58686/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://laiboy.myds.me:58686/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://laiboy.myds.me:58686/rtp/239.3.1.90:4120
-IPTV古装剧场,http://laiboy.myds.me:58686/rtp/239.3.1.69:4120
-IPTV热播剧场,http://laiboy.myds.me:58686/rtp/239.3.1.194:9020
-IPTV经典电影,http://laiboy.myds.me:58686/rtp/239.3.1.195:9024
-IPTV爱上4K,http://laiboy.myds.me:58686/rtp/239.3.1.236:2000
-IPTV精选,http://laiboy.myds.me:58686/rtp/239.3.1.74:4120
-IPTV家庭影院,http://laiboy.myds.me:58686/rtp/239.3.1.93:4120
+红色影院,http://code.yaoleyaotou.com:4022/rtp/239.3.1.88:4120
+IPTV4K超清,http://code.yaoleyaotou.com:4022/rtp/239.3.1.249:8001
+IPTV淘剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.95:8001
+IPTV淘电影,http://code.yaoleyaotou.com:4022/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://code.yaoleyaotou.com:4022/rtp/239.3.1.100:8001
+IPTV淘BABY,http://code.yaoleyaotou.com:4022/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://code.yaoleyaotou.com:4022/rtp/239.3.1.102:8001
+IPTV星影,http://code.yaoleyaotou.com:4022/rtp/239.3.1.94:4120
+IPTV城市剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.90:4120
+IPTV古装剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.69:4120
+IPTV热播剧场,http://code.yaoleyaotou.com:4022/rtp/239.3.1.194:9020
+IPTV经典电影,http://code.yaoleyaotou.com:4022/rtp/239.3.1.195:9024
+IPTV爱上4K,http://code.yaoleyaotou.com:4022/rtp/239.3.1.236:2000
+IPTV精选,http://code.yaoleyaotou.com:4022/rtp/239.3.1.74:4120
+IPTV家庭影院,http://code.yaoleyaotou.com:4022/rtp/239.3.1.93:4120
 
 
 红色影院,http://bit.famcloud.top:9878/rtp/239.3.1.88:4120
@@ -906,19 +913,19 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 
-IPTV少儿动画,http://laiboy.myds.me:58686/rtp/239.3.1.199:9000
+IPTV少儿动画,http://code.yaoleyaotou.com:4022/rtp/239.3.1.199:9000
 IPTV少儿动画,http://bit.famcloud.top:9878/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.photoby.us:28012/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.famcloud.top:9878/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
 
-IPTV宝宝动画,http://laiboy.myds.me:58686/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://code.yaoleyaotou.com:4022/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://bit.famcloud.top:9878/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.photoby.us:28012/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.famcloud.top:9878/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
 
-IPTV早教,http://laiboy.myds.me:58686/rtp/239.3.1.79:4120
+IPTV早教,http://code.yaoleyaotou.com:4022/rtp/239.3.1.79:4120
 IPTV早教,http://bit.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://www.photoby.us:28012/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
@@ -946,6 +953,7 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
 财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.41:5140
 财富天下,http://rongrong.me:14022/rtp/233.18.204.41:5140
+财富天下,http://tiger81.i234.me:8888/rtp/239.112.205.196:5140
 
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
@@ -959,11 +967,11 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 乐游,http://111.48.34.138/000000001000PLTV/88888888/224/3221230588/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230595/1.m3u8
 
 
-中国交通,http://laiboy.myds.me:58686/rtp/239.3.1.188:8001
-好学生,http://laiboy.myds.me:58686/rtp/239.3.1.81:4120
-鉴赏,http://laiboy.myds.me:58686/rtp/239.3.1.82:4120
-墨宝,http://laiboy.myds.me:58686/rtp/239.3.1.83:4120
-军事,http://laiboy.myds.me:58686/rtp/239.3.1.76:4120
+中国交通,http://code.yaoleyaotou.com:4022/rtp/239.3.1.188:8001
+好学生,http://code.yaoleyaotou.com:4022/rtp/239.3.1.81:4120
+鉴赏,http://code.yaoleyaotou.com:4022/rtp/239.3.1.82:4120
+墨宝,http://code.yaoleyaotou.com:4022/rtp/239.3.1.83:4120
+军事,http://code.yaoleyaotou.com:4022/rtp/239.3.1.76:4120
 
 
 中国交通,http://bit.famcloud.top:9878/rtp/239.3.1.188:8001
