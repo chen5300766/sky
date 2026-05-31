@@ -360,6 +360,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://8.137.180.215:8899/608917627
 大湾区卫视,http://116.168.13.154:2000/608917627
+大湾区卫视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.32:4056
 大湾区卫视,http://58.255.201.24:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -545,7 +546,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
 天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
-天元围棋,http://www.zlizi.cn:4023/rtp/239.76.253.2:9000
 天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
 天元围棋,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
@@ -770,6 +770,7 @@ IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
+精彩影视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.152:4056
 精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
 精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
@@ -1002,8 +1003,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
-CETV早期教育,http://www.zlizi.cn:4023/rtp/239.76.254.202:9000
-CETV早期教育,http://www.andy-nas.top:8623/rtp/239.76.254.202:9000
 CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
 CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
@@ -1100,12 +1099,11 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-中国天气,http://www.zlizi.cn:4023/rtp/239.76.253.61:9000
+中国天气	http://ik.zjx5106.xyz:8001/rtp/239.81.0.63:4056
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
-中国天气,http://www.andy-nas.top:8623/rtp/239.76.253.61:9000
 中国天气,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.167:5140
 中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
 中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
@@ -1133,6 +1131,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 环球旅游,http://mp1.negative.top:50000/rtp/233.50.202.31:5140
 
 
+求索纪录,http://ik.zjx5106.xyz:8001/rtp/239.81.0.153:4056
 求索纪录,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
 求索纪录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
