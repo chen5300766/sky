@@ -614,14 +614,10 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 
 中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-
+中国电影1,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 
 中国电影2,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
-
-
-峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
