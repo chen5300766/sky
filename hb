@@ -263,18 +263,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-中学生,http://8.137.180.215:8899/708869532
 中央新影-中学生,http://116.168.13.154:2000/708869532
-中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
-中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
-中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.27:6106
-中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
-中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
-中央新影-中学生,http://iptvcun.okoo.cc:8099/rtp/225.0.4.184:7980
-中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
-中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
-中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
-中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
 
 
 中央新影-发现之旅,http://8.137.180.215:8899/624878970
@@ -282,15 +270,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://192.151.150.154/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
 中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
-中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
-中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://wmh.synology.me:6633/rtp/239.77.1.112:5146
-中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://nas.zangxiaodou.cn:4022/rtp/239.253.94.30:6629
 
 
 CGTN英语,http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
@@ -369,13 +348,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://116.168.13.154:2000/956904896
 农林卫视,http://8.137.180.215:8899/956904896
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
-农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
-农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
-农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
-农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
-农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
-农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
-农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 
 
@@ -544,20 +516,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
-天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
-天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
-天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
-天元围棋,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
-天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
-天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
-天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
-天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://wmh.synology.me:6633/rtp/239.253.43.98:5146
-天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
-天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
-天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
-天元围棋,http://www.zhms.tk:5050/rtp/239.94.1.152:5140
 
 
 公牛体育1,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -1003,25 +961,10 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
-CETV早期教育,http://hello.ejoydom.com:9999/rtp/239.77.0.180:5146
-CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
-CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
-CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
-CETV早期教育,http://lj.kuail8.cn:4022/rtp/239.253.92.39:6107
-CETV早期教育,http://wmh.synology.me:6633/rtp/239.77.0.180:5146
-CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
-CETV早期教育,http://lj.kuail8.com:4022/rtp/239.253.92.39:6107
-CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
-优优宝贝,http://www.smilehome.top:4022/rtp/225.0.4.126:7980
-优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
-优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
-优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
-优优宝贝,http://iptvcun.okoo.cc:8099/rtp/225.0.4.126:7980
 
 
 📡数字电视,#genre#
@@ -1033,18 +976,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 财富天下,http://120.253.150.222:60000/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
-财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
-财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.41:5140
-财富天下,http://rongrong.me:14022/rtp/233.18.204.41:5140
-财富天下,http://tiger81.i234.me:8888/rtp/239.112.205.196:5140
-财富天下,http://www.zhms.tk:5050//rtp/239.94.1.42:5140
-财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
-财富天下,http:/jgw.ddns.seak.bid:9999//rtp/239.94.1.42:5140
-财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
-财富天下,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.42:5140
-财富天下,http://www.yanbingg.com:1888/rtp/239.94.1.42:5140
-财富天下,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.42:5140
-财富天下,http://dx.yanbingg.com:1888/rtp/239.94.1.42:5140
+
 
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
@@ -1099,18 +1031,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-中国天气	http://ik.zjx5106.xyz:8001/rtp/239.81.0.63:4056
-中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
-中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
-中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
-中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
-中国天气,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.167:5140
-中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
-中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
-中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
-中国天气,http://www.zhms.tk:5050/rtp/239.94.1.167:5140
-中国天气,http://dx.yanbingg.com:1888/rtp/239.94.1.167:5140
-中国天气,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.167:5140
+
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
