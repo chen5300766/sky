@@ -600,6 +600,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
+
+东方影视,http://8.137.180.215:8899/617290047
+东方影视,http://116.168.13.154:2000/617290047
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.4:5140
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
