@@ -976,7 +976,6 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 
-
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
 
@@ -1025,30 +1024,21 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
 
 
-中国天气,http://36.158.75.239:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-中国天气,http://111.8.242.124:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://8.137.180.215:8899/959986621
+中国天气,http://116.168.13.154:2000/959986621
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
+环球旅游,http://8.137.180.215:8899/958475356
+环球旅游,http://116.168.13.154:2000/958475356
 环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
-环球旅游,http://jxyxnk.x3322.net:4022/rtp/239.252.220.218:5140
-环球旅游,http://home.teijiu.cn:4022/rtp/233.50.202.31:5140
-环球旅游,http://dx.yanbingg.com:1888/rtp/239.94.1.147:5140
-环球旅游,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.147:5140
-环球旅游,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.147:5140
-环球旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
-环球旅游,http://www.yanbingg.com:1888/rtp/239.94.1.147:5140
-环球旅游,http://www.zhms.tk:5050/rtp/239.94.1.147:5140
-环球旅游,http://mp1.negative.top:50000/rtp/233.50.202.31:5140
 
 
 求索纪录,http://ik.zjx5106.xyz:8001/rtp/239.81.0.153:4056
