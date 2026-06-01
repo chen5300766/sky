@@ -1040,8 +1040,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://jxyxnk.x3322.net:4022/rtp/239.252.220.219:5140
 优优宝贝,http://www.smilehome.top:4022/rtp/225.0.4.126:7980
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
