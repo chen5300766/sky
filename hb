@@ -210,10 +210,6 @@ CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
 CCTV风云剧场,http://lanfenggood.cn:4022/rtp/225.1.2.174:5002
 CCTV文化精品,http://lanfenggood.cn:4022/rtp/225.1.2.177:5002
 
-
-CCTV风云剧场,http://www.andy-nas.top:8623/rtp/239.76.254.50:9000
-CCTV文化精品,http://www.andy-nas.top:8623/rtp/239.76.254.56:9000
-
 CCTV风云剧场,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.22:6073
 CCTV文化精品,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.25:6104
 
