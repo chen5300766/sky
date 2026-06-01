@@ -499,7 +499,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
-五星体育,http://120.253.150.222:60000/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
@@ -596,7 +595,6 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.4:5140
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
-东方影视,http://120.253.150.222:60000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
@@ -973,7 +971,8 @@ CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
 
 
-财富天下,http://120.253.150.222:60000/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+财富天下,http://8.137.180.215:8899/956923159
+财富天下,http://116.168.13.154:2000/956923159
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 
