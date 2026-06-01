@@ -612,8 +612,10 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
 
 
-中国电影,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
+中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+中国电影2,http://120.76.248.139/live/bfgd/4200000290.m3u8
 
 
 
