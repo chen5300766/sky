@@ -78,6 +78,8 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+CCTV风云剧场,http://120.196.235.42:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://120.196.235.42:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
@@ -426,10 +428,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
+广东体育,http://171.38.145.101:8082/tsfile/live/1006_1.m3u8
+广东体育,http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://36.136.13.254:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://183.7.16.192:8081/hls/41/index.m3u8
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
@@ -463,7 +466,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 劲爆体育,http://36.158.75.239:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
-劲爆体育,http://183.7.16.192:8081/hls/68/index.m3u8
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.56:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -487,6 +489,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+重温经典,http://171.38.145.101:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.56:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -506,6 +509,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 
+广东影视	http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
 广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
@@ -881,6 +885,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
+广东少儿,http://171.38.145.101:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://107.150.60.122/live/gdtvs5.m3u8
@@ -1019,6 +1024,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://116.10.203.183:3566/959986621
 中国天气,http://36.136.13.254:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.136.11.222:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://171.38.145.101:8082/tsfile/live/1007_1.m3u8
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://111.8.242.102:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1044,6 +1050,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 环球旅游,http://8.137.180.215:8899/958475356
 环球旅游,http://116.10.203.183:3566/958475356
+环球旅游,http:///tsfile/live/1009_1.m3u8
 环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
