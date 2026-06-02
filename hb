@@ -79,6 +79,9 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
+CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
+
 CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
 CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 
@@ -143,6 +146,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-中学生,http://8.137.180.215:8899/708869532
 中央新影-中学生,http://116.10.203.183:3566/708869532
+中央新影-中学生,http://www.330459.xyz:8188/rtp/225.1.1.193:5002
 中央新影-中学生,http://hello.ejoydom.com:9999/rtp/239.77.1.195:5146
 中央新影-中学生,http://home2.neumantang.com:8888/rtp/239.0.0.29:5140
 中央新影-中学生,http://www.smilehome.top:4022/rtp/225.0.4.184:7980
@@ -918,6 +922,7 @@ IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
 
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
+CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
