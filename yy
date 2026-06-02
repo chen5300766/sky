@@ -51,7 +51,7 @@
 地下交通站,https://live.ottiptv.cc/yy/1353428972#https://www.goodiptv.club/yy/1353428972#https://live.ottiptv.cc/yy/1382736795#https://www.goodiptv.club/yy/1382736795
 特种兵之火凤凰,http://cfss.cc/cdn/yy/1463088777.flv#https://live.ottiptv.cc/yy/1463088777#https://www.goodiptv.club/yy/1463088777
 大侦探霍桑,http://cfss.cc/cdn/yy/1382737886.flv#https://live.ottiptv.cc/yy/1382737886#https://www.goodiptv.club/yy/1382737886
-神探狄仁杰第一部,https://live.ottiptv.cc/yy/1382851575#https://live.ottiptv.cc/yy/1354930934#https://www.goodiptv.club/yy/1354930934
+神探狄仁杰第一部,https://live.ottiptv.cc/yy/1382851575#https://www.goodiptv.club/yy/1382851575#https://live.ottiptv.cc/yy/1354930934#https://www.goodiptv.club/yy/1354930934
 神探狄仁杰第二部,https://live.ottiptv.cc/yy/1382851146#https://www.goodiptv.club/yy/1382851146#https://live.ottiptv.cc/yy/1382736907#https://www.goodiptv.club/yy/1382736907
 神探狄仁杰1-5部,http://cfss.cc/cdn/yy/1382705592.flv#https://live.ottiptv.cc/yy/1382705592#https://www.goodiptv.club/yy/1382705592
 燕双鹰,https://live.ottiptv.cc/yy/1352227153#https://www.goodiptv.club/yy/1352227153
@@ -71,6 +71,7 @@
 不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.ottiptv.cc/yy/1382749890#https://www.goodiptv.club/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.ottiptv.cc/yy/1382736816#https://www.goodiptv.club/yy/1382736816
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.ottiptv.cc/yy/1382736917#https://www.goodiptv.club/yy/1382736917
+破案港剧,https://live.ottiptv.cc/yy/1350670730#https://www.goodiptv.club/yy/1350670730
 高分科幻片,http://cfss.cc/cdn/yy/1382851586.flv#https://live.ottiptv.cc/yy/1382851586#https://www.goodiptv.club/yy/1382851586
 举起手来,https://live.ottiptv.cc/yy/1382736877#https://www.goodiptv.club/yy/1382736877
 案发现场,https://live.ottiptv.cc/yy/22089862#http://cfss.cc/cdn/yy/22089862.flv#https://www.goodiptv.club/yy/22089862
@@ -89,11 +90,13 @@
 陈情令,https://live.ottiptv.cc/yy/1382745121#https://www.goodiptv.club/yy/1382745121
 速度与激情全集,https://live.ottiptv.cc/yy/1382749892#https://www.goodiptv.club/yy/1382749892
 速度与激情全集,https://live.ottiptv.cc/yy/1382736911#https://www.goodiptv.club/yy/1382736911
+超能英雄护全城,https://live.ottiptv.cc/yy/1382736844#https://www.goodiptv.club/yy/1382736844
 封神：祸商,https://live.ottiptv.cc/yy/1354932407#https://www.goodiptv.club/yy/1354932407
 倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.ottiptv.cc/yy/1414846486#https://www.goodiptv.club/yy/1414846486
 少年包青天,https://live.ottiptv.cc/yy/1356043677#https://www.goodiptv.club/yy/1356043677
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814#https://www.goodiptv.club/yy/1382736814
 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540#https://www.goodiptv.club/yy/1382851540
+新白娘子4K高清,https://live.ottiptv.cc/yy/1508961855#https://www.goodiptv.club/yy/1508961855
 宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv#https://live.ottiptv.cc/yy/1354931631#https://www.goodiptv.club/yy/1354931631
 欢天喜地七仙女,http://cfss.cc/cdn/yy/1382735553.flv#https://live.ottiptv.cc/yy/1382735553#https://www.goodiptv.club/yy/1382735553
 新白娘子传奇,https://live.ottiptv.cc/yy/1508902755#https://www.goodiptv.club/yy/1508902755
@@ -136,7 +139,7 @@
 猛兽列车,https://live.ottiptv.cc/yy/1414853669#https://www.goodiptv.club/yy/1414853669
 史诗级科幻电影-阿凡达,https://live.ottiptv.cc/yy/1382735577#https://www.goodiptv.club/yy/1382735577
 电波传情-生死密电,http://cfss.cc/cdn/yy/1382735571.flv#https://live.ottiptv.cc/yy/1382735571#https://www.goodiptv.club/yy/1382735571
-详情奇缘,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://www.goodiptv.club/yy/1382851137
+法国版---家有儿女,http://cfss.cc/cdn/yy/1382851137.flv#https://live.ottiptv.cc/yy/1382851137#https://www.goodiptv.club/yy/1382851137
 百团大战,https://live.ottiptv.cc/yy/1382736871#https://www.goodiptv.club/yy/1382736871
 生死极速救援,https://live.ottiptv.cc/yy/1382736719#https://www.goodiptv.club/yy/1382736719
 绝地生死营救,https://live.ottiptv.cc/yy/1354936214#https://www.goodiptv.club/yy/1354936214
