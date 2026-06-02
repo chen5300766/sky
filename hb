@@ -254,7 +254,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.32:4056
 大湾区卫视,http://36.136.13.254:18885/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://36.136.11.222:18885/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://58.255.201.24:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
@@ -426,7 +426,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
-广东体育,http://58.255.201.24:10443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://36.136.13.254:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.7.16.192:8081/hls/41/index.m3u8
@@ -490,6 +490,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.56:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 重温经典,http://192.151.150.154/live/cwjd.m3u8
 重温经典,http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -505,10 +506,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 
-广东影视,http://58.255.201.24:10443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://183.7.16.192:8081/hls/31/index.m3u8
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
@@ -881,7 +880,6 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-广东少儿,http://58.255.201.24:10443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
