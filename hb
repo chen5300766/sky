@@ -765,6 +765,14 @@ IPTV爱上4K,http://vpn.5kong.work:18888/rtp/239.3.1.236:2000
 IPTV精选,http://vpn.5kong.work:18888/rtp/239.3.1.74:4120
 IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 
+IPTV城市剧场,http://sccckj.cn:8899/rtp/239.10.0.124:5140
+IPTV军旅剧场,http://sccckj.cn:8899/rtp/239.10.0.125:5140
+IPTV古装剧场,http://sccckj.cn:8899/rtp/239.10.0.126:5140
+IPTV家庭影院,http://sccckj.cn:8899/rtp/239.10.0.127:5140
+IPTV喜剧影院,http://sccckj.cn:8899/rtp/239.10.0.132:5140
+IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
+
+
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
