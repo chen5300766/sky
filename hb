@@ -1125,6 +1125,11 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://36.136.11.222:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://111.8.242.102:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://36.158.75.56:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://36.158.75.239:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://111.8.242.124:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://36.158.75.249:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气	http://ik.zjx5106.xyz:8001/rtp/239.81.0.63:4056
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
@@ -2441,7 +2446,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 抖音美好奇妙夜,https://cdn-3.ttvb.eu.org/douyin/926375850872#https://tv1288.xyz/douyin.php?type=rid&rid=926375850872
 清明上河园,https://cdn-3.ttvb.eu.org/douyin/513025096675#https://tv1288.xyz/douyin.php?type=rid&rid=513025096675
 驾考一把过,https://cdn-3.ttvb.eu.org/douyin/341263229845#https://tv1288.xyz/douyin.php?type=rid&rid=341263229845
-
+芒果TV,https://cdn-3.ttvb.eu.org/douyin/9662123755#https://tv1288.xyz/douyin.php?type=rid&rid=9662123755
 
 
 ❤️恐怖悬疑影院,#genre#
