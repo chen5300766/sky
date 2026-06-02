@@ -499,6 +499,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
+天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
+
 广东影视,http://58.255.201.24:10443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -887,6 +889,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
 
+天津少儿,http://www.330459.xyz:8188/rtp/225.1.1.125:5002
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
