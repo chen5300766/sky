@@ -889,7 +889,6 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 海南少儿,http://www.alihomes.top:8188/rtp/239.254.96.192:8178
 海南少儿,http://shidai1.dynv6.net:4000/rtp/239.253.64.124:5140
 
-天津少儿,http://www.330459.xyz:8188/rtp/225.1.1.125:5002
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
