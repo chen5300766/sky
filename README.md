@@ -28,6 +28,8 @@ https://sub.ottiptv.cc/huyayqk.m3u
 
 大佬直播源：
 
+https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+
 https://ghfast.top/https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
 
 https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
