@@ -2356,6 +2356,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 清明上河园,https://cdn-3.ttvb.eu.org/douyin/513025096675#https://tv1288.xyz/douyin.php?type=rid&rid=513025096675
 驾考一把过,https://cdn-3.ttvb.eu.org/douyin/341263229845#https://tv1288.xyz/douyin.php?type=rid&rid=341263229845
 芒果TV,https://cdn-3.ttvb.eu.org/douyin/9662123755#https://tv1288.xyz/douyin.php?type=rid&rid=9662123755
+横店影视城娱乐,https://cdn-3.ttvb.eu.org/douyin/529575167432#https://tv1288.xyz/douyin.php?type=rid&rid=529575167432
 
 
 ❤️恐怖悬疑影院,#genre#
