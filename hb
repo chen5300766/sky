@@ -1286,7 +1286,7 @@ LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/
 
 
 
-📺虎牙影院,#genre#
+🐯虎牙影院,#genre#
 勞資ヽ尐爺的直播间,https://www.goodiptv.club/huya/11342434#https://live.ottiptv.cc/huya/11342434#http://cfss.cc/cdn/huya/11342434.flv
 前沿旅行社的直播间,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
 海星puff的直播间,https://www.goodiptv.club/huya/20432221#https://live.ottiptv.cc/huya/20432221#http://cfss.cc/cdn/huya/20432221.flv
@@ -1814,7 +1814,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 犯罪案件大合集,https://www.goodiptv.club/huya/26355785#https://live.ottiptv.cc/huya/26355785#http://cfss.cc/cdn/huya/26355785.flv
 
 
-📺斗鱼影院,#genre#
+🐟斗鱼影院,#genre#
 片源多多1,https://live.ottiptv.cc/douyu/7623292#https://isus.cc/php/douyu.php?id=7623292#https://www.goodiptv.club/douyu/7623292
 片源多多2,https://live.ottiptv.cc/douyu/7476264#https://isus.cc/php/douyu.php?id=7476264#https://www.goodiptv.club/douyu/7476264
 片源多多3,https://live.ottiptv.cc/douyu/2073#https://isus.cc/php/douyu.php?id=2073#https://www.goodiptv.club/douyu/2073
@@ -1971,7 +1971,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 戏曲,https://live.ottiptv.cc/douyu/12091975#https://isus.cc/php/douyu.php?id=12091975#https://www.goodiptv.club/douyu/12091975
 
 
-📺歪歪影院,#genre#
+✌✌歪歪影院,#genre#
 康熙微服私访记1,https://live.ottiptv.cc/yy/1352811698#https://www.goodiptv.club/yy/1352811698
 康熙微服私访记3,http://cfss.cc/cdn/yy/1356373644.flv#https://live.ottiptv.cc/yy/1356373644#https://www.goodiptv.club/yy/1356373644
 康熙微服私访记4,http://cfss.cc/cdn/yy/1355635293.flv#https://live.ottiptv.cc/yy/1355635293#https://www.goodiptv.club/yy/1355635293
