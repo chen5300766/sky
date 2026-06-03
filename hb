@@ -712,7 +712,7 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
-精彩影视,http:///www.zhms.tk:5050/rtp/239.0.0.26:5140
+精彩影视,http:///www.zhms.tk:5050/rtp/239.94.1.172:5140
 精彩影视,http://www.lb5221111.asia:2222/rtp/239.94.1.172:5140
 精彩影视,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.172:5140
 精彩影视,http://wan1.tangwudi.cc:47859/rtp/239.94.1.172:5140
