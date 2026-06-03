@@ -268,7 +268,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
-农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
+农林卫视,http://ddns.xryo.cn:8888/rtp/239.110.205.88:7924
 农林卫视,http://ddns.xryo.cn:8888/rtp/239.110.205.88:7924
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
@@ -442,7 +442,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
-陕西体育休闲,http://wddpmpc.sosos.run:4022/rtp/239.111.205.36:5140
+陕西体育休闲,http://ddns.xryo.cn:8888/rtp/239.111.205.36:5140
 陕西体育休闲,http://www.gaolao.top:8008/rtp/239.111.205.36:5140
 陕西体育休闲,http://ddns.xryo.cn:8888/rtp/239.111.205.36:5140
 陕西体育休闲,http://tiger81.i234.me:8888/rtp/239.111.205.36:5140
@@ -551,7 +551,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 湖南电影,http://cssbyd.imwork.net:8082/hls/18/index.m3u8
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
+陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
