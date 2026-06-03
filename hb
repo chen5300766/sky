@@ -157,7 +157,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://lj.kuail8.cn:4022/rtp/239.253.92.27:6106
 中央新影-中学生,http://nas.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
-中央新影-中学生,http://iptvcun.okoo.cc:8099/rtp/225.0.4.184:7980
 中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
 中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
@@ -457,7 +456,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.152:5140
 天元围棋,http://hello.ejoydom.com:9999/rtp/239.253.43.98:5146
 天元围棋,http://www.andy-nas.top:8623/rtp/239.76.246.2:1234
-天元围棋,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
+天元围棋,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
 天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.lb5221111.asia:2222/rtp/239.94.1.152:5140
@@ -574,7 +573,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://www.zhms.tk:5050/rtp/239.94.0.103:5140
-峨眉电影,http:/jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
+峨眉电影,http://jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
 峨眉电影,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.103:5140
 峨眉电影,http://www.lb5221111.asia:2222/rtp/239.94.0.103:5140
@@ -583,7 +582,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 峨眉电影,http://www.alphauncle.com:2715/rtp/239.0.0.9:5140
 
 红色影院,http://www.zhms.tk:5050/rtp/239.94.1.48:5140
-红色影院,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.48:5140
+红色影院,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.48:5140
 红色影院,http://wan1.tangwudi.cc:47859/rtp/239.94.1.48:5140
 红色影院,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.48:5140
 红色影院,http://www.lb5221111.asia:2222/rtp/239.94.1.48:5140
@@ -710,18 +709,13 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 
-精彩影视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.152:4056
-精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
-精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
+精彩影视,http:///www.zhms.tk:5050/rtp/239.0.0.26:5140
 精彩影视,http://www.lb5221111.asia:2222/rtp/239.94.1.172:5140
-精彩影视,http://nas2.roxette119.cn:5555/rtp/239.94.1.172:5140
-精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
-精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
+精彩影视,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.172:5140
+精彩影视,http://wan1.tangwudi.cc:47859/rtp/239.94.1.172:5140
+精彩影视,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.172:5140
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
-精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
-精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
-精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
-精彩影视,http://home2.neumantang.com:8888/rtp/239.0.0.26:5140
+精彩影视,http://nas2.roxette119.cn:5555/rtp/239.94.1.172:5140
 
 全球大片,http://www.zhms.tk:5050/rtp/239.94.1.24:5140
 华语影院,http://www.zhms.tk:5050/rtp/239.94.1.22:5140
@@ -745,7 +739,6 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 华语影院,http://nas2.roxette119.cn:5555/rtp/239.94.1.22:5140
 
 
-影视剧,http://iptvcun.okoo.cc:8099/rtp/225.0.4.163:7980
 影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
 影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
 影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
@@ -790,21 +783,21 @@ iHOT爱赛车,http://www.zhms.tk:5050/rtp/239.94.1.144:5140
 iHOT爱院线,http://www.zhms.tk:5050/rtp/239.94.1.132:5140
 
 
-iHOT爱体育,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.143:5140
-iHOT爱动漫,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.141:5140
-iHOT爱历史,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.135:5140
-iHOT爱喜剧,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.129:5140
-iHOT爱喜剧,http:/jgw.ddns.seak.bid:9999/rtp/239.94.2.71:5140
-iHOT爱奇谈,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.130:5140
-iHOT爱幼教,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.139:5140
-iHOT爱悬疑,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.136:5140
-iHOT爱旅行,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.137:5140
-iHOT爱浪漫,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.128:5140
-iHOT爱玩具,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.140:5140
-iHOT爱科幻,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.131:5140
-iHOT爱谍战,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.134:5140
-iHOT爱赛车,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.144:5140
-iHOT爱院线,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.132:5140
+iHOT爱体育,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.143:5140
+iHOT爱动漫,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.141:5140
+iHOT爱历史,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://jgw.ddns.seak.bid:9999/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.130:5140
+iHOT爱幼教,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.136:5140
+iHOT爱旅行,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.128:5140
+iHOT爱玩具,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.140:5140
+iHOT爱科幻,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.131:5140
+iHOT爱谍战,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.134:5140
+iHOT爱赛车,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.144:5140
+iHOT爱院线,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.132:5140
 
 
 iHOT爱体育,http://wan1.tangwudi.cc:47859/rtp/239.94.1.143:5140
@@ -966,7 +959,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 优优宝贝,http://nas.iszbd.com:4022/rtp/225.0.4.126:7980
 优优宝贝,http://game.x3322.net:8899/rtp/225.0.4.126:7980
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
-优优宝贝,http://iptvcun.okoo.cc:8099/rtp/225.0.4.126:7980
 
 
 📡数字电视,#genre#
@@ -986,7 +978,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 财富天下,http://tiger81.i234.me:8888/rtp/239.112.205.196:5140
 财富天下,http://www.zhms.tk:5050//rtp/239.94.1.42:5140
 财富天下,http://jxyxnk.x3322.net:4022/rtp/239.252.220.240:5140
-财富天下,http:/jgw.ddns.seak.bid:9999//rtp/239.94.1.42:5140
+财富天下,http://jgw.ddns.seak.bid:9999//rtp/239.94.1.42:5140
 财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
 财富天下,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.42:5140
 财富天下,http://www.lb5221111.asia:2222/rtp/239.94.1.42:5140
@@ -1059,7 +1051,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
 中国天气,http://jason.25u.com:40222/rtp/239.81.0.63:4056
-中国天气,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.167:5140
+中国天气,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.167:5140
 中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
 中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
 中国天气,http://www.lb5221111.asia:2222/rtp/239.94.1.167:5140
@@ -1081,7 +1073,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 环球旅游,http://home.teijiu.cn:4022/rtp/233.50.202.31:5140
 环球旅游,http://nas2.roxette119.cn:5555/rtp/239.94.1.147:5140
 环球旅游,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.147:5140
-环球旅游,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.147:5140
+环球旅游,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.147:5140
 环球旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
 环球旅游,http://www.lb5221111.asia:2222/rtp/239.94.1.147:5140
 环球旅游,http://www.zhms.tk:5050/rtp/239.94.1.147:5140
@@ -1089,7 +1081,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 
 求索纪录,http://ik.zjx5106.xyz:8001/rtp/239.81.0.153:4056
-求索纪录,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.142:5140
+求索纪录,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.142:5140
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
 求索纪录,http://hello.ejoydom.com:9999/rtp/239.77.0.21:5146
 求索纪录,http://www.smilehome.top:4022/rtp/225.0.4.232:7980
@@ -1100,7 +1092,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://nas2.roxette119.cn:5555/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
-求索纪录,http://iptvcun.okoo.cc:8099/rtp/225.0.4.232:7980
 求索纪录,http://nas.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://www.zhms.tk:5050/rtp/239.94.1.142:5140
 求索纪录,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.142:5140
@@ -1113,12 +1104,12 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 家庭理财,http://www.lb5221111.asia:2222/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
 家庭理财,http://nas2.roxette119.cn:5555/rtp/239.94.1.50:5140
-家庭理财,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.50:5140
+家庭理财,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.50:5140
 家庭理财,http://wan1.tangwudi.cc:47859/rtp/239.94.1.50:5140
 家庭理财,http://www.zhms.tk:5050/rtp/239.94.1.50:5140
 
 
-爱宠宠物,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.145:5140
+爱宠宠物,http://jgw.ddns.seak.bid:9999/rtp/239.94.1.145:5140
 爱宠宠物,http://wan1.tangwudi.cc:47859/rtp/239.94.1.145:5140
 爱宠宠物,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.145:5140
 爱宠宠物,http://www.lb5221111.asia:2222/rtp/239.94.1.145:5140
