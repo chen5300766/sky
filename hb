@@ -526,8 +526,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
 广东影视,http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
-广东影视,http://fcasad.x3322.net:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-]广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://fcasad.x3322.net:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
