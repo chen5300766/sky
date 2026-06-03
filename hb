@@ -440,6 +440,14 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://r.jdshipin.com/LiYdg
 
 
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西体育休闲,http://wddpmpc.sosos.run:4022/rtp/239.111.205.36:5140
+陕西体育休闲,http://www.gaolao.top:8008/rtp/239.111.205.36:5140
+陕西体育休闲,http://www.stoneshi1984.ren:58120/rtp/239.111.205.36:5140
+陕西体育休闲,http://tiger81.i234.me:8888/rtp/239.111.205.36:5140
+陕西体育休闲,http://4712635.xyz:26000/rtp/239.111.205.36:5140
+
+
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.102:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
@@ -512,7 +520,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 
 广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
-广东影视	http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
+广东影视,http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
 广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
