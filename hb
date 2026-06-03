@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-2,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-3,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -428,6 +428,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
+广东体育,http://171.38.146.47:8082/tsfile/live/1006_1.m3u8
 广东体育,http://171.38.145.101:8082/tsfile/live/1006_1.m3u8
 广东体育,http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -489,6 +490,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+重温经典,http://171.38.146.47:8082/tsfile/live/1031_1.m3u8
 重温经典,http://171.38.145.101:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -509,6 +511,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 
+
+广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
 广东影视	http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
 广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -885,6 +889,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
+广东少儿,http://171.38.146.47:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://171.38.145.101:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1050,7 +1055,8 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 环球旅游,http://8.137.180.215:8899/958475356
 环球旅游,http://116.10.203.183:3566/958475356
-环球旅游,http:///tsfile/live/1009_1.m3u8
+环球旅游,http://171.38.145.101:8082/tsfile/live/1009_1.m3u8
+环球旅游,http://171.38.146.47:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
