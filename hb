@@ -270,7 +270,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
 农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
-农林卫视,http://www.stoneshi1984.ren:58120/rtp/239.110.205.88:7924
+农林卫视,http://ddns.xryo.cn:8888/rtp/239.110.205.88:7924
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
 农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
@@ -431,6 +431,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 广东体育,http://171.38.146.47:8082/tsfile/live/1006_1.m3u8
 广东体育,http://171.38.145.101:8082/tsfile/live/1006_1.m3u8
+广东体育,http://fcasad.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://36.136.13.254:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -444,11 +445,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 陕西体育休闲,http://wddpmpc.sosos.run:4022/rtp/239.111.205.36:5140
 陕西体育休闲,http://www.gaolao.top:8008/rtp/239.111.205.36:5140
-陕西体育休闲,http://www.stoneshi1984.ren:58120/rtp/239.111.205.36:5140
+陕西体育休闲,http://ddns.xryo.cn:8888/rtp/239.111.205.36:5140
 陕西体育休闲,http://tiger81.i234.me:8888/rtp/239.111.205.36:5140
 陕西体育休闲,http://4712635.xyz:26000/rtp/239.111.205.36:5140
 
-
+天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.102:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
@@ -459,12 +460,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.152:5140
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
 天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
-天元围棋,http://www.yanbingg.com:1888/rtp/239.94.1.152:5140
+天元围棋,http://www.lb5221111.asia:2222/rtp/239.94.1.152:5140
 天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
 天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://wmh.synology.me:6633/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
-天元围棋,http://dx.yanbingg.com:1888/rtp/239.94.1.152:5140
+天元围棋,http://nas2.roxette119.cn:5555/rtp/239.94.1.152:5140
 天元围棋,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.152:5140
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
@@ -475,7 +476,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 劲爆体育,http://36.158.75.239:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://113.26.251.182:8009/hls/86/index.m3u8
+劲爆体育,http://hunhhyd.sohu.blog:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.56:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -498,6 +499,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
+重温经典,http://hunhhyd.sohu.blog:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://171.38.146.47:8082/tsfile/live/1031_1.m3u8
 重温经典,http://171.38.145.101:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -522,7 +524,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
 广东影视,http://171.38.145.101:8082/tsfile/live/1043_1.m3u8
-广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://fcasad.x3322.net:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+]广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
@@ -531,6 +534,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 湖南电视剧,http://36.158.75.56:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.56:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+湖南电视剧,http://hunhhyd.sohu.blog:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://hunhhyd.sohu.blog:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南电视剧,http://36.158.75.239:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.75.239:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -546,7 +552,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://wddpmpc.sosos.run:4022/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
-陕西西部电影,http://www.stoneshi1984.ren:58120/rtp/239.109.205.217:9706
+陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
 
@@ -571,18 +577,18 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 峨眉电影,http:/jgw.ddns.seak.bid:9999/rtp/239.94.0.103:5140
 峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
 峨眉电影,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.0.103:5140
-峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://www.lb5221111.asia:2222/rtp/239.94.0.103:5140
 峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
-峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://nas2.roxette119.cn:5555/rtp/239.94.0.103:5140
 峨眉电影,http://www.alphauncle.com:2715/rtp/239.0.0.9:5140
 
 红色影院,http://www.zhms.tk:5050/rtp/239.94.1.48:5140
 红色影院,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.48:5140
 红色影院,http://wan1.tangwudi.cc:47859/rtp/239.94.1.48:5140
 红色影院,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.48:5140
-红色影院,http://www.yanbingg.com:1888/rtp/239.94.1.48:5140
+红色影院,http://www.lb5221111.asia:2222/rtp/239.94.1.48:5140
 红色影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.48:5140
-红色影院,http://dx.yanbingg.com:1888/rtp/239.94.1.48:5140
+红色影院,http://nas2.roxette119.cn:5555/rtp/239.94.1.48:5140
 
 
 红色影院,http://wuyanjiang.cn:8012/rtp/239.3.1.88:4120
@@ -707,8 +713,8 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 精彩影视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.152:4056
 精彩影视,http://iptvcun.okoo.cc:8099/rtp/225.0.4.231:7980
 精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
-精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
-精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
+精彩影视,http://www.lb5221111.asia:2222/rtp/239.94.1.172:5140
+精彩影视,http://nas2.roxette119.cn:5555/rtp/239.94.1.172:5140
 精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
 精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
@@ -732,11 +738,11 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 全球大片,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.24:5140
 华语影院,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.22:5140
 
-全球大片,http://www.yanbingg.com:1888/rtp/239.94.1.24:5140
-华语影院,http://www.yanbingg.com:1888/rtp/239.94.1.22:5140
+全球大片,http://www.lb5221111.asia:2222/rtp/239.94.1.24:5140
+华语影院,http://www.lb5221111.asia:2222/rtp/239.94.1.22:5140
 
-全球大片,http://dx.yanbingg.com:1888/rtp/239.94.1.24:5140
-华语影院,http://dx.yanbingg.com:1888/rtp/239.94.1.22:5140
+全球大片,http://nas2.roxette119.cn:5555/rtp/239.94.1.24:5140
+华语影院,http://nas2.roxette119.cn:5555/rtp/239.94.1.22:5140
 
 
 影视剧,http://iptvcun.okoo.cc:8099/rtp/225.0.4.163:7980
@@ -835,21 +841,21 @@ iHOT爱赛车,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.144:5140
 iHOT爱院线,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.132:5140
 
 
-iHOT爱体育,http://www.yanbingg.com:1888/rtp/239.94.1.143:5140
-iHOT爱动漫,http://www.yanbingg.com:1888/rtp/239.94.1.141:5140
-iHOT爱历史,http://www.yanbingg.com:1888/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://www.yanbingg.com:1888/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://www.yanbingg.com:1888/rtp/239.94.1.130:5140
-iHOT爱幼教,http://www.yanbingg.com:1888/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://www.yanbingg.com:1888/rtp/239.94.1.136:5140
-iHOT爱旅行,http://www.yanbingg.com:1888/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://www.yanbingg.com:1888/rtp/239.94.1.128:5140
-iHOT爱玩具,http://www.yanbingg.com:1888/rtp/239.94.1.140:5140
-iHOT爱科幻,http://www.yanbingg.com:1888/rtp/239.94.1.131:5140
-iHOT爱谍战,http://www.yanbingg.com:1888/rtp/239.94.1.134:5140
-iHOT爱赛车,http://www.yanbingg.com:1888/rtp/239.94.1.144:5140
-iHOT爱院线,http://www.yanbingg.com:1888/rtp/239.94.1.132:5140
+iHOT爱体育,http://www.lb5221111.asia:2222/rtp/239.94.1.143:5140
+iHOT爱动漫,http://www.lb5221111.asia:2222/rtp/239.94.1.141:5140
+iHOT爱历史,http://www.lb5221111.asia:2222/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://www.lb5221111.asia:2222/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://www.lb5221111.asia:2222/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://www.lb5221111.asia:2222/rtp/239.94.1.130:5140
+iHOT爱幼教,http://www.lb5221111.asia:2222/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://www.lb5221111.asia:2222/rtp/239.94.1.136:5140
+iHOT爱旅行,http://www.lb5221111.asia:2222/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://www.lb5221111.asia:2222/rtp/239.94.1.128:5140
+iHOT爱玩具,http://www.lb5221111.asia:2222/rtp/239.94.1.140:5140
+iHOT爱科幻,http://www.lb5221111.asia:2222/rtp/239.94.1.131:5140
+iHOT爱谍战,http://www.lb5221111.asia:2222/rtp/239.94.1.134:5140
+iHOT爱赛车,http://www.lb5221111.asia:2222/rtp/239.94.1.144:5140
+iHOT爱院线,http://www.lb5221111.asia:2222/rtp/239.94.1.132:5140
 
 
 iHOT爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.143:5140
@@ -869,21 +875,21 @@ iHOT爱赛车,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.144:5140
 iHOT爱院线,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.132:5140
 
 
-iHOT爱体育,http://dx.yanbingg.com:1888/rtp/239.94.1.143:5140
-iHOT爱动漫,http://dx.yanbingg.com:1888/rtp/239.94.1.141:5140
-iHOT爱历史,http://dx.yanbingg.com:1888/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://dx.yanbingg.com:1888/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://dx.yanbingg.com:1888/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://dx.yanbingg.com:1888/rtp/239.94.1.130:5140
-iHOT爱幼教,http://dx.yanbingg.com:1888/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://dx.yanbingg.com:1888/rtp/239.94.1.136:5140
-iHOT爱旅行,http://dx.yanbingg.com:1888/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://dx.yanbingg.com:1888/rtp/239.94.1.128:5140
-iHOT爱玩具,http://dx.yanbingg.com:1888/rtp/239.94.1.140:5140
-iHOT爱科幻,http://dx.yanbingg.com:1888/rtp/239.94.1.131:5140
-iHOT爱谍战,http://dx.yanbingg.com:1888/rtp/239.94.1.134:5140
-iHOT爱赛车,http://dx.yanbingg.com:1888/rtp/239.94.1.144:5140
-iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
+iHOT爱体育,http://nas2.roxette119.cn:5555/rtp/239.94.1.143:5140
+iHOT爱动漫,http://nas2.roxette119.cn:5555/rtp/239.94.1.141:5140
+iHOT爱历史,http://nas2.roxette119.cn:5555/rtp/239.94.1.135:5140
+iHOT爱喜剧,http://nas2.roxette119.cn:5555/rtp/239.94.1.129:5140
+iHOT爱喜剧,http://nas2.roxette119.cn:5555/rtp/239.94.2.71:5140
+iHOT爱奇谈,http://nas2.roxette119.cn:5555/rtp/239.94.1.130:5140
+iHOT爱幼教,http://nas2.roxette119.cn:5555/rtp/239.94.1.139:5140
+iHOT爱悬疑,http://nas2.roxette119.cn:5555/rtp/239.94.1.136:5140
+iHOT爱旅行,http://nas2.roxette119.cn:5555/rtp/239.94.1.137:5140
+iHOT爱浪漫,http://nas2.roxette119.cn:5555/rtp/239.94.1.128:5140
+iHOT爱玩具,http://nas2.roxette119.cn:5555/rtp/239.94.1.140:5140
+iHOT爱科幻,http://nas2.roxette119.cn:5555/rtp/239.94.1.131:5140
+iHOT爱谍战,http://nas2.roxette119.cn:5555/rtp/239.94.1.134:5140
+iHOT爱赛车,http://nas2.roxette119.cn:5555/rtp/239.94.1.144:5140
+iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 
 
 📡动漫卡通,#genre#
@@ -897,6 +903,7 @@ iHOT爱院线,http://dx.yanbingg.com:1888/rtp/239.94.1.132:5140
 
 
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
+广东少儿,http://fcasad.x3322.net:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://171.38.146.47:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://171.38.145.101:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -982,9 +989,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 财富天下,http:/jgw.ddns.seak.bid:9999//rtp/239.94.1.42:5140
 财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
 财富天下,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.42:5140
-财富天下,http://www.yanbingg.com:1888/rtp/239.94.1.42:5140
+财富天下,http://www.lb5221111.asia:2222/rtp/239.94.1.42:5140
 财富天下,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.42:5140
-财富天下,http://dx.yanbingg.com:1888/rtp/239.94.1.42:5140
+财富天下,http://nas2.roxette119.cn:5555/rtp/239.94.1.42:5140
 
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
@@ -1036,6 +1043,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 
 中国天气,http://8.137.180.215:8899/959986621
 中国天气,http://116.10.203.183:3566/959986621
+中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.136.13.254:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.136.11.222:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://171.38.145.101:8082/tsfile/live/1007_1.m3u8
@@ -1054,7 +1062,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.167:5140
 中国天气,http://wan1.tangwudi.cc:47859/rtp/239.94.1.167:5140
 中国天气,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.167:5140
-中国天气,http://www.yanbingg.com:1888/rtp/239.94.1.167:5140
+中国天气,http://www.lb5221111.asia:2222/rtp/239.94.1.167:5140
 中国天气,http://www.zhms.tk:5050/rtp/239.94.1.167:5140
 
 
@@ -1071,11 +1079,11 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://jxyxnk.x3322.net:4022/rtp/239.252.220.218:5140
 环球旅游,http://home.teijiu.cn:4022/rtp/233.50.202.31:5140
-环球旅游,http://dx.yanbingg.com:1888/rtp/239.94.1.147:5140
+环球旅游,http://nas2.roxette119.cn:5555/rtp/239.94.1.147:5140
 环球旅游,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.147:5140
 环球旅游,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.147:5140
 环球旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
-环球旅游,http://www.yanbingg.com:1888/rtp/239.94.1.147:5140
+环球旅游,http://www.lb5221111.asia:2222/rtp/239.94.1.147:5140
 环球旅游,http://www.zhms.tk:5050/rtp/239.94.1.147:5140
 环球旅游,http://mp1.negative.top:50000/rtp/233.50.202.31:5140
 
@@ -1088,8 +1096,8 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
 求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
-求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
-求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
+求索纪录,http://www.lb5221111.asia:2222/rtp/239.94.1.142:5140
+求索纪录,http://nas2.roxette119.cn:5555/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
 求索纪录,http://iptvcun.okoo.cc:8099/rtp/225.0.4.232:7980
@@ -1102,9 +1110,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 家庭理财,http://cx.shscxzx.cn:8899/rtp/233.18.204.157:5140
 家庭理财,http://rongrong.me:14022/rtp/233.18.204.157:5140
 家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
-家庭理财,http://www.yanbingg.com:1888/rtp/239.94.1.50:5140
+家庭理财,http://www.lb5221111.asia:2222/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
-家庭理财,http://dx.yanbingg.com:1888/rtp/239.94.1.50:5140
+家庭理财,http://nas2.roxette119.cn:5555/rtp/239.94.1.50:5140
 家庭理财,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.50:5140
 家庭理财,http://wan1.tangwudi.cc:47859/rtp/239.94.1.50:5140
 家庭理财,http://www.zhms.tk:5050/rtp/239.94.1.50:5140
@@ -1113,9 +1121,9 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 爱宠宠物,http:/jgw.ddns.seak.bid:9999/rtp/239.94.1.145:5140
 爱宠宠物,http://wan1.tangwudi.cc:47859/rtp/239.94.1.145:5140
 爱宠宠物,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.145:5140
-爱宠宠物,http://www.yanbingg.com:1888/rtp/239.94.1.145:5140
+爱宠宠物,http://www.lb5221111.asia:2222/rtp/239.94.1.145:5140
 爱宠宠物,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.145:5140
-爱宠宠物,http://dx.yanbingg.com:1888/rtp/239.94.1.145:5140
+爱宠宠物,http://nas2.roxette119.cn:5555/rtp/239.94.1.145:5140
 爱宠宠物,http://www.zhms.tk:5050/rtp/239.94.1.145:5140
 
 
