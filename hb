@@ -895,7 +895,7 @@ iHOT爱赛车,http://nas2.roxette119.cn:5555/rtp/239.94.1.144:5140
 iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 
 
-🎎动漫卡通,#genre#
+👦动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
 哈哈炫动,http://111.48.34.138/000000001000PLTV/88888888/224/3221230578/1.m3u8
@@ -1160,7 +1160,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 百事通通史,http://111.48.34.138/000000001000PLTV/88888888/224/3221230648/1.m3u8
 
 
-🎎动画世界,#genre#
+👦动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://live.ottiptv.cc/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
 火影疾风传1,https://live.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
