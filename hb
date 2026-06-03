@@ -769,11 +769,9 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 
 
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 
 
