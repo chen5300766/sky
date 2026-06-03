@@ -286,7 +286,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 
 
-📡湖北省,#genre#
+🌐湖北省,#genre#
 武汉新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429
 武汉电视剧,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430
 武汉都市文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
@@ -409,7 +409,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 
-📡体育天地,#genre#
+🏀体育天地,#genre#
 武术世界,http://111.48.34.138/000000001000PLTV/88888888/224/3221230549/1.m3u8
 快乐垂钓,http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
 四海钓鱼,http://111.48.34.138/000000001000PLTV/88888888/224/3221230438/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230605/1.m3u8
@@ -485,7 +485,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 
 
-📡电视影院,#genre#
+🎞️电视影院,#genre#
 CHC动作电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230434/1.m3u8
 CHC家庭影院,http://111.48.34.138/000000001000PLTV/88888888/224/3221230481/1.m3u8
 CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.m3u8
@@ -775,7 +775,7 @@ IPTV武侠剧场,http://sccckj.cn:8899/rtp/239.10.0.133:5140
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 
 
-📡iHOT影院,#genre#
+🎞️iHOT影院,#genre#
 iHOT爱体育,http://www.zhms.tk:5050/rtp/239.94.1.143:5140
 iHOT爱动漫,http://www.zhms.tk:5050/rtp/239.94.1.141:5140
 iHOT爱历史,http://www.zhms.tk:5050/rtp/239.94.1.135:5140
@@ -895,7 +895,7 @@ iHOT爱赛车,http://nas2.roxette119.cn:5555/rtp/239.94.1.144:5140
 iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 
 
-📡动漫卡通,#genre#
+🎎动漫卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
 哈哈炫动,http://111.48.34.138/000000001000PLTV/88888888/224/3221230578/1.m3u8
@@ -971,7 +971,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 优优宝贝,http://pve.iszbd.com:4022/rtp/225.0.4.126:7980
 
 
-📡数字电视,#genre#
+🛸数字电视,#genre#
 金色学堂,http://111.48.34.138/000000001000PLTV/88888888/224/3221230586/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230603/1.m3u8
 环球奇观,http://111.48.34.138/000000001000PLTV/88888888/224/3221229716/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230392/1.m3u8
 国学,http://111.48.34.138/000000001000PLTV/88888888/224/3221229718/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230443/1.m3u8
@@ -1160,7 +1160,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 百事通通史,http://111.48.34.138/000000001000PLTV/88888888/224/3221230648/1.m3u8
 
 
-❤️动画世界,#genre#
+🎎动画世界,#genre#
 火影忍者之博人传,https://www.goodiptv.club/huya/11352974#https://live.ottiptv.cc/huya/11352974#http://cfss.cc/cdn/huya/11352974.flv
 火影疾风传1,https://live.ottiptv.cc/yy/1459675153#http://cfss.cc/cdn/yy/1459675153.flv
 火影疾风传2,https://www.goodiptv.club/huya/20985833#https://live.ottiptv.cc/huya/20985833#http://cfss.cc/cdn/huya/20985833.flv
@@ -1286,7 +1286,7 @@ LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/
 
 
 
-❤️虎牙影院,#genre#
+📺虎牙影院,#genre#
 勞資ヽ尐爺的直播间,https://www.goodiptv.club/huya/11342434#https://live.ottiptv.cc/huya/11342434#http://cfss.cc/cdn/huya/11342434.flv
 前沿旅行社的直播间,https://www.goodiptv.club/huya/20985854#https://live.ottiptv.cc/huya/20985854#http://cfss.cc/cdn/huya/20985854.flv
 海星puff的直播间,https://www.goodiptv.club/huya/20432221#https://live.ottiptv.cc/huya/20432221#http://cfss.cc/cdn/huya/20432221.flv
@@ -1814,7 +1814,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 犯罪案件大合集,https://www.goodiptv.club/huya/26355785#https://live.ottiptv.cc/huya/26355785#http://cfss.cc/cdn/huya/26355785.flv
 
 
-❤️斗鱼影院,#genre#
+📺斗鱼影院,#genre#
 片源多多1,https://live.ottiptv.cc/douyu/7623292#https://isus.cc/php/douyu.php?id=7623292#https://www.goodiptv.club/douyu/7623292
 片源多多2,https://live.ottiptv.cc/douyu/7476264#https://isus.cc/php/douyu.php?id=7476264#https://www.goodiptv.club/douyu/7476264
 片源多多3,https://live.ottiptv.cc/douyu/2073#https://isus.cc/php/douyu.php?id=2073#https://www.goodiptv.club/douyu/2073
@@ -1971,7 +1971,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 戏曲,https://live.ottiptv.cc/douyu/12091975#https://isus.cc/php/douyu.php?id=12091975#https://www.goodiptv.club/douyu/12091975
 
 
-❤️歪歪影院,#genre#
+📺歪歪影院,#genre#
 康熙微服私访记1,https://live.ottiptv.cc/yy/1352811698#https://www.goodiptv.club/yy/1352811698
 康熙微服私访记3,http://cfss.cc/cdn/yy/1356373644.flv#https://live.ottiptv.cc/yy/1356373644#https://www.goodiptv.club/yy/1356373644
 康熙微服私访记4,http://cfss.cc/cdn/yy/1355635293.flv#https://live.ottiptv.cc/yy/1355635293#https://www.goodiptv.club/yy/1355635293
@@ -2228,7 +2228,7 @@ JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/135
 
 
 
-❤️哔哩哔哩影院,#genre#
+📺哔哩哔哩影院,#genre#
 名侦探柯南,https://cdn-3.ttvb.eu.org/bilibili/1861787455#https://cdn-3.ttvb.eu.org/bilibili/1948970250#https://cdn-3.ttvb.eu.org/bilibili/1750972256#https://cdn-3.ttvb.eu.org/bilibili/1884965652#https://cdn-3.ttvb.eu.org/bilibili/1883941437
 汤姆与杰瑞,https://cdn-3.ttvb.eu.org/bilibili/5442624
 虹猫蓝兔系列,https://cdn-3.ttvb.eu.org/bilibili/31913902
@@ -2274,7 +2274,7 @@ JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/135
 
 
 
-❤️抖音影院,#genre#
+🎙️抖音影院,#genre#
 JJ斗地主1,https://cdn-3.ttvb.eu.org/douyin/685317364746#https://tv1288.xyz/douyin.php?type=rid&rid=685317364746
 JJ斗地主2,https://cdn-3.ttvb.eu.org/douyin/348640675261#https://tv1288.xyz/douyin.php?type=rid&rid=348640675261
 武汉欢乐谷,https://cdn-3.ttvb.eu.org/douyin/808453283617#https://tv1288.xyz/douyin.php?type=rid&rid=808453283617
@@ -2378,7 +2378,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 横店影视城娱乐,https://cdn-3.ttvb.eu.org/douyin/529575167432#https://tv1288.xyz/douyin.php?type=rid&rid=529575167432
 
 
-❤️恐怖悬疑影院,#genre#
+📺恐怖悬疑影院,#genre#
 林正英恐怖剧集,https://live.ottiptv.cc/douyu/7356023#https://isus.cc/php/douyu.php?id=7356023#https://www.goodiptv.club/douyu/7356023
 一个只播恐怖片的直播间,https://live.ottiptv.cc/douyu/12068394#https://isus.cc/php/douyu.php?id=12068394#https://www.goodiptv.club/douyu/12068394
 恐怖电影,https://live.ottiptv.cc/douyu/310926#https://isus.cc/php/douyu.php?id=310926#https://www.goodiptv.club/douyu/310926
