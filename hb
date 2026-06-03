@@ -2132,7 +2132,10 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 狄仁杰系列,http://cfss.cc/cdn/yy/1354932438.flv#https://live.ottiptv.cc/yy/1354932438#https://www.goodiptv.club/yy/1354932438
 经典武侠电影,https://live.ottiptv.cc/yy/1382749944#https://www.goodiptv.club/yy/1382749944
 怪兽片合集,https://live.ottiptv.cc/yy/1354930181#https://www.goodiptv.club/yy/1354930181
-电影放映,http://cfss.cc/cdn/yy/1354936229.flv#https://live.ottiptv.cc/yy/1354936229#https://www.goodiptv.club/yy/1354936229
+电影放映1,http://cfss.cc/cdn/yy/1354936229.flv#https://live.ottiptv.cc/yy/1354936229#https://www.goodiptv.club/yy/1354936229
+电影放映2,http://cfss.cc/cdn/yy/1354930927.flv#https://live.ottiptv.cc/yy/1354930927#https://www.goodiptv.club/yy/1354930927
+电影放映3,https://live.ottiptv.cc/yy/1354825244#https://www.goodiptv.club/yy/1354825244
+电影放映4,https://live.ottiptv.cc/yy/1382735627#https://www.goodiptv.club/yy/1382735627
 动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.ottiptv.cc/yy/1382736809#https://www.goodiptv.club/yy/1382736809
 经典电影重温,https://live.ottiptv.cc/yy/1382793140#https://live.ottiptv.cc/yy/1382793140#https://www.goodiptv.club/yy/1382793140
 精彩科幻片,http://cfss.cc/cdn/yy/1382736723.flv#https://live.ottiptv.cc/yy/1382736723#https://www.goodiptv.club/yy/1382736723
@@ -2142,8 +2145,6 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 高分电影,https://live.ottiptv.cc/yy/1355171357#https://www.goodiptv.club/yy/1355171357
 科幻电影,http://cfss.cc/cdn/yy/1354936170.flv#https://live.ottiptv.cc/yy/1354936170#https://www.goodiptv.club/yy/1354936170
 喜剧爱情电影,https://live.ottiptv.cc/yy/1382745181#https://www.goodiptv.club/yy/1382745181
-影视剧1,https://live.ottiptv.cc/yy/1354825244#https://www.goodiptv.club/yy/1354825244
-影视剧2,https://live.ottiptv.cc/yy/1382735627#https://www.goodiptv.club/yy/1382735627
 赌神系列,http://cfss.cc/cdn/yy/1354889044.flv#https://live.ottiptv.cc/yy/1354889044#https://www.goodiptv.club/yy/1354889044
 小鬼当家,http://cfss.cc/cdn/yy/1354658064.flv#https://live.ottiptv.cc/yy/1354658064#https://www.goodiptv.club/yy/1354658064
 神奇动物：邓布利多谜团,http://cfss.cc/cdn/yy/1354930984.flv#https://live.ottiptv.cc/yy/1354930984#https://www.goodiptv.club/yy/1354930984
