@@ -1045,7 +1045,7 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 中国天气,http://36.158.75.239:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://111.8.242.124:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://36.158.75.249:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-中国天气	http://ik.zjx5106.xyz:8001/rtp/239.81.0.63:4056
+中国天气,http://ik.zjx5106.xyz:8001/rtp/239.81.0.63:4056
 中国天气,http://hello.ejoydom.com:9999/rtp/239.77.1.2:5146
 中国天气,http://jxyxnk.x3322.net:4022/rtp/239.252.219.143:5140
 中国天气,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.63:4056
