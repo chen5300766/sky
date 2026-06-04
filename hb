@@ -80,18 +80,6 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV风云剧场,http://120.196.235.42:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://120.196.235.42:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
-CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
-
-
-CCTV风云剧场,http://jdbs1.880167.xyz:8888/rtp/225.1.2.174:5002
-CCTV文化精品,http://jdbs1.880167.xyz:8888/rtp/225.1.2.177:5002
-
-
 CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
 CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 
@@ -100,6 +88,12 @@ CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
 CCTV风云剧场,http://rongrong.me:14022/rtp/225.1.2.174:5002
 CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
+
+CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
+CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
+
+CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
+CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
 
 CCTV风云剧场,http://107.150.60.122/live/fyjc.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -131,6 +125,8 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 
 中央新影-发现之旅,http://8.137.180.215:8899/624878970
 中央新影-发现之旅,http://8.136.45.254:5080/624878970
+中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
+中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://192.151.150.154/live/fxzl.m3u8
 中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
@@ -221,6 +217,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://8.136.45.254:5080/956904896
 农林卫视,http://8.137.180.215:8899/956904896
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
+农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
+农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
 农林卫视,http://ddns.xryo.cn:8888/rtp/239.110.205.88:7924
 农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
@@ -466,10 +464,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-
-天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
-天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
-
 
 
 广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
@@ -890,9 +884,6 @@ iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
 
-天津科教,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
-天津科教,http://jdbs1.880167.xyz:8888/rtp/225.1.1.129:5002
-
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
 
@@ -926,7 +917,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
-
+CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
+CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
 
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
