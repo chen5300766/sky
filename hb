@@ -106,9 +106,6 @@ CCTV文化精品,http://lj.kuail8.cn:4022/rtp/239.253.92.25:6104
 CCTV风云剧场,http://wmh.synology.me:6633/rtp/239.253.43.16:5146
 CCTV文化精品,http://wmh.synology.me:6633/rtp/239.253.43.13:5146
 
-CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
-CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
-
 CCTV风云剧场,http://www.liyajun.top:7088/rtp/239.253.93.251:6429
 CCTV文化精品,http://www.liyajun.top:7088/rtp/239.253.93.175:6439
 
@@ -159,7 +156,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://game.x3322.net:8899/rtp/225.0.4.184:7980
 中央新影-中学生,http://pve.iszbd.com:4022/rtp/225.0.4.184:7980
 中央新影-中学生,http://www.liyajun.top:7088/rtp/239.253.92.27:6106
-中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
 中央新影-中学生,http://wmh.synology.me:6633/rtp/239.77.1.195:5146
 
 
@@ -171,7 +167,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://hello.ejoydom.com:9999/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.cn:4022/rtp/239.253.94.30:6629
-中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://wmh.synology.me:6633/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://lj.kuail8.com:4022/rtp/239.253.94.30:6629
 中央新影-发现之旅,http://www.liyajun.top:7088/rtp/239.253.94.30:6629
@@ -460,7 +455,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://wan1.tangwudi.cc:47859/rtp/239.94.1.152:5140
 天元围棋,http://lj.kuail8.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://www.lb5221111.asia:2222/rtp/239.94.1.152:5140
-天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
 天元围棋,http://nas.zangxiaodou.cn:4022/rtp/239.253.93.211:6389
 天元围棋,http://wmh.synology.me:6633/rtp/239.253.43.98:5146
 天元围棋,http://www.liyajun.top:7088/rtp/239.253.93.211:6389
@@ -977,7 +971,6 @@ CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
 CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
 CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
-CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://lj.kuail8.cn:4022/rtp/239.253.92.39:6107
 CETV早期教育,http://wmh.synology.me:6633/rtp/239.77.0.180:5146
 CETV早期教育,http://www.liyajun.top:7088/rtp/239.253.92.39:6107
@@ -1127,7 +1120,6 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 求索纪录,http://www.smilehome.top:4022/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
 求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
-求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
 求索纪录,http://www.lb5221111.asia:2222/rtp/239.94.1.142:5140
 求索纪录,http://nas2.roxette119.cn:5555/rtp/239.94.1.142:5140
 求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
