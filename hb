@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-3,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-4,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -684,6 +684,26 @@ IPTV爱上4K,http://vpn.5kong.work:18888/rtp/239.3.1.236:2000
 IPTV精选,http://vpn.5kong.work:18888/rtp/239.3.1.74:4120
 IPTV家庭影院,http://vpn.5kong.work:18888/rtp/239.3.1.93:4120
 
+
+红色影院,http://happy2015.synology.me:4000/rtp/239.3.1.88:4120
+IPTV4K超清,http://happy2015.synology.me:4000/rtp/239.3.1.249:8001
+IPTV淘剧场,http://happy2015.synology.me:4000/rtp/239.3.1.95:8001
+IPTV淘电影,http://happy2015.synology.me:4000/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://happy2015.synology.me:4000/rtp/239.3.1.100:8001
+IPTV淘BABY,http://happy2015.synology.me:4000/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://happy2015.synology.me:4000/rtp/239.3.1.102:8001
+IPTV星影,http://happy2015.synology.me:4000/rtp/239.3.1.94:4120
+IPTV城市剧场,http://happy2015.synology.me:4000/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://happy2015.synology.me:4000/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://happy2015.synology.me:4000/rtp/239.3.1.90:4120
+IPTV古装剧场,http://happy2015.synology.me:4000/rtp/239.3.1.69:4120
+IPTV热播剧场,http://happy2015.synology.me:4000/rtp/239.3.1.194:9020
+IPTV经典电影,http://happy2015.synology.me:4000/rtp/239.3.1.195:9024
+IPTV爱上4K,http://happy2015.synology.me:4000/rtp/239.3.1.236:2000
+IPTV精选,http://happy2015.synology.me:4000/rtp/239.3.1.74:4120
+IPTV家庭影院,http://happy2015.synology.me:4000/rtp/239.3.1.93:4120
+
+
 IPTV城市剧场,http://sccckj.cn:8899/rtp/239.10.0.124:5140
 IPTV军旅剧场,http://sccckj.cn:8899/rtp/239.10.0.125:5140
 IPTV古装剧场,http://sccckj.cn:8899/rtp/239.10.0.126:5140
@@ -933,18 +953,22 @@ IPTV少儿动画,http://laiboy.asuscomm.com:58686/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.photoby.us:28012/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.famcloud.top:9878/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
+IPTV少儿动画,http://happy2015.synology.me:4000/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://wuyanjiang.cn:8012/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://laiboy.asuscomm.com:58686/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.photoby.us:28012/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.famcloud.top:9878/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://happy2015.synology.me:4000/rtp/239.3.1.80:4120
 
 IPTV早教,http://wuyanjiang.cn:8012/rtp/239.3.1.79:4120
 IPTV早教,http://laiboy.asuscomm.com:58686/rtp/239.3.1.79:4120
 IPTV早教,http://www.photoby.us:28012/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
+IPTV早教,http://happy2015.synology.me:4000/rtp/239.3.1.79:4120
+
 
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
@@ -1040,6 +1064,13 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 鉴赏,http://vpn.5kong.work:18888/rtp/239.3.1.82:4120
 墨宝,http://vpn.5kong.work:18888/rtp/239.3.1.83:4120
 军事,http://vpn.5kong.work:18888/rtp/239.3.1.76:4120
+
+
+中国交通,http://happy2015.synology.me:4000/rtp/239.3.1.188:8001
+好学生,http://happy2015.synology.me:4000/rtp/239.3.1.81:4120
+鉴赏,http://happy2015.synology.me:4000/rtp/239.3.1.82:4120
+墨宝,http://happy2015.synology.me:4000/rtp/239.3.1.83:4120
+军事,http://happy2015.synology.me:4000/rtp/239.3.1.76:4120
 
 
 中国天气,http://8.137.180.215:8899/959986621
