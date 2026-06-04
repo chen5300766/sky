@@ -85,6 +85,11 @@ CCTV文化精品,http://120.196.235.42:9901/tsfile/live/1099_1.m3u8?key=txiptv&p
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
+
+CCTV风云剧场,http://jdbs1.880167.xyz:8888/rtp/225.1.2.174:5002
+CCTV文化精品,http://jdbs1.880167.xyz:8888/rtp/225.1.2.177:5002
+
+
 CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
 CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 
@@ -461,6 +466,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
+天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
+
 
 
 广东影视,http://171.38.146.47:8082/tsfile/live/1043_1.m3u8
@@ -881,8 +888,8 @@ iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
 
-天津科教	http://www.330459.xyz:8188/rtp/225.1.1.129:5002
-
+天津科教,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
+天津科教,http://jdbs1.880167.xyz:8888/rtp/225.1.1.129:5002
 
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
