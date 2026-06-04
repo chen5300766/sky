@@ -611,23 +611,23 @@ IPTV精选,http://wuyanjiang.cn:8012/rtp/239.3.1.74:4120
 IPTV家庭影院,http://wuyanjiang.cn:8012/rtp/239.3.1.93:4120
 
 
-红色影院,http://laiboy.asuscomm.com:58686/rtp/239.3.1.88:4120
-IPTV4K超清,http://laiboy.asuscomm.com:58686/rtp/239.3.1.249:8001
-IPTV淘剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.95:8001
-IPTV淘电影,http://laiboy.asuscomm.com:58686/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://laiboy.asuscomm.com:58686/rtp/239.3.1.100:8001
-IPTV淘BABY,http://laiboy.asuscomm.com:58686/rtp/239.3.1.238:8001
-IPTV萌宠TV,http://laiboy.asuscomm.com:58686/rtp/239.3.1.102:8001
-IPTV星影,http://laiboy.asuscomm.com:58686/rtp/239.3.1.94:4120
-IPTV城市剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.67:4120
-IPTV军旅剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.68:4120
-IPTV武侠剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.90:4120
-IPTV古装剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.69:4120
-IPTV热播剧场,http://laiboy.asuscomm.com:58686/rtp/239.3.1.194:9020
-IPTV经典电影,http://laiboy.asuscomm.com:58686/rtp/239.3.1.195:9024
-IPTV爱上4K,http://laiboy.asuscomm.com:58686/rtp/239.3.1.236:2000
-IPTV精选,http://laiboy.asuscomm.com:58686/rtp/239.3.1.74:4120
-IPTV家庭影院,http://laiboy.asuscomm.com:58686/rtp/239.3.1.93:4120
+红色影院,http://superpostmail.3322.org:1193/rtp/239.3.1.88:4120
+IPTV4K超清,http://superpostmail.3322.org:1193/rtp/239.3.1.249:8001
+IPTV淘剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.95:8001
+IPTV淘电影,http://superpostmail.3322.org:1193/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://superpostmail.3322.org:1193/rtp/239.3.1.100:8001
+IPTV淘BABY,http://superpostmail.3322.org:1193/rtp/239.3.1.238:8001
+IPTV萌宠TV,http://superpostmail.3322.org:1193/rtp/239.3.1.102:8001
+IPTV星影,http://superpostmail.3322.org:1193/rtp/239.3.1.94:4120
+IPTV城市剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.67:4120
+IPTV军旅剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.68:4120
+IPTV武侠剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.90:4120
+IPTV古装剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.69:4120
+IPTV热播剧场,http://superpostmail.3322.org:1193/rtp/239.3.1.194:9020
+IPTV经典电影,http://superpostmail.3322.org:1193/rtp/239.3.1.195:9024
+IPTV爱上4K,http://superpostmail.3322.org:1193/rtp/239.3.1.236:2000
+IPTV精选,http://superpostmail.3322.org:1193/rtp/239.3.1.74:4120
+IPTV家庭影院,http://superpostmail.3322.org:1193/rtp/239.3.1.93:4120
 
 
 红色影院,http://www.photoby.us:28012/rtp/239.3.1.88:4120
@@ -949,21 +949,21 @@ iHOT爱院线,http://nas2.roxette119.cn:5555/rtp/239.94.1.132:5140
 
 
 IPTV少儿动画,http://wuyanjiang.cn:8012/rtp/239.3.1.199:9000
-IPTV少儿动画,http://laiboy.asuscomm.com:58686/rtp/239.3.1.199:9000
+IPTV少儿动画,http://superpostmail.3322.org:1193/rtp/239.3.1.199:9000
 IPTV少儿动画,http://www.photoby.us:28012/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.famcloud.top:9878/rtp/239.3.1.199:9000
 IPTV少儿动画,http://vpn.5kong.work:18888/rtp/239.3.1.199:9000
 IPTV少儿动画,http://mingjd.cn:7077/rtp/239.3.1.199:9000
 
 IPTV宝宝动画,http://wuyanjiang.cn:8012/rtp/239.3.1.80:4120
-IPTV宝宝动画,http://laiboy.asuscomm.com:58686/rtp/239.3.1.80:4120
+IPTV宝宝动画,http://superpostmail.3322.org:1193/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://www.photoby.us:28012/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.famcloud.top:9878/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://vpn.5kong.work:18888/rtp/239.3.1.80:4120
 IPTV宝宝动画,http://mingjd.cn:7077/rtp/239.3.1.80:4120
 
 IPTV早教,http://wuyanjiang.cn:8012/rtp/239.3.1.79:4120
-IPTV早教,http://laiboy.asuscomm.com:58686/rtp/239.3.1.79:4120
+IPTV早教,http://superpostmail.3322.org:1193/rtp/239.3.1.79:4120
 IPTV早教,http://www.photoby.us:28012/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.famcloud.top:9878/rtp/239.3.1.79:4120
 IPTV早教,http://vpn.5kong.work:18888/rtp/239.3.1.79:4120
@@ -1038,11 +1038,11 @@ CETV早期教育,http://nas.zangxiaodou.cn:4022/rtp/239.253.92.39:6107
 军事,http://wuyanjiang.cn:8012/rtp/239.3.1.76:4120
 
 
-中国交通,http://laiboy.asuscomm.com:58686/rtp/239.3.1.188:8001
-好学生,http://laiboy.asuscomm.com:58686/rtp/239.3.1.81:4120
-鉴赏,http://laiboy.asuscomm.com:58686/rtp/239.3.1.82:4120
-墨宝,http://laiboy.asuscomm.com:58686/rtp/239.3.1.83:4120
-军事,http://laiboy.asuscomm.com:58686/rtp/239.3.1.76:4120
+中国交通,http://superpostmail.3322.org:1193/rtp/239.3.1.188:8001
+好学生,http://superpostmail.3322.org:1193/rtp/239.3.1.81:4120
+鉴赏,http://superpostmail.3322.org:1193/rtp/239.3.1.82:4120
+墨宝,http://superpostmail.3322.org:1193/rtp/239.3.1.83:4120
+军事,http://superpostmail.3322.org:1193/rtp/239.3.1.76:4120
 
 
 中国交通,http://www.photoby.us:28012/rtp/239.3.1.188:8001
