@@ -81,12 +81,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
 CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 
-CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
-CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
-
-CCTV风云剧场,http://home888.uttcare.com:8889/rtp/225.1.2.174:5002
-CCTV文化精品,http://home888.uttcare.com:8889/rtp/225.1.2.177:5002
-
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 
@@ -363,8 +357,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
-五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
-五星体育,http://home888.uttcare.com:8889/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
