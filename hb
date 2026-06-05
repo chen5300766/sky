@@ -378,11 +378,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
-陕西体育休闲,http://ddns.xryo.cn:8888/rtp/239.111.205.36:5140
-陕西体育休闲,http://www.gaolao.top:8008/rtp/239.111.205.36:5140
-陕西体育休闲,http://ddns.xryo.cn:8888/rtp/239.111.205.36:5140
-陕西体育休闲,http://tiger81.i234.me:8888/rtp/239.111.205.36:5140
-陕西体育休闲,http://4712635.xyz:26000/rtp/239.111.205.36:5140
+陕西体育休闲,http://120.55.194.141:1234/956909356
+陕西体育休闲,http://120.6.237.233:21234/956909356
+
 
 天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -449,7 +447,6 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
-
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
@@ -459,6 +456,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
+广东影视,http:///120.55.194.141:1234/614961829
+广东影视,http://120.6.237.233:21234/614961829
 
 东方影视,http://120.6.237.233:21234/617290047
 东方影视,http://120.55.194.141:1234/617290047
