@@ -87,13 +87,16 @@ CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
 
+CCTV风云剧场,http://120.196.235.42:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://120.196.235.42:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV风云剧场,http://107.150.60.122/live/fyjc.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8
 
 CCTV风云剧场,http://192.151.150.154/live/fyjc.m3u8
 CCTV文化精品,http://192.151.150.154/live/ysjp.m3u8
-
-CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -358,6 +361,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
