@@ -84,8 +84,8 @@ CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
 CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
-CCTV风云剧场,http://rongrong.me:14022/rtp/225.1.2.174:5002
-CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
+CCTV风云剧场,http://home888.uttcare.com:8889/rtp/225.1.2.174:5002
+CCTV文化精品,http://home888.uttcare.com:8889/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
@@ -370,7 +370,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
-五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
+五星体育,http://home888.uttcare.com:8889/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
@@ -460,7 +460,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 东方影视,http://120.55.194.141:1234/617290047
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.4:5140
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.4:5140
-东方影视,http://rongrong.me:14022/rtp/233.18.204.4:5140
+东方影视,http://home888.uttcare.com:8889/rtp/233.18.204.4:5140
 
 
 中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -863,7 +863,7 @@ IPTV早教,http://rt.tunan.tech:7070/rtp/239.3.1.79:4120
 CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
-CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
+CETV早期教育,http://home888.uttcare.com:8889/rtp/233.18.204.187:5140
 CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
 CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
@@ -964,7 +964,7 @@ CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
 
 家庭理财,http://www.rogerxlj.top:9998/rtp/233.18.204.157:5140
 家庭理财,http://cx.shscxzx.cn:8899/rtp/233.18.204.157:5140
-家庭理财,http://rongrong.me:14022/rtp/233.18.204.157:5140
+家庭理财,http://home888.uttcare.com:8889/rtp/233.18.204.157:5140
 家庭理财,http://jgw.ddns.mygo2025.cloudns.biz:9999/rtp/239.94.1.50:5140
 家庭理财,http://www.lb5221111.asia:2222/rtp/239.94.1.50:5140
 家庭理财,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.50:5140
