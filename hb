@@ -365,6 +365,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
+广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
 广东体育,http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
@@ -430,7 +431,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://hunhhyd.sohu.blog:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http:///tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.56:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://107.150.60.122/live/cwjd.m3u8
@@ -457,7 +458,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http:///120.55.194.141:1234/614961829
 广东影视,http://47.101.60.11:9400/614961829
-
+广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
 东方影视,http://47.101.60.11:9400/617290047
 东方影视,http://120.55.194.141:1234/617290047
@@ -525,6 +526,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
+广东少儿	http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 
@@ -577,7 +579,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 中国天气,http://47.101.60.11:9400/959986621
 中国天气,http://120.55.194.141:1234/959986621
 中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-
+中国气象,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
@@ -585,6 +587,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 环球旅游,http://47.101.60.11:9400/958475356
 环球旅游,http://120.55.194.141:1234/958475356
+环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 
