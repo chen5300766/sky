@@ -196,8 +196,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰香港,http://r.jdshipin.com/yDoTN
 
 凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv
-凤凰香港,http://36.136.13.254:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
@@ -205,8 +203,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 大湾区卫视,http://47.101.60.11:9400/608917627
 大湾区卫视,http://120.55.194.141:1234/608917627
-大湾区卫视,http://36.136.13.254:18885/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://36.136.11.222:18885/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
@@ -374,8 +370,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
-广东体育,http://36.136.13.254:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -434,8 +428,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 重温经典,http://hunhhyd.sohu.blog:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://36.136.13.254:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://36.136.11.222:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.239:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.158.75.56:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -463,9 +455,6 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 广东影视,http:///120.55.194.141:1234/614961829
 广东影视,http://47.101.60.11:9400/614961829
-广东影视,http://36.136.13.254:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 东方影视,http://47.101.60.11:9400/617290047
@@ -534,9 +523,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 游戏风云,http://111.48.34.138/000000001000PLTV/88888888/224/3221230599/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230623/1.m3u8
 
 
-广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
-
+广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
+广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
