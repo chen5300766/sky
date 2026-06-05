@@ -577,7 +577,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 中国天气,http://47.101.60.11:9400/959986621
 中国天气,http://120.55.194.141:1234/959986621
 中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-中国气象,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
+中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
