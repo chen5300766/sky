@@ -739,7 +739,7 @@ eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ot
 LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/huya/880203#http://cfss.cc/cdn/huya/880203.flv
 城市猎人动漫,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
 防风少年,https://www.goodiptv.club/huya/11352961#hhttps://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
-
+小毅动漫剧场,https://live.ottiptv.cc/douyu/12851401#https://isus.cc/php/douyu.php?id=12851401#https://www.goodiptv.club/douyu/12851401
 
 
 🐯虎牙影院,#genre#
@@ -1304,7 +1304,6 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://isus.cc/php/douyu.php?id=323876#https://www.goodiptv.club/douyu/323876
 小毅剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://isus.cc/php/douyu.php?id=11851549#https://www.goodiptv.club/douyu/11851549
 小毅剧场--快乐星球,https://live.ottiptv.cc/douyu/12851831#https://isus.cc/php/douyu.php?id=12851831#https://www.goodiptv.club/douyu/12851831
-小毅剧场--憨豆动画,https://live.ottiptv.cc/douyu/12851401#https://isus.cc/php/douyu.php?id=12851401#https://www.goodiptv.club/douyu/12851401
 【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://isus.cc/php/douyu.php?id=11849873#https://www.goodiptv.club/douyu/11849873
 【奇光】爱情公寓系列,https://live.ottiptv.cc/douyu/12817608#https://isus.cc/php/douyu.php?id=12817608#https://www.goodiptv.club/douyu/12817608
 【粤语电影】吴孟达 达叔 周星驰 经典,https://live.ottiptv.cc/douyu/1226741#https://isus.cc/php/douyu.php?id=1226741#https://www.goodiptv.club/douyu/1226741
