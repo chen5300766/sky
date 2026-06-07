@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-6,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-7,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -77,6 +77,18 @@ CCTV兵器科技,http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1
 CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1.m3u8
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
+
+CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
+CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
+
+CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
+CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
+
+CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
+CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
+
+CCTV风云剧场,http://rongrong.me:14022/rtp/225.1.2.174:5002
+CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
@@ -197,6 +209,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://47.101.60.11:9400/608917627
 大湾区卫视,http://183.233.155.69:8001/608917627
 大湾区卫视,http://159.75.3.29:8888/608917627
+大湾区卫视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.32:4056
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
@@ -207,8 +220,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
+农林卫视,http://www.gaolao.top:8008/rtp/239.110.205.88:7924
+农林卫视,http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
+农林卫视,http://ddns.xryo.cn:8888/rtp/239.110.205.88:7924
+农林卫视,http://tiger81.i234.me:8888/rtp/239.110.205.88:7924
+农林卫视,http://4712635.xyz:26000/rtp/239.110.205.88:7924
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-
 
 海峡卫视,http://159.75.3.29:8888/849119120
 海峡卫视,http://183.233.155.69:8001/849119120
@@ -357,6 +374,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
+五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
+五星体育,http://cx.shscxzx.cn:8899/rtp/233.18.204.58:5140
+五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
@@ -492,6 +512,14 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 
+影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
+影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
+影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
+影视剧,http://shidai1.dynv6.net:4000/rtp/239.254.96.95:8716
+影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
+影视剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
+
+
 经典香港电影,http://159.75.3.29:8888/625703337
 抗战经典影片,http://159.75.3.29:8888/617432318
 新片放映厅,http://159.75.3.29:8888/619495952
@@ -542,6 +570,15 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
 
+CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
+CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
+CETV早期教育,http://cx.shscxzx.cn:8899/rtp/233.18.204.187:5140
+CETV早期教育,http://rongrong.me:14022/rtp/233.18.204.187:5140
+CETV早期教育,http://ximu.ecs.yue.zone:369/rtp/238.255.2.143:5999
+CETV早期教育,http://gyvnc.liy.ink:369/rtp/238.255.2.143:5999
+CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
+
+
 经典动画大集合,http://159.75.3.29:8888/629942219
 经典动画大集合,http://183.233.155.69:8001/629942219
 经典动画大集合,http://47.101.60.11:9400/629942219
@@ -563,6 +600,10 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 财富天下,http://159.75.3.29:8888/956923159
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
+财富天下,http://cx.shscxzx.cn:8899/rtp/233.18.204.41:5140
+财富天下,http://rongrong.me:14022/rtp/233.18.204.41:5140
+财富天下,http://tiger81.i234.me:8888/rtp/239.112.205.196:5140
 财富天下,http://111.48.34.138/000000001000PLTV/88888888/224/3221229728/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230418/1.m3u8
 
 
@@ -584,6 +625,11 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+
+
+家庭理财,http://www.rogerxlj.top:9998/rtp/233.18.204.157:5140
+家庭理财,http://cx.shscxzx.cn:8899/rtp/233.18.204.157:5140
+家庭理财,http://rongrong.me:14022/rtp/233.18.204.157:5140
 
 
 环球旅游,http://47.101.60.11:9400/958475356
