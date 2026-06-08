@@ -87,8 +87,8 @@ CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
 CCTV风云剧场,http://cx.shscxzx.cn:8899/rtp/233.18.204.183:5140
 CCTV文化精品,http://cx.shscxzx.cn:8899/rtp/233.18.204.186:5140
 
-CCTV风云剧场,http://rongrong.me:14022/rtp/225.1.2.174:5002
-CCTV文化精品,http://rongrong.me:14022/rtp/225.1.2.177:5002
+CCTV风云剧场,http://rongrong.me:14022/rtp/233.18.204.183:5140
+CCTV文化精品,http://rongrong.me:14022/rtp/233.18.204.186:5140
 
 CCTV风云剧场,http://gyvnc.liy.ink:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
