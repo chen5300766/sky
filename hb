@@ -706,7 +706,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 斗鱼名侦探柯南,https://live.ottiptv.cc/douyu/5172389#https://isus.cc/php/douyu.php?id=5172389#https://www.goodiptv.club/douyu/5172389
 名侦探柯南剧场版,https://www.goodiptv.club/huya/30080236#https://live.ottiptv.cc/huya/30080236#http://cfss.cc/cdn/huya/30080236.flv
 汤姆与杰瑞,https://www.goodiptv.club/huya/11352879#https://live.ottiptv.cc/huya/11352879#http://cfss.cc/cdn/huya/11352879.flv
-龍組队长天昊直播间,https://live.ottiptv.cc/douyu/1487654#https://isus.cc/php/douyu.php?id=1487654#https://www.goodiptv.club/douyu/1487654
+童年动画片,https://live.ottiptv.cc/douyu/1487654#https://isus.cc/php/douyu.php?id=1487654#https://www.goodiptv.club/douyu/1487654
 骑士不让播了，先随便播下吧,https://live.ottiptv.cc/douyu/1218414#https://isus.cc/php/douyu.php?id=1218414#https://www.goodiptv.club/douyu/1218414
 茶啊二中,https://www.goodiptv.club/huya/11213191#https://live.ottiptv.cc/huya/11213191#https://isus.cc/php/douyu.php?id=2925610#https://live.ottiptv.cc/douyu/2925610#https://www.goodiptv.club/douyu/2925610
 茶啊二中,https://www.goodiptv.club/huya/26355818#https://live.ottiptv.cc/huya/26355818
@@ -1905,6 +1905,8 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 拜托了老司机,https://cdn-3.ttvb.eu.org/douyin/659173822256#https://tv1288.xyz/douyin.php?type=rid&rid=659173822256
 芒果TV,https://cdn-3.ttvb.eu.org/douyin/9662123755#https://tv1288.xyz/douyin.php?type=rid&rid=9662123755
 横店影视城娱乐,https://cdn-3.ttvb.eu.org/douyin/529575167432#https://tv1288.xyz/douyin.php?type=rid&rid=529575167432
+怀旧音乐,https://cdn-3.ttvb.eu.org/douyin/247469565050#https://tv1288.xyz/douyin.php?type=rid&rid=247469565050
+
 
 
 📺恐怖悬疑影院,#genre#
