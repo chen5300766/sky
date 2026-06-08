@@ -1802,8 +1802,7 @@ JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/135
 
 
 🎙️抖音影院,#genre#
-JJ斗地主1,https://cdn-3.ttvb.eu.org/douyin/685317364746#https://tv1288.xyz/douyin.php?type=rid&rid=685317364746
-JJ斗地主2,https://cdn-3.ttvb.eu.org/douyin/348640675261#https://tv1288.xyz/douyin.php?type=rid&rid=348640675261
+JJ斗地主,https://cdn-3.ttvb.eu.org/douyin/685317364746#https://tv1288.xyz/douyin.php?type=rid&rid=685317364746
 武汉欢乐谷,https://cdn-3.ttvb.eu.org/douyin/808453283617#https://tv1288.xyz/douyin.php?type=rid&rid=808453283617
 中央数字电视,https://cdn-3.ttvb.eu.org/douyin/482342971427#https://tv1288.xyz/douyin.php?type=rid&rid=482342971427
 环球网,https://cdn-3.ttvb.eu.org/douyin/262746510236#https://tv1288.xyz/douyin.php?type=rid&rid=262746510236
