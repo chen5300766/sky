@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-7,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-8,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -1898,6 +1898,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 抖音美好奇妙夜,https://cdn-3.ttvb.eu.org/douyin/926375850872#https://tv1288.xyz/douyin.php?type=rid&rid=926375850872
 清明上河园,https://cdn-3.ttvb.eu.org/douyin/513025096675#https://tv1288.xyz/douyin.php?type=rid&rid=513025096675
 驾考一把过,https://cdn-3.ttvb.eu.org/douyin/341263229845#https://tv1288.xyz/douyin.php?type=rid&rid=341263229845
+拜托了老司机,https://cdn-3.ttvb.eu.org/douyin/659173822256#https://tv1288.xyz/douyin.php?type=rid&rid=659173822256
 芒果TV,https://cdn-3.ttvb.eu.org/douyin/9662123755#https://tv1288.xyz/douyin.php?type=rid&rid=9662123755
 横店影视城娱乐,https://cdn-3.ttvb.eu.org/douyin/529575167432#https://tv1288.xyz/douyin.php?type=rid&rid=529575167432
 
