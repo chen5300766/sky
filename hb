@@ -209,6 +209,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://47.101.60.11:9400/608917627
 大湾区卫视,http://www.49656374.xyz:5000/608917627
 大湾区卫视,http://58.32.26.112:5080/608917627
+大湾区卫视,http://58.255.201.145:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.32:4056
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
@@ -384,6 +385,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
+广东体育,http://58.255.201.145:10443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -481,6 +483,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 广东影视,http:///58.32.26.112:5080/614961829
 广东影视,http://www.49656374.xyz:5000/614961829
 广东影视,http://47.101.60.11:9400/614961829
+广东影视,http://58.255.201.145:10443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 
 东方影视,http://47.101.60.11:9400/617290047
@@ -573,7 +576,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-广东少儿	http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
+广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
+广东少儿,http://58.255.201.145:10443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 
