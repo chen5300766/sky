@@ -1574,6 +1574,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 案发现场,https://live.ottiptv.cc/yy/22089862#http://cfss.cc/cdn/yy/22089862.flv#https://www.goodiptv.club/yy/22089862
 风筝,https://live.ottiptv.cc/yy/1382828770#https://www.goodiptv.club/yy/1382828770
 小欢喜,https://live.ottiptv.cc/yy/1382737888#https://www.goodiptv.club/yy/1382737888
+二号交通站,http://cfss.cc/cdn/yy/1382851582.flv#https://live.ottiptv.cc/yy/1382851582#https://www.goodiptv.club/yy/1382851582#http://cfss.cc/cdn/yy/1354930965.flv#https://live.ottiptv.cc/yy/1354930965#https://www.goodiptv.club/yy/1354930965
 炊事班的故事,https://live.ottiptv.cc/yy/1382736886#https://www.goodiptv.club/yy/1382736886
 炊事班的故事第一部,https://live.ottiptv.cc/yy/1382749901#https://www.goodiptv.club/yy/1382749901
 炊事班的故事第二部,https://live.ottiptv.cc/yy/1382736885#https://www.goodiptv.club/yy/1382736885
@@ -1641,6 +1642,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 生死极速救援,https://live.ottiptv.cc/yy/1382736719#https://www.goodiptv.club/yy/1382736719
 绝地生死营救,https://live.ottiptv.cc/yy/1354936214#https://www.goodiptv.club/yy/1354936214
 超能疯人院,http://cfss.cc/cdn/yy/1354932441.flv#https://live.ottiptv.cc/yy/1354932441#https://www.goodiptv.club/yy/1354932441
+重启,https://live.ottiptv.cc/yy/1354888736#https://www.goodiptv.club/yy/1354888736
 古装武侠剧,http://cfss.cc/cdn/yy/1382881708.flv#https://live.ottiptv.cc/yy/1382881708#https://www.goodiptv.club/yy/1382881708
 经典抗战剧,http://cfss.cc/cdn/yy/1354806550.flv#https://live.ottiptv.cc/yy/1354806550#https://www.goodiptv.club/yy/1354806550
 铁道游击队,http://cfss.cc/cdn/yy/1453955779.flv#https://live.ottiptv.cc/yy/1453955779#https://www.goodiptv.club/yy/1453955779
@@ -1670,6 +1672,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 电影放映2,http://cfss.cc/cdn/yy/1354930927.flv#https://live.ottiptv.cc/yy/1354930927#https://www.goodiptv.club/yy/1354930927
 电影放映3,https://live.ottiptv.cc/yy/1354825244#https://www.goodiptv.club/yy/1354825244
 电影放映4,https://live.ottiptv.cc/yy/1382735627#https://www.goodiptv.club/yy/1382735627
+电影放映5,http://cfss.cc/cdn/yy/1354932426.flv#https://live.ottiptv.cc/yy/1354932426#https://www.goodiptv.club/yy/1354932426
 动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.ottiptv.cc/yy/1382736809#https://www.goodiptv.club/yy/1382736809
 经典电影重温,https://live.ottiptv.cc/yy/1382793140#https://live.ottiptv.cc/yy/1382793140#https://www.goodiptv.club/yy/1382793140
 精彩科幻片,http://cfss.cc/cdn/yy/1382736723.flv#https://live.ottiptv.cc/yy/1382736723#https://www.goodiptv.club/yy/1382736723
