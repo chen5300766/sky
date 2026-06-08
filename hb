@@ -529,12 +529,12 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 
-影视剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
-影视剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
-影视剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
-影视剧,http://shidai1.dynv6.net:4000/rtp/239.254.96.95:8716
-影视剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
-影视剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
+重温老剧,http://game.x3322.net:8899/rtp/225.0.4.163:7980
+重温老剧,http://www.smilehome.top:4022/rtp/225.0.4.163:7980
+重温老剧,http://www.alihomes.top:8188/rtp/239.254.96.95:8716
+重温老剧,http://shidai1.dynv6.net:4000/rtp/239.254.96.95:8716
+重温老剧,http://pve.iszbd.com:4022/rtp/225.0.4.163:7980
+重温老剧,http://nas.iszbd.com:4022/rtp/225.0.4.163:7980
 
 
 经典香港电影,http://58.32.26.112:5080/625703337
