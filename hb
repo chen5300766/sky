@@ -457,8 +457,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 
 
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
+亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
+欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
 
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
@@ -484,11 +485,6 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
 东方影视,http://cx.shscxzx.cn:8899/rtp/233.18.204.55:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.55:5140
-
-
-
-亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
-欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
 
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
