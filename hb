@@ -450,6 +450,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.102:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 重温经典,http://192.151.150.154/live/cwjd.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
