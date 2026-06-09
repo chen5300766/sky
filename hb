@@ -552,7 +552,11 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
+
+
 纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+东森电影,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+
 
 精彩影视,http://123.168.202.105:9981/stream/channelid/1733180528?profile=pass
 精彩影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000396
