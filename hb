@@ -555,6 +555,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 
 精彩影视,http://123.168.202.105:9981/stream/channelid/1733180528?profile=pass
+精彩影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000396
 
 
 👦动漫游戏卡通,#genre#
