@@ -554,7 +554,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东森电影,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
 
 
-精彩影视,http://123.168.202.105:9981/stream/channelid/1733180528?profile=pass
 精彩影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000396
 
 
@@ -648,10 +647,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
-求索记录,http://123.168.202.105:9981/stream/channelid/1910277694?profile=pass
-
-
-家庭理财,http://123.168.202.105:9981/stream/channelid/97233969?profile=pass
 家庭理财,http://www.rogerxlj.top:9998/rtp/233.18.204.157:5140
 家庭理财,http://cx.shscxzx.cn:8899/rtp/233.18.204.157:5140
 家庭理财,http://rongrong.me:14022/rtp/233.18.204.157:5140
