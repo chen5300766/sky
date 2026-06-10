@@ -81,10 +81,8 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
-
 CCTV风云剧场,http://pplee.vicp.net:4022/rtp/233.18.204.183:5140
 CCTV文化精品,http://pplee.vicp.net:4022/rtp/233.18.204.186:5140
-
 
 CCTV风云剧场,http://www.rogerxlj.top:9998/rtp/233.18.204.183:5140
 CCTV文化精品,http://www.rogerxlj.top:9998/rtp/233.18.204.186:5140
