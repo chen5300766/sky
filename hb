@@ -210,7 +210,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://www.49656374.xyz:5000/608917627
 大湾区卫视,http://58.32.26.112:5080/608917627
 大湾区卫视,http://183.7.145.70:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://ik.zjx5106.xyz:8001/rtp/239.81.0.32:4056
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
