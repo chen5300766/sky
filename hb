@@ -208,6 +208,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv
 
+
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
@@ -389,6 +390,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
+广东体育,http://113.64.147.178:8081/hls/1/index.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
