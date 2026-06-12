@@ -1861,6 +1861,7 @@ JJ斗地主,https://cdn-3.ttvb.eu.org/douyin/685317364746#https://tv1288.xyz/dou
 顶红体育,https://cdn-3.ttvb.eu.org/douyin/348285150839#https://tv1288.xyz/douyin.php?type=rid&rid=348285150839
 骏仁鸿体育,https://cdn-3.ttvb.eu.org/douyin/661429023796#https://tv1288.xyz/douyin.php?type=rid&rid=661429023796
 梦之体育,https://cdn-3.ttvb.eu.org/douyin/193774533462#https://tv1288.xyz/douyin.php?type=rid&rid=193774533462
+中冠联赛,https://cdn-3.ttvb.eu.org/douyin/176294480576#https://tv1288.xyz/douyin.php?type=rid&rid=176294480576
 篮球直播,https://cdn-3.ttvb.eu.org/douyin/227582120565#https://tv1288.xyz/douyin.php?type=rid&rid=227582120565
 乒乓体育1,https://cdn-3.ttvb.eu.org/douyin/827201204680#https://tv1288.xyz/douyin.php?type=rid&rid=827201204680
 乒乓体育2,https://cdn-3.ttvb.eu.org/douyin/696457178335#https://tv1288.xyz/douyin.php?type=rid&rid=696457178335
