@@ -78,11 +78,14 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV风云剧场,http://jddk.f3322.org:8888/rtp/225.1.2.174:5002
-CCTV文化精品,http://jddk.f3322.org:8888/rtp/225.1.2.177:5002
-
 CCTV风云剧场,http://jdbs1.880167.xyz:8888/rtp/225.1.2.174:5002
 CCTV文化精品,http://jdbs1.880167.xyz:8888/rtp/225.1.2.177:5002
+
+CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
+CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
+
+CCTV风云剧场,http://jddk.f3322.org:8888/rtp/225.1.2.174:5002
+CCTV文化精品,http://jddk.f3322.org:8888/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://pplee.vicp.net:4022/rtp/233.18.204.183:5140
 CCTV文化精品,http://pplee.vicp.net:4022/rtp/233.18.204.186:5140
@@ -387,6 +390,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 天津体育,http://jddk.f3322.org:8888/rtp/225.1.1.122:5002
 天津体育,http://jdbs1.880167.xyz:8888/rtp/225.1.1.122:5002
+天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
 
 
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
@@ -449,22 +453,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 都市剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
 
 
-绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-
-1905环球经典,http://39.96.223.196:10002/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261
-1905流金岁月,http://39.96.223.196:10002/1905.php?t=1&id=LIVEOYY31H24H48NE
-
-
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-
-
 重温经典,http://hunhhyd.sohu.blog:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
 重温经典,http://171.38.193.103:8082/tsfile/live/1031_1.m3u8
-重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.102:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 重温经典,http://192.151.150.154/live/cwjd.m3u8
@@ -478,12 +472,19 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
 
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+
+
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
 
 天津影视,http://jddk.f3322.org:8888/rtp/225.1.1.149:5002
 天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
+天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
@@ -492,8 +493,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.109.205.217:9706
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://4712635.xyz:26000/rtp/239.111.205.102:5140
-
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
 广东影视,http:///58.32.26.112:5080/614961829
 广东影视,http://121.23.132.38:7788/614961829
@@ -508,6 +507,14 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
 东方影视,http://home.wscxy.fun:30100/rtp/233.18.204.55:5140
 东方影视,http://rongrong.me:14022/rtp/233.18.204.55:5140
+
+
+1905环球经典,http://39.96.223.196:10002/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261
+1905流金岁月,http://39.96.223.196:10002/1905.php?t=1&id=LIVEOYY31H24H48NE
+
+
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
@@ -614,6 +621,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 CETV早期教育,http://jddk.f3322.org:8888/rtp/225.1.2.207:5002
 CETV早期教育,http://jdbs1.880167.xyz:8888/rtp/225.1.2.207:5002
+CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://pplee.vicp.net:4022/rtp/233.18.204.187:5140
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
