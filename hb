@@ -469,7 +469,11 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 
 
-中国电影,http://120.76.248.139/live/bfgd/4200000290.m3u8
+中国电影1,http://120.76.248.139/live/bfgd/4200000290.m3u8
+
+中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
@@ -479,7 +483,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
-
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
@@ -487,7 +490,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 天津影视,http://jddk.f3322.org:8888/rtp/225.1.1.149:5002
 天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
-
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
