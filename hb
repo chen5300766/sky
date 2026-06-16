@@ -1171,6 +1171,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 鉴证实录,https://www.goodiptv.club/huya/21241769#https://live.ottiptv.cc/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
 外科风云,https://www.goodiptv.club/huya/29982672#https://live.ottiptv.cc/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
+我们的故事,https://www.goodiptv.club/huya/15482686#https://live.ottiptv.cc/huya/15482686#http://cfss.cc/cdn/huya/15482686.flv
 我的前半生,https://www.goodiptv.club/huya/11352916#https://live.ottiptv.cc/huya/11352916#http://cfss.cc/cdn/huya/11352916.flv
 网游超人曾日华来咯,https://www.goodiptv.club/huya/26355823#https://live.ottiptv.cc/huya/26355823#http://cfss.cc/cdn/huya/26355823.flv
 亮剑,https://www.goodiptv.club/huya/30080238#https://live.ottiptv.cc/huya/30080238#http://cfss.cc/cdn/huya/30080238.flv
