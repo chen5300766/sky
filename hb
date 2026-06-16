@@ -409,6 +409,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://111.8.242.102:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+天元围棋,http://210.76.37.54:9003/hls/77/index.m3u8
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
@@ -458,6 +459,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://171.38.193.103:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.102:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://210.76.37.54:9003/hls/75/index.m3u8
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://107.150.60.122/live/cwjd.m3u8
@@ -651,6 +653,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://47.101.60.11:9400/956923159
 财富天下,http://115.171.55.221:7788/956923159
 财富天下,http://58.32.26.112:5080/956923159
+财富天下,http://210.76.37.54:9003/hls/98/index.m3u8
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
@@ -676,6 +679,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://58.32.26.112:5080/959986621
 中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
+中国天气,http://210.76.37.54:9003/hls/96/index.m3u8
 中国天气,http://171.38.193.103:8082/tsfile/live/1007_1.m3u8
 中国天气,http://36.158.75.249:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 
