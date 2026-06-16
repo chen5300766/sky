@@ -1666,7 +1666,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://isus.cc/php/douyu.php?i
 经典电影电视剧,http://cfss.cc/cdn/yy/1356213622.flv#https://live.ottiptv.cc/yy/1356213622#https://www.goodiptv.club/yy/1356213622
 国外院线动作大片,https://live.ottiptv.cc/yy/1382735570#https://www.goodiptv.club/yy/1382735570
 飓风营救,http://cfss.cc/cdn/yy/1382735547.flv#https://live.ottiptv.cc/yy/1382735547#https://www.goodiptv.club/yy/1382735547
-爱丽丝梦游仙境2,http://cfss.cc/cdn/yy/1382735559.flv#https://live.ottiptv.cc/yy/1382735559#https://www.goodiptv.club/yy/1382735559
+灵魂战车,http://cfss.cc/cdn/yy/1382735559.flv#https://live.ottiptv.cc/yy/1382735559#https://www.goodiptv.club/yy/1382735559
 宫锁珠帘,http://cfss.cc/cdn/yy/1354926666.flv#https://live.ottiptv.cc/yy/1354926666#https://www.goodiptv.club/yy/1354926666
 老卓电影,http://cfss.cc/cdn/yy/1354770516.flv#https://live.ottiptv.cc/yy/1354770516#https://www.goodiptv.club/yy/1354770516
 火蓝刀锋,http://cfss.cc/cdn/yy/1458239444.flv#https://live.ottiptv.cc/yy/1458239444#https://www.goodiptv.club/yy/1458239444
