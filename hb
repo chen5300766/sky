@@ -582,6 +582,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 东森电影,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+好莱坞电影,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 
 
 精彩影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000396
