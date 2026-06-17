@@ -488,6 +488,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
 
+峨眉电影,http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://sdyhengh.dedyn.io:18888/rtp/239.94.0.103:5140
+峨眉电影,http://dx.yanbingg.com:1888/rtp/239.94.0.103:5140
+峨眉电影,http://dx.yanbingg.com:18888/rtp/239.94.0.103:5140
+峨眉电影,http://www.510100.xyz:5050/rtp/239.94.0.103:5140
+
+
 天津影视,http://jddk.f3322.org:8888/rtp/225.1.1.149:5002
 天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
