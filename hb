@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-16,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-17,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -249,9 +249,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 武汉都市文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
 武汉都市文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000431
 
-蔡甸综合,http://p365z34227.oicp.vip:60002/rtp/239.69.1.245:11112
-房县综合,http://p365z34227.oicp.vip:60002/rtp/239.69.1.192:10794
-阳新综合,http://p365z34227.oicp.vip:60002/rtp/239.69.1.34:9844
+
+蔡甸综合,http://hzzzz530.com:4022/rtp/239.69.1.245:11112
+房县综合,http://hzzzz530.com:4022/rtp/239.69.1.192:10794
+阳新综合,http://hzzzz530.com:4022/rtp/239.69.1.34:9844
+
 
 蔡甸综合,http://hiliu.myds.me:18088/rtp/239.69.1.245:11112
 房县综合,http://hiliu.myds.me:18088/rtp/239.69.1.192:10794
@@ -264,10 +266,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 蔡甸综合,http://wlei.myds.me:52057/rtp/239.69.1.245:11112
 房县综合,http://wlei.myds.me:52057/rtp/239.69.1.192:10794
 阳新综合,http://wlei.myds.me:52057/rtp/239.69.1.34:9844
-
-蔡甸综合,http://dd.ikhs.cn:8880/rtp/239.69.1.245:11112
-房县综合,http://dd.ikhs.cn:8880/rtp/239.69.1.192:10794
-阳新综合,http://dd.ikhs.cn:8880/rtp/239.69.1.34:9844
 
 蔡甸综合,http://zhangkx717.cn:9999/rtp/239.69.1.245:11112
 房县综合,http://zhangkx717.cn:9999/rtp/239.69.1.192:10794
