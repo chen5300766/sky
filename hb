@@ -494,6 +494,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+陕西西部电影,http://219.144.157.62:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.109.205.217:9706
