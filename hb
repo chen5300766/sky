@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-20,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-21,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -131,6 +131,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://47.101.60.11:9400/708869532
 中央新影-中学生,http://47.243.12.199:8880/708869532
 中央新影-中学生,http://58.32.26.112:5080/708869532
+中央新影-中学生,http://hongzhijiaoyu.net:8188/rtp/239.77.1.195:5146
 中央新影-中学生,http://ximu.ecs.yue.zone:369/rtp/238.255.2.181:5999
 中央新影-中学生,http://gyvnc.liy.ink:369/rtp/238.255.2.181:5999
 
@@ -140,6 +141,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://58.32.26.112:5080/624878970
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
+中央新影-发现之旅,http://hongzhijiaoyu.net:8188/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://192.151.150.154/live/fxzl.m3u8
 中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
@@ -219,6 +221,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 大湾区卫视,http://47.101.60.11:9400/608917627
 大湾区卫视,http://47.243.12.199:8880/608917627
 大湾区卫视,http://58.32.26.112:5080/608917627
+大湾区卫视,http://hongzhijiaoyu.net:8188/rtp/239.77.0.215:5146
 大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
@@ -400,6 +403,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
+广东体育,http://hongzhijiaoyu.net:8188/rtp/239.77.0.112:5146
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -411,11 +415,12 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
-天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+天元围棋,http://hongzhijiaoyu.net:8188/rtp/239.253.43.98:5146
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
 天元围棋,http://gyvnc.liy.ink:369/rtp/238.255.2.7:5999
+天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
@@ -503,6 +508,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://47.101.60.11:9400/614961829
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://hongzhijiaoyu.net:8188/rtp/239.77.0.217:5146
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
 广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -608,6 +614,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://hongzhijiaoyu.net:8188/rtp/239.77.0.250:5146
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 
@@ -681,6 +688,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://47.243.12.199:8880/959986621
 中国天气,http://58.32.26.112:5080/959986621
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
+中国天气,http://hongzhijiaoyu.net:8188/rtp/239.77.1.2:5146
 中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -711,6 +719,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000397
+求索记录,http://hongzhijiaoyu.net:8188/rtp/239.77.0.21:5146
 
 
 📡百视通体育,#genre#
