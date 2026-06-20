@@ -396,9 +396,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
 
 
-广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
-广东体育,http://171.38.193.103:8082/tsfile/live/1006_1.m3u8
-广东体育,http://171.38.192.233:8082/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
@@ -411,10 +408,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
-天元围棋,http://210.76.37.54:9003/hls/77/index.m3u8
-天元围棋,http://hunhhyd.sohu.blog:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-天元围棋,http://111.8.242.124:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-天元围棋,http://111.8.242.102:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
@@ -427,11 +420,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 公牛体育2,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-劲爆体育,http://hunhhyd.sohu.blog:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://111.8.242.102:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://36.158.75.249:8088/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://111.8.242.124:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 体坛名栏汇,http://58.32.26.112:5080/629943305
@@ -459,11 +448,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 都市剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
 
 
-重温经典,http://hunhhyd.sohu.blog:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
-重温经典,http://171.38.193.103:8082/tsfile/live/1031_1.m3u8
 重温经典,http://36.158.75.249:8088/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://111.8.242.102:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://107.150.60.122/live/cwjd.m3u8
@@ -497,6 +482,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+陕西西部电影,http://219.144.190.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西西部电影,http://219.144.157.62:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
@@ -508,9 +494,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http:///58.32.26.112:5080/614961829
 广东影视,http://39.97.252.64:3000/614961829
 广东影视,http://47.101.60.11:9400/614961829
-广东影视,http://171.38.193.103:8082/tsfile/live/1043_1.m3u8
-广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
-广东影视,http://171.38.192.233:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -611,9 +594,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
-广东少儿,http://171.38.193.103:8082/tsfile/live/1034_1.m3u8
-广东少儿,http://171.38.192.233:8082/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
@@ -663,7 +643,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://47.101.60.11:9400/956923159
 财富天下,http://39.97.252.64:3000/956923159
 财富天下,http://58.32.26.112:5080/956923159
-财富天下,http://210.76.37.54:9003/hls/98/index.m3u8
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
@@ -687,10 +666,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://47.101.60.11:9400/959986621
 中国天气,http://39.97.252.64:3000/959986621
 中国天气,http://58.32.26.112:5080/959986621
-中国天气,http://hunhhyd.sohu.blog:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
-中国天气,http://171.38.193.103:8082/tsfile/live/1007_1.m3u8
-中国天气,http://36.158.75.249:8088/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -707,9 +682,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 环球旅游,http://47.101.60.11:9400/958475356
 环球旅游,http://39.97.252.64:3000/958475356
 环球旅游,http://58.32.26.112:5080/958475356
-环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
-环球旅游,http://171.38.192.233:8082/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-环球旅游,http://171.38.193.103:8082/tsfile/live/1009_1.m3u8
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 
