@@ -81,7 +81,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://panabit.yunjifei.top:3338/tsfile/live/1055_1.m3u8
 CCTV文化精品,http://panabit.yunjifei.top:3338/tsfile/live/1053_1.m3u8
 
-
 CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
 CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
 
