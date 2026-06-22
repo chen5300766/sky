@@ -384,7 +384,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,http://219.144.190.2:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
@@ -496,8 +495,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-陕西西部电影,http://219.144.190.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西西部电影,http://219.144.157.62:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 陕西西部电影,http://www.gaolao.top:8008/rtp/239.111.205.102:5140
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.109.205.217:9706
