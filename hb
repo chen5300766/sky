@@ -78,6 +78,10 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
+CCTV风云剧场,http://panabit.yunjifei.top:3338/tsfile/live/1055_1.m3u8
+CCTV文化精品,http://panabit.yunjifei.top:3338/tsfile/live/1053_1.m3u8
+
+
 CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
 CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
 
@@ -136,6 +140,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://47.101.60.11:9400/624878970
 中央新影-发现之旅,http://114.240.104.132:7788/624878970
 中央新影-发现之旅,http://58.32.26.112:5080/624878970
+中央新影-发现之旅,http://panabit.yunjifei.top:3338/tsfile/live/1083_1.m3u8
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
@@ -226,6 +231,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 农林卫视,http://47.101.60.11:9400/956904896
 农林卫视,http://114.240.104.132:7788/956904896
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
+农林卫视,http://panabit.yunjifei.top:3338/tsfile/live/1088_1.m3u8
 农林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 农林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
@@ -391,6 +397,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
+天津体育,http://192.151.150.154/live/tjtv5.m3u8
 
 
 广东体育,http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
@@ -451,6 +458,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 都市剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
 
 
+重温经典,http://panabit.yunjifei.top:3338/tsfile/live/1052_1.m3u8
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://210.76.37.209:9003/hls/75/index.m3u8
@@ -476,10 +484,14 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 
+
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
+
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
+天津影视,http://192.151.150.154/live/tjtv3.m3u8
+
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://219.144.190.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -604,7 +616,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 
+
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+
+
+天津教育,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
+天津教育,http://192.151.150.154/live/tjtv6.m3u8
+
 
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
@@ -617,6 +635,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
 
+CETV早期教育,http://panabit.yunjifei.top:3338/tsfile/live/1037_1.m3u8
 CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
@@ -699,6 +718,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中华特产,http://47.101.60.11:9400/959986618
 中华特产,http://114.240.104.132:7788/959986618
 中华特产,http://58.32.26.112:5080/959986618
+中华特产,http://panabit.yunjifei.top:3338/tsfile/live/1044_1.m3u8
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 
