@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-21,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-22,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -78,14 +78,11 @@ CCTV风云足球,http://111.48.34.138/000000001000PLTV/88888888/224/3221230482/1
 CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1.m3u8
 
 
-CCTV风云剧场,http://jdbs1.880167.xyz:8888/rtp/225.1.2.174:5002
-CCTV文化精品,http://jdbs1.880167.xyz:8888/rtp/225.1.2.177:5002
+CCTV风云剧场,http://line1.huase.ltd:8888/rtp/239.253.43.16:5146
+CCTV文化精品,http://line1.huase.ltd:8888/rtp/239.253.43.13:5146
 
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
-
-CCTV风云剧场,http://jddk.f3322.org:8888/rtp/225.1.2.174:5002
-CCTV文化精品,http://jddk.f3322.org:8888/rtp/225.1.2.177:5002
 
 CCTV风云剧场,http://pplee.vicp.net:4022/rtp/233.18.204.183:5140
 CCTV文化精品,http://pplee.vicp.net:4022/rtp/233.18.204.186:5140
@@ -133,6 +130,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://58.32.26.112:5080/708869532
 中央新影-中学生,http://ximu.ecs.yue.zone:369/rtp/238.255.2.181:5999
 中央新影-中学生,http://gyvnc.liy.ink:369/rtp/238.255.2.181:5999
+中央新影-中学生,http://line1.huase.ltd:8888/rtp/239.77.1.195:5146
 
 
 中央新影-发现之旅,http://47.101.60.11:9400/624878970
@@ -140,6 +138,7 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://58.32.26.112:5080/624878970
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
+中央新影-发现之旅,http://line1.huase.ltd:8888/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://192.151.150.154/live/fxzl.m3u8
 中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
@@ -391,8 +390,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
-天津体育,http://jddk.f3322.org:8888/rtp/225.1.1.122:5002
-天津体育,http://jdbs1.880167.xyz:8888/rtp/225.1.1.122:5002
 天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
 
 
@@ -412,10 +409,11 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 天元围棋,http://210.76.37.209:9003/hls/77/index.m3u8
-天元围棋,http://107.150.60.122/live/gztywq.m3u8
-天元围棋,http://192.151.150.154/live/gztywq.m3u8
+天元围棋,http://line1.huase.ltd:8888/rtp/239.253.43.98:5146
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
 天元围棋,http://gyvnc.liy.ink:369/rtp/238.255.2.7:5999
+天元围棋,http://107.150.60.122/live/gztywq.m3u8
+天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
@@ -481,11 +479,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电视剧,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
-
-天津影视,http://jddk.f3322.org:8888/rtp/225.1.1.149:5002
-天津影视,http://jdbs1.880167.xyz:8888/rtp/225.1.1.149:5002
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
-
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西西部电影,http://219.144.190.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -612,7 +606,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
-
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
 
@@ -625,9 +618,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
-CETV早期教育,http://jddk.f3322.org:8888/rtp/225.1.2.207:5002
-CETV早期教育,http://jdbs1.880167.xyz:8888/rtp/225.1.2.207:5002
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
+CETV早期教育,http://line1.huase.ltd:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://pplee.vicp.net:4022/rtp/233.18.204.187:5140
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
@@ -711,7 +703,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000397
-
+求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
+ 
 
 📡百视通体育,#genre#
 百视通体育1,http://111.48.34.138/000000001000PLTV/88888888/224/3221230031/1.m3u8
