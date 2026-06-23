@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-23,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-24,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -418,7 +418,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
-天元围棋,http://210.76.37.209:9003/hls/77/index.m3u8
 天元围棋,http://www.tk1986.top:8889/rtp/239.76.253.2:9000
 天元围棋,http://dsm.cyruslee.top:8888/rtp/239.253.43.98:5146
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
@@ -466,7 +465,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://panabit.yunjifei.top:3338/tsfile/live/1052_1.m3u8
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
-重温经典,http://210.76.37.209:9003/hls/75/index.m3u8
 重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 重温经典,http://192.151.150.154/live/cwjd.m3u8
@@ -678,7 +676,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://101.132.26.106:3566/956923159
 财富天下,http://114.240.104.132:7788/956923159
 财富天下,http://111.122.66.101:1234/956923159
-财富天下,http://210.76.37.209:9003/hls/98/index.m3u8
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
@@ -703,7 +700,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://114.240.104.132:7788/959986621
 中国天气,http://111.122.66.101:1234/959986621
 中国天气,http://www.tk1986.top:8889/rtp/239.76.253.61:9000
-中国天气,http://210.76.37.209:9003/hls/96/index.m3u8
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 
 
