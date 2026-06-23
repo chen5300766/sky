@@ -596,7 +596,16 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 好莱坞电影,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 
 
-精彩影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000396
+精彩影视,http://www.alphauncle.com:2715/rtp/239.0.0.26:5140
+精彩影视,http://www.yanbingg.com:1888/rtp/239.94.1.172:5140
+精彩影视,http://dx.yanbingg.com:1888/rtp/239.94.1.172:5140
+精彩影视,http://jiangxun.sendsmtp.com:40222/rtp/239.81.0.152:4056
+精彩影视,http://jason.25u.com:40222/rtp/239.81.0.152:4056
+精彩影视,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.172:5140
+精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
+精彩影视,http://pve.iszbd.com:4022/rtp/225.0.4.231:7980
+精彩影视,http://nas.iszbd.com:4022/rtp/225.0.4.231:7980
+精彩影视,http://home2.neumantang.com:8888/rtp/239.0.0.26:5140
 
 
 👦动漫游戏卡通,#genre#
@@ -727,7 +736,9 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 
-求索纪录,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000397
+求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
+求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
+求索纪录,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.142:5140
 求索纪录,http://dsm.cyruslee.top:8888/rtp/239.77.0.21:5146
  
 
