@@ -90,6 +90,9 @@ CCTV文化精品,http://dsm.cyruslee.top:8888/rtp/239.253.43.13:5146
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
+CCTV风云剧场,http://liuwenxiaokevin.top:14044/rtp/233.18.204.183:5140
+CCTV文化精品,http://liuwenxiaokevin.top:14044/rtp/233.18.204.186:5140
+
 CCTV风云剧场,http://pplee.vicp.net:4022/rtp/233.18.204.183:5140
 CCTV文化精品,http://pplee.vicp.net:4022/rtp/233.18.204.186:5140
 
@@ -400,6 +403,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 五星体育,http://home.wscxy.fun:30100/rtp/233.18.204.58:5140
@@ -534,6 +538,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东方影视,http://223.166.102.2:7788/617290047
 东方影视,http://223.166.101.130:5080/617290047
 东方影视,http://47.101.60.11:9400/617290047
+东方影视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.4:5140
 东方影视,http://pplee.vicp.net:4022/rtp/233.18.204.4:5140
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
 东方影视,http://home.wscxy.fun:30100/rtp/233.18.204.55:5140
@@ -669,6 +674,7 @@ CETV早期教育,http://panabit.yunjifei.top:3338/tsfile/live/1037_1.m3u8
 CETV早期教育,http://www.tk1986.top:8889/rtp/239.76.254.202:9000
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
 CETV早期教育,http://dsm.cyruslee.top:8888/rtp/239.77.0.180:5146
+CETV早期教育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.187:5140
 CETV早期教育,http://pplee.vicp.net:4022/rtp/233.18.204.187:5140
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
 CETV早期教育,http://home.wscxy.fun:30100/rtp/233.18.204.187:5140
@@ -701,6 +707,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://47.101.60.11:9400/956923159
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://liuwenxiaokevin.top:14044/rtp/233.18.204.41:5140
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
 财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
 财富天下,http://home.wscxy.fun:30100/rtp/233.18.204.41:5140
@@ -734,6 +741,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
+家庭理财,http://liuwenxiaokevin.top:14044/rtp/233.18.204.157:5140
 家庭理财,http://pplee.vicp.net:4022/rtp/233.18.204.157:5140
 家庭理财,http://www.rogerxlj.top:9998/rtp/233.18.204.157:5140
 家庭理财,http://home.wscxy.fun:30100/rtp/233.18.204.157:5140
