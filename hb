@@ -257,6 +257,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 海峡卫视,http://223.166.102.2:7788/849119120
 海峡卫视,http://101.132.26.106:3566/849119120
 海峡卫视,http://47.101.60.11:9400/849119120
+海峡卫视,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/fjstv_iphone.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 
