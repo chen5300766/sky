@@ -14,7 +14,6 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-
 北京卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
 北京卫视4K,rtsp://111.48.34.237:1554/170000004112/HBGD1099046553413197824376375621
 湖南卫视4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
@@ -743,6 +742,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 新视觉,http://112.27.5.218:9901/tsfile/live/faacts/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.198.86.186:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.238.84.45:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://www.kingtom-tech.com:19901/tsfile/live/1086_1.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
