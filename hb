@@ -709,6 +709,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://113.98.11.46:3000/956923159
 财富天下,http://223.166.101.130:5080/956923159
 财富天下,http://47.101.60.11:9400/956923159
+财富天下,http://two.lvsiwei.top:9902/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://liuwenxiaokevin.top:14044/rtp/233.18.204.41:5140
