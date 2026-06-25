@@ -631,7 +631,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-
+精彩影视,http://115.150.63.77:9902/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0
 
 
 👦动漫游戏卡通,#genre#
@@ -768,7 +768,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
-
+求索纪录,http://115.150.63.77:9902/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
