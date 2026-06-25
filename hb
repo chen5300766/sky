@@ -14,6 +14,7 @@ LOVE NATURE4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
+
 北京卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
 北京卫视4K,rtsp://111.48.34.237:1554/170000004112/HBGD1099046553413197824376375621
 湖南卫视4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
@@ -547,6 +548,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东方影视,http://113.98.11.46:3000/617290047
 东方影视,http://223.166.101.130:5080/617290047
 东方影视,http://47.101.60.11:9400/617290047
+东方影视,http://two.lvsiwei.top:9902/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 东方影视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.4:5140
 东方影视,http://pplee.vicp.net:4022/rtp/233.18.204.4:5140
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
