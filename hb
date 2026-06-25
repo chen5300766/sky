@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-24,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-25,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -767,11 +767,11 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 
 
+求索纪录,http://115.150.63.77:85/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0
 求索纪录,http://www.vvlcc.cn:8188/rtp/239.81.0.153:4056
 求索纪录,http://wan1.tangwudi.cc:47859/rtp/239.94.1.142:5140
 求索纪录,http://www.smilehome.top:4022/rtp/225.0.4.232:7980
 求索纪录,http://pve.iszbd.com:4022/rtp/225.0.4.232:7980
-求索纪录,http://wmh.synology.me:6633/rtp/239.77.0.21:5146
 求索纪录,http://line1.huase.ltd:8888/rtp/239.77.0.21:5146
 求索纪录,http://www.yanbingg.com:1888/rtp/239.94.1.142:5140
 求索纪录,http://dx.yanbingg.com:1888/rtp/239.94.1.142:5140
