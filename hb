@@ -409,6 +409,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://two.lvsiwei.top:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
