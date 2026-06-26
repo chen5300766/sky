@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-25,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-26,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -634,7 +634,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-精彩影视,http://115.150.63.77:9902/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0
 
 
 👦动漫游戏卡通,#genre#
@@ -675,6 +674,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
 
+CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
 CETV早期教育,http://panabit.yunjifei.top:3338/tsfile/live/1037_1.m3u8
 CETV早期教育,http://www.tk1986.top:8889/rtp/239.76.254.202:9000
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
@@ -773,8 +773,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
-求索纪录,http://115.150.63.77:9902/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 📡百视通体育,#genre#
