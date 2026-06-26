@@ -410,6 +410,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://180.165.54.192:8885/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://two.lvsiwei.top:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
@@ -528,6 +529,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 天津影视,http://192.151.150.154/live/tjtv3.m3u8
+
+
+黑龙江影视,http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江影视,http://shuangyashan.f3322.net:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
@@ -661,6 +666,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+
+
+黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江少儿,http://shuangyashan.f3322.net:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 天津教育,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
