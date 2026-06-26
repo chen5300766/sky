@@ -111,10 +111,8 @@ CCTV文化精品,http://gyvnc.liy.ink:369/rtp/238.255.2.32:5999
 CCTV风云剧场,http://ximu.ecs.yue.zone:369/rtp/238.255.2.28:5999
 CCTV文化精品,http://ximu.ecs.yue.zone:369/rtp/238.255.2.32:5999
 
-
 CCTV风云剧场,http://www.kingtom-tech.com:19901/tsfile/live/1098_1.m3u8
 CCTV文化精品,http://www.kingtom-tech.com:19901/tsfile/live/1100_1.m3u8
-
 
 CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
@@ -127,6 +125,9 @@ CCTV文化精品,http://192.151.150.154/live/ysjp.m3u8
 
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
+CCTV风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
+CCTV文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 
 
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
