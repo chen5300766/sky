@@ -422,6 +422,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 
 
+天津体育,http://60.25.145.117:85/tsfile/live/25/1005.m3u8?key=txiptv
 天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
 天津体育,http://192.151.150.154/live/tjtv5.m3u8
 
@@ -528,6 +529,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
 
+天津影视,http://60.25.145.117:85/tsfile/live/17/1003.m3u8?key=txiptv
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 天津影视,http://192.151.150.154/live/tjtv3.m3u8
 
