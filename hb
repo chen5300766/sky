@@ -497,6 +497,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://gdsztw.sohu.blog:44300/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://panabit.yunjifei.top:3338/tsfile/live/1052_1.m3u8
 重温经典,http://112.27.5.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://183.162.121.48:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
@@ -511,6 +512,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影2,http://183.162.121.48:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
@@ -683,14 +685,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 天津教育,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
 天津教育,http://192.151.150.154/live/tjtv6.m3u8
 
-
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-
 
 动画1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 动画2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 
+优优宝贝,http://60.174.64.25:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
 优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
 优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
