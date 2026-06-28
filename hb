@@ -81,12 +81,6 @@ CCTV第一剧场,http://111.48.34.138/000000001000PLTV/88888888/224/3221230488/1
 CCTV风云剧场,http://panabit.yunjifei.top:3338/tsfile/live/1055_1.m3u8
 CCTV文化精品,http://panabit.yunjifei.top:3338/tsfile/live/1053_1.m3u8
 
-CCTV风云剧场,http://www.tk1986.top:8889/rtp/239.76.254.50:9000
-CCTV文化精品,http://www.tk1986.top:8889/rtp/239.76.254.56:9000
-
-CCTV风云剧场,http://dsm.cyruslee.top:8888/rtp/239.253.43.16:5146
-CCTV文化精品,http://dsm.cyruslee.top:8888/rtp/239.253.43.13:5146
-
 CCTV风云剧场,http://www.330459.xyz:8188/rtp/225.1.2.174:5002
 CCTV文化精品,http://www.330459.xyz:8188/rtp/225.1.2.177:5002
 
@@ -447,8 +441,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
-天元围棋,http://www.tk1986.top:8889/rtp/239.76.253.2:9000
-天元围棋,http://dsm.cyruslee.top:8888/rtp/239.253.43.98:5146
 天元围棋,http://ximu.ecs.yue.zone:369/rtp/238.255.2.7:5999
 天元围棋,http://gyvnc.liy.ink:369/rtp/238.255.2.7:5999
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
@@ -702,9 +694,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
 CETV早期教育,http://panabit.yunjifei.top:3338/tsfile/live/1037_1.m3u8
-CETV早期教育,http://www.tk1986.top:8889/rtp/239.76.254.202:9000
 CETV早期教育,http://www.330459.xyz:8188/rtp/225.1.2.207:5002
-CETV早期教育,http://dsm.cyruslee.top:8888/rtp/239.77.0.180:5146
 CETV早期教育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.187:5140
 CETV早期教育,http://pplee.vicp.net:4022/rtp/233.18.204.187:5140
 CETV早期教育,http://www.rogerxlj.top:9998/rtp/233.18.204.187:5140
@@ -762,7 +752,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://113.98.11.46:3000/959986621
 中国天气,http://183.142.235.79:7788/959986621
 中国天气,http://47.101.60.11:9400/959986621
-中国天气,http://www.tk1986.top:8889/rtp/239.76.253.61:9000
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 
 
