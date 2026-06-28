@@ -526,8 +526,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 天津影视,http://192.151.150.154/live/tjtv3.m3u8
 
 
-黑龙江影视,http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江影视,http://shuangyashan.f3322.net:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
@@ -674,8 +673,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
 
-黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江少儿,http://shuangyashan.f3322.net:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
 
 天津教育,http://60.25.145.117:85/tsfile/live/29/1006.m3u8?key=txiptv
