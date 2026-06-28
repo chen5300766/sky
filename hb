@@ -678,6 +678,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 黑龙江少儿,http://shuangyashan.f3322.net:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+天津教育,http://60.25.145.117:85/tsfile/live/29/1006.m3u8?key=txiptv
 天津教育,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
 天津教育,http://192.151.150.154/live/tjtv6.m3u8
 
