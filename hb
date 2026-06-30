@@ -404,7 +404,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-五星体育,http://two.lvsiwei.top:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://180.165.13.96:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 五星体育,http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
@@ -492,6 +492,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://gdsztw.sohu.blog:44300/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://panabit.yunjifei.top:3338/tsfile/live/1052_1.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+重温经典,http://183.162.121.36:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.242.127:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://111.8.224.6:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://112.27.5.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -509,7 +510,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-
+中国电影2,http://183.162.121.36:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
@@ -566,7 +567,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 东方影视,http://113.98.11.46:3000/617290047
 东方影视,http://183.142.235.79:7788/617290047
 东方影视,http://47.101.60.11:9400/617290047
-东方影视,http://two.lvsiwei.top:9902/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+东方影视,http://180.165.13.96:9902/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 东方影视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.4:5140
 东方影视,http://pplee.vicp.net:4022/rtp/233.18.204.4:5140
 东方影视,http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
@@ -729,7 +730,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://113.98.11.46:3000/956923159
 财富天下,http://183.142.235.79:7788/956923159
 财富天下,http://47.101.60.11:9400/956923159
-财富天下,http://two.lvsiwei.top:9902/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+财富天下,http://180.165.13.96:9902/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://liuwenxiaokevin.top:14044/rtp/233.18.204.41:5140
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
 财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
