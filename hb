@@ -660,6 +660,13 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 动作影院,http://123.118.50.17:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 城市剧场,http://123.118.50.17:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
+军旅剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+古装剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+喜剧影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+动作影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+城市剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 👦动漫游戏卡通,#genre#
