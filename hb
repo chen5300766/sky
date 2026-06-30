@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://isus.cc/php/douyu.php?id=40471
-2026-6-29,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-6-30,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -691,9 +691,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 优优宝贝,http://60.174.64.25:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+优优宝贝,http://www.330459.xyz:8188/rtp/225.1.2.203:5002
 优优宝贝,http://www.9kds.com/d/henyd.php?id=yybb
-优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
-优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
 
 CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
@@ -731,8 +730,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://183.142.235.79:7788/956923159
 财富天下,http://47.101.60.11:9400/956923159
 财富天下,http://two.lvsiwei.top:9902/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
-财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://liuwenxiaokevin.top:14044/rtp/233.18.204.41:5140
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
 财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
@@ -779,8 +776,6 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 环球旅游,http://183.142.235.79:7788/958475356
 环球旅游,http://47.101.60.11:9400/958475356
 环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
-环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
-环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
 中华特产,http://101.132.26.106:3566/959986618
