@@ -387,6 +387,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 黄陂新闻,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
+神龙架综合,http://221.234.48.152:19888/hls/snjt/snjt_live.m3u8
 
 
 🏀体育天地,#genre#
