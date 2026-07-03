@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-2,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-3,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -421,7 +421,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天津体育,http://192.151.150.154/live/tjtv5.m3u8
 
 
-广东体育,http://113.101.119.72:8090/hls/108/index.m3u8
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -604,7 +603,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://113.98.11.46:3000/614961829
 广东影视,http://60.168.108.94:1234/614961829
 广东影视,http://47.101.60.11:9400/614961829
-广东影视,http://113.101.119.72:8090/hls/110/index.m3u8
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -714,9 +712,36 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 城市剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+🎞️iHOT影院,#genre# 
+iHOT 爱谍战,http://gslbserv.itv.cmvideo.cn:80/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+iHOT 爱动漫,http://gslbserv.itv.cmvideo.cn:80/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+iHOT 爱都市,http://gslbserv.itv.cmvideo.cn:80/6000000006000080630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+iHOT 爱怀旧,http://gslbserv.itv.cmvideo.cn:80/6000000006000260630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+iHOT 爱经典,http://gslbserv.itv.cmvideo.cn:80/6000000006000060630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+iHOT 爱科幻,http://gslbserv.itv.cmvideo.cn:80/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+iHOT 爱科学,http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+iHOT 爱浪漫,http://gslbserv.itv.cmvideo.cn:80/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+iHOT 爱历史,http://gslbserv.itv.cmvideo.cn:80/6000000006000150630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+iHOT 爱旅行,http://gslbserv.itv.cmvideo.cn:80/6000000006000250630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+iHOT 爱奇谈,http://gslbserv.itv.cmvideo.cn:80/6000000006000270630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+iHOT 爱青春,http://gslbserv.itv.cmvideo.cn:80/6000000006000100630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+iHOT 爱赛车,http://gslbserv.itv.cmvideo.cn:80/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+iHOT 爱体育,http://gslbserv.itv.cmvideo.cn:80/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+iHOT 爱玩具,http://gslbserv.itv.cmvideo.cn:80/6000000006000220630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+iHOT 爱喜剧,http://gslbserv.itv.cmvideo.cn:80/6000000006000010630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+iHOT 爱悬疑,http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+iHOT 爱幼教,http://gslbserv.itv.cmvideo.cn:80/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+iHOT 爱院线,http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
+
 🎞️NewTV影院,#genre#
 NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1
 NewTV超级综艺,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1
+NewTV爱情喜剧,http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
+NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1
+NewTV超级电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1
+NewTV古装剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1
+NewTV中国功夫,http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
 NewTV潮妈辣婆,http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
 NewTV海外剧场,http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
 NewTV黑莓电影,http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
@@ -749,7 +774,6 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-广东少儿,http://113.101.119.72:8090/hls/111/index.m3u8
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -805,7 +829,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 养生,http://111.48.246.74/000000001000PLTV/88888888/224/3221230683/1.m3u8
 综艺,http://111.48.246.74/000000001000PLTV/88888888/224/3221230681/1.m3u8
 美食,http://111.48.246.74/000000001000PLTV/88888888/224/3221230650/1.m3u8
-通史,http://111.48.34.138/000000001000PLTV/88888888/224/3221230648/1.m3u8
+人文纪实,http://111.48.34.138/000000001000PLTV/88888888/224/3221230648/1.m3u8
 
 
 财富天下,http://60.168.108.94:1234/956923159
