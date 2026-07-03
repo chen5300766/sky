@@ -715,9 +715,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 🎞️iHOT影院,#genre# 
 iHOT 爱谍战,http://gslbserv.itv.cmvideo.cn:80/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 iHOT 爱动漫,http://gslbserv.itv.cmvideo.cn:80/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-iHOT 爱都市,http://gslbserv.itv.cmvideo.cn:80/6000000006000080630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-iHOT 爱怀旧,http://gslbserv.itv.cmvideo.cn:80/6000000006000260630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-iHOT 爱经典,http://gslbserv.itv.cmvideo.cn:80/6000000006000060630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 iHOT 爱科幻,http://gslbserv.itv.cmvideo.cn:80/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 iHOT 爱科学,http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 iHOT 爱浪漫,http://gslbserv.itv.cmvideo.cn:80/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
