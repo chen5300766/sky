@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-4,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-5,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -221,17 +221,17 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰资讯,http://36.136.11.230:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	
+凤凰中文,http://36.136.11.230:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0	
+凤凰香港,http://36.136.11.230:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
-凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
-凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯,http://36.136.13.254:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://36.136.13.254:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://36.136.13.254:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 大湾区卫视,http://47.101.60.11:9400/608917627
@@ -469,11 +469,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 赛事最经典,http://47.101.60.11:9400/646596895
 
 
-澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-
-
-纬来体育,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
-
 🏀咪咕系列,#genre#
 咪咕视频1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&
 咪咕视频2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
@@ -557,6 +552,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影2,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://183.162.121.17:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
@@ -680,23 +676,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 抗战经典影片,http://47.101.60.11:9400/617432318
 新片放映厅,http://47.101.60.11:9400/619495952
 
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-
-
-纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
-东森电影,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
-好莱坞电影,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
-
 
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -704,6 +683,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 4K电影,http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.222:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+4K电影,http://36.136.11.230:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 军旅剧场,http://123.118.50.17:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
