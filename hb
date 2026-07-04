@@ -1021,7 +1021,7 @@ eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ot
 LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/huya/880203#http://cfss.cc/cdn/huya/880203.flv
 城市猎人动漫,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
 防风少年,https://www.goodiptv.club/huya/11352961#hhttps://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
-小毅动漫剧场,https://live.ottiptv.cc/douyu/12851401#https://iptv.catvod.com/douyu/12851401#https://www.goodiptv.club/douyu/12851401
+
 
 
 🐯虎牙影院,#genre#
@@ -1585,6 +1585,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#https://iptv.catvod.com/douyu/11649079#https://www.goodiptv.club/douyu/11649079
 【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://iptv.catvod.com/douyu/323876#https://www.goodiptv.club/douyu/323876
 小毅剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://iptv.catvod.com/douyu/11851549#https://www.goodiptv.club/douyu/11851549
+小毅剧场--杨光的快乐生活,https://live.ottiptv.cc/douyu/12851401#https://iptv.catvod.com/douyu/12851401#https://www.goodiptv.club/douyu/12851401
 小毅剧场--快乐星球,https://live.ottiptv.cc/douyu/12851831#https://iptv.catvod.com/douyu/12851831#https://www.goodiptv.club/douyu/12851831
 【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://iptv.catvod.com/douyu/11849873#https://www.goodiptv.club/douyu/11849873
 【奇光】爱情公寓系列,https://live.ottiptv.cc/douyu/12817608#https://iptv.catvod.com/douyu/12817608#https://www.goodiptv.club/douyu/12817608
