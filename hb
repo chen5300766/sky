@@ -622,13 +622,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-邵氏动作,http://feilong123.vip/409990236/tv.php?id=ssdz
-邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
-邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
-邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
-
-
 邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
 邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
 邵氏动作,http://192.151.150.154/live/lbssdz.m3u8
