@@ -112,6 +112,8 @@ CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&pl
 CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
+CCTV文化精品,http://183.162.121.12:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV风云剧场,http://107.150.60.122/live/fyjc.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8
 
@@ -556,6 +558,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影2,http://183.162.121.17:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影2,http://183.162.121.12:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
