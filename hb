@@ -216,22 +216,13 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 
 
-凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
+凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 
-凤凰资讯,http://36.136.11.230:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	
-凤凰中文,http://36.136.11.230:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0	
-凤凰香港,http://36.136.11.230:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-凤凰资讯,http://36.136.13.254:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://36.136.13.254:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://36.136.13.254:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 
 大湾区卫视,http://47.101.60.11:9400/608917627
 大湾区卫视,http://117.28.32.163:3002/608917627
@@ -257,6 +248,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 海峡卫视,http://113.98.11.46:3000/849119120
 海峡卫视,http://117.28.32.163:3002/849119120
 海峡卫视,http://47.101.60.11:9400/849119120
+海峡卫视,https://cdn.qd.je/163189.php?id=hxws
 海峡卫视,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/fjstv_iphone.m3u8
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
@@ -428,6 +420,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://www.kingtom-tech.com:19901/tsfile/live/1011_1.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://192.151.150.154/live/gdty.m3u8
+广东体育,https://cdn.qd.je/163189.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 
@@ -467,6 +460,9 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 赛事最经典,http://113.98.11.46:3000/646596895
 赛事最经典,http://117.28.32.163:3002/646596895
 赛事最经典,http://47.101.60.11:9400/646596895
+
+
+澳门体育,https://cdn.qd.je/163189.php?id=amty
 
 
 🏀咪咕系列,#genre#
@@ -543,6 +539,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://36.136.13.254:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://107.150.60.122/live/cwjd.m3u8
 重温经典,http://192.151.150.154/live/cwjd.m3u8
+重温经典,https://cdn.qd.je/163189.php?id=cwjd
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -686,6 +683,16 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 喜剧影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 动作影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 城市剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+🎞️龙华影院,#genre#
+龙华戏剧,https://cdn.qd.je/163189.php?id=lhxj
+龙华日韩,https://cdn.qd.je/163189.php?id=lhrh
+龙华偶像,https://cdn.qd.je/163189.php?id=lhox
+龙华电影,https://cdn.qd.je/163189.php?id=lhdy
+龙华经典,https://cdn.qd.je/163189.php?id=lhjd
+龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
+龙华洋片.https://cdn.qd.je/163189.php?id=lhyp
 
 
 🎞️NewTV影院,#genre#
