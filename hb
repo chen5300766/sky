@@ -585,7 +585,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 
 峨眉电影,http://sclsdx.sohu.blog:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://112.19.31.13:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
