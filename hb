@@ -112,8 +112,6 @@ CCTV风云剧场,http://221.7.49.226:50085/tsfile/live/0017_7.m3u8?key=txiptv&pl
 CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
 CCTV风云剧场,http://112.92.129.96:9898/hls/115/index.m3u8
 
-CCTV文化精品,http://183.162.121.12:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV风云剧场,http://107.150.60.122/live/fyjc.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8
 
@@ -145,7 +143,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-中学生,http://ximu.ecs.yue.zone:369/rtp/238.255.2.181:5999
 中央新影-中学生,http://gyvnc.liy.ink:369/rtp/238.255.2.181:5999
 中央新影-中学生,http://171.38.216.163:9003/hls/21/index.m3u8
-中央新影-中学生,http://dsm.cyruslee.top:8888/rtp/239.77.1.195:5146
 
 
 中央新影-发现之旅,http://47.101.60.11:9400/624878970
@@ -155,7 +152,6 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 中央新影-发现之旅,http://panabit.yunjifei.top:3338/tsfile/live/1083_1.m3u8
 中央新影-发现之旅,http://ximu.ecs.yue.zone:369/rtp/238.255.2.184:5999
 中央新影-发现之旅,http://gyvnc.liy.ink:369/rtp/238.255.2.184:5999
-中央新影-发现之旅,http://dsm.cyruslee.top:8888/rtp/239.77.1.112:5146
 中央新影-发现之旅,http://192.151.150.154/live/fxzl.m3u8
 中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
 中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
