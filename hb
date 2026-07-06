@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-5,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-6,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -400,7 +400,6 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 晴彩广场舞,http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
 
-五星体育,http://111.48.246.74/000000001000PLTV/88888888/224/3221230697/1.m3u8
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://yun.lei119911.xyz:5488/rtp/233.18.204.58:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
@@ -412,6 +411,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
+五星体育,http://111.48.246.74/000000001000PLTV/88888888/224/3221230697/1.m3u8
 
 
 天津体育,http://60.26.13.192:85/tsfile/live/25/1005.m3u8?key=txiptv
@@ -678,12 +678,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.230:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-军旅剧场,http://123.118.50.17:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-古装剧场,http://123.118.50.17:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://123.118.50.17:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://123.118.50.17:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-城市剧场,http://123.118.50.17:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 军旅剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 古装剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
