@@ -535,6 +535,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://111.8.224.6:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,http://36.136.11.230:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.136.11.222:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.136.13.254:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://36.136.11.221:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -546,16 +547,14 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 
 
-中国电影1,http://120.76.248.139/live/bfgd/4200000290.m3u8
-
-中国电影2,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://36.136.11.221:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://183.162.121.17:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影2,http://183.162.121.12:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+中国电影1,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影1,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影1,http://36.136.11.221:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+
+中国电影2,http://120.76.248.139/live/bfgd/4200000290.m3u8
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
 欧美影院,http://120.76.248.139/live/bfgd/4200000291.m3u8
 
