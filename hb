@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-7,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-8,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -407,7 +407,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 五星体育,http://111.48.246.74/000000001000PLTV/88888888/224/3221230697/1.m3u8
 
 
-天津体育,http://60.26.13.192:85/tsfile/live/25/1005.m3u8?key=txiptv
+天津体育,http://60.26.14.167:85/tsfile/live/25/1005.m3u8?key=txiptv
 天津体育,http://www.330459.xyz:8188/rtp/225.1.1.122:5002
 天津体育,http://192.151.150.154/live/tjtv5.m3u8
 
@@ -567,7 +567,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 
 
-天津影视,http://60.26.13.192:85/tsfile/live/17/1003.m3u8?key=txiptv
+天津影视,http://60.26.14.167:85/tsfile/live/17/1003.m3u8?key=txiptv
 天津影视,http://www.330459.xyz:8188/rtp/225.1.1.149:5002
 天津影视,http://192.151.150.154/live/tjtv3.m3u8
 
@@ -746,7 +746,7 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
 
-天津教育,http://60.26.13.192:85/tsfile/live/29/1006.m3u8?key=txiptv
+天津教育,http://60.26.14.167:85/tsfile/live/29/1006.m3u8?key=txiptv
 天津教育,http://www.330459.xyz:8188/rtp/225.1.1.129:5002
 天津教育,http://192.151.150.154/live/tjtv6.m3u8
 
