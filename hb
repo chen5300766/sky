@@ -757,6 +757,8 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 
 优优宝贝,http://60.174.64.25:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
 优优宝贝,http://www.330459.xyz:8188/rtp/225.1.2.203:5002
+优优宝贝,http://cpanel.lwfz.fun:8800/rtp/239.16.20.126:11260
+优优宝贝,http://dodge.lwfz.fun:8800/rtp/239.16.20.126:11260
 
 
 CETV早期教育,http://120.198.84.146:9901/tsfile/live/1079_1.m3u8
@@ -793,6 +795,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 财富天下,http://112.85.93.6:7788/956923159
 财富天下,http://47.101.60.11:9400/956923159
 财富天下,http://180.165.13.96:9902/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+财富天下,http://cpanel.lwfz.fun:8800/rtp/239.16.20.129:11290
+财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.20.129:11290
 财富天下,http://yun.lei119911.xyz:5488/rtp/233.18.204.41:5140
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.41:5140
 财富天下,http://www.rogerxlj.top:9998/rtp/233.18.204.41:5140
@@ -815,6 +819,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://113.98.11.46:3000/959986621
 中国天气,http://112.85.93.6:7788/959986621
 中国天气,http://47.101.60.11:9400/959986621
+中国天气,http://cpanel.lwfz.fun:8800/rtp/239.16.20.68:10680
+中国天气,http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
 
 
@@ -838,6 +844,8 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 环球旅游,http://113.98.11.46:3000/958475356
 环球旅游,http://112.85.93.6:7788/958475356
 环球旅游,http://47.101.60.11:9400/958475356
+环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
+环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
 
 
 中华特产,http://183.142.199.223:7788/959986618
