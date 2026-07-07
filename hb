@@ -547,8 +547,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 
 
-
-
 中国电影1,http://36.136.11.222:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影1,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -676,6 +674,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 4K电影,http://36.136.11.221:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.230:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+经典电影,http://36.136.11.221:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://36.136.13.254:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://36.136.11.230:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 军旅剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 古装剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
