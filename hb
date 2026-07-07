@@ -667,6 +667,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 新片放映厅,http://47.101.60.11:9400/619495952
 
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+精彩影视,http://115.150.63.77:85/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0
 
 4K电影,http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.222:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -856,6 +857,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
+求索纪录,http://115.150.63.77:85/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0
 
 
 纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
