@@ -669,16 +669,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
 4K电影,http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.221:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.11.230:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-经典电影,http://36.136.11.221:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://36.136.13.254:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://36.136.11.230:18885/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 军旅剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
