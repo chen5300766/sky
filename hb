@@ -415,6 +415,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
 广东体育,http://59.35.80.41:808/hls/108/index.m3u8
+广东体育,http://110.72.75.93:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://gdsztw.sohu.blog:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://www.kingtom-tech.com:19901/tsfile/live/1011_1.m3u8
