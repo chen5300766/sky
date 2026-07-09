@@ -128,6 +128,11 @@ CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
 
+CCTV卫生健康,http://ximu.ecs.yue.zone:369/rtp/238.255.2.144:5999
+CCTV卫生健康,http://gyvnc.liy.ink:369/rtp/238.255.2.144:5999
+CCTV卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
+
+
 CCTV女性时尚,http://111.48.34.138/000000001000PLTV/88888888/224/3221230545/1.m3u8
 CCTV4K,http://111.48.34.138/000000001000PLTV/88888888/224/3221230518/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
 CCTV4K,rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
@@ -746,8 +751,6 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 
 
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-
-
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
 
