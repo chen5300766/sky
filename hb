@@ -867,6 +867,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
+纪实科教,http://112.27.5.218:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡百视通体育,#genre#
