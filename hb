@@ -1342,7 +1342,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 鉴证实录,https://www.goodiptv.club/huya/21241769#https://live.ottiptv.cc/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
 外科风云,https://www.goodiptv.club/huya/29982672#https://live.ottiptv.cc/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
 亲爱的热爱的,https://www.goodiptv.club/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
-我们的故事,https://www.goodiptv.club/huya/15482686#https://live.ottiptv.cc/huya/15482686#http://cfss.cc/cdn/huya/15482686.flv
+公益律师,https://www.goodiptv.club/huya/15482686#https://live.ottiptv.cc/huya/15482686#http://cfss.cc/cdn/huya/15482686.flv
 我的前半生,https://www.goodiptv.club/huya/11352916#https://live.ottiptv.cc/huya/11352916#http://cfss.cc/cdn/huya/11352916.flv
 网游超人曾日华来咯,https://www.goodiptv.club/huya/26355823#https://live.ottiptv.cc/huya/26355823#http://cfss.cc/cdn/huya/26355823.flv
 亮剑,https://www.goodiptv.club/huya/30080238#https://live.ottiptv.cc/huya/30080238#http://cfss.cc/cdn/huya/30080238.flv
@@ -1726,12 +1726,14 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#https://www.goodiptv.club/yy/1355102749
 寻秦记,https://live.ottiptv.cc/yy/1382749900#https://www.goodiptv.club/yy/1382749900
 大明王朝,http://cfss.cc/cdn/yy/1382768483.flv#https://live.ottiptv.cc/yy/1382768483#https://www.goodiptv.club/yy/1382768483
+大明王朝,http://cfss.cc/cdn/yy/1382736879.flv#https://live.ottiptv.cc/yy/1382736879#https://www.goodiptv.club/yy/1382736879
 深海利剑,http://cfss.cc/cdn/yy/1382736906.flv#https://live.ottiptv.cc/yy/1382736906#https://www.goodiptv.club/yy/1382736906
 特种兵之利刃出鞘-1,http://cfss.cc/cdn/yy/1382773686.flv#https://live.ottiptv.cc/yy/1382773686#https://www.goodiptv.club/yy/1382773686
 特种兵之利刃出鞘-2,http://cfss.cc/cdn/yy/1454835388.flv#https://live.ottiptv.cc/yy/1454835388#https://www.goodiptv.club/yy/1454835388
 另类猪妖爆笑逆袭,https://live.ottiptv.cc/yy/1354936155#https://www.goodiptv.club/yy/1354936155
 悬疑武侠电影—九门,http://cfss.cc/cdn/yy/1382828768.flv#https://live.ottiptv.cc/yy/1382828768#https://www.goodiptv.club/yy/1382828768
 楼奴,https://live.ottiptv.cc/yy/1382736832#https://www.goodiptv.club/yy/1382736832
+王牌保镖在此,http://cfss.cc/cdn/yy/1382749913.flv#https://live.ottiptv.cc/yy/1382749913#https://www.goodiptv.club/yy/1382749913
 战胜心魔-当怪物来了,http://cfss.cc/cdn/yy/1382749910.flv#https://live.ottiptv.cc/yy/1382749910#https://www.goodiptv.club/yy/1382749910
 超燃警匪片,http://cfss.cc/cdn/yy/1382735576.flv#https://live.ottiptv.cc/yy/1382735576#https://www.goodiptv.club/yy/1382735576
 读心神探,https://live.ottiptv.cc/yy/1382851589#http://cfss.cc/cdn/yy/1382851589.flv#https://www.goodiptv.club/yy/1382851589
@@ -1801,7 +1803,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 超能英雄护全城,https://live.ottiptv.cc/yy/1382736844#https://www.goodiptv.club/yy/1382736844
 封神：祸商,https://live.ottiptv.cc/yy/1354932407#https://www.goodiptv.club/yy/1354932407
 倚天屠龙记--苏有朋版/少年包青天,http://cfss.cc/cdn/yy/1414846486.flv#https://live.ottiptv.cc/yy/1414846486#https://www.goodiptv.club/yy/1414846486
-少年包青天,https://live.ottiptv.cc/yy/1356043677#https://www.goodiptv.club/yy/1356043677
+少年包青天,http://cfss.cc/cdn/yy/1356043677.flv#https://live.ottiptv.cc/yy/1356043677#https://www.goodiptv.club/yy/1356043677
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814#https://www.goodiptv.club/yy/1382736814
 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540#https://www.goodiptv.club/yy/1382851540
 新白娘子4K高清,https://live.ottiptv.cc/yy/1508961855#https://www.goodiptv.club/yy/1508961855
