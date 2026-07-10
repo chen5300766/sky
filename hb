@@ -1987,7 +1987,7 @@ JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/135
 搞笑一家人,https://cdn-3.ttvb.eu.org/bilibili/27505427
 康熙微服私访记,https://cdn-3.ttvb.eu.org/bilibili/25860180
 康熙微服私访记1-3,https://cdn-3.ttvb.eu.org/bilibili/1912360401
-铁齿铜牙纪晓岚,https://cdn-3.ttvb.eu.org/bilibili/25741406#https://cdn-3.ttvb.eu.org/bilibili/22832960
+铁齿铜牙纪晓岚,https://cdn-3.ttvb.eu.org/bilibili/23333830#https://cdn-3.ttvb.eu.org/bilibili/22832960
 爱情公寓,https://cdn-3.ttvb.eu.org/bilibili/1851651597#https://cdn-3.ttvb.eu.org/bilibili/1886609368
 爱情公寓2,https://cdn-3.ttvb.eu.org/bilibili/32200850
 爱情公寓3,https://cdn-3.ttvb.eu.org/bilibili/26455515#https://cdn-3.ttvb.eu.org/bilibili/26758868#https://cdn-3.ttvb.eu.org/bilibili/32741170#https://cdn-3.ttvb.eu.org/bilibili/1939972651
@@ -2007,7 +2007,7 @@ JJ斗地主,https://live.ottiptv.cc/yy/1355501191#https://live.ottiptv.cc/yy/135
 细思极恐的直播间,https://cdn-3.ttvb.eu.org/bilibili/27719619
 超多短剧,https://cdn-3.ttvb.eu.org/bilibili/31486610
 仙剑奇侠传1+3,https://cdn-3.ttvb.eu.org/bilibili/15030833
-林正英,https://cdn-3.ttvb.eu.org/bilibili/23515125
+林正英,https://cdn-3.ttvb.eu.org/bilibili/3091485
 新华网影视,https://cdn-3.ttvb.eu.org/bilibili/22102223
 周杰伦音乐专辑,https://cdn-3.ttvb.eu.org/bilibili/23765388
 凤凰传奇音乐专辑,https://cdn-3.ttvb.eu.org/bilibili/27404696
