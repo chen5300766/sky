@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-11,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-12,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -681,9 +681,9 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 经典电影,http://113.25.252.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://39.150.98.32:37799/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-谍战剧场,http://39.150.98.32:37799/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-4K电影,http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+经典电影,http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+谍战剧场,http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 
 4K电影,http://36.136.11.221:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
