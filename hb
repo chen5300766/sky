@@ -1807,6 +1807,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 娘亲舅大,https://live.ottiptv.cc/yy/1354932360#https://www.goodiptv.club/yy/1354932360
 情满四合院,https://live.ottiptv.cc/yy/1382851524#https://live.ottiptv.cc/yy/1382736848#https://live.ottiptv.cc/yy/1382745089#https://live.ottiptv.cc/yy/1382735541
 北京爱情故事,http://cfss.cc/cdn/yy/1382744423.flv#https://live.ottiptv.cc/yy/1382744423#https://www.goodiptv.club/yy/1382744423
+石敢当,https://live.ottiptv.cc/yy/1394156613#https://www.goodiptv.club/yy/1394156613
 陈情令,https://live.ottiptv.cc/yy/1382745121#https://www.goodiptv.club/yy/1382745121
 速度与激情全集,https://live.ottiptv.cc/yy/1382749892#https://www.goodiptv.club/yy/1382749892
 速度与激情全集,https://live.ottiptv.cc/yy/1382736911#https://www.goodiptv.club/yy/1382736911
