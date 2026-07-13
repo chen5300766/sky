@@ -705,6 +705,12 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
 龙华洋片.https://cdn.qd.je/163189.php?id=lhyp
 
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+
 
 🎞️NewTV影院,#genre#
 NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1
