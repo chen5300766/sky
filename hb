@@ -695,6 +695,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 动作影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 城市剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
+星影,http://jxx.wlzsyw.cn:13994/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 🎞️龙华影院,#genre#
 龙华戏剧,https://cdn.qd.je/163189.php?id=lhxj
