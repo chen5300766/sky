@@ -423,9 +423,8 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 广东体育,http://171.38.146.21:8082/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
-广东体育,http://125.94.172.218:8081/hls/41/index.m3u8
+广东体育,http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
 广东体育,http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
-广东体育,http://110.72.75.93:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://gdsztw.sohu.blog:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://www.kingtom-tech.com:19901/tsfile/live/1011_1.m3u8
@@ -609,7 +608,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://114.66.31.27:6000/614961829
 广东影视,http://183.142.199.223:7788/614961829
 广东影视,http://47.101.60.11:9400/614961829
-广东影视,http://125.94.172.218:8081/hls/31/index.m3u8
 广东影视,http://171.38.146.21:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -684,6 +682,8 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 
 经典电影,http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 谍战剧场,http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+
+谍战剧场,http://120.198.95.220:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 
 4K电影,http://36.136.11.221:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电影,http://36.136.13.254:18885/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -775,7 +775,6 @@ NewTV炫舞未来,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&
 NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=toShengfen&mode=1
 
 
-
 👦动漫游戏卡通,#genre#
 卡酷少儿,http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 金鹰卡通,http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
@@ -789,7 +788,6 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-广东少儿,http://125.94.172.218:8081/hls/32/index.m3u8
 广东少儿,http://171.38.146.21:8082/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://111.221.137.203:4455/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
