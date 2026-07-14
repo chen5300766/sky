@@ -424,6 +424,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 广东体育,http://171.38.146.21:8082/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
 广东体育,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://gdsztw.sohu.blog:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -608,6 +609,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://114.66.31.27:6000/614961829
 广东影视,http://183.142.199.223:7788/614961829
 广东影视,http://47.101.60.11:9400/614961829
+广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.38.146.21:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -714,41 +716,6 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 
 
-🎞️iHOT影院,#genre#
-iHOT爱体育,http://wan1.tangwudi.cc:47859/rtp/239.94.1.143:5140
-iHOT爱动漫,http://wan1.tangwudi.cc:47859/rtp/239.94.1.141:5140
-iHOT爱历史,http://wan1.tangwudi.cc:47859/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://wan1.tangwudi.cc:47859/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://wan1.tangwudi.cc:47859/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://wan1.tangwudi.cc:47859/rtp/239.94.1.130:5140
-iHOT爱幼教,http://wan1.tangwudi.cc:47859/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://wan1.tangwudi.cc:47859/rtp/239.94.1.136:5140
-iHOT爱旅行,http://wan1.tangwudi.cc:47859/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://wan1.tangwudi.cc:47859/rtp/239.94.1.128:5140
-iHOT爱玩具,http://wan1.tangwudi.cc:47859/rtp/239.94.1.140:5140
-iHOT爱科幻,http://wan1.tangwudi.cc:47859/rtp/239.94.1.131:5140
-iHOT爱谍战,http://wan1.tangwudi.cc:47859/rtp/239.94.1.134:5140
-iHOT爱赛车,http://wan1.tangwudi.cc:47859/rtp/239.94.1.144:5140
-iHOT爱院线,http://wan1.tangwudi.cc:47859/rtp/239.94.1.132:5140
-
-
-iHOT爱体育,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.143:5140
-iHOT爱动漫,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.141:5140
-iHOT爱历史,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.135:5140
-iHOT爱喜剧,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://sdyhengh.dedyn.io:18888/rtp/239.94.2.71:5140
-iHOT爱奇谈,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.130:5140
-iHOT爱幼教,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.139:5140
-iHOT爱悬疑,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.136:5140
-iHOT爱旅行,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.137:5140
-iHOT爱浪漫,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.128:5140
-iHOT爱玩具,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.140:5140
-iHOT爱科幻,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.131:5140
-iHOT爱谍战,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.134:5140
-iHOT爱赛车,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.144:5140
-iHOT爱院线,http://sdyhengh.dedyn.io:18888/rtp/239.94.1.132:5140
-
-
 🎞️NewTV影院,#genre#
 NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1
 NewTV超级综艺,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1
@@ -790,6 +757,7 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 
 广东少儿,http://171.38.146.21:8082/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
+广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://111.221.137.203:4455/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.222:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://198.204.228.26/live/gdtvs5.m3u8
@@ -876,6 +844,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://cpanel.lwfz.fun:8800/rtp/239.16.20.68:10680
 中国天气,http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
+中国天气,http://171.38.146.21:8082/tsfile/live/1007_1.m3u8
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -912,6 +881,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 
 
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
+求索纪录,http://120.198.86.186:9901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 纪实科教,http://112.92.129.96:9898/hls/50/index.m3u8
