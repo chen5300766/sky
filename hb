@@ -870,6 +870,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 环球旅游,http://47.101.60.11:9400/958475356
 环球旅游,http://cpanel.lwfz.fun:8800/rtp/239.16.20.131:11310
 环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.20.131:11310
+环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 
 
 中华特产,http://183.142.199.223:7788/959986618
