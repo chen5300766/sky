@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/2.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-7-14,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-7-15,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡4K专区,#genre#
@@ -421,7 +421,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 天津体育,http://192.151.150.154/live/tjtv5.m3u8
 
 
-广东体育,http://171.38.146.21:8082/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
 广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -542,7 +542,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 重温经典,http://panabit.yunjifei.top:3338/tsfile/live/1052_1.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 重温经典,http://112.92.129.96:9898/hls/136/index.m3u8
-重温经典,http://171.38.146.21:8082/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://112.27.5.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
@@ -610,7 +610,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://183.142.199.223:7788/614961829
 广东影视,http://47.101.60.11:9400/614961829
 广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://171.38.146.21:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
 广东影视,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -755,7 +755,7 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-广东少儿,http://171.38.146.21:8082/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://111.221.137.203:4455/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -844,7 +844,7 @@ CETV早期教育,http://38.75.136.137:98/gslb/dsdqpub/zqjy.m3u8?auth=testpub
 中国天气,http://cpanel.lwfz.fun:8800/rtp/239.16.20.68:10680
 中国天气,http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
-中国天气,http://171.38.146.21:8082/tsfile/live/1007_1.m3u8
+中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
 
 
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
