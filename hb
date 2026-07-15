@@ -567,6 +567,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 中国电影1,http://36.136.13.254:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影1,http://36.136.11.230:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影1,http://36.136.11.221:18885/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影1,http://183.162.121.60:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 中国电影2,http://120.76.248.139/live/bfgd/4200000290.m3u8
 亚洲影院,http://120.76.248.139/live/bfgd/4200000289.m3u8
