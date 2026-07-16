@@ -638,6 +638,10 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
+邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
+邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
+邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
+邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 
 邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
 邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
