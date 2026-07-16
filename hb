@@ -426,6 +426,7 @@ CGTN纪录,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8#
 
 
 广东体育,http://120.237.39.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+广东体育,http://113.101.119.56:808/hls/108/index.m3u8
 广东体育,http://112.92.129.96:9898/hls/5/index.m3u8
 广东体育,http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
 广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -615,6 +616,7 @@ CHC影迷电影,http://111.48.34.138/000000001000PLTV/88888888/224/3221230483/1.
 广东影视,http://114.66.31.27:6000/614961829
 广东影视,http://183.142.199.223:7788/614961829
 广东影视,http://47.101.60.11:9400/614961829
+广东影视,http://113.101.119.56:808/hls/110/index.m3u8
 广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://vip1.xinketongxun.fun:8082/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.84.146:9901/tsfile/live/1010_1.m3u8
@@ -769,7 +771,7 @@ NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?c
 动漫,http://111.48.246.74/000000001000PLTV/88888888/224/3221230652/1.m3u8
 
 
-
+广东少儿,http://113.101.119.56:808/hls/111/index.m3u8
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://111.221.137.203:4455/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
