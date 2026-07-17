@@ -1926,8 +1926,8 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 电影放映3,https://live.ottiptv.cc/yy/1354825244#https://www.goodiptv.club/yy/1354825244
 电影放映4,https://live.ottiptv.cc/yy/1382735627#https://www.goodiptv.club/yy/1382735627
 电影放映5,http://cfss.cc/cdn/yy/1354932426.flv#https://live.ottiptv.cc/yy/1354932426#https://www.goodiptv.club/yy/1354932426
-电影放映6,http://cfss.cc/cdn/yy/1382851590.flv#https://live.ottiptv.cc/yy/1382851590#https://www.goodiptv.club/yy/1382851590
-电影放映7,http://cfss.cc/cdn/yy/1382735543.flv#https://live.ottiptv.cc/yy/1382735543#https://www.goodiptv.club/yy/1382735543
+电影放映6,https://live.ottiptv.cc/yy/1382851590#https://www.goodiptv.club/yy/1382851590
+电影放映7,https://live.ottiptv.cc/yy/1382735543#https://www.goodiptv.club/yy/1382735543
 动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.ottiptv.cc/yy/1382736809#https://www.goodiptv.club/yy/1382736809
 动作喜剧片,https://live.ottiptv.cc/yy/1354930936#https://www.goodiptv.club/yy/1354930936
 经典电影重温,https://live.ottiptv.cc/yy/1382793140#https://www.goodiptv.club/yy/1382793140
