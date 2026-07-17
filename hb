@@ -1759,7 +1759,7 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 83版射雕英雄传,https://live.ottiptv.cc/yy/1354210357#https://www.goodiptv.club/yy/1354210357
 天龙八部--黄日华,https://live.ottiptv.cc/yy/1351814644#https://www.goodiptv.club/yy/1351814644
 天龙八部--黄日华,https://live.ottiptv.cc/yy/1352300646#https://www.goodiptv.club/yy/1352300646
-笑傲江湖---李亚鹏版,https://live.ottiptv.cc/yy/1354282410#https://www.goodiptv.club/yy/1354282410
+侠客行,https://live.ottiptv.cc/yy/1354282410#https://www.goodiptv.club/yy/1354282410
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619#https://www.goodiptv.club/yy/1352475619
 隋唐英雄传,http://cfss.cc/cdn/yy/1355102749.flv#https://live.ottiptv.cc/yy/1355102749#https://www.goodiptv.club/yy/1355102749
 寻秦记,https://live.ottiptv.cc/yy/1382749900#https://www.goodiptv.club/yy/1382749900
@@ -1812,10 +1812,10 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 科幻片2,https://live.ottiptv.cc/yy/1354930897#https://www.goodiptv.club/yy/1354930897
 复仇者联盟全季,https://live.ottiptv.cc/yy/1354936167#https://live.ottiptv.cc/yy/1354936167#https://www.goodiptv.club/yy/1354936167
 九层妖塔,http://cfss.cc/cdn/yy/1354936116.flv#https://live.ottiptv.cc/yy/1354936116#https://www.goodiptv.club/yy/1354936116
-笑傲江湖-吕颂贤版,http://cfss.cc/cdn/yy/1382851576.flv#https://live.ottiptv.cc/yy/1382851576#https://www.goodiptv.club/yy/1382851576
+晨晨的影视小窝,http://cfss.cc/cdn/yy/1382851576.flv#https://live.ottiptv.cc/yy/1382851576#https://www.goodiptv.club/yy/1382851576
 我爱我家,https://www.goodiptv.club/yy/1382851580#https://live.ottiptv.cc/yy/1382851580
 血战狙击岭,http://cfss.cc/cdn/yy/1354936136.flv#https://live.ottiptv.cc/yy/1354936136#https://www.goodiptv.club/yy/1354936136
-不良街区-边缘生存记,http://cfss.cc/cdn/yy/1382749890.flv#https://live.ottiptv.cc/yy/1382749890#https://www.goodiptv.club/yy/1382749890
+功夫小子进城,http://cfss.cc/cdn/yy/1382749890.flv#https://live.ottiptv.cc/yy/1382749890#https://www.goodiptv.club/yy/1382749890
 港剧电影,http://cfss.cc/cdn/yy/1382736816.flv#https://live.ottiptv.cc/yy/1382736816#https://www.goodiptv.club/yy/1382736816
 港片,http://cfss.cc/cdn/yy/1382736917.flv#https://live.ottiptv.cc/yy/1382736917#https://www.goodiptv.club/yy/1382736917
 破案港剧,https://live.ottiptv.cc/yy/1350670730#https://www.goodiptv.club/yy/1350670730
@@ -1926,6 +1926,8 @@ JJ斗地主,https://live.ottiptv.cc/douyu/488743#https://iptv.catvod.com/douyu/4
 电影放映3,https://live.ottiptv.cc/yy/1354825244#https://www.goodiptv.club/yy/1354825244
 电影放映4,https://live.ottiptv.cc/yy/1382735627#https://www.goodiptv.club/yy/1382735627
 电影放映5,http://cfss.cc/cdn/yy/1354932426.flv#https://live.ottiptv.cc/yy/1354932426#https://www.goodiptv.club/yy/1354932426
+电影放映6,http://cfss.cc/cdn/yy/1382851590.flv#https://live.ottiptv.cc/yy/1382851590#https://www.goodiptv.club/yy/1382851590
+电影放映7,http://cfss.cc/cdn/yy/1382735543.flv#https://live.ottiptv.cc/yy/1382735543#https://www.goodiptv.club/yy/1382735543
 动作电影,http://cfss.cc/cdn/yy/1382736809.flv#https://live.ottiptv.cc/yy/1382736809#https://www.goodiptv.club/yy/1382736809
 动作喜剧片,https://live.ottiptv.cc/yy/1354930936#https://www.goodiptv.club/yy/1354930936
 经典电影重温,https://live.ottiptv.cc/yy/1382793140#https://www.goodiptv.club/yy/1382793140
