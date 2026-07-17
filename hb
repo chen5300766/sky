@@ -2103,6 +2103,7 @@ JJ斗地主,https://cdn-3.ttvb.eu.org/douyin/685317364746#https://tv1288.xyz/dou
 乒乓体育4,https://cdn-3.ttvb.eu.org/douyin/980054949027#https://tv1288.xyz/douyin.php?type=rid&rid=980054949027
 实况足球游戏1,https://cdn-3.ttvb.eu.org/douyin/903438246422#https://tv1288.xyz/douyin.php?type=rid&rid=903438246422
 实况足球游戏2,https://cdn-3.ttvb.eu.org/douyin/690396532911#https://tv1288.xyz/douyin.php?type=rid&rid=690396532911
+FC足球世界,https://cdn-3.ttvb.eu.org/douyin/461982402868#https://tv1288.xyz/douyin.php?type=rid&rid=461982402868
 全国篮球邀请赛,https://cdn-3.ttvb.eu.org/douyin/195683851583#https://tv1288.xyz/douyin.php?type=rid&rid=195683851583
 篮球直播,https://cdn-3.ttvb.eu.org/douyin/963414002106#https://tv1288.xyz/douyin.php?type=rid&rid=963414002106
 JJ象棋1,https://cdn-3.ttvb.eu.org/douyin/684219410470#https://tv1288.xyz/douyin.php?type=rid&rid=684219410470
