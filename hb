@@ -21,7 +21,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 
-📡咪咕,#genre#
+📡咪咕源,#genre#
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV2财经,http://wfenf.x3322.net:7788/631780532
 CCTV3综艺,http://wfenf.x3322.net:7788/624878271
@@ -132,7 +132,7 @@ CETV4,http://wfenf.x3322.net:7788/923287339
 梨园,http://wfenf.x3322.net:7788/961930369
 
 
-📡湖北广电,#genre#
+📡湖北广电源,#genre#
 CCTV1综合,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
 CCTV2财经,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
 CCTV3综艺,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
@@ -288,7 +288,7 @@ CCTV4K,rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
 山东卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
 
 
-📡湖北移动,#genre#
+📡湖北移动源,#genre#
 CCTV1综合,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
 CCTV2财经,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
 CCTV3综艺,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
