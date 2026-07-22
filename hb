@@ -384,7 +384,7 @@ CGTN,http://panabit.yunjifei.top:3338/tsfile/live/1080_1.m3u8
 农林卫视,http://panabit.yunjifei.top:3338/tsfile/live/1088_1.m3u8
 书画,http://panabit.yunjifei.top:3338/tsfile/live/1089_1.m3u8
 新动漫,http://panabit.yunjifei.top:3338/tsfile/live/1090_1.m3u8
-BRTV纪实科教,http://panabit.yunjifei.top:3338/tsfile/live/1091_1.m3u8
+纪实科教,http://panabit.yunjifei.top:3338/tsfile/live/1091_1.m3u8
 新闻综合,http://panabit.yunjifei.top:3338/tsfile/live/1092_1.m3u8
 影视生活,http://panabit.yunjifei.top:3338/tsfile/live/1093_1.m3u8
 国学,http://panabit.yunjifei.top:3338/tsfile/live/1094_1.m3u8
@@ -399,8 +399,6 @@ BRTV纪实科教,http://panabit.yunjifei.top:3338/tsfile/live/1091_1.m3u8
 法制天地,http://panabit.yunjifei.top:3338/tsfile/live/1043_1.m3u8
 中华特产,http://panabit.yunjifei.top:3338/tsfile/live/1044_1.m3u8
 女性时尚,http://panabit.yunjifei.top:3338/tsfile/live/1045_1.m3u8
-生态环境,http://panabit.yunjifei.top:3338/tsfile/live/1046_1.m3u8
-收藏天下,http://panabit.yunjifei.top:3338/tsfile/live/1047_1.m3u8
 生活时尚,http://panabit.yunjifei.top:3338/tsfile/live/1049_1.m3u8
 动漫秀场,http://panabit.yunjifei.top:3338/tsfile/live/1050_1.m3u8
 游戏风云,http://panabit.yunjifei.top:3338/tsfile/live/1051_1.m3u8
