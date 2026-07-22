@@ -217,10 +217,9 @@ CCTV第一剧场,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380
 中国教育2,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN79471BESTVSMGSMG/index.m3u8?m3u8_level=2
 中国教育4,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6876519BESTVSMGSMG/index.m3u8?m3u8_level=2
 CGTN,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-CGTN阿拉伯语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071b0e6a2c/index.m3u8?m3u8_level=2
 CGTN记录,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
-CGTN俄语,
-http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+CGTN阿语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071b0e6a2c/index.m3u8?m3u8_level=2
+CGTN俄语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
 CGTN法语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
 CGTN西语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
 
