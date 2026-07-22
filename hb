@@ -1291,9 +1291,9 @@ CCTV17,http://jxx.wlzsyw.cn:13994/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 兵团卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 农林卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-中国教育—1,http://jxx.wlzsyw.cn:13994/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-中国教育—2,http://jxx.wlzsyw.cn:13994/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
-中国教育—4,http://jxx.wlzsyw.cn:13994/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
+中国教育1,http://jxx.wlzsyw.cn:13994/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+中国教育2,http://jxx.wlzsyw.cn:13994/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
+中国教育4,http://jxx.wlzsyw.cn:13994/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
 山东教育,http://jxx.wlzsyw.cn:13994/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://jxx.wlzsyw.cn:13994/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 财富天下,http://jxx.wlzsyw.cn:13994/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1448,7 +1448,7 @@ BTV体育,http://jiugong.wulinsy.cn:45237/tsfile/live/1005_1.m3u8?key=txiptv&pla
 新疆卫视,http://jiugong.wulinsy.cn:45237/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 淘电影,http://jiugong.wulinsy.cn:45237/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 少儿动画,http://jiugong.wulinsy.cn:45237/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-BTV-卡酷,http://jiugong.wulinsy.cn:45237/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://jiugong.wulinsy.cn:45237/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 军旅剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 古装剧场,http://jiugong.wulinsy.cn:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 喜剧影院,http://jiugong.wulinsy.cn:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
