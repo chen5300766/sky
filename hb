@@ -190,8 +190,8 @@ CCTV17农业农村,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63
 湖北教育,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?m3u8_level=2
 湖北经视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807203543e3/index.m3u8?m3u8_level=2
 湖北综合,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072216f7da/index.m3u8?m3u8_level=2
-北京卡酷少儿,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
-湖南金鹰卡通,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
+卡酷少儿,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
+金鹰卡通,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
 快乐垂钓,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 茶频道,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
 梨园,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
@@ -264,7 +264,7 @@ CCTV15,http://139.227.21.22:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 东南卫视,http://139.227.21.22:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://139.227.21.22:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://139.227.21.22:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-少儿,http://139.227.21.22:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://139.227.21.22:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡辽宁省中国联通酒店源,#genre#
@@ -331,7 +331,7 @@ CGTN,http://panabit.yunjifei.top:3338/tsfile/live/1080_1.m3u8
 延边卫视,http://panabit.yunjifei.top:3338/tsfile/live/0121_1.m3u8
 中国教育4,http://panabit.yunjifei.top:3338/tsfile/live/1004_1.m3u8
 金鹰卡通,http://panabit.yunjifei.top:3338/tsfile/live/0126_1.m3u8
-卡酷动漫,http://panabit.yunjifei.top:3338/tsfile/live/1009_1.m3u8
+卡酷少儿,http://panabit.yunjifei.top:3338/tsfile/live/1009_1.m3u8
 发现之旅,http://panabit.yunjifei.top:3338/tsfile/live/1083_1.m3u8
 环球奇观,http://panabit.yunjifei.top:3338/tsfile/live/1084_1.m3u8
 家庭理财,http://panabit.yunjifei.top:3338/tsfile/live/1085_1.m3u8
@@ -642,7 +642,6 @@ CGTV法语SD,http://gyvnc.liy.ink:369/rtp/238.255.2.83:5999
 中央新影老故事SD,http://gyvnc.liy.ink:369/rtp/238.255.2.35:5999
 农林卫视SD,http://gyvnc.liy.ink:369/rtp/238.255.2.120:5999
 安多卫视SD,http://gyvnc.liy.ink:369/rtp/238.255.2.189:5999
-待确认SD,http://gyvnc.liy.ink:369/rtp/238.255.2.162:5999
 西藏卫视藏语SD,http://gyvnc.liy.ink:369/rtp/238.255.2.23:5999
 贵州移动电视SD,http://gyvnc.liy.ink:369/rtp/238.255.2.117:5999
 贵州3影视,http://gyvnc.liy.ink:369/rtp/238.255.2.159:5999
@@ -799,7 +798,6 @@ CGTV法语SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.83:5999
 中央新影老故事SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.35:5999
 农林卫视SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.120:5999
 安多卫视SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.189:5999
-待确认SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.162:5999
 西藏卫视藏语SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.23:5999
 贵州移动电视SD,http://ximu.ecs.yue.zone:369/rtp/238.255.2.117:5999
 贵州3影视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.159:5999
@@ -906,7 +904,7 @@ CCTV5+ 高清,http://36.136.11.221:18885/tsfile/live/1020_1.m3u8?key=txiptv&play
 广东科教,http://36.136.11.221:18885/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.11.221:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://36.136.11.221:18885/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典 高清,http://36.136.11.221:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://36.136.11.221:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 有线电视娱乐高清,http://36.136.11.221:18885/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江台,http://36.136.11.221:18885/tsfile/live/1138_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -1008,7 +1006,7 @@ CCTV5+ 高清,http://36.136.13.254:18885/tsfile/live/1020_1.m3u8?key=txiptv&play
 广东科教,http://36.136.13.254:18885/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.13.254:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://36.136.13.254:18885/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典 高清,http://36.136.13.254:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://36.136.13.254:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 有线电视娱乐高清,http://36.136.13.254:18885/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江台,http://36.136.13.254:18885/tsfile/live/1138_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -1246,14 +1244,9 @@ CCTV17,http://jxx.wlzsyw.cn:13994/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 亳州综合,http://jxx.wlzsyw.cn:13994/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 热播剧场,http://jxx.wlzsyw.cn:13994/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://jxx.wlzsyw.cn:13994/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://jxx.wlzsyw.cn:13994/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://jxx.wlzsyw.cn:13994/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-环球影视,http://jxx.wlzsyw.cn:13994/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-农民频道,http://jxx.wlzsyw.cn:13994/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 安多卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 蒙古语卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-幸运影视,http://jxx.wlzsyw.cn:13994/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://jxx.wlzsyw.cn:13994/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
