@@ -643,7 +643,7 @@ CCTV17农业,http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 全纪实,http://111.8.242.127:9999/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 茶频道,http://111.8.242.127:9999/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 法制天地,http://111.8.242.127:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-测试,http://111.8.242.127:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经,http://111.8.242.127:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://111.8.242.127:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://111.8.242.127:9999/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
