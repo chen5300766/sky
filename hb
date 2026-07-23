@@ -288,7 +288,7 @@ CCTV4K,rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
 山东卫视4K,rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
 
 
-📡湖北移动中兴源,#genre#
+📡湖北中兴移动源,#genre#
 CCTV1综合,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
 CCTV2财经,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
 CCTV3综艺,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
