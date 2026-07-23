@@ -636,7 +636,6 @@ CCTV17农业,http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 青海卫视,http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://111.8.242.127:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://111.8.242.127:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-先锋乒羽,http://111.8.242.127:9999/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 四海钓鱼,http://111.8.242.127:9999/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://111.8.242.127:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 书画频道,http://111.8.242.127:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
