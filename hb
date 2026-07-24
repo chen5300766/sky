@@ -349,7 +349,7 @@ CCTV17农业农村,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63
 卡酷少儿,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
 金鹰卡通,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
 快乐垂钓,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
-茶频道,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
+茶,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
 梨园,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
 文物宝库,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078a346161/index.m3u8?m3u8_level=2
 武术世界,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
@@ -638,9 +638,9 @@ CCTV17农业,http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 劲爆体育,http://111.8.242.127:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 四海钓鱼,http://111.8.242.127:9999/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://111.8.242.127:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-书画频道,http://111.8.242.127:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+书画,http://111.8.242.127:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 全纪实,http://111.8.242.127:9999/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-茶频道,http://111.8.242.127:9999/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://111.8.242.127:9999/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 法制天地,http://111.8.242.127:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 东方财经,http://111.8.242.127:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://111.8.242.127:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -859,7 +859,7 @@ FTV足球,http://www.330459.xyz:8188/rtp/225.1.2.83:5002
 GTV网络棋牌,http://www.330459.xyz:8188/rtp/225.1.1.217:5002
 GTV游戏竞技,http://www.330459.xyz:8188/rtp/225.1.1.222:5002
 财富天下,http://www.330459.xyz:8188/rtp/225.1.2.198:5002
-茶频道,http://www.330459.xyz:8188/rtp/225.1.2.19:5002
+茶,http://www.330459.xyz:8188/rtp/225.1.2.19:5002
 东方财经,http://www.330459.xyz:8188/rtp/225.1.1.247:5002
 动漫秀场,http://www.330459.xyz:8188/rtp/225.1.1.134:5002
 都市剧场,http://www.330459.xyz:8188/rtp/225.1.1.146:5002
@@ -874,7 +874,7 @@ GTV游戏竞技,http://www.330459.xyz:8188/rtp/225.1.1.222:5002
 快乐垂钓,http://www.330459.xyz:8188/rtp/225.1.1.92:5002
 快乐生活,http://www.330459.xyz:8188/rtp/225.1.2.24:5002
 乐游,http://www.330459.xyz:8188/rtp/225.1.1.145:5002
-梨园频道,http://www.330459.xyz:8188/rtp/225.1.2.104:5002
+梨园,http://www.330459.xyz:8188/rtp/225.1.2.104:5002
 汽摩,http://www.330459.xyz:8188/rtp/225.1.1.205:5002
 生活时尚,http://www.330459.xyz:8188/rtp/225.1.1.143:5002
 生态环境,http://www.330459.xyz:8188/rtp/225.1.2.201:5002
@@ -992,7 +992,7 @@ CGTN法语,http://gyvnc.liy.ink:369/rtp/238.255.2.208:5999
 彩条测试,http://gyvnc.liy.ink:369/rtp/238.255.2.154:5999
 毕节-1,http://gyvnc.liy.ink:369/rtp/238.255.2.131:5999
 毕节黔西1,http://gyvnc.liy.ink:369/rtp/238.255.2.161:5999
-综合频道,http://gyvnc.liy.ink:369/rtp/238.255.2.153:5999
+综合,http://gyvnc.liy.ink:369/rtp/238.255.2.153:5999
 贵州2公共,http://gyvnc.liy.ink:369/rtp/238.255.2.2:5999
 贵州3影视文艺,http://gyvnc.liy.ink:369/rtp/238.255.2.3:5999
 贵州4大众生活,http://gyvnc.liy.ink:369/rtp/238.255.2.4:5999
@@ -1017,9 +1017,9 @@ CCTV1,http://gyvnc.liy.ink:369/rtp/238.255.2.218:5999
 CETV2,http://gyvnc.liy.ink:369/rtp/238.255.2.221:5999
 CGTN,http://gyvnc.liy.ink:369/rtp/238.255.2.178:5999
 CGTN纪录,http://gyvnc.liy.ink:369/rtp/238.255.2.172:5999
-书法频道,http://gyvnc.liy.ink:369/rtp/238.255.2.177:5999
+书法,http://gyvnc.liy.ink:369/rtp/238.255.2.177:5999
 环球奇观,http://gyvnc.liy.ink:369/rtp/238.255.2.43:5999
-国学频道,http://gyvnc.liy.ink:369/rtp/238.255.2.176:5999
+国学,http://gyvnc.liy.ink:369/rtp/238.255.2.176:5999
 中国交通,http://gyvnc.liy.ink:369/rtp/238.255.2.220:5999
 广西卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.64:5999
 山西卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.71:5999
@@ -1148,7 +1148,7 @@ CGTN法语,http://ximu.ecs.yue.zone:369/rtp/238.255.2.208:5999
 彩条测试,http://ximu.ecs.yue.zone:369/rtp/238.255.2.154:5999
 毕节-1,http://ximu.ecs.yue.zone:369/rtp/238.255.2.131:5999
 毕节黔西1,http://ximu.ecs.yue.zone:369/rtp/238.255.2.161:5999
-综合频道,http://ximu.ecs.yue.zone:369/rtp/238.255.2.153:5999
+综合,http://ximu.ecs.yue.zone:369/rtp/238.255.2.153:5999
 贵州2公共,http://ximu.ecs.yue.zone:369/rtp/238.255.2.2:5999
 贵州3影视文艺,http://ximu.ecs.yue.zone:369/rtp/238.255.2.3:5999
 贵州4大众生活,http://ximu.ecs.yue.zone:369/rtp/238.255.2.4:5999
@@ -1173,9 +1173,9 @@ CCTV1,http://ximu.ecs.yue.zone:369/rtp/238.255.2.218:5999
 CETV2,http://ximu.ecs.yue.zone:369/rtp/238.255.2.221:5999
 CGTN,http://ximu.ecs.yue.zone:369/rtp/238.255.2.178:5999
 CGTN纪录,http://ximu.ecs.yue.zone:369/rtp/238.255.2.172:5999
-书法频道,http://ximu.ecs.yue.zone:369/rtp/238.255.2.177:5999
+书法,http://ximu.ecs.yue.zone:369/rtp/238.255.2.177:5999
 环球奇观,http://ximu.ecs.yue.zone:369/rtp/238.255.2.43:5999
-国学频道,http://ximu.ecs.yue.zone:369/rtp/238.255.2.176:5999
+国学,http://ximu.ecs.yue.zone:369/rtp/238.255.2.176:5999
 中国交通,http://ximu.ecs.yue.zone:369/rtp/238.255.2.220:5999
 广西卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.64:5999
 山西卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.71:5999
@@ -1270,8 +1270,8 @@ CCTV17农业农村,http://vip1.xinketongxun.fun:8082/tsfile/live/1039_1.m3u8
 广东少儿,http://vip1.xinketongxun.fun:8082/tsfile/live/1034_1.m3u8
 新动漫,http://vip1.xinketongxun.fun:8082/tsfile/live/1036_1.m3u8
 中国气象,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8
-中国教育HD,http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
-金鹰纪实HD,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8
+中国教育,http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
+金鹰纪实,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8
 山东教育卫视,http://vip1.xinketongxun.fun:8082/tsfile/live/1008_1.m3u8
 广州综合,http://vip1.xinketongxun.fun:8082/tsfile/live/0133_1.m3u8
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8
@@ -1287,7 +1287,7 @@ CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 影迷电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
 武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8
 重温经典,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8
-书画频道,http://vip1.xinketongxun.fun:8082/tsfile/live/1000_1.m3u8
+书画,http://vip1.xinketongxun.fun:8082/tsfile/live/1000_1.m3u8
 环球旅游,http://vip1.xinketongxun.fun:8082/tsfile/live/1009_1.m3u8
 
 
@@ -1457,11 +1457,8 @@ CCTV16奥林匹克,http://120.198.84.146:9901/tsfile/live/1087_1.m3u8
 梅州2,http://120.198.86.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山歌台,http://120.198.86.186:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广场舞,http://120.198.86.186:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-频道,http://120.198.86.186:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://120.198.86.186:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-珠江,http://120.198.86.186:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://120.198.86.186:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://120.198.86.186:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://120.198.86.186:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1939,7 +1936,7 @@ CCTV17,http://jxx.wlzsyw.cn:13994/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 风云剧场,http://jxx.wlzsyw.cn:13994/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://jxx.wlzsyw.cn:13994/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 星影,http://jxx.wlzsyw.cn:13994/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-梨园频道,http://jxx.wlzsyw.cn:13994/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园,http://jxx.wlzsyw.cn:13994/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://jxx.wlzsyw.cn:13994/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://jxx.wlzsyw.cn:13994/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://jxx.wlzsyw.cn:13994/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2024,7 +2021,7 @@ CCTV17农业农村,http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&p
 江苏卫视,http://112.27.5.218:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://112.27.5.218:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://112.27.5.218:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视HD,http://112.27.5.218:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://112.27.5.218:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://112.27.5.218:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://112.27.5.218:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2035,7 +2032,7 @@ CCTV17农业农村,http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&p
 吉林卫视,http://112.27.5.218:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://112.27.5.218:9901/tsfile/live/faacts/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://112.27.5.218:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视HD,http://112.27.5.218:9901/tsfile/live/faacts/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://112.27.5.218:9901/tsfile/live/faacts/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://112.27.5.218:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2054,7 +2051,7 @@ CETV1,http://112.27.5.218:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&aut
 金色学堂,http://112.27.5.218:9901/tsfile/live/faacts/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 精彩影视,http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-茶频道,http://112.27.5.218:9901/tsfile/live/faacts/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://112.27.5.218:9901/tsfile/live/faacts/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://112.27.5.218:9901/tsfile/live/faacts/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 东方财经,http://112.27.5.218:9901/tsfile/live/faacts/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 纪实科教,http://112.27.5.218:9901/tsfile/live/faacts/1049_1.m3u8?key=txiptv&playlive=1&authid=0
