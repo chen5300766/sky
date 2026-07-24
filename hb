@@ -1360,6 +1360,7 @@ CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&d
 
 
 广东卫视,http://120.198.84.146:9901/tsfile/live/1000_1.m3u8
+中山综合,http://120.198.84.146:9901/tsfile/live/1089_1.m3u8
 梅州1,http://120.198.84.146:9901/tsfile/live/1002_1.m3u8
 梅州2,http://120.198.84.146:9901/tsfile/live/1003_1.m3u8
 岭南戏曲,http://120.198.84.146:9901/tsfile/live/1004_1.m3u8
@@ -1440,7 +1441,6 @@ CCTV兵器科技,http://120.198.84.146:9901/tsfile/live/1068_1.m3u8
 风云足球,http://120.198.84.146:9901/tsfile/live/1086_1.m3u8
 CCTV16奥林匹克,http://120.198.84.146:9901/tsfile/live/1087_1.m3u8
 山西卫视,http://120.198.84.146:9901/tsfile/live/1088_1.m3u8
-中甲联赛,http://120.198.84.146:9901/tsfile/live/1089_1.m3u8
 吉林卫视,http://120.198.84.146:9901/tsfile/live/1090_1.m3u8
 吉林卫视,http://120.198.84.146:9901/tsfile/live/1096_1.m3u8
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
