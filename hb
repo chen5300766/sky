@@ -676,11 +676,11 @@ CCTV15音乐,http://sclsdx.sohu.blog:59901/tsfile/live/0015_1.m3u8?key=txiptv&pl
 河北卫视,http://sclsdx.sohu.blog:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://sclsdx.sohu.blog:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://sclsdx.sohu.blog:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://sclsdx.sohu.blog:59901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://sclsdx.sohu.blog:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通2,http://sclsdx.sohu.blog:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://sclsdx.sohu.blog:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-2,http://sclsdx.sohu.blog:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://sclsdx.sohu.blog:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://sclsdx.sohu.blog:59901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -698,7 +698,7 @@ SCTV-2,http://sclsdx.sohu.blog:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 江西卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-5,http://sclsdx.sohu.blog:59901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-宝宝动画,http://sclsdx.sohu.blog:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+军旅剧场,http://sclsdx.sohu.blog:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-7,http://sclsdx.sohu.blog:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 文化旅游,http://sclsdx.sohu.blog:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://sclsdx.sohu.blog:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -707,7 +707,7 @@ SCTV-7,http://sclsdx.sohu.blog:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive
 广西卫视,http://sclsdx.sohu.blog:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 电竞天堂,http://sclsdx.sohu.blog:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 军事,http://sclsdx.sohu.blog:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://sclsdx.sohu.blog:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+宝宝动画,http://sclsdx.sohu.blog:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 CCTV1综合,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -734,11 +734,11 @@ CCTV15音乐,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8?key=txiptv&play
 河北卫视,http://222.214.208.34:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://222.214.208.34:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://222.214.208.34:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://222.214.208.34:59901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://222.214.208.34:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通2,http://222.214.208.34:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://222.214.208.34:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-2,http://222.214.208.34:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://222.214.208.34:59901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://222.214.208.34:59901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -756,7 +756,7 @@ SCTV-2,http://222.214.208.34:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://222.214.208.34:59901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-5,http://222.214.208.34:59901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-宝宝动画,http://222.214.208.34:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+军旅剧场,http://222.214.208.34:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-7,http://222.214.208.34:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 文化旅游,http://222.214.208.34:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://222.214.208.34:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -765,8 +765,7 @@ SCTV-7,http://222.214.208.34:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1
 广西卫视,http://222.214.208.34:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 电竞天堂,http://222.214.208.34:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 军事,http://222.214.208.34:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://222.214.208.34:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-
+宝宝动画,http://222.214.208.34:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡天津市联通组播源,#genre#
