@@ -868,12 +868,12 @@ CCTV12社会与法,http://36.136.11.230:11888/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV13新闻,http://36.136.11.230:11888/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.11.230:11888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://36.136.11.230:11888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16,http://36.136.11.230:11888/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://36.136.11.230:11888/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16奥林匹克,http://36.136.11.230:11888/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业,http://36.136.11.230:11888/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 爱上4K电影,http://36.136.11.230:11888/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://36.136.11.230:11888/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://36.136.11.230:11888/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-高清电影,http://36.136.11.230:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://36.136.11.230:11888/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://36.136.11.230:11888/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC影迷电影,http://36.136.11.230:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育一套,http://36.136.11.230:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://36.136.11.230:11888/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://36.136.11.230:11888/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -891,7 +891,6 @@ CCTV17,http://36.136.11.230:11888/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&
 辽宁卫视,http://36.136.11.230:11888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://36.136.11.230:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://36.136.11.230:11888/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-新视觉,http://36.136.11.230:11888/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 音乐荟萃,http://36.136.11.230:11888/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://36.136.11.230:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://36.136.11.230:11888/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
