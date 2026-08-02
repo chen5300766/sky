@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/4.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-8-1,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-8-3,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡稳定源,#genre#
@@ -1130,6 +1130,38 @@ CETV4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&au
 
 
 📡四川南充移动,#genre#
+CCTV1综合,http://112.19.31.13:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经,http://112.19.31.13:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://112.19.31.13:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4国际,http://112.19.31.13:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://112.19.31.13:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://112.19.31.13:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://112.19.31.13:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7军事,http://112.19.31.13:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://112.19.31.13:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9纪录,http://112.19.31.13:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://112.19.31.13:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲,http://112.19.31.13:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://112.19.31.13:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://112.19.31.13:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://112.19.31.13:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐,http://112.19.31.13:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业,http://112.19.31.13:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+四川经济,http://112.19.31.13:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+四川文旅,http://112.19.31.13:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+四川乡村,http://112.19.31.13:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://112.19.31.13:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+四川七台,http://112.19.31.13:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+四川科教,http://112.19.31.13:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://112.19.31.13:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+四川文艺,http://112.19.31.13:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+南充科教,http://112.19.31.13:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+南充综合,http://112.19.31.13:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://112.19.31.13:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://112.19.31.13:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://112.19.31.13:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 CCTV1综合,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
