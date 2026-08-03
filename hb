@@ -3388,7 +3388,7 @@ kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://iptv.catvod.com/do
 肖胜350的直播间,https://live.ottiptv.cc/douyu/7338853#https://iptv.catvod.com/douyu/7338853#https://www.goodiptv.club/douyu/7338853
 LR1245直播间,https://live.ottiptv.cc/douyu/12534632#https://iptv.catvod.com/douyu/12534632#https://www.goodiptv.club/douyu/12534632
 【默鱼】陪你一起看剧,https://live.ottiptv.cc/douyu/11922242#https://iptv.catvod.com/douyu/11922242#https://www.goodiptv.club/douyu/
-西游记续集,https://live.ottiptv.cc/douyu/3113309#https://iptv.catvod.com/douyu/3113309#https://www.goodiptv.club/douyu/3113309
+西游记续集,https://live.ottiptv.cc/douyu/3113309#https://iptv.catvod.com/douyu/3113309#https://www.goodiptv.club/douyu/3113309#https://live.ottiptv.cc/douyu/12879724#https://iptv.catvod.com/douyu/12879724#https://www.goodiptv.club/douyu/12879724
 西游记港剧,https://live.ottiptv.cc/douyu/10198644#https://iptv.catvod.com/douyu/10198644#https://www.goodiptv.club/douyu/10198644
 射雕英雄传,https://live.ottiptv.cc/douyu/12143858#https://iptv.catvod.com/douyu/12143858#https://www.goodiptv.club/douyu/12143858
 欢乐时光经典剧场,https://live.ottiptv.cc/douyu/755851#https://iptv.catvod.com/douyu/755851#https://www.goodiptv.club/douyu/755851
