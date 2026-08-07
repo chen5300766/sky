@@ -381,8 +381,8 @@ CETV4,http://111.48.34.146/000000000000/PLTV/88888888/224/3221230466/1.m3u8
 山东教育卫视,http://111.48.34.216/000000000000/PLTV/88888888/224/3221230459/1.m3u8
 纪实科教,http://111.48.34.218/000000000000/PLTV/88888888/224/3221230696/1.m3u8
 卡酷少儿,http://111.48.34.159/000000000000/PLTV/88888888/224/3221230040/1.m3u8
-多彩文体,http://111.48.34.155/000000000000/PLTV/88888888/224/3221230646/1.m3u8
-多彩文体,http://111.48.34.154/000000000000/PLTV/88888888/224/3221230553/1.m3u8
+多彩文体4K,http://111.48.34.155/000000000000/PLTV/88888888/224/3221230646/1.m3u8
+多彩文体4K,http://111.48.34.154/000000000000/PLTV/88888888/224/3221230553/1.m3u8
 多彩文体4K,http://111.48.34.182/000000000000/PLTV/88888888/224/3221230500/1.m3u8
 金鹰纪实,http://111.48.34.229/000000000000/PLTV/88888888/224/3221229814/1.m3u8
 金鹰纪实,http://111.48.34.146/000000000000/PLTV/88888888/224/3221230420/1.m3u8
@@ -931,7 +931,7 @@ CCTV17农业,http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 重温经典,http://111.8.242.142:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://111.8.242.142:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 欢笑剧场,http://111.8.242.142:9999/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://111.8.242.142:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://111.8.242.142:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫剧场,http://111.8.242.142:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://111.8.242.142:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://111.8.242.142:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1011,7 +1011,7 @@ CCTV17农业,http://111.8.224.6:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive
 重温经典,http://111.8.224.6:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://111.8.224.6:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 欢笑剧场,http://111.8.224.6:9999/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://111.8.224.6:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://111.8.224.6:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫剧场,http://111.8.224.6:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://111.8.224.6:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://111.8.224.6:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1091,7 +1091,7 @@ CCTV17农业,http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 重温经典,http://111.8.242.127:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://111.8.242.127:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 欢笑剧场,http://111.8.242.127:9999/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://111.8.242.127:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://111.8.242.127:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫剧场,http://111.8.242.127:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://111.8.242.127:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://111.8.242.127:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2319,7 +2319,7 @@ CCTV15音乐,http://110.72.103.15:808/hls/102/index.m3u8
 广西都市,http://110.72.103.15:808/hls/204/index.m3u8
 广西新闻,http://110.72.103.15:808/hls/206/index.m3u8
 卡酷少儿,http://110.72.103.15:808/hls/138/index.m3u8
-嘉嘉卡通,http://110.72.103.15:808/hls/12/index.m3u8
+嘉佳卡通,http://110.72.103.15:808/hls/12/index.m3u8
 金鹰卡通,http://110.72.103.15:808/hls/26/index.m3u8
 
 
@@ -2384,7 +2384,7 @@ CCTV15音乐,http://110.72.103.185:808/hls/102/index.m3u8
 广西都市,http://110.72.103.185:808/hls/204/index.m3u8
 广西新闻,http://110.72.103.185:808/hls/206/index.m3u8
 卡酷少儿,http://110.72.103.185:808/hls/138/index.m3u8
-嘉嘉卡通,http://110.72.103.185:808/hls/12/index.m3u8
+嘉佳卡通,http://110.72.103.185:808/hls/12/index.m3u8
 金鹰卡通,http://110.72.103.185:808/hls/26/index.m3u8
 
 
