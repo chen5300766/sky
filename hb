@@ -3610,8 +3610,6 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 庆余年1,https://www.goodiptv.club/huya/11352960#https://live.ottiptv.cc/huya/11352960#http://cfss.cc/cdn/huya/11352960.flv
 庆余年2,https://www.goodiptv.club/huya/23740156#https://live.ottiptv.cc/huya/23740156#http://cfss.cc/cdn/huya/23740156.flv
 神探狄仁杰,https://www.goodiptv.club/huya/11342425#https://live.ottiptv.cc/huya/11342425#http://cfss.cc/cdn/huya/11342425.flv
-少年包青天1,https://www.goodiptv.club/huya/11352958#https://live.ottiptv.cc/huya/11352958#http://cfss.cc/cdn/huya/11352958.flv
-少年包青天2,https://www.goodiptv.club/huya/11342425#https://live.ottiptv.cc/huya/11342425#http://cfss.cc/cdn/huya/11342425.flv
 1986版聊斋,https://www.goodiptv.club/huya/30080165#https://live.ottiptv.cc/huya/30080165#http://cfss.cc/cdn/huya/30080165.flv
 无心法师2,https://www.goodiptv.club/huya/30080233#https://live.ottiptv.cc/huya/30080233#http://cfss.cc/cdn/huya/30080233.flv
 天涯明月刀,https://www.goodiptv.club/huya/30080162#https://live.ottiptv.cc/huya/30080162#http://cfss.cc/cdn/huya/30080162.flv
@@ -3619,6 +3617,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 楚乔传,https://www.goodiptv.club/huya/19285234#https://live.ottiptv.cc/huya/19285234#http://cfss.cc/cdn/huya/19285234.flv
 寻秦记-穿越剧,https://www.goodiptv.club/huya/30080146#https://live.ottiptv.cc/huya/30080146#http://cfss.cc/cdn/huya/30080146.flv
 怀玉公主,https://www.goodiptv.club/huya/21059549#https://live.ottiptv.cc/huya/21059549#http://cfss.cc/cdn/huya/21059549.flv
+少年包青天1,http://cfss.cc/cdn/huya/11352958.flv
+少年包青天2,http://cfss.cc/cdn/huya/11342425.flv
 刁蛮公主,http://cfss.cc/cdn/huya/29465879.flv
 西游记,http://cfss.cc/cdn/huya/26355861.flv
 西游记续集,https://www.goodiptv.club/huya/20985836#https://live.ottiptv.cc/huya/20985836#http://cfss.cc/cdn/huya/20985836.flv
