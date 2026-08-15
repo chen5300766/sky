@@ -3365,6 +3365,7 @@ eva新世纪福音战士,https://www.goodiptv.club/huya/20985862#https://live.ot
 LC黄金圣斗士,https://www.goodiptv.club/huya/880203#https://live.ottiptv.cc/huya/880203#http://cfss.cc/cdn/huya/880203.flv
 城市猎人动漫,https://www.goodiptv.club/huya/20985840#https://live.ottiptv.cc/huya/20985840#http://cfss.cc/cdn/huya/20985840.flv
 防风少年,https://www.goodiptv.club/huya/11352961#hhttps://live.ottiptv.cc/huya/11352961#http://cfss.cc/cdn/huya/11352961.flv
+最好看的搞笑篮球动漫,https://live.ottiptv.cc/douyu/9401305#https://iptv.catvod.com/douyu/9401305#https://www.goodiptv.club/douyu/9401305
 
 
 🐯虎牙影院,#genre#
@@ -4028,7 +4029,7 @@ Hi欣影厅,https://live.ottiptv.cc/douyu/11996166#https://iptv.catvod.com/douyu
 林正英【久久】下饭电视剧,https://live.ottiptv.cc/douyu/8371123#https://iptv.catvod.com/douyu/8371123#https://www.goodiptv.club/douyu/8371123
 kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://iptv.catvod.com/douyu/4579455#https://www.goodiptv.club/douyu/4579455
 肖胜350的直播间,https://live.ottiptv.cc/douyu/7338853#https://iptv.catvod.com/douyu/7338853#https://www.goodiptv.club/douyu/7338853
-LR1245直播间,https://live.ottiptv.cc/douyu/12534632#https://iptv.catvod.com/douyu/12534632#https://www.goodiptv.club/douyu/12534632
+破案专场,https://live.ottiptv.cc/douyu/12534632#https://iptv.catvod.com/douyu/12534632#https://www.goodiptv.club/douyu/12534632
 【默鱼】陪你一起看剧,https://live.ottiptv.cc/douyu/11922242#https://iptv.catvod.com/douyu/11922242#https://www.goodiptv.club/douyu/
 西游记续集,https://live.ottiptv.cc/douyu/3113309#https://iptv.catvod.com/douyu/3113309#https://www.goodiptv.club/douyu/3113309#https://live.ottiptv.cc/douyu/12879724#https://iptv.catvod.com/douyu/12879724#https://www.goodiptv.club/douyu/12879724
 西游记港剧,https://live.ottiptv.cc/douyu/10198644#https://iptv.catvod.com/douyu/10198644#https://www.goodiptv.club/douyu/10198644
