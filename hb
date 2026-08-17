@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/4.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/1.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-8-15,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-8-17,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡稳定源,#genre#
@@ -4504,6 +4504,7 @@ JJ象棋5,https://cdn-3.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyi
 太行山十六拐1,https://cdn-3.ttvb.eu.org/douyin/407937723362#https://tv1288.xyz/douyin.php?type=rid&rid=407937723362
 太行山十六拐2,https://cdn-3.ttvb.eu.org/douyin/43305810307#https://tv1288.xyz/douyin.php?type=rid&rid=43305810307
 太行山十六拐3,https://cdn-3.ttvb.eu.org/douyin/397413654071#https://tv1288.xyz/douyin.php?type=rid&rid=397413654071
+济公之降龙现世拍戏片场,https://cdn-3.ttvb.eu.org/douyin/79625982911#https://tv1288.xyz/douyin.php?type=rid&rid=79625982911
 
 
 📺恐怖悬疑影院,#genre#
