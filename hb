@@ -6,6 +6,7 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 
 
 📡稳定源,#genre#
+北京纪实科教8K,https://cdn.ttvb.eu.org/douyin/54279306650#https://tv1288.xyz/douyin.php?type=rid&rid=54279306650
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 党员教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
