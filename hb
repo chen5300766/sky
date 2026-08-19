@@ -2633,7 +2633,7 @@ CCTV15音乐,http://110.72.103.185:808/hls/102/index.m3u8
 📡广东深圳电信酒店源,#genre#
 CCTV1综合,http://183.11.239.36:808/hls/19/index.m3u8
 CCTV2财经,http://183.11.239.36:808/hls/20/index.m3u8
-CCTV3高清测试,http://183.11.239.36:808/hls/91/index.m3u8
+CCTV3综艺,http://183.11.239.36:808/hls/91/index.m3u8
 CCTV4中文国际,http://183.11.239.36:808/hls/22/index.m3u8
 CCTV5体育,http://183.11.239.36:808/hls/93/index.m3u8
 CCTV6电影,http://183.11.239.36:808/hls/94/index.m3u8
