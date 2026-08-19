@@ -1013,7 +1013,7 @@ CGTN,http://panabit.yunjifei.top:3338/tsfile/live/1080_1.m3u8
 兵器科技,http://panabit.yunjifei.top:3338/tsfile/live/1061_1.m3u8
 
 
-📡河北邯郸电信,#genre#
+📡河北邯郸电信酒店源,#genre#
 CCTV1综合,http://106.115.25.52:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://106.115.25.52:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://106.115.25.52:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1134,7 +1134,7 @@ CCTV17农业农村,http://106.115.25.47:19901/tsfile/live/1015_1.m3u8?key=txiptv
 中国交通,http://106.115.25.47:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-📡湖南怀化移动,#genre#
+📡湖南怀化移动酒店源,#genre#
 CCTV1综合,http://111.8.242.104:8088/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://111.8.242.104:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://111.8.242.104:8088/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1455,7 +1455,7 @@ CETV4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&au
 游戏风云,http://111.8.242.127:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-📡四川乐山电信,#genre#
+📡四川乐山电信酒店源,#genre#
 CCTV1综合,http://sclsdx.sohu.blog:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://sclsdx.sohu.blog:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://sclsdx.sohu.blog:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
