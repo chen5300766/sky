@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/4.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/5.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-8-20,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
+2026-8-21,https://live.ottiptv.cc/douyu/1770806#https://www.goodiptv.club/douyu/1770806
 
 
 📡稳定源,#genre#
@@ -4024,6 +4024,22 @@ NewTV武搏世界,http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?
 NewTV武搏世界,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=yu&mode=1
 NewTV炫舞未来,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=yu&mode=1
 NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=toShengfen&mode=1
+
+
+🎞️龙华影院,#genre#
+龙华戏剧,https://cdn.qd.je/163189.php?id=lhxj
+龙华日韩,https://cdn.qd.je/163189.php?id=lhrh
+龙华偶像,https://cdn.qd.je/163189.php?id=lhox
+龙华电影,https://cdn.qd.je/163189.php?id=lhdy
+龙华经典,https://cdn.qd.je/163189.php?id=lhjd
+龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
+龙华洋片.https://cdn.qd.je/163189.php?id=lhyp
+
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 
 
 👦动画世界,#genre#
