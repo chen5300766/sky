@@ -2538,7 +2538,7 @@ CCTV7,http://ximu.ecs.yue.zone:369/rtp/238.255.2.12:5999
 CCTV8,http://ximu.ecs.yue.zone:369/rtp/238.255.2.136:5999
 CCTV9,http://ximu.ecs.yue.zone:369/rtp/238.255.2.155:5999
 CCTV10,http://ximu.ecs.yue.zone:369/rtp/238.255.2.13:5999
-CCTV111,http://ximu.ecs.yue.zone:369/rtp/238.255.2.14:5999
+CCTV11,http://ximu.ecs.yue.zone:369/rtp/238.255.2.14:5999
 CCTV12,http://ximu.ecs.yue.zone:369/rtp/238.255.2.15:5999
 CCTV13,http://ximu.ecs.yue.zone:369/rtp/238.255.2.16:5999
 CCTV14,http://ximu.ecs.yue.zone:369/rtp/238.255.2.17:5999
