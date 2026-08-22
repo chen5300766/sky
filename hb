@@ -898,7 +898,7 @@ CHC影迷电影,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/li
 四川科教,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
 四川经济,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-2-H265_4000.m3u8
 四川峨眉电影,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/emdygqH265_4000.m3u8
-四川峨眉电影,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
+四川峨眉电影4K,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
 成都公共,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/CDTV-5_4000.m3u8
 成都少儿,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/CDTV-6_2000.m3u8
 成都影视文艺,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/CDTV-4_4000.m3u8
@@ -1798,8 +1798,8 @@ CHC动作电影,http://www.wjyu.top:4022/rtp/233.18.204.174:5140
 第一财经,http://www.wjyu.top:4022/rtp/233.18.204.59:5140
 五星体育,http://www.wjyu.top:4022/rtp/233.18.204.58:5140
 都市剧场,http://www.wjyu.top:4022/rtp/233.18.204.48:5140
-欢笑剧场,http://www.wjyu.top:4022/rtp/233.18.204.50:5140
-欢笑剧场,http://www.wjyu.top:4022/rtp/233.18.204.55:5140
+多彩文体4K,http://www.wjyu.top:4022/rtp/233.18.204.50:5140
+东方影视,http://www.wjyu.top:4022/rtp/233.18.204.55:5140
 财富天下,http://www.wjyu.top:4022/rtp/233.18.204.231:5140
 上海新闻综合,http://www.wjyu.top:4022/rtp/233.18.204.57:5140
 文化精品,http://www.wjyu.top:4022/rtp/233.18.204.186:5140
@@ -1921,8 +1921,8 @@ CHC动作电影,http://rongrong.me:14022/rtp/233.18.204.174:5140
 第一财经,http://rongrong.me:14022/rtp/233.18.204.59:5140
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
 都市剧场,http://rongrong.me:14022/rtp/233.18.204.48:5140
-欢笑剧场,http://rongrong.me:14022/rtp/233.18.204.50:5140
-欢笑剧场,http://rongrong.me:14022/rtp/233.18.204.55:5140
+多彩文体4K,http://rongrong.me:14022/rtp/233.18.204.50:5140
+东方影视,http://rongrong.me:14022/rtp/233.18.204.55:5140
 财富天下,http://rongrong.me:14022/rtp/233.18.204.231:5140
 上海新闻综合,http://rongrong.me:14022/rtp/233.18.204.57:5140
 文化精品,http://rongrong.me:14022/rtp/233.18.204.186:5140
@@ -2044,8 +2044,8 @@ CHC动作电影,http://home.wscxy.fun:30100/rtp/233.18.204.174:5140
 第一财经,http://home.wscxy.fun:30100/rtp/233.18.204.59:5140
 五星体育,http://home.wscxy.fun:30100/rtp/233.18.204.58:5140
 都市剧场,http://home.wscxy.fun:30100/rtp/233.18.204.48:5140
-欢笑剧场,http://home.wscxy.fun:30100/rtp/233.18.204.50:5140
-欢笑剧场,http://home.wscxy.fun:30100/rtp/233.18.204.55:5140
+多彩文体4K,http://home.wscxy.fun:30100/rtp/233.18.204.50:5140
+东方影视,http://home.wscxy.fun:30100/rtp/233.18.204.55:5140
 财富天下,http://home.wscxy.fun:30100/rtp/233.18.204.231:5140
 上海新闻综合,http://home.wscxy.fun:30100/rtp/233.18.204.57:5140
 文化精品,http://home.wscxy.fun:30100/rtp/233.18.204.186:5140
@@ -2167,8 +2167,8 @@ CHC动作电影,http://pplee.vicp.net:4022/rtp/233.18.204.174:5140
 第一财经,http://pplee.vicp.net:4022/rtp/233.18.204.59:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 都市剧场,http://pplee.vicp.net:4022/rtp/233.18.204.48:5140
-欢笑剧场,http://pplee.vicp.net:4022/rtp/233.18.204.50:5140
-欢笑剧场,http://pplee.vicp.net:4022/rtp/233.18.204.55:5140
+多彩文体4K,http://pplee.vicp.net:4022/rtp/233.18.204.50:5140
+东方影视,http://pplee.vicp.net:4022/rtp/233.18.204.55:5140
 财富天下,http://pplee.vicp.net:4022/rtp/233.18.204.231:5140
 上海新闻综合,http://pplee.vicp.net:4022/rtp/233.18.204.57:5140
 文化精品,http://pplee.vicp.net:4022/rtp/233.18.204.186:5140
@@ -2290,8 +2290,8 @@ CHC动作电影,http://aima.520006.xyz:10855/rtp/233.18.204.174:5140
 第一财经,http://aima.520006.xyz:10855/rtp/233.18.204.59:5140
 五星体育,http://aima.520006.xyz:10855/rtp/233.18.204.58:5140
 都市剧场,http://aima.520006.xyz:10855/rtp/233.18.204.48:5140
-欢笑剧场,http://aima.520006.xyz:10855/rtp/233.18.204.50:5140
-欢笑剧场,http://aima.520006.xyz:10855/rtp/233.18.204.55:5140
+多彩文体4K,http://aima.520006.xyz:10855/rtp/233.18.204.50:5140
+东方影视,http://aima.520006.xyz:10855/rtp/233.18.204.55:5140
 财富天下,http://aima.520006.xyz:10855/rtp/233.18.204.231:5140
 上海新闻综合,http://aima.520006.xyz:10855/rtp/233.18.204.57:5140
 文化精品,http://aima.520006.xyz:10855/rtp/233.18.204.186:5140
@@ -4251,6 +4251,7 @@ CCTV16奥林匹克,http://120.198.84.146:9901/tsfile/live/1087_1.m3u8
 广东大湾区卫视,http://120.198.86.186:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://120.198.86.186:9901/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://120.198.86.186:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://120.198.86.186:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4262,7 +4263,8 @@ CCTV7,http://120.198.86.186:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&a
 CCTV8,http://120.198.86.186:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://120.198.86.186:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://120.198.86.186:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-cctv11,http://120.198.86.186:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://120.198.86.186:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://120.198.86.186:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://120.198.86.186:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://120.198.86.186:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://120.198.86.186:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4321,22 +4323,17 @@ CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&pl
 DBTV-1,http://120.198.86.186:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州导视,http://120.198.86.186:9901/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实科教,http://120.198.86.186:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-中国交通,http://120.198.86.186:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉,http://120.198.86.186:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-欢笑剧场,http://120.198.86.186:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://120.198.86.186:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://120.198.86.186:9901/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 惠州综合,http://120.198.86.186:9901/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 现代教育,http://120.198.86.186:9901/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
-惠州公共,http://120.198.86.186:9901/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+龙岗,http://120.198.86.186:9901/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 求索纪录,http://120.198.86.186:9901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-汽摩,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=1&authid=0
+热播剧场,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=1&authid=0
 河源新闻综合,http://120.198.86.186:9901/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
-收视指南,http://120.198.86.186:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-魅力时尚,http://120.198.86.186:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
-热播剧场,http://120.198.86.186:9901/tsfile/live/1124_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://120.198.86.186:9901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://120.198.86.186:9901/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
-潮州公共,http://120.198.86.186:9901/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡广州深圳天威视讯,#genre#
@@ -4422,7 +4419,6 @@ CCTV15音乐,http://2g545s5578.qicp.vip:59901/tsfile/live/0015_1.m3u8?key=txiptv
 江西卫视,http://2g545s5578.qicp.vip:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://2g545s5578.qicp.vip:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://2g545s5578.qicp.vip:59901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://2g545s5578.qicp.vip:59901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
 
 
 📡河南郑州移动酒店源,#genre#
