@@ -9,7 +9,7 @@ StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/hea
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 党员教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际海南,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
@@ -128,7 +128,7 @@ CETV4,http://47.101.60.11:9400/923287339
 新动漫,http://47.101.60.11:9400/961930269
 新动力量创一流,http://47.101.60.11:9400/713589837
 中华特产,http://47.101.60.11:9400/959986618
-环球旅游,http://47.101.60.11:9400/958475356
+环球海南,http://47.101.60.11:9400/958475356
 梨园,http://47.101.60.11:9400/961930369
 
 
@@ -238,7 +238,7 @@ CETV4,http://www.ikerobot.com:1234/923287339
 新动漫,http://www.ikerobot.com:1234/961930269
 新动力量创一流,http://www.ikerobot.com:1234/713589837
 中华特产,http://www.ikerobot.com:1234/959986618
-环球旅游,http://www.ikerobot.com:1234/958475356
+环球海南,http://www.ikerobot.com:1234/958475356
 梨园,http://www.ikerobot.com:1234/961930369
 
 
@@ -348,7 +348,7 @@ CETV4,http://113.98.11.46:3000/923287339
 新动漫,http://113.98.11.46:3000/961930269
 新动力量创一流,http://113.98.11.46:3000/713589837
 中华特产,http://113.98.11.46:3000/959986618
-环球旅游,http://113.98.11.46:3000/958475356
+环球海南,http://113.98.11.46:3000/958475356
 梨园,http://113.98.11.46:3000/961930369
 
 
@@ -662,7 +662,7 @@ CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/9918000100000005000000000
 武汉电视剧,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430
 武汉都市文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
 宜昌综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000438
-宜昌旅游生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000440
+宜昌海南生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000440
 荆州垄上,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000378
 襄阳综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000450
 襄阳经济生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000451
@@ -673,7 +673,7 @@ CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/9918000100000005000000000
 咸宁综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
 咸宁生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000381
 十堰新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000400
-十堰经济旅游,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000399
+十堰经济海南,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000399
 黄石新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000497
 黄石都市,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000498
 黄冈新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000330
@@ -893,7 +893,7 @@ CHC影迷电影,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/li
 四川卫视,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/scwsH265_4000.m3u8
 四川乡村,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
 四川影视文艺,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川文化旅游,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川文化海南,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-3-H265_4000.m3u8
 四川新闻,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-4H265_4000.m3u8
 四川科教,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
 四川经济,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/SCTV-2-H265_4000.m3u8
@@ -1230,7 +1230,7 @@ CGTN,http://panabit.yunjifei.top:3338/tsfile/live/1080_1.m3u8
 国学,http://panabit.yunjifei.top:3338/tsfile/live/1094_1.m3u8
 证券服务,http://panabit.yunjifei.top:3338/tsfile/live/1003_1.m3u8
 财富天下,http://panabit.yunjifei.top:3338/tsfile/live/1013_1.m3u8
-环球旅游,http://panabit.yunjifei.top:3338/tsfile/live/1014_1.m3u8
+环球海南,http://panabit.yunjifei.top:3338/tsfile/live/1014_1.m3u8
 汽摩,http://panabit.yunjifei.top:3338/tsfile/live/1015_1.m3u8
 茶,http://panabit.yunjifei.top:3338/tsfile/live/1017_1.m3u8
 早期教育,http://panabit.yunjifei.top:3338/tsfile/live/1037_1.m3u8
@@ -1395,7 +1395,7 @@ CCTV17农业,http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 陕西卫视,http://111.8.242.142:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://111.8.242.142:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://111.8.242.142:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://111.8.242.142:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://111.8.242.142:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://111.8.242.142:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://111.8.242.142:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://111.8.242.142:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1475,7 +1475,7 @@ CCTV17农业,http://111.8.224.6:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive
 陕西卫视,http://111.8.224.6:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://111.8.224.6:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://111.8.224.6:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://111.8.224.6:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://111.8.224.6:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://111.8.224.6:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://111.8.224.6:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://111.8.224.6:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1555,7 +1555,7 @@ CCTV17农业,http://111.8.242.127:9999/tsfile/live/1025_1.m3u8?key=txiptv&playli
 陕西卫视,http://111.8.242.127:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://111.8.242.127:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://111.8.242.127:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://111.8.242.127:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://111.8.242.127:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://111.8.242.127:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://111.8.242.127:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1623,7 +1623,7 @@ SCTV-2,http://sclsdx.sohu.blog:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 SCTV-5,http://sclsdx.sohu.blog:59901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 军旅剧场,http://sclsdx.sohu.blog:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-7,http://sclsdx.sohu.blog:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-文化旅游,http://sclsdx.sohu.blog:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+文化海南,http://sclsdx.sohu.blog:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://sclsdx.sohu.blog:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://sclsdx.sohu.blog:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 华语影院,http://sclsdx.sohu.blog:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1681,7 +1681,7 @@ SCTV-2,http://222.214.208.34:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1
 SCTV-5,http://222.214.208.34:59901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 军旅剧场,http://222.214.208.34:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 SCTV-7,http://222.214.208.34:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-文化旅游,http://222.214.208.34:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+文化海南,http://222.214.208.34:59901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://222.214.208.34:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1772,7 +1772,7 @@ CHC动作电影,http://www.wjyu.top:4022/rtp/233.18.204.174:5140
 山西卫视,http://www.wjyu.top:4022/rtp/233.18.204.211:5140
 江西卫视,http://www.wjyu.top:4022/rtp/233.18.204.95:5140
 湖北卫视,http://www.wjyu.top:4022/rtp/233.18.204.92:5140
-旅游卫视,http://www.wjyu.top:4022/rtp/233.18.204.102:5140
+海南卫视,http://www.wjyu.top:4022/rtp/233.18.204.102:5140
 陕西卫视,http://www.wjyu.top:4022/rtp/233.18.204.223:5140
 东南卫视,http://www.wjyu.top:4022/rtp/233.18.204.94:5140
 吉林卫视,http://www.wjyu.top:4022/rtp/233.18.204.108:5140
@@ -1793,7 +1793,7 @@ CHC动作电影,http://www.wjyu.top:4022/rtp/233.18.204.174:5140
 卡酷少儿,http://www.wjyu.top:4022/rtp/233.18.204.109:5140
 上海都市,http://www.wjyu.top:4022/rtp/233.18.204.53:5140
 上海教育,http://www.wjyu.top:4022/rtp/233.18.204.63:5140
-第一财经,http://www.wjyu.top:4022/rtp/233.18.204.65:5140
+东方财经,http://www.wjyu.top:4022/rtp/233.18.204.65:5140
 第一财经,http://www.wjyu.top:4022/rtp/233.18.204.59:5140
 五星体育,http://www.wjyu.top:4022/rtp/233.18.204.58:5140
 都市剧场,http://www.wjyu.top:4022/rtp/233.18.204.48:5140
@@ -1895,7 +1895,7 @@ CHC动作电影,http://rongrong.me:14022/rtp/233.18.204.174:5140
 山西卫视,http://rongrong.me:14022/rtp/233.18.204.211:5140
 江西卫视,http://rongrong.me:14022/rtp/233.18.204.95:5140
 湖北卫视,http://rongrong.me:14022/rtp/233.18.204.92:5140
-旅游卫视,http://rongrong.me:14022/rtp/233.18.204.102:5140
+海南卫视,http://rongrong.me:14022/rtp/233.18.204.102:5140
 陕西卫视,http://rongrong.me:14022/rtp/233.18.204.223:5140
 东南卫视,http://rongrong.me:14022/rtp/233.18.204.94:5140
 吉林卫视,http://rongrong.me:14022/rtp/233.18.204.108:5140
@@ -1916,7 +1916,7 @@ CHC动作电影,http://rongrong.me:14022/rtp/233.18.204.174:5140
 卡酷少儿,http://rongrong.me:14022/rtp/233.18.204.109:5140
 上海都市,http://rongrong.me:14022/rtp/233.18.204.53:5140
 上海教育,http://rongrong.me:14022/rtp/233.18.204.63:5140
-第一财经,http://rongrong.me:14022/rtp/233.18.204.65:5140
+东方财经,http://rongrong.me:14022/rtp/233.18.204.65:5140
 第一财经,http://rongrong.me:14022/rtp/233.18.204.59:5140
 五星体育,http://rongrong.me:14022/rtp/233.18.204.58:5140
 都市剧场,http://rongrong.me:14022/rtp/233.18.204.48:5140
@@ -2018,7 +2018,7 @@ CHC动作电影,http://home.wscxy.fun:30100/rtp/233.18.204.174:5140
 山西卫视,http://home.wscxy.fun:30100/rtp/233.18.204.211:5140
 江西卫视,http://home.wscxy.fun:30100/rtp/233.18.204.95:5140
 湖北卫视,http://home.wscxy.fun:30100/rtp/233.18.204.92:5140
-旅游卫视,http://home.wscxy.fun:30100/rtp/233.18.204.102:5140
+海南卫视,http://home.wscxy.fun:30100/rtp/233.18.204.102:5140
 陕西卫视,http://home.wscxy.fun:30100/rtp/233.18.204.223:5140
 东南卫视,http://home.wscxy.fun:30100/rtp/233.18.204.94:5140
 吉林卫视,http://home.wscxy.fun:30100/rtp/233.18.204.108:5140
@@ -2039,7 +2039,7 @@ CHC动作电影,http://home.wscxy.fun:30100/rtp/233.18.204.174:5140
 卡酷少儿,http://home.wscxy.fun:30100/rtp/233.18.204.109:5140
 上海都市,http://home.wscxy.fun:30100/rtp/233.18.204.53:5140
 上海教育,http://home.wscxy.fun:30100/rtp/233.18.204.63:5140
-第一财经,http://home.wscxy.fun:30100/rtp/233.18.204.65:5140
+东方财经,http://home.wscxy.fun:30100/rtp/233.18.204.65:5140
 第一财经,http://home.wscxy.fun:30100/rtp/233.18.204.59:5140
 五星体育,http://home.wscxy.fun:30100/rtp/233.18.204.58:5140
 都市剧场,http://home.wscxy.fun:30100/rtp/233.18.204.48:5140
@@ -2141,7 +2141,7 @@ CHC动作电影,http://pplee.vicp.net:4022/rtp/233.18.204.174:5140
 山西卫视,http://pplee.vicp.net:4022/rtp/233.18.204.211:5140
 江西卫视,http://pplee.vicp.net:4022/rtp/233.18.204.95:5140
 湖北卫视,http://pplee.vicp.net:4022/rtp/233.18.204.92:5140
-旅游卫视,http://pplee.vicp.net:4022/rtp/233.18.204.102:5140
+海南卫视,http://pplee.vicp.net:4022/rtp/233.18.204.102:5140
 陕西卫视,http://pplee.vicp.net:4022/rtp/233.18.204.223:5140
 东南卫视,http://pplee.vicp.net:4022/rtp/233.18.204.94:5140
 吉林卫视,http://pplee.vicp.net:4022/rtp/233.18.204.108:5140
@@ -2162,7 +2162,7 @@ CHC动作电影,http://pplee.vicp.net:4022/rtp/233.18.204.174:5140
 卡酷少儿,http://pplee.vicp.net:4022/rtp/233.18.204.109:5140
 上海都市,http://pplee.vicp.net:4022/rtp/233.18.204.53:5140
 上海教育,http://pplee.vicp.net:4022/rtp/233.18.204.63:5140
-第一财经,http://pplee.vicp.net:4022/rtp/233.18.204.65:5140
+东方财经,http://pplee.vicp.net:4022/rtp/233.18.204.65:5140
 第一财经,http://pplee.vicp.net:4022/rtp/233.18.204.59:5140
 五星体育,http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 都市剧场,http://pplee.vicp.net:4022/rtp/233.18.204.48:5140
@@ -2264,7 +2264,7 @@ CHC动作电影,http://aima.520006.xyz:10855/rtp/233.18.204.174:5140
 山西卫视,http://aima.520006.xyz:10855/rtp/233.18.204.211:5140
 江西卫视,http://aima.520006.xyz:10855/rtp/233.18.204.95:5140
 湖北卫视,http://aima.520006.xyz:10855/rtp/233.18.204.92:5140
-旅游卫视,http://aima.520006.xyz:10855/rtp/233.18.204.102:5140
+海南卫视,http://aima.520006.xyz:10855/rtp/233.18.204.102:5140
 陕西卫视,http://aima.520006.xyz:10855/rtp/233.18.204.223:5140
 东南卫视,http://aima.520006.xyz:10855/rtp/233.18.204.94:5140
 吉林卫视,http://aima.520006.xyz:10855/rtp/233.18.204.108:5140
@@ -2285,7 +2285,7 @@ CHC动作电影,http://aima.520006.xyz:10855/rtp/233.18.204.174:5140
 卡酷少儿,http://aima.520006.xyz:10855/rtp/233.18.204.109:5140
 上海都市,http://aima.520006.xyz:10855/rtp/233.18.204.53:5140
 上海教育,http://aima.520006.xyz:10855/rtp/233.18.204.63:5140
-第一财经,http://aima.520006.xyz:10855/rtp/233.18.204.65:5140
+东方财经,http://aima.520006.xyz:10855/rtp/233.18.204.65:5140
 第一财经,http://aima.520006.xyz:10855/rtp/233.18.204.59:5140
 五星体育,http://aima.520006.xyz:10855/rtp/233.18.204.58:5140
 都市剧场,http://aima.520006.xyz:10855/rtp/233.18.204.48:5140
@@ -2407,7 +2407,7 @@ GTV游戏竞技,http://www.330459.xyz:8188/rtp/225.1.1.222:5002
 哈哈炫动,http://www.330459.xyz:8188/rtp/225.1.1.62:5002
 欢乐动漫,http://www.330459.xyz:8188/rtp/225.1.1.132:5002
 欢笑剧场4K,http://www.330459.xyz:8188/rtp/225.1.1.139:5002
-环球旅游,http://www.330459.xyz:8188/rtp/225.1.2.200:5002
+环球海南,http://www.330459.xyz:8188/rtp/225.1.2.200:5002
 环球奇观,http://www.330459.xyz:8188/rtp/225.1.1.197:5002
 卡酷少儿,http://www.330459.xyz:8188/rtp/225.1.1.58:5002
 快乐垂钓,http://www.330459.xyz:8188/rtp/225.1.1.92:5002
@@ -2506,7 +2506,7 @@ CHC动作电影,http://wan1.tangwudi.cc:47859/rtp/239.94.1.175:5140
 茶频道,http://wan1.tangwudi.cc:47859/rtp/239.94.1.154:5140
 金色学堂,http://wan1.tangwudi.cc:47859/rtp/239.94.1.165:5140
 金鹰纪实,http://wan1.tangwudi.cc:47859/rtp/239.94.1.1:5140
-环球旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
+环球海南,http://wan1.tangwudi.cc:47859/rtp/239.94.1.147:5140
 快乐垂钓,http://wan1.tangwudi.cc:47859/rtp/239.94.1.153:5140
 生活时尚,http://wan1.tangwudi.cc:47859/rtp/239.94.1.146:5140
 中国交通,http://wan1.tangwudi.cc:47859/rtp/239.94.0.87:5140
@@ -2551,10 +2551,10 @@ CHC动作电影,http://wan1.tangwudi.cc:47859/rtp/239.94.1.175:5140
 北京纪实科教,http://wan1.tangwudi.cc:47859/rtp/239.94.0.109:5140
 东方财经,http://wan1.tangwudi.cc:47859/rtp/239.94.1.59:5140
 都市剧场,http://wan1.tangwudi.cc:47859/rtp/239.94.1.133:5140
-四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.0.71:5140
-四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.11:5140
-四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.5:5140
-四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.6:5140
+四川文化海南,http://wan1.tangwudi.cc:47859/rtp/239.94.0.71:5140
+四川文化海南,http://wan1.tangwudi.cc:47859/rtp/239.94.1.11:5140
+四川文化海南,http://wan1.tangwudi.cc:47859/rtp/239.94.1.5:5140
+四川文化海南,http://wan1.tangwudi.cc:47859/rtp/239.94.1.6:5140
 四川经济,http://wan1.tangwudi.cc:47859/rtp/239.94.0.70:5140
 四川新闻,http://wan1.tangwudi.cc:47859/rtp/239.94.0.72:5140
 四川新闻,http://wan1.tangwudi.cc:47859/rtp/239.94.1.3:5140
@@ -2597,7 +2597,7 @@ CHC动作电影,http://wan1.tangwudi.cc:47859/rtp/239.94.1.175:5140
 雅安文化生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.180:5140
 眉山综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.170:5140
 眉山文旅乡村,http://wan1.tangwudi.cc:47859/rtp/239.94.0.174:5140
-财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.67:5140
+嘉佳卡通,http://wan1.tangwudi.cc:47859/rtp/239.94.1.67:5140
 财富天下,http://wan1.tangwudi.cc:47859/rtp/239.94.1.42:5140
 少儿动画,http://wan1.tangwudi.cc:47859/rtp/239.94.1.33:5140
 魅力时尚,http://wan1.tangwudi.cc:47859/rtp/239.94.1.39:5140
@@ -2751,7 +2751,7 @@ CHC动作电影,http://ddns.55682750.xyz:18888/rtp/239.94.1.175:5140
 茶频道,http://ddns.55682750.xyz:18888/rtp/239.94.1.154:5140
 金色学堂,http://ddns.55682750.xyz:18888/rtp/239.94.1.165:5140
 金鹰纪实,http://ddns.55682750.xyz:18888/rtp/239.94.1.1:5140
-环球旅游,http://ddns.55682750.xyz:18888/rtp/239.94.1.147:5140
+环球海南,http://ddns.55682750.xyz:18888/rtp/239.94.1.147:5140
 快乐垂钓,http://ddns.55682750.xyz:18888/rtp/239.94.1.153:5140
 生活时尚,http://ddns.55682750.xyz:18888/rtp/239.94.1.146:5140
 中国交通,http://ddns.55682750.xyz:18888/rtp/239.94.0.87:5140
@@ -2796,10 +2796,10 @@ CHC动作电影,http://ddns.55682750.xyz:18888/rtp/239.94.1.175:5140
 北京纪实科教,http://ddns.55682750.xyz:18888/rtp/239.94.0.109:5140
 东方财经,http://ddns.55682750.xyz:18888/rtp/239.94.1.59:5140
 都市剧场,http://ddns.55682750.xyz:18888/rtp/239.94.1.133:5140
-四川文化旅游,http://ddns.55682750.xyz:18888/rtp/239.94.0.71:5140
-四川文化旅游,http://ddns.55682750.xyz:18888/rtp/239.94.1.11:5140
-四川文化旅游,http://ddns.55682750.xyz:18888/rtp/239.94.1.5:5140
-四川文化旅游,http://ddns.55682750.xyz:18888/rtp/239.94.1.6:5140
+四川文化海南,http://ddns.55682750.xyz:18888/rtp/239.94.0.71:5140
+四川文化海南,http://ddns.55682750.xyz:18888/rtp/239.94.1.11:5140
+四川文化海南,http://ddns.55682750.xyz:18888/rtp/239.94.1.5:5140
+四川文化海南,http://ddns.55682750.xyz:18888/rtp/239.94.1.6:5140
 四川经济,http://ddns.55682750.xyz:18888/rtp/239.94.0.70:5140
 四川新闻,http://ddns.55682750.xyz:18888/rtp/239.94.0.72:5140
 四川新闻,http://ddns.55682750.xyz:18888/rtp/239.94.1.3:5140
@@ -2842,7 +2842,7 @@ CHC动作电影,http://ddns.55682750.xyz:18888/rtp/239.94.1.175:5140
 雅安文化生活,http://ddns.55682750.xyz:18888/rtp/239.94.0.180:5140
 眉山综合,http://ddns.55682750.xyz:18888/rtp/239.94.0.170:5140
 眉山文旅乡村,http://ddns.55682750.xyz:18888/rtp/239.94.0.174:5140
-财富天下,http://ddns.55682750.xyz:18888/rtp/239.94.1.67:5140
+嘉佳卡通,http://ddns.55682750.xyz:18888/rtp/239.94.1.67:5140
 财富天下,http://ddns.55682750.xyz:18888/rtp/239.94.1.42:5140
 少儿动画,http://ddns.55682750.xyz:18888/rtp/239.94.1.33:5140
 魅力时尚,http://ddns.55682750.xyz:18888/rtp/239.94.1.39:5140
@@ -2996,7 +2996,7 @@ CHC动作电影,http://yulang132.cn:4022/rtp/239.94.1.175:5140
 茶频道,http://yulang132.cn:4022/rtp/239.94.1.154:5140
 金色学堂,http://yulang132.cn:4022/rtp/239.94.1.165:5140
 金鹰纪实,http://yulang132.cn:4022/rtp/239.94.1.1:5140
-环球旅游,http://yulang132.cn:4022/rtp/239.94.1.147:5140
+环球海南,http://yulang132.cn:4022/rtp/239.94.1.147:5140
 快乐垂钓,http://yulang132.cn:4022/rtp/239.94.1.153:5140
 生活时尚,http://yulang132.cn:4022/rtp/239.94.1.146:5140
 中国交通,http://yulang132.cn:4022/rtp/239.94.0.87:5140
@@ -3041,10 +3041,10 @@ CHC动作电影,http://yulang132.cn:4022/rtp/239.94.1.175:5140
 北京纪实科教,http://yulang132.cn:4022/rtp/239.94.0.109:5140
 东方财经,http://yulang132.cn:4022/rtp/239.94.1.59:5140
 都市剧场,http://yulang132.cn:4022/rtp/239.94.1.133:5140
-四川文化旅游,http://yulang132.cn:4022/rtp/239.94.0.71:5140
-四川文化旅游,http://yulang132.cn:4022/rtp/239.94.1.11:5140
-四川文化旅游,http://yulang132.cn:4022/rtp/239.94.1.5:5140
-四川文化旅游,http://yulang132.cn:4022/rtp/239.94.1.6:5140
+四川文化海南,http://yulang132.cn:4022/rtp/239.94.0.71:5140
+四川文化海南,http://yulang132.cn:4022/rtp/239.94.1.11:5140
+四川文化海南,http://yulang132.cn:4022/rtp/239.94.1.5:5140
+四川文化海南,http://yulang132.cn:4022/rtp/239.94.1.6:5140
 四川经济,http://yulang132.cn:4022/rtp/239.94.0.70:5140
 四川新闻,http://yulang132.cn:4022/rtp/239.94.0.72:5140
 四川新闻,http://yulang132.cn:4022/rtp/239.94.1.3:5140
@@ -3087,7 +3087,7 @@ CHC动作电影,http://yulang132.cn:4022/rtp/239.94.1.175:5140
 雅安文化生活,http://yulang132.cn:4022/rtp/239.94.0.180:5140
 眉山综合,http://yulang132.cn:4022/rtp/239.94.0.170:5140
 眉山文旅乡村,http://yulang132.cn:4022/rtp/239.94.0.174:5140
-财富天下,http://yulang132.cn:4022/rtp/239.94.1.67:5140
+嘉佳卡通,http://yulang132.cn:4022/rtp/239.94.1.67:5140
 财富天下,http://yulang132.cn:4022/rtp/239.94.1.42:5140
 少儿动画,http://yulang132.cn:4022/rtp/239.94.1.33:5140
 魅力时尚,http://yulang132.cn:4022/rtp/239.94.1.39:5140
@@ -3241,7 +3241,7 @@ CHC动作电影,http://s.zssss.eu.org:888/rtp/239.94.1.175:5140
 茶频道,http://s.zssss.eu.org:888/rtp/239.94.1.154:5140
 金色学堂,http://s.zssss.eu.org:888/rtp/239.94.1.165:5140
 金鹰纪实,http://s.zssss.eu.org:888/rtp/239.94.1.1:5140
-环球旅游,http://s.zssss.eu.org:888/rtp/239.94.1.147:5140
+环球海南,http://s.zssss.eu.org:888/rtp/239.94.1.147:5140
 快乐垂钓,http://s.zssss.eu.org:888/rtp/239.94.1.153:5140
 生活时尚,http://s.zssss.eu.org:888/rtp/239.94.1.146:5140
 中国交通,http://s.zssss.eu.org:888/rtp/239.94.0.87:5140
@@ -3286,10 +3286,10 @@ CHC动作电影,http://s.zssss.eu.org:888/rtp/239.94.1.175:5140
 北京纪实科教,http://s.zssss.eu.org:888/rtp/239.94.0.109:5140
 东方财经,http://s.zssss.eu.org:888/rtp/239.94.1.59:5140
 都市剧场,http://s.zssss.eu.org:888/rtp/239.94.1.133:5140
-四川文化旅游,http://s.zssss.eu.org:888/rtp/239.94.0.71:5140
-四川文化旅游,http://s.zssss.eu.org:888/rtp/239.94.1.11:5140
-四川文化旅游,http://s.zssss.eu.org:888/rtp/239.94.1.5:5140
-四川文化旅游,http://s.zssss.eu.org:888/rtp/239.94.1.6:5140
+四川文化海南,http://s.zssss.eu.org:888/rtp/239.94.0.71:5140
+四川文化海南,http://s.zssss.eu.org:888/rtp/239.94.1.11:5140
+四川文化海南,http://s.zssss.eu.org:888/rtp/239.94.1.5:5140
+四川文化海南,http://s.zssss.eu.org:888/rtp/239.94.1.6:5140
 四川经济,http://s.zssss.eu.org:888/rtp/239.94.0.70:5140
 四川新闻,http://s.zssss.eu.org:888/rtp/239.94.0.72:5140
 四川新闻,http://s.zssss.eu.org:888/rtp/239.94.1.3:5140
@@ -3332,7 +3332,7 @@ CHC动作电影,http://s.zssss.eu.org:888/rtp/239.94.1.175:5140
 雅安文化生活,http://s.zssss.eu.org:888/rtp/239.94.0.180:5140
 眉山综合,http://s.zssss.eu.org:888/rtp/239.94.0.170:5140
 眉山文旅乡村,http://s.zssss.eu.org:888/rtp/239.94.0.174:5140
-财富天下,http://s.zssss.eu.org:888/rtp/239.94.1.67:5140
+嘉佳卡通,http://s.zssss.eu.org:888/rtp/239.94.1.67:5140
 财富天下,http://s.zssss.eu.org:888/rtp/239.94.1.42:5140
 少儿动画,http://s.zssss.eu.org:888/rtp/239.94.1.33:5140
 魅力时尚,http://s.zssss.eu.org:888/rtp/239.94.1.39:5140
@@ -3487,7 +3487,7 @@ CGTN法语,http://gyvnc.liy.ink:369/rtp/238.255.2.208:5999
 安徽卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.101:5999
 江西卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.94:5999
 湖北卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.102:5999
-旅游卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.58:5999
+海南卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.58:5999
 东南卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.103:5999
 吉林卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.95:5999
 辽宁卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.69:5999
@@ -3643,7 +3643,7 @@ CGTN法语,http://ximu.ecs.yue.zone:369/rtp/238.255.2.208:5999
 安徽卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.101:5999
 江西卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.94:5999
 湖北卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.102:5999
-旅游卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.58:5999
+海南卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.58:5999
 东南卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.103:5999
 吉林卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.95:5999
 辽宁卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.69:5999
@@ -3766,7 +3766,7 @@ CCTV15音乐,http://110.72.87.147:808/hls/102/index.m3u8
 江西卫视,http://110.72.87.147:808/hls/41/index.m3u8
 甘肃卫视,http://110.72.87.147:808/hls/19/index.m3u8
 山东教育,http://110.72.87.147:808/hls/36/index.m3u8
-旅游卫视,http://110.72.87.147:808/hls/1/index.m3u8
+海南卫视,http://110.72.87.147:808/hls/1/index.m3u8
 贵州卫视,http://110.72.87.147:808/hls/52/index.m3u8
 陕西卫视,http://110.72.87.147:808/hls/17/index.m3u8
 农林卫视,http://110.72.87.147:808/hls/18/index.m3u8
@@ -3831,7 +3831,7 @@ CCTV15音乐,http://110.72.103.38:808/hls/102/index.m3u8
 江西卫视,http://110.72.103.38:808/hls/41/index.m3u8
 甘肃卫视,http://110.72.103.38:808/hls/19/index.m3u8
 山东教育,http://110.72.103.38:808/hls/36/index.m3u8
-旅游卫视,http://110.72.103.38:808/hls/1/index.m3u8
+海南卫视,http://110.72.103.38:808/hls/1/index.m3u8
 贵州卫视,http://110.72.103.38:808/hls/52/index.m3u8
 陕西卫视,http://110.72.103.38:808/hls/17/index.m3u8
 农林卫视,http://110.72.103.38:808/hls/18/index.m3u8
@@ -4048,7 +4048,7 @@ G 导视HD,http://fcasad.x3322.net:9901/tsfile/live/1048_1.m3u8?key=txiptv&playl
 山西卫视,http://fcasad.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://fcasad.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://fcasad.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://fcasad.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://fcasad.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://fcasad.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://fcasad.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://fcasad.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4311,7 +4311,7 @@ CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&pl
 山西卫视,http://120.198.86.186:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://120.198.86.186:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://120.198.86.186:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://120.198.86.186:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://120.198.86.186:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
