@@ -5363,6 +5363,7 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 梦回大唐,https://www.goodiptv.club/huya/20432237#https://live.ottiptv.cc/huya/20432237#http://cfss.cc/cdn/huya/20432237.flv
 舞乐传奇,https://www.goodiptv.club/huya/27564478#https://live.ottiptv.cc/huya/27564478#http://cfss.cc/cdn/huya/27564478.flv
 妈祖,https://www.goodiptv.club/huya/29982633#https://live.ottiptv.cc/huya/29982633#http://cfss.cc/cdn/huya/29982633.flv
+名捕震关东,https://www.goodiptv.club/huya/30080141#https://live.ottiptv.cc/huya/30080141#http://cfss.cc/cdn/huya/30080141.flv
 聊斋新编,https://www.goodiptv.club/huya/20969121#https://live.ottiptv.cc/huya/20969121#http://cfss.cc/cdn/huya/20969121.flv
 白蛇传,https://www.goodiptv.club/huya/21241798#https://live.ottiptv.cc/huya/21241798#http://cfss.cc/cdn/huya/21241798.flv
 斗罗大陆,https://www.goodiptv.club/huya/26355816#https://live.ottiptv.cc/huya/26355816#http://cfss.cc/cdn/huya/26355816.flv
@@ -5435,6 +5436,8 @@ SMG梦想成真的直播间,https://www.goodiptv.club/huya/11602047#https://live
 风声,https://www.goodiptv.club/huya/21059605#https://live.ottiptv.cc/huya/21059605#http://cfss.cc/cdn/huya/21059605.flv
 快乐星球,https://www.goodiptv.club/huya/21059600#https://live.ottiptv.cc/huya/21059600#http://cfss.cc/cdn/huya/21059600.flv
 下一站幸福,https://www.goodiptv.club/huya/30080196#https://live.ottiptv.cc/huya/30080196#http://cfss.cc/cdn/huya/30080196.flv
+爱的理想生活,https://www.goodiptv.club/huya/26355844#https://live.ottiptv.cc/huya/26355844#http://cfss.cc/cdn/huya/26355844.flv
+
 微微一笑很倾城,https://www.goodiptv.club/huya/26355857#https://live.ottiptv.cc/huya/26355857#http://cfss.cc/cdn/huya/26355857.flv
 长大的我们,https://www.goodiptv.club/huya/30080176#https://live.ottiptv.cc/huya/30080176#http://cfss.cc/cdn/huya/30080176.flv
 粉红女郎,https://www.goodiptv.club/huya/26355794#https://live.ottiptv.cc/huya/26355794#http://cfss.cc/cdn/huya/26355794.flv
@@ -5637,7 +5640,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 烟雨抚风直播间,https://live.ottiptv.cc/douyu/11649079#https://iptv.catvod.com/douyu/11649079#https://www.goodiptv.club/douyu/11649079
 【60帧原画】真的打不服,https://live.ottiptv.cc/douyu/323876#https://iptv.catvod.com/douyu/323876#https://www.goodiptv.club/douyu/323876
 小毅剧场--家有儿女1-4,https://live.ottiptv.cc/douyu/11851549#https://iptv.catvod.com/douyu/11851549#https://www.goodiptv.club/douyu/11851549
-小毅剧场--杨光的快乐生活,https://live.ottiptv.cc/douyu/12851401#https://iptv.catvod.com/douyu/12851401#https://www.goodiptv.club/douyu/12851401
+小毅剧场--快乐星球,https://live.ottiptv.cc/douyu/12851401#https://iptv.catvod.com/douyu/12851401#https://www.goodiptv.club/douyu/12851401
 小毅剧场--快乐星球,https://live.ottiptv.cc/douyu/12851831#https://iptv.catvod.com/douyu/12851831#https://www.goodiptv.club/douyu/12851831
 【奇光】终极系列,https://live.ottiptv.cc/douyu/11849873#https://iptv.catvod.com/douyu/11849873#https://www.goodiptv.club/douyu/11849873
 【奇光】爱情公寓系列,https://live.ottiptv.cc/douyu/12817608#https://iptv.catvod.com/douyu/12817608#https://www.goodiptv.club/douyu/12817608
@@ -5675,7 +5678,7 @@ SMG爆笑舞台,https://www.goodiptv.club/huya/11352937#https://live.ottiptv.cc/
 喜剧电影专场2,https://live.ottiptv.cc/douyu/9824094#https://iptv.catvod.com/douyu/9824094#https://www.goodiptv.club/douyu/9824094
 【蓝翔】60帧原画电影 华语喜剧,https://live.ottiptv.cc/douyu/276200#https://iptv.catvod.com/douyu/276200#https://www.goodiptv.club/douyu/276200
 dx雾黎直播间,https://live.ottiptv.cc/douyu/10935839#https://iptv.catvod.com/douyu/10935839#https://www.goodiptv.club/douyu/10935839
-漫威主线剧情最佳电影,https://live.ottiptv.cc/douyu/11673725#https://iptv.catvod.com/douyu/11673725#https://www.goodiptv.club/douyu/11673725
+童年回忆下饭神剧,https://live.ottiptv.cc/douyu/11673725#https://iptv.catvod.com/douyu/11673725#https://www.goodiptv.club/douyu/11673725
 伊太刀刀的直播间,https://live.ottiptv.cc/douyu/747764#https://iptv.catvod.com/douyu/747764#https://www.goodiptv.club/douyu/747764
 译制国语影片,https://live.ottiptv.cc/douyu/2436390#https://iptv.catvod.com/douyu/2436390#https://www.goodiptv.club/douyu/2436390
 小毅影院,https://live.ottiptv.cc/douyu/6906628#https://iptv.catvod.com/douyu/6906628#https://www.goodiptv.club/douyu/6906628
@@ -5724,6 +5727,7 @@ kk6506直播间,https://live.ottiptv.cc/douyu/4579455#https://iptv.catvod.com/do
 鹿鼎记-陈小春,https://live.ottiptv.cc/douyu/12128227#https://iptv.catvod.com/douyu/12128227#https://www.goodiptv.club/douyu/12128227
 水浒传,https://live.ottiptv.cc/douyu/6785471#https://iptv.catvod.com/douyu/6785471#https://www.goodiptv.club/douyu/6785471
 新三国,https://live.ottiptv.cc/douyu/428402#https://iptv.catvod.com/douyu/428402#https://live.ottiptv.cc/douyu/12253936#https://www.goodiptv.club/douyu/12253936#https://iptv.catvod.com/douyu/12253936#https://live.ottiptv.cc/douyu/12337487#https://www.goodiptv.club/douyu/12337487#https://iptv.catvod.com/douyu/12337487#https://live.ottiptv.cc/douyu/12180551#https://www.goodiptv.club/douyu/12180551#https://iptv.catvod.com/douyu/12180551#https://live.ottiptv.cc/douyu/10906963#https://www.goodiptv.club/douyu/10906963#https://iptv.catvod.com/douyu/10906963
+三国演义94版,https://live.ottiptv.cc/douyu/12886210#https://iptv.catvod.com/douyu/12886210#https://www.goodiptv.club/douyu/12886210
 三国演义94版,https://live.ottiptv.cc/douyu/12463728#https://iptv.catvod.com/douyu/12463728#https://www.goodiptv.club/douyu/12463728
 神话,https://live.ottiptv.cc/douyu/5448413#https://iptv.catvod.com/douyu/5448413#https://www.goodiptv.club/douyu/5448413
 康熙微服私访记,https://live.ottiptv.cc/douyu/1006179#https://iptv.catvod.com/douyu/1006179#https://www.goodiptv.club/douyu/1006179
