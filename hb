@@ -3733,14 +3733,14 @@ CCTV6,http://www.zyxrmt.cn:8009/hls/6/index.m3u8
 CCTV7,http://www.zyxrmt.cn:8009/hls/7/index.m3u8
 CCTV8,http://www.zyxrmt.cn:8009/hls/8/index.m3u8
 CCTV9,http://www.zyxrmt.cn:8009/hls/9/index.m3u8
-CTV-10,http://www.zyxrmt.cn:8009/hls/10/index.m3u8
+CCTV10,http://www.zyxrmt.cn:8009/hls/10/index.m3u8
 CCTV11,http://www.zyxrmt.cn:8009/hls/11/index.m3u8
 CCTV12,http://www.zyxrmt.cn:8009/hls/12/index.m3u8
 CCTV13,http://www.zyxrmt.cn:8009/hls/13/index.m3u8
 CCTV14,http://www.zyxrmt.cn:8009/hls/14/index.m3u8
 CCTV15,http://www.zyxrmt.cn:8009/hls/15/index.m3u8
 CCTV17,http://www.zyxrmt.cn:8009/hls/17/index.m3u8
-中国教育,http://www.zyxrmt.cn:8009/hls/16/index.m3u8
+CETV1,http://www.zyxrmt.cn:8009/hls/16/index.m3u8
 山西卫视,http://www.zyxrmt.cn:8009/hls/19/index.m3u8
 山西卫视,http://www.zyxrmt.cn:8009/hls/19/index.m3u8
 山西经济与科技,http://www.zyxrmt.cn:8009/hls/20/index.m3u8
