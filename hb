@@ -1711,7 +1711,6 @@ BesTV4K动画,http://www.wjyu.top:4022/rtp/233.18.204.171:5140
 BesTV4K电影,http://www.wjyu.top:4022/rtp/233.18.204.169:5140
 BesTV4K记录,http://www.wjyu.top:4022/rtp/233.18.204.170:5140
 天翼高清4K,http://www.wjyu.top:4022/rtp/233.18.204.201:5140
-CCTV1,http://www.wjyu.top:4022/rtp/233.18.204.168:5140
 CCTV1,http://www.wjyu.top:4022/rtp/233.18.204.52:5140
 CCTV2,http://www.wjyu.top:4022/rtp/233.18.204.68:5140
 CCTV3,http://www.wjyu.top:4022/rtp/233.18.204.69:5140
@@ -1813,6 +1812,7 @@ CHC动作电影,http://www.wjyu.top:4022/rtp/233.18.204.174:5140
 百事通8,http://www.wjyu.top:4022/rtp/233.18.204.165:5140
 百事通9,http://www.wjyu.top:4022/rtp/233.18.204.166:5140
 百事通10,http://www.wjyu.top:4022/rtp/233.18.204.167:5140
+百事通11,http://www.wjyu.top:4022/rtp/233.18.204.168:5140
 
 
 CCTV4K,http://rongrong.me:14022/rtp/233.18.204.188:5140
@@ -1834,7 +1834,6 @@ BesTV4K动画,http://rongrong.me:14022/rtp/233.18.204.171:5140
 BesTV4K电影,http://rongrong.me:14022/rtp/233.18.204.169:5140
 BesTV4K记录,http://rongrong.me:14022/rtp/233.18.204.170:5140
 天翼高清4K,http://rongrong.me:14022/rtp/233.18.204.201:5140
-CCTV1,http://rongrong.me:14022/rtp/233.18.204.168:5140
 CCTV1,http://rongrong.me:14022/rtp/233.18.204.52:5140
 CCTV2,http://rongrong.me:14022/rtp/233.18.204.68:5140
 CCTV3,http://rongrong.me:14022/rtp/233.18.204.69:5140
@@ -1936,6 +1935,7 @@ CHC动作电影,http://rongrong.me:14022/rtp/233.18.204.174:5140
 百事通8,http://rongrong.me:14022/rtp/233.18.204.165:5140
 百事通9,http://rongrong.me:14022/rtp/233.18.204.166:5140
 百事通10,http://rongrong.me:14022/rtp/233.18.204.167:5140
+百事通11,http://rongrong.me:14022/rtp/233.18.204.168:5140
 
 
 CCTV4K,http://home.wscxy.fun:30100/rtp/233.18.204.188:5140
@@ -1957,7 +1957,6 @@ BesTV4K动画,http://home.wscxy.fun:30100/rtp/233.18.204.171:5140
 BesTV4K电影,http://home.wscxy.fun:30100/rtp/233.18.204.169:5140
 BesTV4K记录,http://home.wscxy.fun:30100/rtp/233.18.204.170:5140
 天翼高清4K,http://home.wscxy.fun:30100/rtp/233.18.204.201:5140
-CCTV1,http://home.wscxy.fun:30100/rtp/233.18.204.168:5140
 CCTV1,http://home.wscxy.fun:30100/rtp/233.18.204.52:5140
 CCTV2,http://home.wscxy.fun:30100/rtp/233.18.204.68:5140
 CCTV3,http://home.wscxy.fun:30100/rtp/233.18.204.69:5140
@@ -2059,6 +2058,7 @@ CHC动作电影,http://home.wscxy.fun:30100/rtp/233.18.204.174:5140
 百事通8,http://home.wscxy.fun:30100/rtp/233.18.204.165:5140
 百事通9,http://home.wscxy.fun:30100/rtp/233.18.204.166:5140
 百事通10,http://home.wscxy.fun:30100/rtp/233.18.204.167:5140
+百事通11,http://home.wscxy.fun:30100/rtp/233.18.204.168:5140
 
 
 CCTV4K,http://pplee.vicp.net:4022/rtp/233.18.204.188:5140
@@ -2080,7 +2080,6 @@ BesTV4K动画,http://pplee.vicp.net:4022/rtp/233.18.204.171:5140
 BesTV4K电影,http://pplee.vicp.net:4022/rtp/233.18.204.169:5140
 BesTV4K记录,http://pplee.vicp.net:4022/rtp/233.18.204.170:5140
 天翼高清4K,http://pplee.vicp.net:4022/rtp/233.18.204.201:5140
-CCTV1,http://pplee.vicp.net:4022/rtp/233.18.204.168:5140
 CCTV1,http://pplee.vicp.net:4022/rtp/233.18.204.52:5140
 CCTV2,http://pplee.vicp.net:4022/rtp/233.18.204.68:5140
 CCTV3,http://pplee.vicp.net:4022/rtp/233.18.204.69:5140
@@ -2182,6 +2181,7 @@ CHC动作电影,http://pplee.vicp.net:4022/rtp/233.18.204.174:5140
 百事通8,http://pplee.vicp.net:4022/rtp/233.18.204.165:5140
 百事通9,http://pplee.vicp.net:4022/rtp/233.18.204.166:5140
 百事通10,http://pplee.vicp.net:4022/rtp/233.18.204.167:5140
+百事通11,http://pplee.vicp.net:4022/rtp/233.18.204.168:5140
 
 
 CCTV4K,http://aima.520006.xyz:10855/rtp/233.18.204.188:5140
@@ -2203,7 +2203,6 @@ BesTV4K动画,http://aima.520006.xyz:10855/rtp/233.18.204.171:5140
 BesTV4K电影,http://aima.520006.xyz:10855/rtp/233.18.204.169:5140
 BesTV4K记录,http://aima.520006.xyz:10855/rtp/233.18.204.170:5140
 天翼高清4K,http://aima.520006.xyz:10855/rtp/233.18.204.201:5140
-CCTV1,http://aima.520006.xyz:10855/rtp/233.18.204.168:5140
 CCTV1,http://aima.520006.xyz:10855/rtp/233.18.204.52:5140
 CCTV2,http://aima.520006.xyz:10855/rtp/233.18.204.68:5140
 CCTV3,http://aima.520006.xyz:10855/rtp/233.18.204.69:5140
@@ -2305,6 +2304,7 @@ CHC动作电影,http://aima.520006.xyz:10855/rtp/233.18.204.174:5140
 百事通8,http://aima.520006.xyz:10855/rtp/233.18.204.165:5140
 百事通9,http://aima.520006.xyz:10855/rtp/233.18.204.166:5140
 百事通10,http://aima.520006.xyz:10855/rtp/233.18.204.167:5140
+百事通11,http://aima.520006.xyz:10855/rtp/233.18.204.168:5140
 
 
 📡天津联通组播源,#genre#
