@@ -4051,8 +4051,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
 深圳健康频道,http://183.11.239.36:808/hls/158/index.m3u8
 国学频道,http://183.11.239.36:808/hls/23/index.m3u8
-中学生,http://183.11.239.36:808/hls/24/index.m3u8
-老故事,http://183.11.239.36:808/hls/26/index.m3u8
+中央新影-中学生,http://183.11.239.36:808/hls/24/index.m3u8
+中央新影-老故事,http://183.11.239.36:808/hls/26/index.m3u8
 书画,http://183.11.239.36:808/hls/33/index.m3u8
 靓妆,http://183.11.239.36:808/hls/12/index.m3u8
 汽摩,http://183.11.239.36:808/hls/66/index.m3u8
@@ -4120,7 +4120,7 @@ CETV1,http://zhbss.eatuo.com:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&a
 CETV2,http://zhbss.eatuo.com:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV4,http://zhbss.eatuo.com:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://zhbss.eatuo.com:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-中学生,http://zhbss.eatuo.com:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+中央新影-中学生,http://zhbss.eatuo.com:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 人文地理,http://zhbss.eatuo.com:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -4484,7 +4484,7 @@ CCTV16奥林匹克,http://120.198.84.146:9901/tsfile/live/1087_1.m3u8
 吉林卫视,http://120.198.84.146:9901/tsfile/live/1096_1.m3u8
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
 世界地理,http://120.198.84.146:9901/tsfile/live/1099_1.m3u8
-中学生,http://120.198.84.146:9901/tsfile/live/1100_1.m3u8
+中央新影-中学生,http://120.198.84.146:9901/tsfile/live/1100_1.m3u8
 山东教育,http://120.198.84.146:9901/tsfile/live/1095_1.m3u8
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
 
