@@ -701,7 +701,7 @@ CETV4,http://111.48.34.146/000000000000/PLTV/88888888/224/3221230466/1.m3u8
 延边卫视,http://111.48.34.153/000000000000/PLTV/88888888/224/3221230557/1.m3u8
 三沙卫视,http://111.48.34.229/000000000000/PLTV/88888888/224/3221230410/1.m3u8
 康巴卫视,http://111.48.34.154/000000000000/PLTV/88888888/224/3221230555/1.m3u8
-山东教育卫视卫视,http://111.48.34.216/000000000000/PLTV/88888888/224/3221230459/1.m3u8
+山东教育卫视,http://111.48.34.216/000000000000/PLTV/88888888/224/3221230459/1.m3u8
 纪实科教,http://111.48.34.218/000000000000/PLTV/88888888/224/3221230696/1.m3u8
 卡酷少儿,http://111.48.34.159/000000000000/PLTV/88888888/224/3221230040/1.m3u8
 多彩文体4K,http://111.48.34.155/000000000000/PLTV/88888888/224/3221230646/1.m3u8
@@ -1746,7 +1746,7 @@ CGTN法语,http://mingjd.cn:7077/rtp/239.3.1.218:4220
 金鹰卡通,http://mingjd.cn:7077/rtp/239.3.1.51:9252
 嘉佳卡通,http://mingjd.cn:7077/rtp/239.3.1.147:9268
 卡酷少儿,http://mingjd.cn:7077/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://mingjd.cn:7077/rtp/239.3.1.52:4120
+山东教育卫视,http://mingjd.cn:7077/rtp/239.3.1.52:4120
 北京新闻,http://mingjd.cn:7077/rtp/239.3.1.159:8000
 北京生活,http://mingjd.cn:7077/rtp/239.3.1.117:8000
 北京影视,http://mingjd.cn:7077/rtp/239.3.1.158:8000
@@ -1886,7 +1886,7 @@ CGTN法语,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.218:4220
 金鹰卡通,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.51:9252
 嘉佳卡通,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.147:9268
 卡酷少儿,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.52:4120
+山东教育卫视,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.52:4120
 北京新闻,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.159:8000
 北京生活,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.117:8000
 北京影视,http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.158:8000
@@ -2026,7 +2026,7 @@ CGTN法语,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.218:4220
 金鹰卡通,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.51:9252
 嘉佳卡通,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.147:9268
 卡酷少儿,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.52:4120
+山东教育卫视,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.52:4120
 北京新闻,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.159:8000
 北京生活,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.117:8000
 北京影视,http://shunyi-home.wangbin.us:4022/rtp/239.3.1.158:8000
@@ -2166,7 +2166,7 @@ CGTN法语,http://ccj.gohome.link:55556/rtp/239.3.1.218:4220
 金鹰卡通,http://ccj.gohome.link:55556/rtp/239.3.1.51:9252
 嘉佳卡通,http://ccj.gohome.link:55556/rtp/239.3.1.147:9268
 卡酷少儿,http://ccj.gohome.link:55556/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://ccj.gohome.link:55556/rtp/239.3.1.52:4120
+山东教育卫视,http://ccj.gohome.link:55556/rtp/239.3.1.52:4120
 北京新闻,http://ccj.gohome.link:55556/rtp/239.3.1.159:8000
 北京生活,http://ccj.gohome.link:55556/rtp/239.3.1.117:8000
 北京影视,http://ccj.gohome.link:55556/rtp/239.3.1.158:8000
@@ -2306,7 +2306,7 @@ CGTN法语,http://miwifi.dbus.io:8622/rtp/239.3.1.218:4220
 金鹰卡通,http://miwifi.dbus.io:8622/rtp/239.3.1.51:9252
 嘉佳卡通,http://miwifi.dbus.io:8622/rtp/239.3.1.147:9268
 卡酷少儿,http://miwifi.dbus.io:8622/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://miwifi.dbus.io:8622/rtp/239.3.1.52:4120
+山东教育卫视,http://miwifi.dbus.io:8622/rtp/239.3.1.52:4120
 北京新闻,http://miwifi.dbus.io:8622/rtp/239.3.1.159:8000
 北京生活,http://miwifi.dbus.io:8622/rtp/239.3.1.117:8000
 北京影视,http://miwifi.dbus.io:8622/rtp/239.3.1.158:8000
@@ -2446,7 +2446,7 @@ CGTN法语,http://renpcboy.3322.org:8012/rtp/239.3.1.218:4220
 金鹰卡通,http://renpcboy.3322.org:8012/rtp/239.3.1.51:9252
 嘉佳卡通,http://renpcboy.3322.org:8012/rtp/239.3.1.147:9268
 卡酷少儿,http://renpcboy.3322.org:8012/rtp/239.3.1.189:8000
-山东教育卫视卫视,http://renpcboy.3322.org:8012/rtp/239.3.1.52:4120
+山东教育卫视,http://renpcboy.3322.org:8012/rtp/239.3.1.52:4120
 北京新闻,http://renpcboy.3322.org:8012/rtp/239.3.1.159:8000
 北京生活,http://renpcboy.3322.org:8012/rtp/239.3.1.117:8000
 北京影视,http://renpcboy.3322.org:8012/rtp/239.3.1.158:8000
@@ -4550,7 +4550,7 @@ CGTN法语,http://gyvnc.liy.ink:369/rtp/238.255.2.208:5999
 金鹰卡通,http://gyvnc.liy.ink:369/rtp/238.255.2.55:5999
 卡酷少儿,http://gyvnc.liy.ink:369/rtp/238.255.2.106:5999
 卡酷少儿,http://gyvnc.liy.ink:369/rtp/238.255.2.80:5999
-山东教育卫视卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.79:5999
+山东教育卫视,http://gyvnc.liy.ink:369/rtp/238.255.2.79:5999
 北京纪实科教,http://gyvnc.liy.ink:369/rtp/238.255.2.107:5999
 六盘水综合,http://gyvnc.liy.ink:369/rtp/238.255.2.115:5999
 多彩贵州,http://gyvnc.liy.ink:369/rtp/238.255.2.206:5999
@@ -4706,7 +4706,7 @@ CGTN法语,http://ximu.ecs.yue.zone:369/rtp/238.255.2.208:5999
 金鹰卡通,http://ximu.ecs.yue.zone:369/rtp/238.255.2.55:5999
 卡酷少儿,http://ximu.ecs.yue.zone:369/rtp/238.255.2.106:5999
 卡酷少儿,http://ximu.ecs.yue.zone:369/rtp/238.255.2.80:5999
-山东教育卫视卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.79:5999
+山东教育卫视,http://ximu.ecs.yue.zone:369/rtp/238.255.2.79:5999
 北京纪实科教,http://ximu.ecs.yue.zone:369/rtp/238.255.2.107:5999
 六盘水综合,http://ximu.ecs.yue.zone:369/rtp/238.255.2.115:5999
 多彩贵州,http://ximu.ecs.yue.zone:369/rtp/238.255.2.206:5999
