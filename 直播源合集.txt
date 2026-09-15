@@ -1,0 +1,56 @@
+{
+  "spider": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;69cc0b9cbdf2c80e7f3162925666ceb1",
+  "sites": [
+    {
+      "key": "斗鱼js",
+      "name": "斗鱼┃直播",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/62cbaa74-b67b-4097-b8d3-a2d169f48a0e.jpg;md5;cc4f45deda39564e41b80ba7b921718b"
+    },
+    {
+      "key": "虎牙js",
+      "name": "虎牙┃直播",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/62cbaa74-b67b-4097-b8d3-a2d169f48a0e.jpg;md5;cc4f45deda39564e41b80ba7b921718b"
+    },
+    {
+      "key": "哔哩js",
+      "name": "哔哩┃直播",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/62cbaa74-b67b-4097-b8d3-a2d169f48a0e.jpg;md5;cc4f45deda39564e41b80ba7b921718b"
+    }
+  ]
+}
