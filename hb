@@ -7687,6 +7687,7 @@ JJ象棋5,https://cdn.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyin.
 黑神话悟空游戏1,https://cdn.ttvb.eu.org/douyin/131600101322#https://tv1288.xyz/douyin.php?type=rid&rid=131600101322
 黑神话悟空游戏2,https://cdn.ttvb.eu.org/douyin/657110444077#https://tv1288.xyz/douyin.php?type=rid&rid=657110444077
 黑神话悟空游戏3,https://cdn.ttvb.eu.org/douyin/874321459385#https://tv1288.xyz/douyin.php?type=rid&rid=874321459385
+拳皇SWC国际赛,https://cdn.ttvb.eu.org/douyin/695997791936#https://tv1288.xyz/douyin.php?type=rid&rid=695997791936
 英雄联盟,https://cdn.ttvb.eu.org/douyin/858402080872#https://tv1288.xyz/douyin.php?type=rid&rid=858402080872
 英雄联盟官方赛事,https://cdn.ttvb.eu.org/douyin/913226472246#https://tv1288.xyz/douyin.php?type=rid&rid=913226472246
 逻辑与谎言狼人杀,https://cdn.ttvb.eu.org/douyin/581239137637#https://tv1288.xyz/douyin.php?type=rid&rid=581239137637
