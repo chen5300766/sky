@@ -6310,6 +6310,8 @@ LC黄金圣斗士,https://live.metshop.top/huya/880203#https://live.ottiptv.cc/h
 
 
 🐯虎牙影院,#genre#
+西红柿王子的直播间,https://live.metshop.top/huya/20985794#https://live.ottiptv.cc/huya/20985794#http://cfss.cc/cdn/huya/20985794.flv
+男神歌者的直播间,https://live.metshop.top/huya/21241782#https://live.ottiptv.cc/huya/21241782#http://cfss.cc/cdn/huya/21241782.flv
 悠悠爱电影的直播间,https://live.metshop.top/huya/30611864#https://live.ottiptv.cc/huya/30611864#http://cfss.cc/cdn/huya/30611864.flv
 YOUNG的直播间,https://live.metshop.top/huya/20985766#https://live.ottiptv.cc/huya/20985766#http://cfss.cc/cdn/huya/20985766.flv
 娥姐来了的直播间,https://live.metshop.top/huya/23734234#https://live.ottiptv.cc/huya/23734234#http://cfss.cc/cdn/huya/23734234.flv
@@ -6773,11 +6775,14 @@ SMG梦想成真的直播间,https://live.metshop.top/huya/11602047#https://live.
 鹿鼎记-黄晓明,https://live.metshop.top/huya/11342388#https://live.ottiptv.cc/huya/11342388#http://cfss.cc/cdn/huya/11342388.flv
 鹿鼎记-陈小春,https://live.metshop.top/huya/23650774#https://live.ottiptv.cc/huya/23650774#http://cfss.cc/cdn/huya/23650774.flv
 鹿鼎记-梁朝伟,https://live.metshop.top/huya/21059597#https://live.ottiptv.cc/huya/21059597#http://cfss.cc/cdn/huya/21059597.flv
+神雕侠侣--古天乐,https://live.metshop.top/huya/24609809#https://live.ottiptv.cc/huya/24609809#http://cfss.cc/cdn/huya/24609809.flv
 射雕英雄传-张智霖,https://live.metshop.top/huya/20969099#https://live.ottiptv.cc/huya/20969099#http://cfss.cc/cdn/huya/20969099.flv
 神雕侠侣-陈妍希,https://live.metshop.top/huya/11352964#https://live.ottiptv.cc/huya/11352964#http://cfss.cc/cdn/huya/11352964.flv
 神雕侠侣-刘德华,https://live.metshop.top/huya/30080191#https://live.ottiptv.cc/huya/30080191#http://cfss.cc/cdn/huya/30080191.flv
 雪山飞狐-黄日华,https://live.metshop.top/huya/23734176#https://live.ottiptv.cc/huya/23734176#http://cfss.cc/cdn/huya/23734176.flv
+天龙八部--黄日华,https://live.metshop.top/huya/20985776#https://live.ottiptv.cc/huya/20985776#http://cfss.cc/cdn/huya/20985776.flv
 03版天龙八部,https://live.metshop.top/huya/20985816#https://live.ottiptv.cc/huya/20985816#http://cfss.cc/cdn/huya/20985816.flv
+00版-碧血剑,https://live.metshop.top/huya/11602037#https://live.ottiptv.cc/huya/11602037#http://cfss.cc/cdn/huya/11602037.flv
 89版侠客行,https://live.metshop.top/huya/29982656#https://live.ottiptv.cc/huya/29982656#http://cfss.cc/cdn/huya/29982656.flv
 95版武则天,https://live.metshop.top/huya/20969136#https://live.ottiptv.cc/huya/20969136#http://cfss.cc/cdn/huya/20969136.flv
 大染坊,https://live.metshop.top/huya/11602086#https://live.ottiptv.cc/huya/11602086#http://cfss.cc/cdn/huya/11602086.flv
@@ -6845,7 +6850,6 @@ SMG爆笑舞台,https://live.metshop.top/huya/11352937#https://live.ottiptv.cc/h
 狼人杀游戏1,https://live.metshop.top/huya/28092035#https://live.ottiptv.cc/huya/28092035#http://cfss.cc/cdn/huya/28092035.flv
 狼人杀游戏2,https://live.metshop.top/huya/30360763#https://live.ottiptv.cc/huya/30360763#http://cfss.cc/cdn/huya/30360763.flv
 狼人杀游戏3,https://live.metshop.top/huya/24231328#https://live.ottiptv.cc/huya/24231328#http://cfss.cc/cdn/huya/24231328.flv
-明星大侦探,https://live.metshop.top/huya/20969140#https://live.ottiptv.cc/huya/20969140#http://cfss.cc/cdn/huya/20969140.flv
 百家讲坛之易中天品三国,https://live.metshop.top/huya/11602032#https://live.ottiptv.cc/huya/11602032#http://cfss.cc/cdn/huya/11602032.flv
 奔跑吧，兄弟,https://live.metshop.top/huya/29465870#https://live.ottiptv.cc/huya/29465870#http://cfss.cc/cdn/huya/29465870.flv
 三国杀游戏1,https://live.metshop.top/huya/721954#https://live.ottiptv.cc/huya/721954#http://cfss.cc/cdn/huya/721954.flv
@@ -7520,6 +7524,8 @@ JJ象棋5,https://cdn.ttvb.eu.org/douyin/116886541659#https://tv1288.xyz/douyin.
 鬼片喜剧/动作港剧,https://live.ottiptv.cc/yy/1355269576#https://live.metshop.top/yy/1355269576
 玄幻道墓,https://live.ottiptv.cc/yy/1459714870#http://cfss.cc/cdn/yy/1459714870.flv
 夜场恐怖片,https://live.metshop.top/huya/30522289#https://live.ottiptv.cc/huya/30522289#http://cfss.cc/cdn/huya/30522289.flv
+丧尸剧,https://live.metshop.top/huya/20969140#https://live.ottiptv.cc/huya/20969140#http://cfss.cc/cdn/huya/20969140.flv
+噬王村,https://live.metshop.top/huya/20985771#https://live.ottiptv.cc/huya/20985771#http://cfss.cc/cdn/huya/20985771.flv
 
 
 ❤️西游记86版,#genre#
