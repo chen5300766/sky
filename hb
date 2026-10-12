@@ -6334,6 +6334,7 @@ lorre的直播间,https://live.metshop.top/huya/20985803#https://live.ottiptv.cc
 最篮球的直播间,https://live.metshop.top/huya/29982651#https://live.ottiptv.cc/huya/29982651#http://cfss.cc/cdn/huya/29982651.flv
 超能狗仔队的直播间,https://live.metshop.top/huya/30080173#https://live.ottiptv.cc/huya/30080173#http://cfss.cc/cdn/huya/30080173.flv
 飞鸟鸣春小满日的直播间,https://live.metshop.top/huya/29982646#https://live.ottiptv.cc/huya/29982646#http://cfss.cc/cdn/huya/29982646.flv
+Slslsl的直播间,https://live.metshop.top/huya/15482686#https://live.ottiptv.cc/huya/15482686#http://cfss.cc/cdn/huya/15482686.flv
 足球客栈Harbou的直播间,https://live.metshop.top/huya/29982615#https://live.ottiptv.cc/huya/29982615#http://cfss.cc/cdn/huya/29982615.flv
 TVB练习生的直播间,https://live.metshop.top/huya/23865132#https://live.ottiptv.cc/huya/23865132#http://cfss.cc/cdn/huya/23865132.flv
 我是港剧迷的直播间,https://live.metshop.top/huya/23903085#https://live.ottiptv.cc/huya/23903085#http://cfss.cc/cdn/huya/23903085.flv
@@ -6649,7 +6650,6 @@ SMG梦想成真的直播间,https://live.metshop.top/huya/11602047#https://live.
 鉴证实录,https://live.metshop.top/huya/21241769#https://live.ottiptv.cc/huya/21241769#http://cfss.cc/cdn/huya/21241769.flv
 外科风云,https://live.metshop.top/huya/29982672#https://live.ottiptv.cc/huya/29982672#http://cfss.cc/cdn/huya/29982672.flv
 亲爱的热爱的,https://live.metshop.top/huya/29982671#https://live.ottiptv.cc/huya/29982671#http://cfss.cc/cdn/huya/29982671.flv
-我们的故事,https://live.metshop.top/huya/15482686#https://live.ottiptv.cc/huya/15482686#http://cfss.cc/cdn/huya/15482686.flv
 我的前半生,https://live.metshop.top/huya/11352916#https://live.ottiptv.cc/huya/11352916#http://cfss.cc/cdn/huya/11352916.flv
 金太狼的幸福生活,https://live.metshop.top/huya/20985855#https://live.ottiptv.cc/huya/20985855#http://cfss.cc/cdn/huya/20985855.flv
 网游超人曾日华来咯,https://live.metshop.top/huya/26355823#https://live.ottiptv.cc/huya/26355823#http://cfss.cc/cdn/huya/26355823.flv
