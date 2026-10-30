@@ -2,7 +2,7 @@
 免费观看,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/4.mp4
 StarTV LIVE,https://gh-proxy.org/https://github.com/chen5300766/sky/raw/refs/heads/main/videos/5.mp4
 更新日期,https://live.ottiptv.cc/douyu/40471#https://iptv.catvod.com/douyu/40471
-2026-10-28,https://live.ottiptv.cc/douyu/1770806#https://live.metshop.top/douyu/1770806
+2026-10-30,https://live.ottiptv.cc/douyu/1770806#https://live.metshop.top/douyu/1770806
 
 
 📡稳定源,#genre#
@@ -7689,7 +7689,49 @@ CETV1,http://120.198.86.186:9901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&a
 CHC高清电影,http://120.198.86.186:9901/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-📡广州深圳天威视讯,#genre#
+📡广东深圳天威视讯,#genre#
+CCTV1综合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2财经,http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3综艺,http://116.77.33.98:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4中文国际,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5体育,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+体育赛事,http://116.77.33.98:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6电影,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7国防军事,http://116.77.33.98:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8电视剧,http://116.77.33.98:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9纪录,http://116.77.33.98:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10科教,http://116.77.33.98:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11戏曲,http://116.77.33.98:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12社会与法,http://116.77.33.98:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13新闻,http://116.77.33.98:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14少儿,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15音乐,http://116.77.33.98:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CGTN,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://116.77.33.98:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳都市,http://116.77.33.98:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳电视剧,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳体育健康,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳财经生活,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://116.77.33.98:44330/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://116.77.33.98:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://116.77.33.98:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://116.77.33.98:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://116.77.33.98:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://116.77.33.98:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://116.77.33.98:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://116.77.33.98:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://116.77.33.98:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://116.77.33.98:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://116.77.33.98:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://116.77.33.98:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://116.77.33.98:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://116.77.33.98:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://116.77.33.98:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://116.77.33.98:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://116.77.33.98:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://116.77.33.98:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
 CCTV1综合,http://116.76.254.170:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2财经,http://116.76.254.170:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,http://116.76.254.170:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
