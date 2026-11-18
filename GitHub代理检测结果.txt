@@ -1,0 +1,127 @@
+﻿============================================================
+          GitHub 加速代理 连通性实测报告
+============================================================
+检测时间      : 2026-11-18 09:23:54
+检测机器      : WIN-0I0J7NAE7JB  本机 Windows
+检测目标      : https://raw.githubusercontent.com/git/git/master/README.md
+判定标准      : HTTP 200 且返回内容命中 git 官方 README 特征（不只看状态码）
+超时阈值      : 6 秒
+候选数量      : 44 个（含直连对照组）
+
+------------------------------------------------------------
+  一、当前真实可用代理（实测 5 个）
+------------------------------------------------------------
+  1. https://gh.catmak.name/
+     状态 HTTP 200 / 内容 3808 字符 / 响应 903 ms
+     原始文件用法: https://gh.catmak.name/https://raw.githubusercontent.com/用户/仓库/分支/文件
+     仓库地址用法: https://gh.catmak.name/https://github.com/用户/仓库.git
+     git clone     : git clone https://gh.catmak.name/https://github.com/用户/仓库.git
+
+  2. https://ghproxy.imciel.com/
+     状态 HTTP 200 / 内容 3808 字符 / 响应 1040 ms
+     原始文件用法: https://ghproxy.imciel.com/https://raw.githubusercontent.com/用户/仓库/分支/文件
+     仓库地址用法: https://ghproxy.imciel.com/https://github.com/用户/仓库.git
+     git clone     : git clone https://ghproxy.imciel.com/https://github.com/用户/仓库.git
+
+  3. https://gh.nxnow.top/
+     状态 HTTP 200 / 内容 3808 字符 / 响应 1057 ms
+     原始文件用法: https://gh.nxnow.top/https://raw.githubusercontent.com/用户/仓库/分支/文件
+     仓库地址用法: https://gh.nxnow.top/https://github.com/用户/仓库.git
+     git clone     : git clone https://gh.nxnow.top/https://github.com/用户/仓库.git
+
+  4. https://ghfast.top/
+     状态 HTTP 200 / 内容 3808 字符 / 响应 1499 ms
+     原始文件用法: https://ghfast.top/https://raw.githubusercontent.com/用户/仓库/分支/文件
+     仓库地址用法: https://ghfast.top/https://github.com/用户/仓库.git
+     git clone     : git clone https://ghfast.top/https://github.com/用户/仓库.git
+
+  5. https://ghproxy.monkeyray.net/
+     状态 HTTP 200 / 内容 3808 字符 / 响应 1711 ms
+     原始文件用法: https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/用户/仓库/分支/文件
+     仓库地址用法: https://ghproxy.monkeyray.net/https://github.com/用户/仓库.git
+     git clone     : git clone https://ghproxy.monkeyray.net/https://github.com/用户/仓库.git
+
+  说明：以上为本次实测结果，公共代理存活率波动较大，正式使用前请重跑本脚本。
+
+------------------------------------------------------------
+  一(补充)、直连可用性（对照组）
+------------------------------------------------------------
+  本次直连失败（不通）。直连为间歇性可用，专项抽测 8 次成功 3 次，成功率约 37%。
+
+------------------------------------------------------------
+  二、完整检测明细
+------------------------------------------------------------
+  代理前缀                                  结果                状态码     内容长度      耗时ms
+  ----------------------------------    ----------        ------  --------  ------
+  https://gh.catmak.name/               可用                200     3808      903
+  https://ghproxy.imciel.com/           可用                200     3808      1040
+  https://gh.nxnow.top/                 可用                200     3808      1057
+  https://ghfast.top/                   可用                200     3808      1499
+  https://ghproxy.monkeyray.net/        可用                200     3808      1711
+  https://gh-proxy.llyke.com/           不通                        0         1
+  https://gh.jasonzeng.dev/             不通                        0         24
+  https://ghp.ci/                       不通                        0         27
+  https://gh.6yit.com/                  不通                        0         38
+  https://raw.gitmirror.com/            不通                        0         54
+  https://hub.gitmirror.com/            不通                        0         55
+  https://gh.acg.uy/                    不通                        0         55
+  https://gh.zzsoft.top/                不通                        0         72
+  https://gh.morecolorful.top/          不通                        0         73
+  https://cf.ghproxy.cc/                不通                        0         74
+  https://ghfile.geekpws.dev/           不通                        0         84
+  https://gh-proxy.xyz/                 不通                        0         85
+  https://gh.xmly.dev/                  不通                        0         88
+  https://gh.miaostay.com/              不通                        0         91
+  https://ghproxy.15f.xyz/              不通                        0         119
+  https://gh.2077.top/                  不通                        0         121
+  https://gh.920621.xyz/                不通                        0         143
+  https://gh.xxooo.cf/                  不通                        0         161
+  https://github.akams.cn/              404(路径不支持)        404     0         350
+  https://ghproxy.cc/                   不通                        0         362
+  https://gh.api.99988866.xyz/          不通                        0         411
+  https://ghproxy.cfd/                  不可用(返回网页/跳转)      200     49681     833
+  https://ghproxy.1888866.xyz/          SSL错误             525     0         1027
+  https://ghproxy.hnblog.cn/            404(路径不支持)        404     0         1157
+  https://gh-proxy.net/                 不可用(返回网页/跳转)      200     532       1787
+  https://ghps.cc/                      不通                        0         1820
+  https://gh.con.sh/                    不可用(内容过短)         200     48        1943
+  https://ghp.app/                      不可用(返回网页/跳转)      200     114       2093
+  https://gh-proxy.org/                 连接被拒                      0         4113
+  https://gh-proxy.com/                 连接被拒                      0         4144
+  https://gh.zaunist.com/               不通                        0         5795
+  https://gh-proxy.ygxz.in/             不通                        0         6003
+  https://ghproxy.link/                 不通                        0         6009
+  https://ghproxy.net/                  不通                        0         6010
+  直连 raw.githubusercontent.com          不通                        0         6015
+  https://gh-proxy.aivenx.workers.dev/  不通                        0         6022
+  https://mirror.ghproxy.com/           不通                        0         6023
+  https://github.moeyy.xyz/             不通                        0         6030
+  https://gh.llkk.cc/                   不通                        0         6037
+
+------------------------------------------------------------
+  三、关键结论与风险提示
+------------------------------------------------------------
+  1) 本机直连 raw.githubusercontent.com 属间歇性可用（专项抽测 8 次成功 3 次，失败时 6 秒超时），
+     不能作为可靠通道，应以实测可用的加速代理为主要拉取方式。
+  2) gh-proxy.org / gh-proxy.com 在本机为「连接被拒」；其中 gh-proxy.org 的 DNS 被解析为
+     127.0.0.1，属本机解析异常，因此「云端规则前缀统一用 https://gh-proxy.org/」在本机无法工作，
+     需先修正 DNS 解析或改用本文中实测可用的前缀。
+  3) hosts 中已写入的 GitHub 直连 IP（140.82.112.3 / 185.199.108.133 等）实测无效。
+  4) github.akams.cn 域名可达但对 raw 路径返回 404，只能用于 github.com/... 形式，不可作 raw 前缀。
+  5) hub.gitmirror.com、raw.gitmirror.com 域名已解析不到，属失效域名。
+  6) ghproxy.cfd 返回的是盗版体育直播站页面，与 GitHub 加速无关，且来源不可信，禁止使用。
+  7) ghproxy.link 返回的是导航页（Vue 单页），不是可用的文件代理。
+     gh-proxy.net 返回的是 HTML 跳转页（window.location.replace 到第三方地址），同样不是真实文件代理，
+     且存在引流风险，禁止使用。
+  8) 判定原则：仅 HTTP 200 不足以证明可用，必须校验 Content-Type 非 HTML 且返回内容为真实文件；
+     本次实测已据此剔除 ghproxy.cfd、ghproxy.link、gh-proxy.net、gh.con.sh 等假可用项。
+  9) 备用方案：jsDelivr CDN（https://cdn.jsdelivr.net/gh/用户/仓库@版本/路径），本次实测可取到真实文件，
+     但仅支持仓库内文件，不支持 release 与 clone。
+
+------------------------------------------------------------
+  四、复测方法
+------------------------------------------------------------
+  运行桌面脚本：GitHub代理连通检测.ps1
+  PowerShell 中： .\GitHub代理连通检测.ps1 -NoPause
+
+============================================================
