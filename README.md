@@ -28,27 +28,27 @@ https://sub.ottiptv.cc/huyayqk.m3u
 
 大佬直播源：
 
-https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
 https://ghfast.top/https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
 
-https://gh-proxy.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gh.nxnow.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://gh.nxnow.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
-https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 https://d.h6room.com/frjzb.txt
 
@@ -56,11 +56,11 @@ http://bxtv.3a.ink/live.m3u
 
 https://live.zbds.org/tv/iptv4.txt
 
-https://gh-proxy.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 
-https://gh-proxy.org/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
+https://gh.nxnow.top/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
 搜索引擎：
 
